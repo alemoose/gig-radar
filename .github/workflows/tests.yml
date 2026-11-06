@@ -1,0 +1,29 @@
+name: offline-tests
+
+on:
+  push:
+    paths:
+      - '**.py'
+      - '.github/workflows/**'
+  pull_request:
+    paths:
+      - '**.py'
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-22.04
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ['3.9', '3.12']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: python -m unittest discover -s tests
+      - run: python -m compileall -q gig_radar.py discovery.py digest_queue.py import_alerts.py feedback.py

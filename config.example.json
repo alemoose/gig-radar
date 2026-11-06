@@ -1,26 +1,45 @@
 {
-  "max_age_hours": 48,
+  "max_age_hours": 72,
   "min_score": 3,
   "max_push_per_run": 8,
-  "exclude": [
-    "unpaid", "equity only", "rev share", "no budget", "for exposure",
-    "[for hire]", "for hire]", "[offer]", "wordpress theme", "video editor",
-    "commission-only", "commission only", "paid after launch"
-  ],
+  "min_hourly_usd": 25,
+  "min_project_usd": 75,
   "sources": {
     "reddit": {
       "enabled": true,
-      "subreddits": {
-        "forhire": ["[hiring]"],
-        "slavelabour": ["[task]"],
-        "hiring": [],
-        "freelance_forhire": ["[hiring]"],
-        "jobbit": ["hiring"],
-        "HireaProgrammer": []
-      }
+      "rotate_subreddit": true,
+      "max_requests_per_run": 1
     },
-    "hn": { "enabled": true },
-    "wwr": { "enabled": true },
-    "remoteok": { "enabled": false }
+    "hn": {
+      "enabled": true
+    },
+    "wwr": {
+      "enabled": true
+    },
+    "remoteok": {
+      "enabled": true
+    },
+    "himalayas": {
+      "enabled": true,
+      "min_interval_hours": 24,
+      "country": "US",
+      "employment_type": "Contractor,Part Time,Temporary",
+      "max_pages": 3
+    },
+    "freelancer": {
+      "enabled": false,
+      "queries": [
+        "automation",
+        "chatbot",
+        "API integration",
+        "web scraping",
+        "Next.js"
+      ],
+      "max_pages": 2,
+      "min_interval_hours": 1
+    },
+    "alerts": {
+      "enabled": false
+    }
   }
 }

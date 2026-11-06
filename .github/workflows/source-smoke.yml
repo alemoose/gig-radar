@@ -1,0 +1,47 @@
+name: source-smoke
+
+on:
+  workflow_dispatch: {}
+  push:
+    paths:
+      - '.github/workflows/source-smoke.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  check-sources:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check public discovery sources without saving matches or notifying
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          import gig_radar as gr
+
+          cfg = gr.load_config()
+          # This check intentionally uses public sources only, without secrets,
+          # local alert exports, state updates or notification calls.
+          cfg['sources']['freelancer']['enabled'] = False
+          cfg['sources']['alerts']['enabled'] = False
+          report = {}
+          try:
+              gigs = gr.collect(cfg, report=report, write_cache=False)
+              report['unique_matches_before_url_dedupe'] = len(gigs)
+          finally:
+              Path('source-smoke-report.json').write_text(json.dumps(report, indent=2) + '\n')
+          PY
+      - name: Upload source health
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-smoke-health
+          path: source-smoke-report.json
+          if-no-files-found: ignore
+          retention-days: 7
