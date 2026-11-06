@@ -4,7 +4,8 @@
   "max_push_per_run": 8,
   "exclude": [
     "unpaid", "equity only", "rev share", "no budget", "for exposure",
-    "[for hire]", "for hire]", "[offer]", "wordpress theme", "video editor"
+    "[for hire]", "for hire]", "[offer]", "wordpress theme", "video editor",
+    "commission-only", "commission only", "paid after launch"
   ],
   "sources": {
     "reddit": {

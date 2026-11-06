@@ -81,6 +81,7 @@ DEFAULT_CONFIG: dict = {
         "no budget", "for exposure", "[for hire]", "for hire]", "[offer]",
         "wordpress theme", "seo backlinks", "data entry only", "video editor",
         "onlyfans", "crypto pump", "trading bot guaranteed",
+        "commission-only", "commission only", "paid after launch",
     ],
     # Each source can be switched off with "enabled": false.
     "sources": {
