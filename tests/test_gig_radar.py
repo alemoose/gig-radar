@@ -121,7 +121,7 @@ class TestParsers(unittest.TestCase):
         return out
 
     def test_reddit_keeps_hiring_drops_for_hire_and_equity(self):
-        gigs = gr.parse_reddit_atom(REDDIT_ATOM, "forhire", ["[hiring]"])
+        gigs = gr.parse_reddit_atom(REDDIT_ATOM, {"forhire": ["[hiring]"]})
         self.assertEqual(len(gigs), 3)  # [For Hire] dropped by tag filter
         kept = self.scored(gigs)
         titles = [g.title for g in kept]
@@ -157,6 +157,15 @@ class TestParsers(unittest.TestCase):
         gigs = gr.parse_remoteok(REMOTEOK, ["freelance", "contract"])
         self.assertEqual(len(gigs), 1)
         self.assertEqual(gigs[0].budget, "$60,000 to $90,000/yr")
+
+    def test_reddit_combined_feed_uses_each_subreddits_tags(self):
+        tags = {"forhire": ["[hiring]"], "slavelabour": ["[task]"]}
+        ids = {g.id for g in gr.parse_reddit_atom(REDDIT_ATOM, tags)}
+        self.assertIn("reddit:t3_aaa111", ids)
+        # Same [Hiring] post, but from r/slavelabour, where only [TASK] posts count.
+        moved = REDDIT_ATOM.replace(b"/r/forhire/comments/aaa111/", b"/r/slavelabour/comments/aaa111/")
+        ids = {g.id for g in gr.parse_reddit_atom(moved, tags)}
+        self.assertNotIn("reddit:t3_aaa111", ids)
 
     def test_term_matching_word_boundaries(self):
         self.assertFalse(gr.contains_any("He said the paint was dry", ["ai"]))

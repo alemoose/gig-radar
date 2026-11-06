@@ -1,6 +1,6 @@
 {
   "max_age_hours": 48,
-  "min_score": 2,
+  "min_score": 3,
   "max_push_per_run": 8,
   "exclude": [
     "unpaid", "equity only", "rev share", "no budget", "for exposure",

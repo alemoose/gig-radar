@@ -37,7 +37,7 @@ No dependencies. Python 3.9+.
 
 1. Push this folder to a new GitHub repo. A public repo gets unlimited Actions minutes, and the repo itself doubles as a portfolio piece.
 2. Repo Settings > Secrets and variables > Actions > New secret: `NTFY_TOPIC` = your topic. (Optional: `DISCORD_WEBHOOK_URL`.)
-3. Actions tab > gig-radar > Run workflow, to test. After that it runs every 20 minutes and commits `matches.md`, which you can open on your phone in the GitHub app.
+3. Actions tab > gig-radar > Run workflow, to test. After that it runs every 20 minutes and commits `matches.md` whenever there's a new gig, which you can open on your phone in the GitHub app.
 
 Heads up: Reddit sometimes blocks cloud IPs like GitHub's. If the Actions log shows `r/forhire -> HTTP 403`, use Option B for Reddit, or both (set Reddit `"enabled": false` in the repo's `config.json`).
 
@@ -51,7 +51,7 @@ Or cron (Mac/Linux): `*/15 * * * * cd ~/gig-radar && NTFY_TOPIC=... /usr/bin/pyt
 
 ## How matching works
 
-- A keyword in the title scores 2, in the body scores 1. Default threshold is 2.
+- A keyword in the title scores 2, in the body scores 1. Default threshold is 3, so one generic word like "AI" in a title isn't enough on its own.
 - Any `exclude` term kills the post (equity only, unpaid, `[For Hire]`, etc).
 - Posts older than `max_age_hours` (default 72) are ignored. Speed wins small gigs: reply within the first hour when you can.
 - Budgets like `$400-600` or `$75/hr` are pulled out and shown in the alert.

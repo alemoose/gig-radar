@@ -56,8 +56,8 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 DEFAULT_CONFIG: dict = {
     "max_age_hours": 72,
     # A keyword in the title counts 2, in the body counts 1.
-    # 2 means: one title hit, or two different body hits.
-    "min_score": 2,
+    # 3 means: a title hit plus at least one more hit, so "AI" alone in a title isn't enough.
+    "min_score": 3,
     "max_push_per_run": 8,
     "include": [
         # AI work
@@ -283,18 +283,27 @@ def score_gig(gig: Gig, include: list[str], exclude: list[str]) -> Gig | None:
 # --------------------------------------------------------------------------- #
 # Sources
 # --------------------------------------------------------------------------- #
-def parse_reddit_atom(xml_bytes: bytes, subreddit: str, required_tags: list[str]) -> list[Gig]:
+SUBREDDIT_RE = re.compile(r"/r/([A-Za-z0-9_]+)/", re.I)
+
+
+def parse_reddit_atom(xml_bytes: bytes, tags_by_sub: dict[str, list[str]]) -> list[Gig]:
+    """Parse a (possibly multi-subreddit) feed. tags_by_sub maps subreddit -> required title tags."""
+    tags_by_sub = {k.lower(): [t.lower() for t in v] for k, v in tags_by_sub.items()}
     gigs: list[Gig] = []
     root = ET.fromstring(xml_bytes)
     for entry in root.findall(f"{ATOM}entry"):
         title = (entry.findtext(f"{ATOM}title") or "").strip()
+        link_el = entry.find(f"{ATOM}link")
+        url = link_el.get("href") if link_el is not None else ""
+        cat_el = entry.find(f"{ATOM}category")
+        m = SUBREDDIT_RE.search(url)
+        subreddit = (cat_el.get("term") if cat_el is not None else None) or (m.group(1) if m else "")
+        required_tags = tags_by_sub.get(subreddit.lower(), [])
         if required_tags and not any(tag in title.lower() for tag in required_tags):
             continue
         author = (entry.findtext(f"{ATOM}author/{ATOM}name") or "").lower()
         if "automoderator" in author:
             continue
-        link_el = entry.find(f"{ATOM}link")
-        url = link_el.get("href") if link_el is not None else ""
         posted = parse_iso(entry.findtext(f"{ATOM}published") or entry.findtext(f"{ATOM}updated"))
         if not url or not posted:
             continue
@@ -306,16 +315,17 @@ def parse_reddit_atom(xml_bytes: bytes, subreddit: str, required_tags: list[str]
 
 
 def fetch_reddit(cfg: dict) -> list[Gig]:
-    gigs: list[Gig] = []
-    for sub, tags in cfg["subreddits"].items():
-        raw = http_get(f"https://www.reddit.com/r/{sub}/new/.rss?limit=50")
-        if raw:
-            try:
-                gigs += parse_reddit_atom(raw, sub, [t.lower() for t in tags])
-            except ET.ParseError as e:
-                log(f"  ! r/{sub}: bad feed ({e})")
-        time.sleep(2)  # be polite between subreddits
-    return gigs
+    # One combined feed (r/a+b+c) instead of one request per subreddit:
+    # Reddit rate-limits (HTTP 429) back-to-back requests from cloud IPs.
+    subs = cfg["subreddits"]
+    raw = http_get(f"https://www.reddit.com/r/{'+'.join(subs)}/new/.rss?limit=100")
+    if not raw:
+        return []
+    try:
+        return parse_reddit_atom(raw, subs)
+    except ET.ParseError as e:
+        log(f"  ! reddit: bad feed ({e})")
+        return []
 
 
 HN_API = "https://hn.algolia.com/api/v1"
@@ -472,7 +482,8 @@ def write_digest(gigs: list[Gig]) -> None:
     for g in gigs:
         budget = f" | **{g.budget}**" if g.budget else ""
         title = g.title.replace("[", "(").replace("]", ")")
-        lines.append(f"- [{title}]({g.url})  \n  {g.source} | {g.age}{budget} | {', '.join(g.matched[:6])}")
+        posted = g.posted.strftime("%b %d %H:%M UTC")
+        lines.append(f"- [{title}]({g.url})  \n  {g.source} | {posted}{budget} | {', '.join(g.matched[:6])}")
     DIGEST_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
