@@ -33,11 +33,13 @@ jobs:
         run: |
           git config user.name "gig-radar"
           git config user.email "gig-radar@users.noreply.github.com"
-          # Only commit when there are new gigs, so the history doesn't fill with empty updates.
-          if git diff --quiet -- seen.json 2>/dev/null && git ls-files --error-unmatch seen.json >/dev/null 2>&1; then
-            echo "No new gigs this run."
+          # Only commit when the gig list changed (ignoring the "Updated" timestamp line),
+          # so the history doesn't fill with empty updates.
+          git add -N seen.json matches.md
+          if git diff --quiet -- seen.json && git diff --quiet -I '^Updated ' -- matches.md; then
+            echo "No changes this run."
             exit 0
           fi
           git add seen.json matches.md
-          git commit -m "gig-radar: new matches $(date -u +%H:%M)"
+          git commit -m "gig-radar: update matches $(date -u +%H:%M)"
           git push
