@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-06 11:09 UTC. Newest first.
+Updated 2026-11-06 18:07 UTC. Newest first.
 
 - [(Hiring) AI Creator - ₹38,000/month | Remote | Full Time | Experienced Only](https://www.reddit.com/r/hiring/comments/1xp970s/hiring_ai_creator_38000month_remote_full_time/)  
   r/hiring | Nov 06 10:06 UTC | score 3 | ai, chatgpt
@@ -11,9 +11,9 @@ Updated 2026-11-06 11:09 UTC. Newest first.
 - [(Hiring) AI Software Engineer - $30~$60/hr](https://www.reddit.com/r/forhire/comments/1xoidq5/hiring_ai_software_engineer_3060hr/)  
   r/forhire | Nov 05 13:16 UTC | score 3 | **$30** | ai, agents
   > We're looking for a skilled AI Software Engineer with a strong background in software development and a deep understanding of AI technologies. The ideal candidate is passionate about building innovative AI-powered solutions and has solid engineering skills. Requirements: - Fluent in English, with strong verbal and written communication skills. - 3+ years of professional experience in software development. - Deep knowledge of AI, machine learning, and LLMs. - Strong problem-solving skills and the ability to work independently. - Experience developing, deploying, and maintaining production-re...
+- [Lemon.io: Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)  
+  Remote OK | Nov 05 12:45 UTC | score 11 | **$50,000 to $180,000/yr** | ai, llm, ai agent, automation, next.js, react
+  > engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the clientâs team and work as part of it. Direct hire: some clients hi...
 - [Claims: Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)  
   Remote OK | Nov 04 15:09 UTC | score 12 | **$10,000 to $30,000/yr** | ai, llm, ai agent, agents, automation, airtable
   > dev ai blockchain ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CETAbout Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its evidence, as structured data that models and agents can query. We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch on 28 August 2026, an o...
-- [Location: Andalucía, Spain (CET)](https://news.ycombinator.com/item?id=50353980)  
-  HN Who is hiring | Nov 03 16:21 UTC | score 13 | **$10k** | ai, llm, claude, anthropic, mvp, next.js
-  > Location: Andalucía, Spain (CET) Remote: Yes – remote only Willing to relocate: No (EU citizen – no visa or work permit needed for EU employers) Technologies: TypeScript, React, Next.js, Node.js, Fastify, React Native, PostgreSQL, Prisma, Supabase, Anthropic SDK (Claude), LLM pipelines, Vitest/Jest, CI/CD Résumé/CV: https://saturnodev.netlify.app/ · linkedin.com/in/saturno-mangieri · github.com/theghost1980 Email: saturnob612 [at] gmail.com Full-stack engineer, 6+ years on 100% remote teams, focused on shipping LLM features to production. Last role: tech lead for AI call analysis at a US ma...
