@@ -216,6 +216,7 @@ class TestEndToEnd(unittest.TestCase):
             self.assertEqual(set(sent[0]), ids)
             digest = (Path(tmp) / "matches.md").read_text()
             self.assertIn("AI chatbot", digest)
+            self.assertIn("> Need a GPT chatbot on our Shopify site", digest)  # body excerpt
 
 
 class TestNotifyPayload(unittest.TestCase):

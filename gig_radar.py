@@ -476,6 +476,12 @@ def print_table(gigs: list[Gig], heading: str) -> None:
         print(f"          matched: {', '.join(g.matched[:8])}\n")
 
 
+def excerpt_of(text: str, limit: int = 600) -> str:
+    """One-line excerpt of the post body, so matches.md can be read without opening each post."""
+    flat = re.sub(r"\s+", " ", text).strip()
+    return flat if len(flat) <= limit else flat[: limit - 3].rstrip() + "..."
+
+
 def write_digest(gigs: list[Gig]) -> None:
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [f"# Gig radar\n\nUpdated {now}. Newest first.\n"]
@@ -483,7 +489,10 @@ def write_digest(gigs: list[Gig]) -> None:
         budget = f" | **{g.budget}**" if g.budget else ""
         title = g.title.replace("[", "(").replace("]", ")")
         posted = g.posted.strftime("%b %d %H:%M UTC")
-        lines.append(f"- [{title}]({g.url})  \n  {g.source} | {posted}{budget} | {', '.join(g.matched[:6])}")
+        lines.append(f"- [{title}]({g.url})  \n  {g.source} | {posted} | score {g.score}{budget} | {', '.join(g.matched[:6])}")
+        excerpt = excerpt_of(g.body)
+        if excerpt:
+            lines.append(f"  > {excerpt}")
     DIGEST_PATH.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
