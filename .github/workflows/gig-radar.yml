@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}       # "Run workflow" button for a manual check
 
 permissions:
-  contents: write             # lets the job commit seen.json and matches.md
+  contents: write             # lets the job commit seen.json, matches.md and matches.json
 
 concurrency:
   group: gig-radar
@@ -23,11 +23,32 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Restore source cache
+        uses: actions/cache@v4
+        with:
+          path: .cache/gig-radar
+          key: gig-radar-sources-v1-${{ github.ref_name }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: |
+            gig-radar-sources-v1-${{ github.ref_name }}-
+
+      - name: Run offline tests
+        run: python -m unittest discover -s tests
+
       - name: Find new gigs
         env:
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          FREELANCER_OAUTH_TOKEN: ${{ secrets.FREELANCER_OAUTH_TOKEN }}
         run: python gig_radar.py
+
+      - name: Upload discovery health
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: discovery-health
+          path: scan-report.json
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Save what was seen
         run: |
@@ -35,11 +56,12 @@ jobs:
           git config user.email "gig-radar@users.noreply.github.com"
           # Only commit when the gig list changed (ignoring the "Updated" timestamp line),
           # so the history doesn't fill with empty updates.
-          git add -N seen.json matches.md
-          if git diff --quiet -- seen.json && git diff --quiet -I '^Updated ' -- matches.md; then
+          git add -N seen.json matches.md matches.json
+          if git diff --quiet -- seen.json matches.json && git diff --quiet -I '^Updated ' -- matches.md; then
             echo "No changes this run."
             exit 0
           fi
-          git add seen.json matches.md
+          git add seen.json matches.md matches.json
           git commit -m "gig-radar: update matches $(date -u +%H:%M)"
           git push
+
