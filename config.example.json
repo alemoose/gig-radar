@@ -7,7 +7,8 @@
   "sources": {
     "reddit": {
       "enabled": true,
-      "rotate_subreddit": true
+      "rotate_subreddit": true,
+      "max_requests_per_run": 1
     },
     "hn": {
       "enabled": true

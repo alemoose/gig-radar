@@ -103,9 +103,9 @@ def classify(gig, cfg: dict, now: datetime | None = None) -> bool:
         match = re.search(r"(?:\$|USD\s*)(\d[\d,]*(?:\.\d+)?)\s*(k\b)?", gig.budget, re.I)
         if match:
             amount = float(match[1].replace(",", "")) * (1000 if match[2] else 1)
-            hourly = bool(re.search(r"/(?:hr|hour|h)\b|per\s+hour", gig.budget, re.I))
+            hourly = bool(re.search(r"/(?:hr|hour(?:ly)?|h)\b|per\s+hour", gig.budget, re.I))
             ambiguous = bool(re.search(r"/yr|annual|salary|/mo|/week|/month", gig.budget, re.I))
-            # Bare dollars outside known US sources can mean CAD/AUD/etc.
+            # Bare dollars can mean USD, CAD, AUD or another currency.
             known_usd = "USD" in gig.budget.upper() or gig.currency == "USD"
             if known_usd and not ambiguous and hourly and amount < cfg.get("min_hourly_usd", 25):
                 gig.flags.append("hourly budget below preferred floor")

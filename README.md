@@ -8,7 +8,7 @@ separate scheduled task. This tool never applies to jobs or contacts posters.
 
 | Source | Coverage | Default |
 | --- | --- | --- |
-| Reddit | Combined new feed, one rotating community feed, one rotating targeted search | On, every scan |
+| Reddit | Rotates combined feed, individual communities and targeted searches | On, every scan |
 | Hacker News | Latest freelancer and hiring threads; client posts and contract roles | On |
 | We Work Remotely | Programming feeds with contract signals | On |
 | Remote OK | Public API, contract signals | On |
@@ -20,11 +20,14 @@ Reddit rotates through r/forhire, r/slavelabour, r/hiring,
 r/freelance_forhire, r/jobbit and r/HireaProgrammer. The extra community request
 reduces crowding in the combined 100-post feed. Four rotating searches cover
 spreadsheet/workflow automation, scrapers/bots, APIs/chatbots and app/site repairs.
-At three requests per scan, the scanner spaces requests at least three seconds
-apart and stops additional Reddit requests on a request failure. It does not
-bypass blocks, use alternate hosts, or post in communities. Rotation is based on
-20-minute time slots; delayed runs can skip slots. This is bounded coverage, not
-an exhaustive Reddit crawl.
+The default makes one request per scan, rotating between the three feed types.
+On a 20-minute schedule, the combined feed is checked hourly, all six individual
+communities over six hours, and all four searches over four hours. Delayed runs
+can skip slots. This is bounded coverage, not an exhaustive Reddit crawl. The
+live test rate-limited a second back-to-back request, so that is not the default.
+`max_requests_per_run` can be raised to 3 on a host that tolerates it; extra requests
+are spaced at least three seconds apart and stop on a request error. HTTP 429s
+are not immediately retried. Blocks are reported, not bypassed.
 
 Himalayas is a secondary contract source, not a source of instant freelance gigs.
 Its API refreshes daily. API details and source requirements are documented in

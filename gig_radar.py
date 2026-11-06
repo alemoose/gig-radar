@@ -96,6 +96,7 @@ DEFAULT_CONFIG: dict = {
             "enabled": True,
             # subreddit -> title must contain one of these tags (lowercase). [] = no tag needed.
             "rotate_subreddit": True,
+            "max_requests_per_run": 1,
             "search_queries": [
                 '"[hiring]" (automation OR spreadsheet OR sheets OR zapier OR n8n)',
                 '"[task]" (website OR scraper OR python OR bot)',
@@ -234,18 +235,14 @@ class SourceError(RuntimeError):
 
 def http_get(url: str, timeout: int = 20, headers: dict | None = None) -> bytes | None:
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept": "*/*", **(headers or {})})
-    for attempt in range(2):
-        try:
-            with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read()
-        except urllib.error.HTTPError as e:
-            if e.code == 429 and attempt == 0:
-                time.sleep(5)
-                continue
-            raise SourceError(f"HTTP {e.code}") from e
-        except (urllib.error.URLError, TimeoutError, OSError) as e:
-            raise SourceError(type(e).__name__) from e
-    return None
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            return resp.read()
+    except urllib.error.HTTPError as e:
+        # A quick 429 retry aggravated cloud-IP limiting in the live smoke test.
+        raise SourceError(f"HTTP {e.code}") from e
+    except (urllib.error.URLError, TimeoutError, OSError) as e:
+        raise SourceError(type(e).__name__) from e
 
 
 def http_post_json(url: str, payload: dict, headers: dict | None = None) -> bool:
@@ -382,17 +379,21 @@ def fetch_reddit(cfg: dict) -> list[Gig]:
         return []
     base = f"https://www.reddit.com/r/{'+'.join(subs)}"
     urls = [f"{base}/new/.rss?limit=100"]
-    # One extra community rotates each run so a busy combined feed cannot
-    # permanently crowd out quieter communities. No account or HTML scraping.
+    # Rotate feed types across runs rather than issuing back-to-back requests.
+    # Advance community/query indexes once per full cycle to cover every entry.
     tick = int(time.time() // (20 * 60))
-    if cfg.get("rotate_subreddit", True):
-        sub = list(subs)[tick % len(subs)]
-        urls.append(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100")
     queries = cfg.get("search_queries", [])
+    kinds = 1 + bool(cfg.get("rotate_subreddit", True)) + bool(queries)
+    cycle = tick // kinds
+    if cfg.get("rotate_subreddit", True):
+        sub = list(subs)[cycle % len(subs)]
+        urls.append(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100")
     if queries:
-        query = urllib.parse.urlencode({"q": queries[tick % len(queries)],
+        query = urllib.parse.urlencode({"q": queries[cycle % len(queries)],
                                         "restrict_sr": "on", "sort": "new", "t": "week", "limit": 100})
         urls.append(f"{base}/search.rss?{query}")
+    start = tick % len(urls)
+    urls = (urls[start:] + urls[:start])[:max(1, min(3, int(cfg.get("max_requests_per_run", 1))))]
     gigs, succeeded, warnings = [], 0, []
     for i, url in enumerate(urls):
         if i:

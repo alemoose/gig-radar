@@ -86,6 +86,14 @@ class ReliabilityTests(unittest.TestCase):
         dq.acknowledge(state)
         self.assertEqual(dq.prepare(gr.archive_path(), state)["gigs"], [])
 
+    def test_digest_aliases_prevent_repeat_after_source_identity_changes(self):
+        self.gig.aliases = ["old-id"]
+        gr.write_archive([self.gig])
+        state = self.root / "private"
+        state.mkdir()
+        (state / "processed.json").write_text(json.dumps({"old-id": True}))
+        self.assertEqual(dq.prepare(gr.archive_path(), state)["gigs"], [])
+
     def test_manual_preview_does_not_change_queue(self):
         gr.write_archive([self.gig])
         state = self.root / "private"

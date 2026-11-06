@@ -20,11 +20,13 @@ delivery deduplication. See README for setup and interrupted-send recovery.
 
 ## Verification
 
-45 offline tests pass. Python compilation and Git whitespace checks pass. Added
+49 offline tests pass. Python compilation and Git whitespace checks pass. Added
 GitHub CI for Python 3.9 and 3.12; both versions pass on Ubuntu 22.04 runners.
 A read-only source-smoke workflow checks public feed/API access without notifications.
-Live feed/API access and Gmail delivery remain unverified because this shell cannot
-reach its configured network proxy. No live email task has been reconfigured.
+A read-only GitHub smoke run parsed Himalayas, HN, WWR, Remote OK and the first
+Reddit feed; Reddit then rate-limited an extra request. Final defaults use one
+rotating Reddit request per scan and no quick 429 retries. Freelancer and Gmail
+delivery remain unverified. No live email task has been reconfigured.
 
 ## Deployment notes
 

@@ -9,8 +9,8 @@ communities out of the combined feed, or rank a large contract ahead of a tiny f
 The updated scanner adds:
 
 - A rotating individual community feed and a rotating targeted search, alongside
-  the combined feed. Six communities are revisited on a nominal two-hour rotation;
-  four searches on a nominal 80-minute rotation, assuming on-time 20-minute scans.
+  the combined feed. One request per scan rotates feed types: the combined feed hourly, six individual
+  communities over six hours, and four searches over four hours on a 20-minute schedule.
 - Eight categories of deliverables, with explicit hiring intent. For example,
   "[Hiring] Connect our calendar to our CRM" can qualify without a stack keyword.
 - Separate project and contract queues, with visible ranking reasons and cautions.
@@ -52,10 +52,15 @@ expiry, duplicate identities, alert privacy and feedback. Python compilation and
 Git whitespace checks are also run. Fixtures simulate API schemas; they are not
 live integration tests.
 
-Live API/feed requests could not be verified because the execution shell cannot
-reach its configured proxy. Web access verified primary documentation, not a full
-production scan. Reddit may block GitHub-hosted runners. On deployment, inspect
-Actions > latest run > discovery-health artifact for source-specific results.
+A read-only GitHub Actions smoke run on November 6, 2026 successfully parsed
+Himalayas (60 fetched listings), HN (18), WWR (26) and Remote OK (24). Reddit's first
+feed returned 18 posts, then its second request hit HTTP 429. Based on that result,
+the final default rotates one Reddit request per scan and does not retry 429s.
+The targeted Reddit search endpoint itself was not reached in that smoke run.
+Fetched counts are not counts of pitchable leads. The Freelancer adapter and Gmail
+delivery remain unverified. See the [smoke run](https://github.com/alemoose/gig-radar/actions/runs/42164468498)
+and its source-smoke-health artifact. Python 3.9 and 3.12 offline CI both pass on
+Ubuntu 22.04.
 
 Saved alert exports are an optional input, not automatic inbox ingestion. Tracking
 redirects and templates without descriptive direct job links are skipped. Feedback

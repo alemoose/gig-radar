@@ -86,14 +86,34 @@ class DiscoveryTests(unittest.TestCase):
 
     def test_rotation_adds_community_and_problem_search_with_spacing(self):
         empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
-        cfg = self.cfg["sources"]["reddit"]
-        with mock.patch.object(gr, "http_get", return_value=empty) as get, mock.patch.object(gr.time, "sleep") as sleep:
+        cfg = {**self.cfg["sources"]["reddit"], "max_requests_per_run": 3}
+        with mock.patch.object(gr, "http_get", return_value=empty) as get, mock.patch.object(gr.time, "sleep") as sleep, mock.patch.object(gr.time, "time", return_value=0):
             gr.fetch_reddit(cfg)
         urls = [call.args[0] for call in get.call_args_list]
         self.assertEqual(len(urls), 3)
         self.assertIn("/new/.rss", urls[1])
         self.assertIn("/search.rss?", urls[2])
         self.assertEqual(sleep.call_count, 2)
+
+    def test_default_reddit_rotation_covers_all_communities_and_queries(self):
+        cfg = self.cfg["sources"]["reddit"]
+        urls = []
+        empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
+        with mock.patch.object(gr, "http_get", side_effect=lambda url: urls.append(url) or empty):
+            for tick in range(18):
+                with mock.patch.object(gr.time, "time", return_value=tick * 1200):
+                    gr.fetch_reddit(cfg)
+        self.assertEqual(len(urls), 18)
+        for sub in cfg["subreddits"]:
+            self.assertIn(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100", urls)
+        self.assertEqual(len({u for u in urls if "/search.rss?" in u}), 4)
+
+    def test_http_rate_limit_is_not_retried(self):
+        from urllib.error import HTTPError
+        with mock.patch("urllib.request.urlopen", side_effect=HTTPError("https://reddit.com", 429, "limited", {}, None)) as get:
+            with self.assertRaises(gr.SourceError):
+                gr.http_get("https://reddit.com")
+        self.assertEqual(get.call_count, 1)
 
     def test_reddit_block_stops_extra_requests(self):
         with mock.patch.object(gr, "http_get", side_effect=gr.SourceError("HTTP 429")) as get:
@@ -104,6 +124,7 @@ class DiscoveryTests(unittest.TestCase):
     def test_partial_reddit_failure_visible_in_report(self):
         report = {}
         empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
+        self.cfg["sources"]["reddit"]["max_requests_per_run"] = 3
         with mock.patch.object(gr, "FETCHERS", {"reddit": gr.fetch_reddit}), \
              mock.patch.object(gr, "http_get", side_effect=[empty, gr.SourceError("HTTP 429")]), \
              mock.patch.object(gr.time, "sleep"):
@@ -123,6 +144,8 @@ class DiscoveryTests(unittest.TestCase):
         self.assertEqual(gig.currency, "USD")
         self.assertTrue(self.qualify(gig))
         self.assertEqual(gig.queue, "contract")
+        self.assertNotIn("project budget below preferred floor", gig.flags)
+        self.assertNotIn("hourly budget below preferred floor", gig.flags)
         gig.expires = NOW - timedelta(days=1)
         self.assertFalse(self.qualify(gig))
 
@@ -166,6 +189,18 @@ class DiscoveryTests(unittest.TestCase):
         with tempfile.TemporaryDirectory() as tmp, mock.patch.object(gr, "STATE_PATH", Path(tmp) / "seen.json"):
             gr.fetch_with_cache("himalayas", lambda _: [self.gig()], {"min_interval_hours": 24}, write_cache=False)
             self.assertEqual(list(Path(tmp).iterdir()), [])
+
+    def test_wrong_fit_feedback_suppresses_aliases(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            gig = self.gig()
+            gig.aliases = ["old"]
+            feedback_path = root / "feedback.json"
+            feedback_path.write_text(json.dumps({"old": {"source": gig.source, "events": ["wrong_fit"]}}))
+            with mock.patch.object(gr, "DIGEST_PATH", root / "matches.md"), \
+                 mock.patch.dict("os.environ", {"GIG_RADAR_FEEDBACK": str(feedback_path)}):
+                gr.write_archive([gig])
+                self.assertEqual(gr.merge_archive([], self.cfg), [])
 
     def test_source_report_distinguishes_empty_and_failed(self):
         report = {}
