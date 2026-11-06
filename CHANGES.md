@@ -21,7 +21,8 @@ delivery deduplication. See README for setup and interrupted-send recovery.
 ## Verification
 
 45 offline tests pass. Python compilation and Git whitespace checks pass. Added
-GitHub CI for Python 3.9 and 3.12; these versions have not both been run locally.
+GitHub CI for Python 3.9 and 3.12; both versions pass on Ubuntu 22.04 runners.
+A read-only source-smoke workflow checks public feed/API access without notifications.
 Live feed/API access and Gmail delivery remain unverified because this shell cannot
 reach its configured network proxy. No live email task has been reconfigured.
 

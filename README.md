@@ -98,7 +98,9 @@ replacement, but the whole run is not one multi-file transaction.
 
 The included GitHub workflow runs tests, restores source caches, polls, uploads a
 seven-day `discovery-health` artifact and commits changed matches and seen IDs.
-It requires Actions contents write permission. Optional tokens and push targets
+The separate `source-smoke` workflow can test public source access without
+notifications or saved-match changes; it also runs when its workflow file changes.
+The scheduled scanner requires Actions contents write permission. Optional tokens and push targets
 belong in repository secrets. No credentials belong in config files.
 GitHub caches are best effort; eviction or a new branch can cause an extra API
 fetch. Only one scanner should own a state directory.
