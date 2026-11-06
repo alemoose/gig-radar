@@ -1,0 +1,38 @@
+name: gig-radar
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # every 20 min (GitHub sometimes runs late at busy times)
+  workflow_dispatch: {}       # "Run workflow" button for a manual check
+
+permissions:
+  contents: write             # lets the job commit seen.json and matches.md
+
+concurrency:
+  group: gig-radar
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Find new gigs
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python gig_radar.py
+
+      - name: Save what was seen
+        run: |
+          git config user.name "gig-radar"
+          git config user.email "gig-radar@users.noreply.github.com"
+          git add seen.json matches.md
+          git diff --cached --quiet || git commit -m "gig-radar: update $(date -u +%H:%M)"
+          git push
