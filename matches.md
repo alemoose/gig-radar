@@ -1,10 +1,15 @@
 # Gig radar
 
-Updated 2026-11-07 16:11 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-07 20:18 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
 
+- [(HIRING) Cybersecurity Devs](https://www.reddit.com/r/hiring/comments/1xqd5hh/hiring_cybersecurity_devs/)  
+  r/hiring | posted Nov 07 18:23 UTC | score 5 | automation, ai, problem: lead intake
+  Fit: 35 | lead intake; posted within 6 hours; explicit hiring intent
+  Check: budget unknown
+  > Wayne Citadel is searching for 2 (two) experienced, dedicated Security devs. what is all about: heres the story: Problem: Infrastructure changes submitted through GitHub pull requests can silently introduce security risks — widened IAM permissions, public exposure, destructive replacements — and reviewers rarely have time to read a full Terraform plan. Constraint: Explain only the change, never scan the whole state. The AI must never decide what a finding is or how severe it is; those decisions stay with deterministic logic. Nothing in the output may be invented. Decision: Separated detecti...
 - [(HIRING) UI/UX Designer (or Designer + Developer) to redesign a music streaming app + website, $700 design budget](https://www.reddit.com/r/forhire/comments/1xogb6x/hiring_uiux_designer_or_designer_developer_to/)  
   r/forhire | posted Nov 05 11:29 UTC | score 4 | **$700** | mobile app, problem: website build
   Fit: 25 | website build; explicit hiring intent; budget stated, verify scope and currency
@@ -23,11 +28,6 @@ Updated 2026-11-07 16:11 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > STEM & Scientific AI Expert Location: Global, Fully Remote Job Type: Contractor (~15 hours per week) Schedule: FlexibleJob Summary We are seeking STEM and scientific-domain experts to support AI training through complex problem-solving, scientific reasoning, data analysis, and Python-based coding. This is a coding-heavy role requiring experience with coding agents and the ability to evaluate AI-generated technical solutions.Areas of Expertise Chemistry, Biology, Mathematics, and Physics Earth Science, Geoscience, and Environmental Science Robotics and related scientific or quantitative fiel...
-- [OpenTrain AI: Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer)  
-  We Work Remotely | posted Nov 06 20:13 UTC | score 4 | **$50** | full-stack, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The wo...
 - [Lemon.io: Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)  
   Remote OK | posted Nov 05 12:45 UTC | score 14 | **$50,000 to $180,000/yr** | react native, automation, full stack, javascript, typescript, ai agent
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
@@ -38,6 +38,11 @@ Updated 2026-11-07 16:11 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Job Title: Machine Learning Researcher (MSc. or PhD) Job Type: Contractor Location: Global, Fully Remote Working Hours: Approximately 15 hours per week Schedule: Flexible, including weekendsJob Summary We are seeking skilled Machine Learning Researchers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine-learning models and train...
+- [OpenTrain AI: Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer)  
+  We Work Remotely | posted Nov 06 20:13 UTC | score 4 | **$50** | full-stack, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The wo...
 - [YO AI Labs: Product Manager - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/product-manager-remote)  
   Himalayas | posted Nov 06 22:29 UTC | score 3 | **USD 90 to 140/hourly** | prompt, ai
   Fit: 16 | budget stated, verify scope and currency
@@ -78,11 +83,6 @@ Updated 2026-11-07 16:11 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Role Title: Senior Mobile Software Engineer Role Type: Contractor Location: Remote Commitment: Approximately 15 hours per week We are seeking experienced Mobile Software Engineers to support an AI training project by designing challenging coding tasks, building reproducible testing environments, and developing reference solutions. Candidates will help evaluate AI models' ability to solve complex mobile development problems.Key Responsibilities Create challenging mobile coding tasks involving debugging, feature development, refactoring, and performance optimization. Build reproducible enviro...
-- [Location: Estonia Remote:Yes](https://news.ycombinator.com/item?id=50403646)  
-  HN Who is hiring | posted Nov 07 11:35 UTC | score 3 | typescript, next.js, react
-  Fit: 8 | posted within 6 hours
-  Check: budget unknown; seniority requirement needs review
-  > Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \[at\] gmail \[dot\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in rol...
 - [YO AI Labs: Procurement & Vendor Management Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote)  
   Himalayas | posted Nov 06 23:00 UTC | score 3 | **USD 90 to 90/hourly** | llm, ai
   Fit: 6 | budget stated, verify scope and currency
@@ -98,6 +98,11 @@ Updated 2026-11-07 16:11 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Semiconductor Engineering Expert Role Type: Contractor Location: Remote Compensation: $80–$185/hour Commitment: FlexibleJob Description We are seeking experienced Semiconductor Engineering Experts to develop challenging technical problems, provide accurate solutions, and establish evaluation criteria for advanced AI training projects.Key Responsibilities Design complex technical problems in device physics, process integration, circuit design, lithography, packaging, yield, and reliability. Provide accurate solutions with clear technical reasoning. Define objective criteria for evaluating te...
+- [Location: Estonia Remote:Yes](https://news.ycombinator.com/item?id=50403646)  
+  HN Who is hiring | posted Nov 07 11:35 UTC | score 3 | typescript, next.js, react
+  Fit: 2 | 
+  Check: budget unknown; seniority requirement needs review
+  > Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \[at\] gmail \[dot\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in rol...
 - [YO AI Labs: Finance & Accounting Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/finance-accounting-expert-remote)  
   Himalayas | posted Nov 06 22:58 UTC | score 3 | llm, ai
   Fit: 2 | 

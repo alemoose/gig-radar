@@ -2,6 +2,39 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "reddit:t3_1xqd5hh",
+      "source": "r/hiring",
+      "title": "[HIRING] Cybersecurity Devs",
+      "url": "https://www.reddit.com/r/hiring/comments/1xqd5hh/hiring_cybersecurity_devs/",
+      "posted": "2026-11-07T18:23:00+00:00",
+      "body": "Wayne Citadel is searching for 2 (two) experienced, dedicated Security devs. \nwhat is all about: heres the story: Problem: Infrastructure changes submitted through GitHub pull requests can silently introduce security risks — widened IAM permissions, public exposure, destructive replacements — and reviewers rarely have time to read a full Terraform plan. \nConstraint: Explain only the change, never scan the whole state. The AI must never decide what a finding is or how severe it is; those decisions stay with deterministic logic. Nothing in the output may be invented. \nDecision: Separated detection from explanation. A deterministic analyzer produces findings as facts; a grounded language-model layer turns them into a readable impact explanation, validated against the input facts before anything is published to the pull request as a comment and as SARIF. \nA pull-request security review tool for Terraform and OpenTofu on AWS, running in GitHub Actions. Built around a local test harness, a fixture library of recorded plan changes, golden-file tests, a response cache and a model evaluation set. Project is in its early stage.\n still dont have budget tho, to be clear right away\n currently we are team of around 16 ppl\n i am Tech lead also AI automation part, so i need teammate who can cover me because ill be doing two tasks\n you dont have to be pro, just motivated, proactive and normal thinking guy, not some programing nerd :) \nStartup just started and ATM we are building infrastructure, and have people negotiating and presenting product to end users. \nStartup have big chance of success, because there is not much software offering what we aim to offer \nIf you are interested, comment or DM me and fill the application form: https://arhistrategstudio.github.io/wayne-citadel-apply/cybersecurity/",
+      "budget": null,
+      "score": 5,
+      "matched": [
+        "automation",
+        "ai",
+        "problem: lead intake"
+      ],
+      "queue": "project",
+      "priority": 35,
+      "reasons": [
+        "lead intake",
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "reddit:t3_1xogb6x",
       "source": "r/forhire",
       "title": "[HIRING] UI/UX Designer (or Designer + Developer) to redesign a music streaming app + website, $700 design budget",
@@ -100,43 +133,12 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-      "source": "We Work Remotely",
-      "title": "OpenTrain AI: Full-Stack Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-      "posted": "2026-11-06T20:13:18+00:00",
-      "body": "Headquarters: United States\nURL: https://opentrain.ai/\nFull-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States)\n• $50–$100 per hour equivalent, paid per accepted task\n• 100% remote\n• Part-time\n• Under 20 hours a week, you choose when\nWork on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks.\nAI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The work is part-time remote contract work for under 20 hours per week.\nWhat you'll do\n• Create and solve realistic full-stack tasks involving user-facing features and APIs\n• Trace requests and data across browsers and back-end services to judge whether an AI implementation works correctly\n• Write professional reference solutions and validate code across front-end and back-end systems\n• Review AI-generated code for security, performance and maintainability, and explain where it needs improvement\nWhy this is worth your time\n• Earn $50–$100 per hour equivalent for accepted tasks that meet project specifications while applying your full-stack engineering judgment.\n• Review AI-generated code for security, performance and maintainability across front-end and back-end systems.\n• Use your full-stack experience to assess AI-generated solutions across unfamiliar codebases and complete software systems.\n• Fully remote and flexible, no fixed shifts, no commute\nWho this is for\n• Strong professional experience building production full-stack applications across multiple programming languages\n• Strong full-stack systems knowledge covering browser applications, APIs, application state, databases, service integration, architecture and debugging\n• Professional fluency in English; experience contributing to complete software-system architecture, working in unfamiliar codebases, and solving difficult debugging problems\n• No AI experience needed. Experience reviewing AI-generated code for security, performance and maintainability is helpful.\nPay and details\n• $50–$100 per hour equivalent; pay is per accepted task, as an independent contractor\n• Part-time, under 20 hours a week, you choose when; fully remote, United States\nHow to apply\n1. Apply on OpenTrain (about two minutes): https://app.opentrain.ai/api/out/cmu3vn4y500000bgm9fcp5md7?ch=weworkremotely&sub=weworkremotely-cmu3vn4y5-us-2026-10\n2. Complete a short application on the hiring platform.\n3. If shortlisted, take a conversational AI interview with technical questions and a coding challenge, whenever it suits you.\nReady to apply your full-stack engineering judgment to AI code evaluation? Apply today.\nAbout OpenTrain AI\nOpenTrain AI connects experienced professionals with paid, part-time AI training work: shaping and improving the AI systems that companies are building right now.\nTo apply: https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-      "budget": "$50",
-      "score": 4,
-      "matched": [
-        "full-stack",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "remoteok:1137688",
       "source": "Remote OK",
       "title": "Lemon.io: Senior Vue Developer",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
       "posted": "2026-11-05T12:45:45+00:00",
-      "body": "engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end\nLemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\nNew roles for Senior Vue Engineers come in all the time, and several are open right now.\nTwo ways to work with clients\nContract: most roles are contract-based. You join the clientâs team and work as part of it.\nDirect hire: some clients hire engineers full-time, and we support you through the process.\nBecause companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\nWhat you get\nCompetitive rate, based on your seniority and skills\nWe find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\nFlexible schedule. Work async or with a small overlap with the teamâs hours.\nNo micromanagement, no screen trackers\nDirect work with clients, most of them with technical backgrounds\nOngoing support from your application through every project, plus a community of engineers from 75+ countries\nWho weâre looking forSenior Vue.js & Nuxt.js Developers:\n4+ years of software development experience\n4+ years of experience with Vue.js\n2+ years of experience with Nuxt.js & JavaScript\nExperience with Typescript is a mustSenior Vue.js & PHP Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with PHP\nExperience with Laravel is a mustSenior Vue.js & Node.js Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with Node.js\nExperience with Nuxt.js is a mustSenior Vue.js & .NET Developers:\n5+ years of software development experience\n3+ years of experience with Vue.js & 5+ years with .NET\nOR\n5+ years of experience with Vue.js & 3+ years with .NET\nExperience with Typescript is a mustSenior Vue.js & Python Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js 3+ years with Python\nYou own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\nYou can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\nAdvanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\nYou work full-time remotely and deliver without supervision\nYou onboard quickly and start shipping in your first weeks\nHow it works\nApply and complete your profile\nVerify your role\nOnce approved, we match you with a project. Typical time to first project: 3 weeks\nReady? Apply and join the Lemon.io community.\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nPlease mention the word **PROMISED** and tag RNzQuMTc5LjEwMi4xMTg= when applying to show you read the job post completely (#RNzQuMTc5LjEwMi4xMTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "body": "engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end\nLemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\nNew roles for Senior Vue Engineers come in all the time, and several are open right now.\nTwo ways to work with clients\nContract: most roles are contract-based. You join the clientâs team and work as part of it.\nDirect hire: some clients hire engineers full-time, and we support you through the process.\nBecause companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\nWhat you get\nCompetitive rate, based on your seniority and skills\nWe find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\nFlexible schedule. Work async or with a small overlap with the teamâs hours.\nNo micromanagement, no screen trackers\nDirect work with clients, most of them with technical backgrounds\nOngoing support from your application through every project, plus a community of engineers from 75+ countries\nWho weâre looking forSenior Vue.js & Nuxt.js Developers:\n4+ years of software development experience\n4+ years of experience with Vue.js\n2+ years of experience with Nuxt.js & JavaScript\nExperience with Typescript is a mustSenior Vue.js & PHP Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with PHP\nExperience with Laravel is a mustSenior Vue.js & Node.js Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with Node.js\nExperience with Nuxt.js is a mustSenior Vue.js & .NET Developers:\n5+ years of software development experience\n3+ years of experience with Vue.js & 5+ years with .NET\nOR\n5+ years of experience with Vue.js & 3+ years with .NET\nExperience with Typescript is a mustSenior Vue.js & Python Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js 3+ years with Python\nYou own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\nYou can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\nAdvanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\nYou work full-time remotely and deliver without supervision\nYou onboard quickly and start shipping in your first weeks\nHow it works\nApply and complete your profile\nVerify your role\nOnce approved, we match you with a project. Typical time to first project: 3 weeks\nReady? Apply and join the Lemon.io community.\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nPlease mention the word **PROMISED** and tag RNjguMjIwLjYzLjA= when applying to show you read the job post completely (#RNjguMjIwLjYzLjA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "budget": "$50,000 to $180,000/yr",
       "score": 14,
       "matched": [
@@ -203,6 +205,37 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote?utm_source=api",
       "expires": "2027-01-05T21:55:51+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+      "source": "We Work Remotely",
+      "title": "OpenTrain AI: Full-Stack Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+      "posted": "2026-11-06T20:13:18+00:00",
+      "body": "Headquarters: United States\nURL: https://opentrain.ai/\nFull-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States)\n• $50–$100 per hour equivalent, paid per accepted task\n• 100% remote\n• Part-time\n• Under 20 hours a week, you choose when\nWork on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks.\nAI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The work is part-time remote contract work for under 20 hours per week.\nWhat you'll do\n• Create and solve realistic full-stack tasks involving user-facing features and APIs\n• Trace requests and data across browsers and back-end services to judge whether an AI implementation works correctly\n• Write professional reference solutions and validate code across front-end and back-end systems\n• Review AI-generated code for security, performance and maintainability, and explain where it needs improvement\nWhy this is worth your time\n• Earn $50–$100 per hour equivalent for accepted tasks that meet project specifications while applying your full-stack engineering judgment.\n• Review AI-generated code for security, performance and maintainability across front-end and back-end systems.\n• Use your full-stack experience to assess AI-generated solutions across unfamiliar codebases and complete software systems.\n• Fully remote and flexible, no fixed shifts, no commute\nWho this is for\n• Strong professional experience building production full-stack applications across multiple programming languages\n• Strong full-stack systems knowledge covering browser applications, APIs, application state, databases, service integration, architecture and debugging\n• Professional fluency in English; experience contributing to complete software-system architecture, working in unfamiliar codebases, and solving difficult debugging problems\n• No AI experience needed. Experience reviewing AI-generated code for security, performance and maintainability is helpful.\nPay and details\n• $50–$100 per hour equivalent; pay is per accepted task, as an independent contractor\n• Part-time, under 20 hours a week, you choose when; fully remote, United States\nHow to apply\n1. Apply on OpenTrain (about two minutes): https://app.opentrain.ai/api/out/cmu3vn4y500000bgm9fcp5md7?ch=weworkremotely&sub=weworkremotely-cmu3vn4y5-us-2026-10\n2. Complete a short application on the hiring platform.\n3. If shortlisted, take a conversational AI interview with technical questions and a coding challenge, whenever it suits you.\nReady to apply your full-stack engineering judgment to AI code evaluation? Apply today.\nAbout OpenTrain AI\nOpenTrain AI connects experienced professionals with paid, part-time AI training work: shaping and improving the AI systems that companies are building right now.\nTo apply: https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
+      "budget": "$50",
+      "score": 4,
+      "matched": [
+        "full-stack",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -456,38 +489,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50403646",
-      "source": "HN Who is hiring",
-      "title": "Location: Estonia Remote:Yes",
-      "url": "https://news.ycombinator.com/item?id=50403646",
-      "posted": "2026-11-07T11:35:58+00:00",
-      "body": "Location: Estonia Remote:Yes\nWilling to relocate: No\nTechnologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand\nPart-time/Freelance: Yes\nLinkedin: https://www.linkedin.com/in/mustafadalga/\nContact info: mustafadalga \\[at\\] gmail \\[dot\\] com\nFront-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in roles involving dashboard rebuilds, performance optimization, and modernization work.",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "typescript",
-        "next.js",
-        "react"
-      ],
-      "queue": "contract",
-      "priority": 8,
-      "reasons": [
-        "posted within 6 hours"
-      ],
-      "flags": [
-        "budget unknown",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote",
       "source": "Himalayas",
       "title": "YO AI Labs: Procurement & Vendor Management Expert - Remote",
@@ -577,6 +578,36 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/semiconductor-engineering-expert-remote?utm_source=api",
       "expires": "2027-01-05T21:11:08+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "hn:50403646",
+      "source": "HN Who is hiring",
+      "title": "Location: Estonia Remote:Yes",
+      "url": "https://news.ycombinator.com/item?id=50403646",
+      "posted": "2026-11-07T11:35:58+00:00",
+      "body": "Location: Estonia Remote:Yes\nWilling to relocate: No\nTechnologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand\nPart-time/Freelance: Yes\nLinkedin: https://www.linkedin.com/in/mustafadalga/\nContact info: mustafadalga \\[at\\] gmail \\[dot\\] com\nFront-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in roles involving dashboard rebuilds, performance optimization, and modernization work.",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "typescript",
+        "next.js",
+        "react"
+      ],
+      "queue": "contract",
+      "priority": 2,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
