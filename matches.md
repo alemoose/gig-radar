@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-07 02:55 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-07 09:48 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
@@ -20,14 +20,9 @@ Updated 2026-11-07 02:55 UTC. Projects first, ranked by fit and freshness.
 
 - [YO AI Labs: Biology Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/biology-expert-remote)  
   Himalayas | posted Nov 06 22:18 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > STEM & Scientific AI Expert Location: Global, Fully Remote Job Type: Contractor (~15 hours per week) Schedule: FlexibleJob Summary We are seeking STEM and scientific-domain experts to support AI training through complex problem-solving, scientific reasoning, data analysis, and Python-based coding. This is a coding-heavy role requiring experience with coding agents and the ability to evaluate AI-generated technical solutions.Areas of Expertise Chemistry, Biology, Mathematics, and Physics Earth Science, Geoscience, and Environmental Science Robotics and related scientific or quantitative fiel...
-- [YO AI Labs: Machine Learning Researcher - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote)  
-  Himalayas | posted Nov 06 21:55 UTC | score 4 | agents, python, ai
-  Fit: 25 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Job Title: Machine Learning Researcher (MSc. or PhD) Job Type: Contractor Location: Global, Fully Remote Working Hours: Approximately 15 hours per week Schedule: Flexible, including weekendsJob Summary We are seeking skilled Machine Learning Researchers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine-learning models and train...
 - [OpenTrain AI: Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer)  
   We Work Remotely | posted Nov 06 20:13 UTC | score 4 | **$50** | full-stack, ai
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
@@ -43,63 +38,68 @@ Updated 2026-11-07 02:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > dev ai blockchain ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CETAbout Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its evidence, as structured data that models and agents can query. We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch on 28 August 2026, an o...
+- [YO AI Labs: Machine Learning Researcher - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote)  
+  Himalayas | posted Nov 06 21:55 UTC | score 4 | agents, python, ai
+  Fit: 19 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Job Title: Machine Learning Researcher (MSc. or PhD) Job Type: Contractor Location: Global, Fully Remote Working Hours: Approximately 15 hours per week Schedule: Flexible, including weekendsJob Summary We are seeking skilled Machine Learning Researchers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine-learning models and train...
 - [YO AI Labs: Product Manager - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/product-manager-remote)  
   Himalayas | posted Nov 06 22:29 UTC | score 3 | **USD 90 to 140/hourly** | prompt, ai
-  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Product Manager / Product Owner Role Type: Contractor Location: Remote We are seeking experienced Product Managers and Product Owners to contribute to a customer project focused on evaluating and improving advanced AI systems. You'll apply your product expertise to assess AI-generated content, specifications, and product documentation. No prior AI experience is required. This is strictly an evaluation and analysis role. It does not involve roadmap ownership, delivery management, sprint facilitation, stakeholder leadership, or program management. Candidates should have strong product managem...
 - [YO AI Labs: Sr Python Developer - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/sr-python-developer-remote)  
   Himalayas | posted Nov 06 23:01 UTC | score 5 | **USD 30 to 100/hourly** | typescript, python, ai
-  Fit: 21 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Senior Software Engineer Job Type: Contractor (~15 hrs/week) Location: Remote Schedule: FlexibleRequired Skills Python 3, Java, Rust, TypeScript, C++ Algorithms & Data Structures Bug Fixing & Feature Implementation Codebase Refactoring Performance Optimization Automated Testing Backend Development Job Summary Work on challenging coding tasks designed to improve next-generation AI systems. You'll create realistic coding problems, implement features and bug fixes, and build deterministic verifiers to evaluate solutions.What We're Looking For Strong backend development experience Experience bu...
 - [YO AI Labs: Competitive Data Scientist - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/competitive-data-scientist-remote)  
   Himalayas | posted Nov 06 22:22 UTC | score 4 | agents, python, ai
-  Fit: 20 | posted within 6 hours
+  Fit: 14 | 
   Check: budget unknown; check eligibility: United States
   > Role Title: Competitive Data Scientist Role Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekends We are seeking Data Scientists, Machine Learning Practitioners, and Applied Mathematics experts with competitive data science experience to support an AI training project. You'll develop challenging, reproducible tasks that test problem-solving, programming, and analytical reasoning. Each task must include a verified reference solution and reliable evaluation criteria.Key Responsibilities Build reproducible enviro...
 - [YO AI Labs: Generalist — U.S. Tax Workflow Evaluation - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/generalist-u-s-tax-workflow-evaluation-remote)  
   Himalayas | posted Nov 06 21:23 UTC | score 4 | workflow, ai
-  Fit: 20 | posted within 6 hours
+  Fit: 14 | 
   Check: budget unknown; check eligibility: United States
   > Role Title: Generalist — U.S. Tax Workflow Evaluation Role Type: Contractor Location: Remote, U.S. Only We are engaging detail-oriented Generalists for a short-term customer project focused on evaluating U.S. tax and financial workflows. You'll apply your financial knowledge to review real-world tax processes, assess system-generated outputs, and provide high-quality feedback to support AI development. No prior AI experience is required.Scope of Work Review, annotate, and evaluate U.S. tax filing workflows and related financial processes. Apply defined rubrics to assess accuracy, completene...
 - [YO AI Labs: English Teacher - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/english-teacher-remote)  
   Himalayas | posted Nov 06 22:28 UTC | score 3 | prompt, ai
-  Fit: 18 | posted within 6 hours
+  Fit: 12 | 
   Check: budget unknown; check eligibility: United States
   > Role Title: English Teacher Role Type: Contractor Location: Remote, United States Only We are seeking experienced English Teachers to support an AI training project by completing teaching-related tasks and evaluating AI assistant responses. Candidates will use their expertise in English, literature, writing, and classroom management to assess the accuracy, clarity, tone, and quality of AI-generated content.Key Responsibilities Complete teaching-related tasks, including emails, scheduling, and classroom coordination using AI tools. Follow detailed instructions and project guidelines accurate...
 - [Mindrift: Freelance Mechanical CFD Engineer - AI Trainer](https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer)  
   We Work Remotely | posted Nov 06 04:12 UTC | score 4 | **$14 per hour** | agents, python, ai
-  Fit: 18 | budget stated, verify scope and currency
+  Fit: 12 | budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: Peru URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the role Help train and evaluate AI agents on expert-level fluid simulation tasks. You'll take CAD geometry, set up and run simulations, build verified reference solutions, and write Python checks for the agent's results. Requirements A degree in Mechanical or Aerospace Engineering, or a related field such as energy or oil & gas. A PhD is preferred but not required. Several years of hands-on industry or research CFD with OpenFOAM, ANSYS Fluent/CFX or STAR-CCM+, including meshing. Solid ve...
 - [RAND Corporation: AI Security Researcher](https://himalayas.app/companies/rand-corporation/jobs/ai-security-researcher)  
   Himalayas | posted Nov 06 21:18 UTC | score 3 | **USD 132000 to 338925/annual** | python, ai
-  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Job Type: Term (Fixed Term)Overview RAND’s Center on AI, Security, and Technology (CAST), part of the Global and Emerging Risks (GER) Division, is seeking researchers to advance the technical foundations of AI safety. This role is intended for researchers with deep expertise in areas such as theoretical computer science, cryptography, formal methods, programming languages, systems security, computer architecture, distributed systems, or machine learning systems. You will conduct original research on technically challenging problems at the intersection of AI and security. Researchers are exp...
 - [YO AI Labs: Sr Android Developer  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/sr-android-developer-remote)  
   Himalayas | posted Nov 06 21:09 UTC | score 5 | **USD 50 to 100/hourly** | react native, javascript, typescript, ai
-  Fit: 16 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Role Title: Senior Mobile Software Engineer Role Type: Contractor Location: Remote Commitment: Approximately 15 hours per week We are seeking experienced Mobile Software Engineers to support an AI training project by designing challenging coding tasks, building reproducible testing environments, and developing reference solutions. Candidates will help evaluate AI models' ability to solve complex mobile development problems.Key Responsibilities Create challenging mobile coding tasks involving debugging, feature development, refactoring, and performance optimization. Build reproducible enviro...
 - [YO AI Labs: Procurement & Vendor Management Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote)  
   Himalayas | posted Nov 06 23:00 UTC | score 3 | **USD 90 to 90/hourly** | llm, ai
-  Fit: 12 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 6 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Job Title: Procurement & Vendor Management Expert Role Type: Contractor Location: Remote, GlobalJob Summary We are seeking experienced Procurement & Vendor Management Experts to contribute to an AI training project by designing realistic, multi-step procurement tasks with objective grading criteria. The role involves transforming real-world procurement workflows into structured benchmark tasks that evaluate AI systems' analytical skills, reasoning, and decision-making. Prior AI experience is not required.Key Responsibilities Design multi-step tasks based on real procurement workflows, inclu...
 - [YO AI Labs: Legal & Compliance Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/legal-compliance-expert-remote)  
   Himalayas | posted Nov 06 22:37 UTC | score 3 | **USD 90 to 90/hourly** | llm, ai
-  Fit: 12 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 6 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Job Title: Legal & Compliance Expert Role Type: Contractor Location: Remote, GlobalJob Summary We are seeking experienced Legal & Compliance Experts to contribute to an AI training project by designing realistic, multi-step legal and compliance tasks with objective grading criteria. The role involves transforming real-world legal workflows into structured benchmark tasks that evaluate AI systems' reasoning, judgment, and accuracy. Prior AI experience is not required.Key Responsibilities Design multi-step tasks based on real legal and compliance workflows, including contract review, due dili...
 - [YO AI Labs: Semiconductor Engineering Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/semiconductor-engineering-expert-remote)  
   Himalayas | posted Nov 06 21:11 UTC | score 3 | **USD 80 to 185/hourly** | llm, ai
-  Fit: 12 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 6 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Semiconductor Engineering Expert Role Type: Contractor Location: Remote Compensation: $80–$185/hour Commitment: FlexibleJob Description We are seeking experienced Semiconductor Engineering Experts to develop challenging technical problems, provide accurate solutions, and establish evaluation criteria for advanced AI training projects.Key Responsibilities Design complex technical problems in device physics, process integration, circuit design, lithography, packaging, yield, and reliability. Provide accurate solutions with clear technical reasoning. Define objective criteria for evaluating te...
 - [YO AI Labs: Finance & Accounting Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/finance-accounting-expert-remote)  
   Himalayas | posted Nov 06 22:58 UTC | score 3 | llm, ai
-  Fit: 8 | posted within 6 hours
+  Fit: 2 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Job Title: Finance & Accounting Expert Role Type: Contractor Location: Remote, GlobalJob Summary We are seeking experienced Finance and Accounting Experts to contribute to an AI training project by designing realistic, multi-step finance tasks with objective grading criteria. The role focuses on translating real-world financial workflows into structured benchmark tasks that evaluate AI accuracy, reasoning, and practical judgment. Prior AI experience is not required.Key Responsibilities Design multi-step tasks involving FP&A analysis, financial reporting, audits, reconciliations, and account...
