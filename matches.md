@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-06 23:16 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-07 02:55 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
@@ -23,16 +23,16 @@ Updated 2026-11-06 23:16 UTC. Projects first, ranked by fit and freshness.
   Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > STEM & Scientific AI Expert Location: Global, Fully Remote Job Type: Contractor (~15 hours per week) Schedule: FlexibleJob Summary We are seeking STEM and scientific-domain experts to support AI training through complex problem-solving, scientific reasoning, data analysis, and Python-based coding. This is a coding-heavy role requiring experience with coding agents and the ability to evaluate AI-generated technical solutions.Areas of Expertise Chemistry, Biology, Mathematics, and Physics Earth Science, Geoscience, and Environmental Science Robotics and related scientific or quantitative fiel...
-- [OpenTrain AI: Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer)  
-  We Work Remotely | posted Nov 06 20:13 UTC | score 4 | **$50** | full-stack, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The wo...
 - [YO AI Labs: Machine Learning Researcher - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote)  
   Himalayas | posted Nov 06 21:55 UTC | score 4 | agents, python, ai
   Fit: 25 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Job Title: Machine Learning Researcher (MSc. or PhD) Job Type: Contractor Location: Global, Fully Remote Working Hours: Approximately 15 hours per week Schedule: Flexible, including weekendsJob Summary We are seeking skilled Machine Learning Researchers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine-learning models and train...
+- [OpenTrain AI: Full-Stack Engineer](https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer)  
+  We Work Remotely | posted Nov 06 20:13 UTC | score 4 | **$50** | full-stack, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The wo...
 - [Lemon.io: Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)  
   Remote OK | posted Nov 05 12:45 UTC | score 14 | **$50,000 to $180,000/yr** | react native, automation, full stack, javascript, typescript, ai agent
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
