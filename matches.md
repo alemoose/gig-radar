@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-07 09:48 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-07 16:11 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
@@ -33,11 +33,6 @@ Updated 2026-11-07 09:48 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the clientâs team and work as part of it. Direct hire: some clients hi...
-- [Claims: Software Engineer](https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685)  
-  Remote OK | posted Nov 04 15:09 UTC | score 14 | **$10,000 to $30,000/yr** | automation, full-stack, javascript, postgresql, typescript, ai agent
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > dev ai blockchain ð Build the data layer AI needs to do science Application deadline: 16 Nov 2026 23:59 CETAbout Claims AI ate the Internet, but it can't digest science yet. A paper is thousands of words of prose written for humans, but an AI agent doing research needs to know what was claimed, what evidence supports it, and how far to trust it. Claims turns the scientific literature into exactly that: every claim, tied to its evidence, as structured data that models and agents can query. We're a startup and run as Subnet 111 on Bittensor. Since our mainnet launch on 28 August 2026, an o...
 - [YO AI Labs: Machine Learning Researcher - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote)  
   Himalayas | posted Nov 06 21:55 UTC | score 4 | agents, python, ai
   Fit: 19 | explicit hiring intent
@@ -83,6 +78,11 @@ Updated 2026-11-07 09:48 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Role Title: Senior Mobile Software Engineer Role Type: Contractor Location: Remote Commitment: Approximately 15 hours per week We are seeking experienced Mobile Software Engineers to support an AI training project by designing challenging coding tasks, building reproducible testing environments, and developing reference solutions. Candidates will help evaluate AI models' ability to solve complex mobile development problems.Key Responsibilities Create challenging mobile coding tasks involving debugging, feature development, refactoring, and performance optimization. Build reproducible enviro...
+- [Location: Estonia Remote:Yes](https://news.ycombinator.com/item?id=50403646)  
+  HN Who is hiring | posted Nov 07 11:35 UTC | score 3 | typescript, next.js, react
+  Fit: 8 | posted within 6 hours
+  Check: budget unknown; seniority requirement needs review
+  > Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \[at\] gmail \[dot\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in rol...
 - [YO AI Labs: Procurement & Vendor Management Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote)  
   Himalayas | posted Nov 06 23:00 UTC | score 3 | **USD 90 to 90/hourly** | llm, ai
   Fit: 6 | budget stated, verify scope and currency
