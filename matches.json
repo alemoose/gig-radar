@@ -2,6 +2,50 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "reddit:t3_1xqmqzg",
+      "source": "r/slavelabour",
+      "title": "[Task] Got a tedious task you wish someone would just take care of? I might be able to help!",
+      "url": "https://www.reddit.com/r/slavelabour/comments/1xqmqzg/task_got_a_tedious_task_you_wish_someone_would/",
+      "posted": "2026-11-08T01:44:45+00:00",
+      "body": "Hey everyone! \nI'm a software engineer with a Claude Pro 20x subscription, and I often end up with quite a lot of unused usage by the end of each week. \nI thought I'd put it to better use by helping people with their projects and making a little money along the way. \nFor example, recently I helped a lawyer friend with a research task that involved downloading thousands of documents from government websites (RBI, SEBI, RERA, etc.), organizing them into appropriate folder structures, and making everything easily accessible for his research. \nI can help with similar tasks, including: \n- Bulk document downloading and organization. \n- Web scraping and data extraction. \n- PDF processing, classification and structuring. \n- Research and data collection. \n- Excel/Google Sheets/n8n automation. \n- General programming and AI-assisted automation. \nI'm a software engineer with hands-on experience in JavaScript, Node.js, React and automation. \nIf you have a time-consuming task that could be automated or simply need an extra pair of technical hands, feel free to reach out. I'm open to one-off tasks as well as small ongoing projects. \nHappy to discuss your requirements and budget!",
+      "budget": null,
+      "score": 16,
+      "matched": [
+        "data extraction",
+        "google sheets",
+        "automation",
+        "javascript",
+        "scraping",
+        "node.js",
+        "claude",
+        "react",
+        "n8n",
+        "ai",
+        "problem: spreadsheet automation",
+        "problem: data collection"
+      ],
+      "queue": "project",
+      "priority": 54,
+      "reasons": [
+        "spreadsheet automation",
+        "data collection",
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "small scope signal"
+      ],
+      "flags": [
+        "budget unknown"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "reddit:t3_1xqd5hh",
       "source": "r/hiring",
       "title": "[HIRING] Cybersecurity Devs",
@@ -16,16 +60,17 @@
         "problem: lead intake"
       ],
       "queue": "project",
-      "priority": 35,
+      "priority": 29,
       "reasons": [
         "lead intake",
-        "posted within 6 hours",
         "explicit hiring intent"
       ],
       "flags": [
         "budget unknown"
       ],
-      "aliases": [],
+      "aliases": [
+        "reddit:t3_1xqoczo"
+      ],
       "location": "",
       "employment_type": "",
       "currency": "",
@@ -117,10 +162,9 @@
         "problem: API connection"
       ],
       "queue": "contract",
-      "priority": 31,
+      "priority": 25,
       "reasons": [
         "API connection",
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -154,9 +198,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 31,
+      "priority": 25,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -186,9 +229,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -219,9 +261,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -238,109 +279,12 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Applied Scientists — Machine Learning  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595",
-      "posted": "2026-11-07T20:12:58+00:00",
-      "body": "Job Title: Applied Scientist – Machine Learning (MSc. or PhD)\nJob Type: Contractor\nLocation: Global, Fully Remote\nWorking Hours: Approximately 15 hours per week\nSchedule: Flexible, including weekendsJob Summary\nWe are seeking experienced Machine Learning Experts to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization.\nThis is a highly coding-intensive role requiring strong Python skills and hands-on experience using coding agents.Key Responsibilities\nDevelop and validate machine-learning models and training pipelines.\nBuild reproducible workflows using Python and command-line tools.\nDebug technical issues and optimize memory usage and performance.\nEvaluate and validate machine-learning implementations against defined requirements.\nRequired Qualifications\nMaster's degree or PhD in Computer Science, AI, Machine Learning, Mathematics, Statistics, Engineering, or a related field.\nStrong professional or research experience in machine learning.\nPractical proficiency in Python and coding agents.\nExperience with model development, inference systems, and performance optimization.\nExperience at established technology companies, AI labs, research organizations, or through exceptional academic and open-source work is preferred.Selection Process\nApply and complete screening questions.\nComplete an AI interview of approximately 30 minutes.\nAttend the hiring manager review.\nStart Timeline\nRoles are typically filled within 48 hours.\nImmediate availability is preferred.\nSelected candidates should begin their first task within 24–48 hours after onboarding.\nCompensation Structure: Payment is based on completed tasks that meet project specifications. Minimum submission requirements apply.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 25,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595?utm_source=api",
-      "expires": "2027-01-06T20:12:57+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Research Evaluation Specialist - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote",
-      "posted": "2026-11-07T20:25:57+00:00",
-      "body": "Job Description: Research Evaluation Specialist (PhD, Master's, or Researcher)\nRole Type: Contractor (Approximately 15 hours per week)\nLocation: Remote, WorldwideJob Summary\nWe are seeking experienced Research Evaluation Specialists with advanced academic qualifications or substantial research experience to contribute to the development of rigorous evaluation materials for advanced AI models.\nIn this role, you will leverage your subject-matter expertise, research skills, and analytical reasoning to create challenging questions and evidence-based answers that assess AI model capabilities. You will conduct in-depth research, verify findings using authoritative sources, and refine evaluation materials to ensure accuracy, complexity, and clarity.\nPrior experience in AI training, data labeling, or model evaluation is required, along with strong research expertise in your respective discipline.Scope of Work\nDevelop original, high-difficulty question-and-answer pairs that assess advanced AI model capabilities within your area of expertise.\nResearch, verify, and thoroughly document answers using primary sources, scholarly literature, and authoritative references, including clear citations and supporting reasoning.\nDesign questions that require advanced reasoning, methodological understanding, and synthesis across multiple sources while avoiding oversimplified solutions.\nTest questions against AI systems, identify items that do not adequately challenge the models, and iteratively increase complexity while maintaining factual accuracy.\nWrite questions and answers with exceptional precision and clarity, eliminating ambiguity and ensuring that responses are logically defensible.\nIncorporate reviewer feedback and consistently follow project guidelines and quality standards.\nMaintain high standards of research integrity, documentation, and analytical rigor across all deliverables.\nPreferred Qualifications\nA completed Master's or PhD, active doctoral candidacy, or equivalent research experience as a specialist, researcher, assistant professor, or professor in the relevant discipline.\nA demonstrated record of scholarly research, advanced subject-matter expertise, and familiarity with primary academic literature.\nExceptional analytical thinking, attention to detail, and strong written communication skills in English.\nExperience locating, evaluating, and cross-verifying information from authoritative sources.\nStrong ability to work independently, manage priorities, and deliver high-quality research within a remote working environment.\nExpertise in developing original, challenging, and methodologically sound questions that assess deep subject-matter understanding.\nRequired: Previous experience in AI training, data labeling, or AI model evaluation.\nCompensation Structure\nCompensation is output-based, with payment provided for each task that meets the project's specifications and quality requirements. The time required to complete tasks may vary depending on individual expertise and workflow.\nMinimum submission requirements apply, and contributors are expected to complete a specified number of tasks each week.Start Timeline and Availability\nHiring Timeline: Positions are typically filled within 48 hours.\nAvailability: Candidates should be prepared to begin promptly.\nProject Start: Selected candidates are expected to start their first tasks within 24–48 hours of completing onboarding.\nIdeal Candidate Profile\nThe ideal candidate combines advanced academic or research expertise with practical experience in AI training or evaluation. They can develop sophisticated evaluation questions, support answers with authoritative evidence, identify weaknesses in AI-generated responses, and deliver precise, well-documented work independently while maintaining rigorous research and quality standards.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "workflow",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote?utm_source=api",
-      "expires": "2027-01-06T20:25:56+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Life Sciences Research Expert - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote",
-      "posted": "2026-11-07T20:07:39+00:00",
-      "body": "Job Description: Life Sciences Research Expert (Python)\nRole Type: Contractor\nLocation: Global, Fully Remote\nWorkload: Approximately 15 hours per week\nSchedule: Flexible working hoursJob Summary\nWe are seeking experienced life sciences researchers with strong Python programming skills to support projects focused on evaluating and improving advanced AI systems. The role involves solving scientific problems, analyzing biological data, developing computational solutions, and reviewing scientific code for accuracy and reliability.Key Responsibilities\nCreate and solve challenging scientific problems in life sciences.\nDevelop Python-based analyses, models, simulations, and data-processing workflows.\nReview scientific solutions and code for accuracy, clarity, and completeness.\nValidate computational results and identify errors in scientific reasoning or implementation.\nPreferred Qualifications\nPhD, MD, or Master's degree with substantial research experience in a relevant life sciences field.\nStrong Python skills for scientific computing, data analysis, or modeling.\nFamiliarity with NumPy, pandas, SciPy, Matplotlib, scikit-learn, or Jupyter.\nStrong analytical, research, and problem-solving skills.\nAbility to work independently and deliver accurate, reproducible results.\nSelection Process\nApply and complete the screening questions.\nComplete an approximately 30-minute AI interview.\nComplete the hiring manager review.\nFinish onboarding and begin assigned tasks.\nCompensation and Availability\nCompensation is output-based, with payment for tasks meeting project quality requirements. Minimum submission requirements apply. Selected candidates should be ready to begin within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote?utm_source=api",
-      "expires": "2027-01-06T20:07:37+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "remoteok:1137688",
       "source": "Remote OK",
       "title": "Lemon.io: Senior Vue Developer",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
       "posted": "2026-11-05T12:45:45+00:00",
-      "body": "engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end\nLemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\nNew roles for Senior Vue Engineers come in all the time, and several are open right now.\nTwo ways to work with clients\nContract: most roles are contract-based. You join the clientâs team and work as part of it.\nDirect hire: some clients hire engineers full-time, and we support you through the process.\nBecause companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\nWhat you get\nCompetitive rate, based on your seniority and skills\nWe find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\nFlexible schedule. Work async or with a small overlap with the teamâs hours.\nNo micromanagement, no screen trackers\nDirect work with clients, most of them with technical backgrounds\nOngoing support from your application through every project, plus a community of engineers from 75+ countries\nWho weâre looking forSenior Vue.js & Nuxt.js Developers:\n4+ years of software development experience\n4+ years of experience with Vue.js\n2+ years of experience with Nuxt.js & JavaScript\nExperience with Typescript is a mustSenior Vue.js & PHP Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with PHP\nExperience with Laravel is a mustSenior Vue.js & Node.js Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with Node.js\nExperience with Nuxt.js is a mustSenior Vue.js & .NET Developers:\n5+ years of software development experience\n3+ years of experience with Vue.js & 5+ years with .NET\nOR\n5+ years of experience with Vue.js & 3+ years with .NET\nExperience with Typescript is a mustSenior Vue.js & Python Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js 3+ years with Python\nYou own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\nYou can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\nAdvanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\nYou work full-time remotely and deliver without supervision\nYou onboard quickly and start shipping in your first weeks\nHow it works\nApply and complete your profile\nVerify your role\nOnce approved, we match you with a project. Typical time to first project: 3 weeks\nReady? Apply and join the Lemon.io community.\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nPlease mention the word **PROMISED** and tag RMTcyLjIxMi4yMDUuMjI0 when applying to show you read the job post completely (#RMTcyLjIxMi4yMDUuMjI0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "body": "engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end\nLemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\nNew roles for Senior Vue Engineers come in all the time, and several are open right now.\nTwo ways to work with clients\nContract: most roles are contract-based. You join the clientâs team and work as part of it.\nDirect hire: some clients hire engineers full-time, and we support you through the process.\nBecause companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\nWhat you get\nCompetitive rate, based on your seniority and skills\nWe find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\nFlexible schedule. Work async or with a small overlap with the teamâs hours.\nNo micromanagement, no screen trackers\nDirect work with clients, most of them with technical backgrounds\nOngoing support from your application through every project, plus a community of engineers from 75+ countries\nWho weâre looking forSenior Vue.js & Nuxt.js Developers:\n4+ years of software development experience\n4+ years of experience with Vue.js\n2+ years of experience with Nuxt.js & JavaScript\nExperience with Typescript is a mustSenior Vue.js & PHP Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with PHP\nExperience with Laravel is a mustSenior Vue.js & Node.js Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with Node.js\nExperience with Nuxt.js is a mustSenior Vue.js & .NET Developers:\n5+ years of software development experience\n3+ years of experience with Vue.js & 5+ years with .NET\nOR\n5+ years of experience with Vue.js & 3+ years with .NET\nExperience with Typescript is a mustSenior Vue.js & Python Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js 3+ years with Python\nYou own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\nYou can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\nAdvanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\nYou work full-time remotely and deliver without supervision\nYou onboard quickly and start shipping in your first weeks\nHow it works\nApply and complete your profile\nVerify your role\nOnce approved, we match you with a project. Typical time to first project: 3 weeks\nReady? Apply and join the Lemon.io community.\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nPlease mention the word **PROMISED** and tag RMjAuMjkuMzguMTc= when applying to show you read the job post completely (#RMjAuMjkuMzguMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "budget": "$50,000 to $180,000/yr",
       "score": 14,
       "matched": [
@@ -379,24 +323,23 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/data-science-analytic-methodology-sme-remote",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595",
       "source": "Himalayas",
-      "title": "YO AI Labs: Data Science & Analytic Methodology SME - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/data-science-analytic-methodology-sme-remote",
-      "posted": "2026-11-07T19:51:19+00:00",
-      "body": "Job Title: Data Science & Analytic Methodology SME\nRole Type: Contractor\nLocation: RemoteJob Summary\nWe are seeking experienced Data Science & Analytic Methodology Subject Matter Experts to contribute to a high-impact project focused on advanced analytical pipelines and large language models (LLMs). In this role, you will apply your domain expertise to evaluate AI-generated outputs, assess analytical workflows, and help improve the accuracy, reliability, and performance of next-generation AI systems. Prior experience in AI is not required, although relevant technical experience is highly valued.Key Responsibilities\nMap large-scale analytical and pipeline integration scenarios to established taxonomies across key evaluation areas.\nDevelop detailed analytical cases reflecting real-world deployment patterns, including automated triage, data enrichment, analysis at scale, and common operational failure modes.\nEvaluate and grade responses based on source handling, reasoning quality, understanding of limitations, and practical utility.\nIdentify and flag instances of model over-refusal that may disrupt legitimate analytical workflows or pipeline continuity.\nDocument complex edge cases, emerging methodological challenges, and opportunities for improvement, providing actionable recommendations.\nDeliver clear, insightful written and verbal feedback to support iterative development and high-quality project outcomes.\nPreferred Qualifications\nDemonstrated experience integrating large language models (LLMs), including government-specific GPT variants, into complex data or analytical pipelines.\nProven experience conducting analysis at scale, with a strong understanding of automation failure modes and relevant evaluation metrics.\nExperience in teaching, mentoring, or providing technical leadership in data science or related analytical disciplines.\nStrong technical writing skills, with the ability to document methodologies clearly and communicate complex concepts in English.\nFamiliarity with designing evaluation frameworks, benchmarks, or assessment systems.\nExperience in defense, intelligence, or government analytical environments is highly valued.\nAbility to work effectively in distributed, international project environments with minimal clearance-related constraints.\nIdeal Candidate Profile\nThe ideal candidate combines strong data science expertise with practical experience in analytical methodology, automation, and LLM integration. They can assess complex workflows, identify limitations and failure patterns, evaluate model performance, and provide actionable feedback to improve the reliability and effectiveness of AI-driven analytical systems.\nOriginally posted on Himalayas",
+      "title": "YO AI Labs: Applied Scientists — Machine Learning  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595",
+      "posted": "2026-11-07T20:12:58+00:00",
+      "body": "Job Title: Applied Scientist – Machine Learning (MSc. or PhD)\nJob Type: Contractor\nLocation: Global, Fully Remote\nWorking Hours: Approximately 15 hours per week\nSchedule: Flexible, including weekendsJob Summary\nWe are seeking experienced Machine Learning Experts to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization.\nThis is a highly coding-intensive role requiring strong Python skills and hands-on experience using coding agents.Key Responsibilities\nDevelop and validate machine-learning models and training pipelines.\nBuild reproducible workflows using Python and command-line tools.\nDebug technical issues and optimize memory usage and performance.\nEvaluate and validate machine-learning implementations against defined requirements.\nRequired Qualifications\nMaster's degree or PhD in Computer Science, AI, Machine Learning, Mathematics, Statistics, Engineering, or a related field.\nStrong professional or research experience in machine learning.\nPractical proficiency in Python and coding agents.\nExperience with model development, inference systems, and performance optimization.\nExperience at established technology companies, AI labs, research organizations, or through exceptional academic and open-source work is preferred.Selection Process\nApply and complete screening questions.\nComplete an AI interview of approximately 30 minutes.\nAttend the hiring manager review.\nStart Timeline\nRoles are typically filled within 48 hours.\nImmediate availability is preferred.\nSelected candidates should begin their first task within 24–48 hours after onboarding.\nCompensation Structure: Payment is based on completed tasks that meet project specifications. Minimum submission requirements apply.\nOriginally posted on Himalayas",
       "budget": null,
-      "score": 5,
+      "score": 4,
       "matched": [
-        "automation",
-        "gpt",
-        "llm",
+        "agents",
+        "python",
         "ai"
       ],
       "queue": "contract",
-      "priority": 22,
+      "priority": 19,
       "reasons": [
-        "posted within 6 hours"
+        "explicit hiring intent"
       ],
       "flags": [
         "budget unknown",
@@ -406,44 +349,8 @@
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/data-science-analytic-methodology-sme-remote?utm_source=api",
-      "expires": "2027-01-06T19:51:18+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
-      "source": "Himalayas",
-      "title": "We Are Rosie: Media Planner & Buyer",
-      "url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
-      "posted": "2026-11-07T22:11:37+00:00",
-      "body": "Are you a hands-on media planner and buyer who loves building as much as executing? We're seeking a Media Planner & Buyer to lead paid social and programmatic campaigns that drive audience growth and client results, and to help shape how our media function grows.About the Role\nHourly Rate: $55\nContract Duration: ASAP through mid-January 2027, with potential to extend\nLocation: Fully remote\nWeekly Hours: 40 hours per week\nAvailability: Eastern or Central time zone hours preferred; some availability between Christmas and New Year's required\nCompany Description\nWe're an early-stage startup in the AI space, building a news product alongside a new offering for the advertising toolbox. Our team is small, fast-moving, and based mostly in DC and Chicago. As we grow, we're bringing on an experienced media planner and buyer to run our paid campaigns and help us define what this function should look like long term.\nAs our Media Planner & Buyer, you'll lead paid campaigns that support audience growth and client programs, taking work from brief to live campaign on tight timelines. You'll personally build and optimize campaigns across paid social and programmatic platforms, partner with our audience, creative, and client teams, and turn performance data into clear recommendations. This is also a bridge role: you'll help us spot recurring needs, put process in place, and define what a future permanent hire in this seat should own. We're looking for an entrepreneurial builder who is as comfortable spending a full day trafficking campaigns as half a day writing a memo or brainstorming with leadership.Scope of SupportMedia Strategy and Planning\nConsult on audience strategies and build media plans for varied audiences, from local readers and broad consumer segments to business leaders, policymakers, and opinion influencers\nTranslate campaign goals into practical targeting, channel, and budget recommendations\nContribute strategic thinking through memos, recommendations, and brainstorms with the team and founder\nCampaign Execution and Optimization\nPersonally build, launch, manage, and optimize campaigns across Meta Ads Manager, LinkedIn Campaign Manager, and programmatic platforms such as The Trade Desk and StackAdapt\nOwn execution end to end, from setup, trafficking, and QA through budget pacing, testing, optimization, and reporting\nDeliver against commitments for reach, impressions, engagement, and other campaign goals\nCross-Functional Partnership and Building the Function\nPartner with audience, creative, and client teams to get campaigns live quickly and adapt as priorities shift\nTurn performance data into clear, actionable recommendations\nRecognize when the request and the real need differ, and deliver both\nFlag recurring needs, propose processes, and advise on how to resource media going forward, including the scope of a future permanent hire\nLook for ways to streamline workflows with AI, such as building agents or automations\n7 to 10 years of experience leading and executing paid social and programmatic campaigns at an agency, media company, public affairs firm, or similarly fast-paced environment\nHands-on, current expertise in Meta Ads Manager, LinkedIn Campaign Manager, and at least one programmatic platform such as The Trade Desk or StackAdapt\nStrong understanding of audience segmentation, geographic and contextual targeting, first-party data, retargeting, and the capabilities and limits of each platform\nSelf-directed working style: you identify what needs to happen, solve problems, flag risks early, and follow through with minimal oversight\nStrong analytical judgment and attention to detail, with the ability to manage multiple campaigns accurately under tight deadlines\nEntrepreneurial mindset: you thrive with ambiguity and enjoy creating structure rather than stepping into a predefined role\nNice to have: real comfort with AI tools like ChatGPT, Claude, or Gemini, and curiosity about using them to work smarter\nAdditional InformationThis is a W2 role.\nWe Are Rosie provides strategic consulting and talent solutions for the marketing industry. We partner with more than 200 of the world’s biggest brands and agencies to help them solve unique marketing challenges with the best people, swiftly and at scale. Founded by former advertising executive Stephanie Nadi Olson in 2018, We Are Rosie is on a mission to redefine how marketing works, with an inclusive, human-centric approach that’s better for business and better for marketers. Our company has been recognized as an industry trailblazer and earned many accolades, including being named to the 2023 Global Top 100 Inspiring Workplaces, the Inc. 5000 2022, and Adweek’s Fastest Growing Agencies in 2021.\nWe Are Rosie is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, age, national origin, ancestry, physical or mental disability, medical​​​ condition, pregnancy, genetic information, gender, sexual orientation, gender identity or ​expression, veteran status, marital status, or any other status protected under federal, state, or local law.\nAn early-stage, AI-powered news and media startup building new tools for advertisers.\nOriginally posted on Himalayas",
-      "budget": "USD 55 to 55/hourly",
-      "score": 5,
-      "matched": [
-        "chatgpt",
-        "agents",
-        "claude",
-        "gemini",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer?utm_source=api",
-      "expires": "2027-01-06T22:11:36+00:00",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595?utm_source=api",
+      "expires": "2027-01-06T20:12:57+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -483,22 +390,22 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote",
       "source": "Himalayas",
-      "title": "YO AI Labs: Biology & Bioinformatics Expert  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
-      "posted": "2026-11-07T22:04:55+00:00",
-      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and AI model evaluation.Required Skills\nBioinformatics and Computational Biology\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, Samtools, GATK, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Reasoning\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic and biological datasets.\nOptimize pipelines and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible workflows and document findings.\nProvide scientific insights and actionable recommendations.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience analyzing biological data.\nStrong Python/R programming and analytical skills.\nProfessional English proficiency (C1 or higher).\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
+      "title": "YO AI Labs: Research Evaluation Specialist - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote",
+      "posted": "2026-11-07T20:25:57+00:00",
+      "body": "Job Description: Research Evaluation Specialist (PhD, Master's, or Researcher)\nRole Type: Contractor (Approximately 15 hours per week)\nLocation: Remote, WorldwideJob Summary\nWe are seeking experienced Research Evaluation Specialists with advanced academic qualifications or substantial research experience to contribute to the development of rigorous evaluation materials for advanced AI models.\nIn this role, you will leverage your subject-matter expertise, research skills, and analytical reasoning to create challenging questions and evidence-based answers that assess AI model capabilities. You will conduct in-depth research, verify findings using authoritative sources, and refine evaluation materials to ensure accuracy, complexity, and clarity.\nPrior experience in AI training, data labeling, or model evaluation is required, along with strong research expertise in your respective discipline.Scope of Work\nDevelop original, high-difficulty question-and-answer pairs that assess advanced AI model capabilities within your area of expertise.\nResearch, verify, and thoroughly document answers using primary sources, scholarly literature, and authoritative references, including clear citations and supporting reasoning.\nDesign questions that require advanced reasoning, methodological understanding, and synthesis across multiple sources while avoiding oversimplified solutions.\nTest questions against AI systems, identify items that do not adequately challenge the models, and iteratively increase complexity while maintaining factual accuracy.\nWrite questions and answers with exceptional precision and clarity, eliminating ambiguity and ensuring that responses are logically defensible.\nIncorporate reviewer feedback and consistently follow project guidelines and quality standards.\nMaintain high standards of research integrity, documentation, and analytical rigor across all deliverables.\nPreferred Qualifications\nA completed Master's or PhD, active doctoral candidacy, or equivalent research experience as a specialist, researcher, assistant professor, or professor in the relevant discipline.\nA demonstrated record of scholarly research, advanced subject-matter expertise, and familiarity with primary academic literature.\nExceptional analytical thinking, attention to detail, and strong written communication skills in English.\nExperience locating, evaluating, and cross-verifying information from authoritative sources.\nStrong ability to work independently, manage priorities, and deliver high-quality research within a remote working environment.\nExpertise in developing original, challenging, and methodologically sound questions that assess deep subject-matter understanding.\nRequired: Previous experience in AI training, data labeling, or AI model evaluation.\nCompensation Structure\nCompensation is output-based, with payment provided for each task that meets the project's specifications and quality requirements. The time required to complete tasks may vary depending on individual expertise and workflow.\nMinimum submission requirements apply, and contributors are expected to complete a specified number of tasks each week.Start Timeline and Availability\nHiring Timeline: Positions are typically filled within 48 hours.\nAvailability: Candidates should be prepared to begin promptly.\nProject Start: Selected candidates are expected to start their first tasks within 24–48 hours of completing onboarding.\nIdeal Candidate Profile\nThe ideal candidate combines advanced academic or research expertise with practical experience in AI training or evaluation. They can develop sophisticated evaluation questions, support answers with authoritative evidence, identify weaknesses in AI-generated responses, and deliver precise, well-documented work independently while maintaining rigorous research and quality standards.\nOriginally posted on Himalayas",
       "budget": null,
       "score": 3,
       "matched": [
-        "python",
+        "workflow",
         "ai"
       ],
       "queue": "contract",
-      "priority": 18,
+      "priority": 17,
       "reasons": [
-        "posted within 6 hours"
+        "explicit hiring intent"
       ],
       "flags": [
         "budget unknown",
@@ -508,18 +415,18 @@
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote?utm_source=api",
-      "expires": "2027-01-06T22:04:54+00:00",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote?utm_source=api",
+      "expires": "2027-01-06T20:25:56+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote",
       "source": "Himalayas",
-      "title": "YO AI Labs: Computational Biology Expert  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
-      "posted": "2026-11-07T22:04:26+00:00",
-      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and model evaluation. Candidates will contribute domain expertise to improve AI accuracy and scientific reasoning.Required Skills\nComputational Biology and Bioinformatics\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, GATK, Samtools, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Problem-Solving\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic, transcriptomic, and proteomic datasets.\nOptimize pipeline configurations and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible scientific workflows.\nDocument findings and communicate technical insights.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience with biological data analysis.\nStrong Python/R programming and statistical reasoning skills.\nExcellent written and verbal English communication.\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
+      "title": "YO AI Labs: Life Sciences Research Expert - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote",
+      "posted": "2026-11-07T20:07:39+00:00",
+      "body": "Job Description: Life Sciences Research Expert (Python)\nRole Type: Contractor\nLocation: Global, Fully Remote\nWorkload: Approximately 15 hours per week\nSchedule: Flexible working hoursJob Summary\nWe are seeking experienced life sciences researchers with strong Python programming skills to support projects focused on evaluating and improving advanced AI systems. The role involves solving scientific problems, analyzing biological data, developing computational solutions, and reviewing scientific code for accuracy and reliability.Key Responsibilities\nCreate and solve challenging scientific problems in life sciences.\nDevelop Python-based analyses, models, simulations, and data-processing workflows.\nReview scientific solutions and code for accuracy, clarity, and completeness.\nValidate computational results and identify errors in scientific reasoning or implementation.\nPreferred Qualifications\nPhD, MD, or Master's degree with substantial research experience in a relevant life sciences field.\nStrong Python skills for scientific computing, data analysis, or modeling.\nFamiliarity with NumPy, pandas, SciPy, Matplotlib, scikit-learn, or Jupyter.\nStrong analytical, research, and problem-solving skills.\nAbility to work independently and deliver accurate, reproducible results.\nSelection Process\nApply and complete the screening questions.\nComplete an approximately 30-minute AI interview.\nComplete the hiring manager review.\nFinish onboarding and begin assigned tasks.\nCompensation and Availability\nCompensation is output-based, with payment for tasks meeting project quality requirements. Minimum submission requirements apply. Selected candidates should be ready to begin within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
       "budget": null,
       "score": 3,
       "matched": [
@@ -527,9 +434,9 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 18,
+      "priority": 17,
       "reasons": [
-        "posted within 6 hours"
+        "explicit hiring intent"
       ],
       "flags": [
         "budget unknown",
@@ -539,8 +446,8 @@
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote?utm_source=api",
-      "expires": "2027-01-06T22:04:24+00:00",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/life-sciences-research-expert-remote?utm_source=api",
+      "expires": "2027-01-06T20:07:37+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -576,71 +483,68 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/bounteous/jobs/principal-architect",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/data-science-analytic-methodology-sme-remote",
       "source": "Himalayas",
-      "title": "Bounteous: Principal Architect",
-      "url": "https://himalayas.app/companies/bounteous/jobs/principal-architect",
-      "posted": "2026-11-07T20:58:05+00:00",
-      "body": "Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building.\nJob Role: Principal Architect\nLocation: United States (Remote/Hybrid, client-facing travel as needed)\nExperience: 11+ years minimum, 8+ years in Solution/Technical ArchitectureRole Summary:\nThe Principal Architect is the senior-most technical authority and executive-facing owner of the overall solution architecture for the account. This is a client-facing, decision-making role accountable for technical credibility with the client's executive and engineering leadership, and for the integrity of the architecture across every workstream. Delivery on this account uses an agent-orchestrated development model — the Principal Architect is expected to direct AI coding agents (e.g., Claude Code) directly for spikes and validation, not only delegate to human engineers. The final technology stack is not yet finalized (it may or may not end up being Python + React), so this role is intentionally technology-agnostic rather than tied to a specific platform.Key Responsibilities:\nOwn the end-to-end solution architecture for the account, ensuring alignment with business goals and enterprise architecture standards, independent of whichever technology stack is ultimately selected.\nDefine and defend the target-state architecture and roadmap directly to client executive stakeholders and governance/Change Board forums.\nDrive technical design decisions across application architecture, APIs, integrations, cloud infrastructure, and non-functional requirements (performance, scalability, security, reliability).\nSet coding standards, design patterns, and technology choices across workstreams once the stack is confirmed, and keep design options open and unbiased until that decision is made.\nReview and approve high-level designs (HLDs) before implementation begins; hold final sign-off authority on architecture decisions and technical design changes, including authority to block releases that violate architectural standards.\nEvaluate and integrate new tools, frameworks, and AI/agentic development capabilities into the delivery model.\nDirect and prompt AI coding agents (e.g., Claude Code or equivalent) directly for architecture-level proofs of concept, technical spikes, and feasibility validation.\nPartner with the Tech Product Manager and Delivery Lead to align architecture with delivery timelines and prioritization.\nProvide technical leadership and mentoring to the India-based Principal Architect and Solution Architect, ensuring one coherent architecture across delivery locations.\nEscalate cross-cutting architectural risks and represent the account technically to the client's engineering leadership.\nRequired Qualifications\n11+ years in enterprise technology roles with 8+ years owning solution architecture on client-facing, multi-workstream programs.\nProven experience as the client-facing architecture owner, comfortable defending design decisions to VP/C-level stakeholders and formal governance bodies.\nDeep, current fluency in modern application architecture, API/integration design, cloud infrastructure, and non-functional requirements — technology-agnostic, with the ability to architect confidently on whichever stack is ultimately chosen.\nHands-on experience directing or prompting AI coding agents (e.g., Claude Code or an equivalent agentic development tool) as part of an agent-orchestrated delivery model — required, as this engagement is delivered using AI-assisted development.\nTrack record of resolving ambiguous, evolving requirements into a defensible, phased architecture.\nGood To Have\nEnterprise architecture certification (e.g., TOGAF) or a cloud/platform architect certification relevant to the eventual stack.\nExperience in pharmaceutical/healthcare distribution or another regulated industry.\nPrior experience architecting within an AI-agent-orchestrated or \"generative\" development delivery model.\nInformation Security Responsibilities\nPromote and enforce awareness of key information security practices, including acceptable use of information assets, malware protection, and password security protocols\nIdentify, assess, and report security risks, focusing on how these risks impact the confidentiality, integrity, and availability of information assets\nUnderstand and evaluate how data is stored, processed, or transmitted, ensuring compliance with data privacy and protection standards (GDPR, CCPA, etc.)\nEnsure data protection measures are integrated throughout the information lifecycle to safeguard sensitive information\nWe invite you to stay connected with us by subscribing to our monthly job openings alert here.\nBounteous is proud to be an equal opportunity employer. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law. Bounteous is willing to sponsor eligible candidates for employment visas. #BI-Remote\nOriginally posted on Himalayas",
+      "title": "YO AI Labs: Data Science & Analytic Methodology SME - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/data-science-analytic-methodology-sme-remote",
+      "posted": "2026-11-07T19:51:19+00:00",
+      "body": "Job Title: Data Science & Analytic Methodology SME\nRole Type: Contractor\nLocation: RemoteJob Summary\nWe are seeking experienced Data Science & Analytic Methodology Subject Matter Experts to contribute to a high-impact project focused on advanced analytical pipelines and large language models (LLMs). In this role, you will apply your domain expertise to evaluate AI-generated outputs, assess analytical workflows, and help improve the accuracy, reliability, and performance of next-generation AI systems. Prior experience in AI is not required, although relevant technical experience is highly valued.Key Responsibilities\nMap large-scale analytical and pipeline integration scenarios to established taxonomies across key evaluation areas.\nDevelop detailed analytical cases reflecting real-world deployment patterns, including automated triage, data enrichment, analysis at scale, and common operational failure modes.\nEvaluate and grade responses based on source handling, reasoning quality, understanding of limitations, and practical utility.\nIdentify and flag instances of model over-refusal that may disrupt legitimate analytical workflows or pipeline continuity.\nDocument complex edge cases, emerging methodological challenges, and opportunities for improvement, providing actionable recommendations.\nDeliver clear, insightful written and verbal feedback to support iterative development and high-quality project outcomes.\nPreferred Qualifications\nDemonstrated experience integrating large language models (LLMs), including government-specific GPT variants, into complex data or analytical pipelines.\nProven experience conducting analysis at scale, with a strong understanding of automation failure modes and relevant evaluation metrics.\nExperience in teaching, mentoring, or providing technical leadership in data science or related analytical disciplines.\nStrong technical writing skills, with the ability to document methodologies clearly and communicate complex concepts in English.\nFamiliarity with designing evaluation frameworks, benchmarks, or assessment systems.\nExperience in defense, intelligence, or government analytical environments is highly valued.\nAbility to work effectively in distributed, international project environments with minimal clearance-related constraints.\nIdeal Candidate Profile\nThe ideal candidate combines strong data science expertise with practical experience in analytical methodology, automation, and LLM integration. They can assess complex workflows, identify limitations and failure patterns, evaluate model performance, and provide actionable feedback to improve the reliability and effectiveness of AI-driven analytical systems.\nOriginally posted on Himalayas",
       "budget": null,
-      "score": 6,
+      "score": 5,
       "matched": [
-        "agents",
-        "claude",
-        "prompt",
-        "python",
-        "react",
+        "automation",
+        "gpt",
+        "llm",
         "ai"
       ],
       "queue": "contract",
-      "priority": 14,
-      "reasons": [
-        "posted within 6 hours"
-      ],
+      "priority": 16,
+      "reasons": [],
       "flags": [
         "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
+        "check eligibility: United States"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/bounteous/jobs/principal-architect?utm_source=api",
-      "expires": "2027-01-06T20:58:04+00:00",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/data-science-analytic-methodology-sme-remote?utm_source=api",
+      "expires": "2027-01-06T19:51:18+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
+      "id": "himalayas:https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
       "source": "Himalayas",
-      "title": "Stripe: Core Recruiter (Fixed Term)",
-      "url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
-      "posted": "2026-11-07T22:47:01+00:00",
-      "body": "Who we are About Stripe\nStripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.About the team\nThe Recruiting team builds Stripe’s culture by connecting exceptional talent with our highest-impact business needs. We bring Stripe’s operating principles to life through thoughtful, consistent hiring practices, a high-quality candidate experience, and data-informed partnership with the business.What you’ll do\nStripe is looking for a consultative, creative recruiter to support critical Core Business functions. You will partner with senior leaders who shape Stripe’s financial strategy, external narrative, long-term growth, and company-wide decision-making.\nThis is a high-impact portfolio with varied talent markets, senior stakeholders, and roles where the quality of each hire can influence how Stripe operates and grows. You will own full-cycle recruiting, advise leaders on hiring strategy and market conditions, and build trusted relationships with candidates and hiring teams.\nThis is a 12 month fixed term contract and you are employed directly through Stripe.Responsibilities\nPartner with senior leaders to understand business priorities, define hiring plans, and develop recruiting strategies that support headcount goals.\nOwn the full recruiting lifecycle, from intake and sourcing through offer acceptance and onboarding handoff.\nAdvise hiring teams on talent-market conditions, candidate availability, competitive dynamics, and hiring approaches for specialized and senior roles.\nDevelop and execute sourcing strategies that build broad, qualified candidate pipelines for current and future hiring needs.\nBuild strong candidate relationships and deliver a thoughtful, timely candidate experience throughout the process.\nUse recruiting data to track progress, identify risks and opportunities, and provide clear updates to business leaders.\nImprove recruiting processes where needed, testing practical changes that help hiring teams move with clarity and consistency.\nPartner closely with cross-functional teams, including Finance, People Operations, Benefits, Onboarding, and Legal, to support a smooth offer and onboarding experience.\nUphold structured, competency-based hiring practices and help hiring teams assess candidates against the requirements of each role.\nWho you are\nWe're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.Minimum requirements\n4+ years of full-cycle recruiting experience in a fast-paced, high-growth environment, including in-house recruiting experience.\nExperience partnering with senior leaders on hiring strategy, talent-market insights, and complex searches.\nAbility to build trust with senior stakeholders and influence decisions through sound judgment, data, and market knowledge.\nExperience developing sourcing strategies and engaging candidates for specialized or senior roles.\nAbility to use recruiting data to identify trends, communicate progress, and improve recruiting outcomes.\nStrong organizational skills and the ability to manage multiple searches and shifting priorities.\nA collaborative approach and comfort working across functions to solve problems and improve the hiring experience.\nCuriosity about emerging AI tools and a practical approach to testing and adopting new ways of working.\nPreferred qualifications\nExperience recruiting for business, corporate, finance, communications, strategy, legal, or other specialized professional functions.\nExperience supporting senior-level hiring or roles with complex stakeholder groups.\nExperience working across multiple geographies or advising on location strategy.\nFamiliarity with recruiting systems and sourcing tools, including applicant tracking systems, candidate relationship management tools, and LinkedIn Recruiter.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
+      "title": "We Are Rosie: Media Planner & Buyer",
+      "url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
+      "posted": "2026-11-07T22:11:37+00:00",
+      "body": "Are you a hands-on media planner and buyer who loves building as much as executing? We're seeking a Media Planner & Buyer to lead paid social and programmatic campaigns that drive audience growth and client results, and to help shape how our media function grows.About the Role\nHourly Rate: $55\nContract Duration: ASAP through mid-January 2027, with potential to extend\nLocation: Fully remote\nWeekly Hours: 40 hours per week\nAvailability: Eastern or Central time zone hours preferred; some availability between Christmas and New Year's required\nCompany Description\nWe're an early-stage startup in the AI space, building a news product alongside a new offering for the advertising toolbox. Our team is small, fast-moving, and based mostly in DC and Chicago. As we grow, we're bringing on an experienced media planner and buyer to run our paid campaigns and help us define what this function should look like long term.\nAs our Media Planner & Buyer, you'll lead paid campaigns that support audience growth and client programs, taking work from brief to live campaign on tight timelines. You'll personally build and optimize campaigns across paid social and programmatic platforms, partner with our audience, creative, and client teams, and turn performance data into clear recommendations. This is also a bridge role: you'll help us spot recurring needs, put process in place, and define what a future permanent hire in this seat should own. We're looking for an entrepreneurial builder who is as comfortable spending a full day trafficking campaigns as half a day writing a memo or brainstorming with leadership.Scope of SupportMedia Strategy and Planning\nConsult on audience strategies and build media plans for varied audiences, from local readers and broad consumer segments to business leaders, policymakers, and opinion influencers\nTranslate campaign goals into practical targeting, channel, and budget recommendations\nContribute strategic thinking through memos, recommendations, and brainstorms with the team and founder\nCampaign Execution and Optimization\nPersonally build, launch, manage, and optimize campaigns across Meta Ads Manager, LinkedIn Campaign Manager, and programmatic platforms such as The Trade Desk and StackAdapt\nOwn execution end to end, from setup, trafficking, and QA through budget pacing, testing, optimization, and reporting\nDeliver against commitments for reach, impressions, engagement, and other campaign goals\nCross-Functional Partnership and Building the Function\nPartner with audience, creative, and client teams to get campaigns live quickly and adapt as priorities shift\nTurn performance data into clear, actionable recommendations\nRecognize when the request and the real need differ, and deliver both\nFlag recurring needs, propose processes, and advise on how to resource media going forward, including the scope of a future permanent hire\nLook for ways to streamline workflows with AI, such as building agents or automations\n7 to 10 years of experience leading and executing paid social and programmatic campaigns at an agency, media company, public affairs firm, or similarly fast-paced environment\nHands-on, current expertise in Meta Ads Manager, LinkedIn Campaign Manager, and at least one programmatic platform such as The Trade Desk or StackAdapt\nStrong understanding of audience segmentation, geographic and contextual targeting, first-party data, retargeting, and the capabilities and limits of each platform\nSelf-directed working style: you identify what needs to happen, solve problems, flag risks early, and follow through with minimal oversight\nStrong analytical judgment and attention to detail, with the ability to manage multiple campaigns accurately under tight deadlines\nEntrepreneurial mindset: you thrive with ambiguity and enjoy creating structure rather than stepping into a predefined role\nNice to have: real comfort with AI tools like ChatGPT, Claude, or Gemini, and curiosity about using them to work smarter\nAdditional InformationThis is a W2 role.\nWe Are Rosie provides strategic consulting and talent solutions for the marketing industry. We partner with more than 200 of the world’s biggest brands and agencies to help them solve unique marketing challenges with the best people, swiftly and at scale. Founded by former advertising executive Stephanie Nadi Olson in 2018, We Are Rosie is on a mission to redefine how marketing works, with an inclusive, human-centric approach that’s better for business and better for marketers. Our company has been recognized as an industry trailblazer and earned many accolades, including being named to the 2023 Global Top 100 Inspiring Workplaces, the Inc. 5000 2022, and Adweek’s Fastest Growing Agencies in 2021.\nWe Are Rosie is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, age, national origin, ancestry, physical or mental disability, medical​​​ condition, pregnancy, genetic information, gender, sexual orientation, gender identity or ​expression, veteran status, marital status, or any other status protected under federal, state, or local law.\nAn early-stage, AI-powered news and media startup building new tools for advertisers.\nOriginally posted on Himalayas",
+      "budget": "USD 55 to 55/hourly",
+      "score": 5,
       "matched": [
-        "stripe",
+        "chatgpt",
+        "agents",
+        "claude",
+        "gemini",
         "ai"
       ],
       "queue": "contract",
-      "priority": 13,
+      "priority": 15,
       "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
       ],
       "flags": [
-        "budget unknown",
         "check eligibility: United States",
         "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term?utm_source=api",
-      "expires": "2027-01-06T22:47:00+00:00",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer?utm_source=api",
+      "expires": "2027-01-06T22:11:36+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -677,35 +581,60 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
       "source": "Himalayas",
-      "title": "YO AI Labs: Sr TypeScript Engineer - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote",
-      "posted": "2026-11-07T19:53:26+00:00",
-      "body": "Senior Software Engineer\nRole Type: Contractor\nLocation: Remote\nAvailability: ~15 hours/weekJob Summary\nWe are seeking Senior Software Engineers to create and evaluate AI coding tasks involving bug fixing, feature development, code refactoring, and performance optimization.No prior AI experience is required.Key Responsibilities\nCreate coding tasks and reproducible environments with reference solutions.\nDebug and fix complex software issues.\nImplement features and optimize existing code.\nRefactor codebases for performance and maintainability.\nDocument technical solutions and reasoning.\nReview and validate code submissions.\nRequired Skills\nPython 3, Java, Rust, Go, C++, or TypeScript\nAlgorithms & Data Structures\nBug Fixing\nFeature Implementation\nCodebase Refactoring\nPerformance Optimization\nSoftware Engineering\nAttention to Detail\nQualifications\nStrong experience in at least one listed programming language.\nSolid understanding of algorithms and software engineering.\nExperience with debugging, feature development, refactoring, and optimization.\nStrong technical communication and documentation skills.\nAbility to work independently in a remote environment.\nCompensation & Start\nOutput-based compensation per approved task.\nMinimum weekly submission requirements apply.\nExpected start within 24–48 hours after onboarding.\nOriginally posted on Himalayas",
+      "title": "YO AI Labs: Biology & Bioinformatics Expert  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
+      "posted": "2026-11-07T22:04:55+00:00",
+      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and AI model evaluation.Required Skills\nBioinformatics and Computational Biology\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, Samtools, GATK, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Reasoning\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic and biological datasets.\nOptimize pipelines and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible workflows and document findings.\nProvide scientific insights and actionable recommendations.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience analyzing biological data.\nStrong Python/R programming and analytical skills.\nProfessional English proficiency (C1 or higher).\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
       "budget": null,
-      "score": 5,
+      "score": 3,
       "matched": [
-        "typescript",
         "python",
         "ai"
       ],
       "queue": "contract",
       "priority": 12,
-      "reasons": [
-        "posted within 6 hours"
-      ],
+      "reasons": [],
       "flags": [
         "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
+        "check eligibility: United States"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote?utm_source=api",
-      "expires": "2027-01-06T19:53:26+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote?utm_source=api",
+      "expires": "2027-01-06T22:04:54+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Computational Biology Expert  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
+      "posted": "2026-11-07T22:04:26+00:00",
+      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and model evaluation. Candidates will contribute domain expertise to improve AI accuracy and scientific reasoning.Required Skills\nComputational Biology and Bioinformatics\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, GATK, Samtools, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Problem-Solving\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic, transcriptomic, and proteomic datasets.\nOptimize pipeline configurations and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible scientific workflows.\nDocument findings and communicate technical insights.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience with biological data analysis.\nStrong Python/R programming and statistical reasoning skills.\nExcellent written and verbal English communication.\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 12,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote?utm_source=api",
+      "expires": "2027-01-06T22:04:24+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -737,38 +666,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/brunel/jobs/ai-trainer-mechanical-engineers-cad",
-      "source": "Himalayas",
-      "title": "Brunel: AI Trainer:  Mechanical Engineers CAD",
-      "url": "https://himalayas.app/companies/brunel/jobs/ai-trainer-mechanical-engineers-cad",
-      "posted": "2026-11-07T20:17:35+00:00",
-      "body": "Brunel is partnering with DataAnnotation to connect experienced Mechanical Engineers with an innovative AI training program. This opportunity brings together hands-on mechanical engineering expertise and artificial intelligence to help evaluate and improve how AI models solve real-world engineering problems. Selected experts will contribute their knowledge to the development of high-quality, technically accurate AI systems.\nThis opportunity is designed for practicing engineers across mechanical design and CAD, structures and materials, thermal and fluid systems, dynamics and controls, manufacturing, automotive, aerospace, HVAC, robotics, energy, and related mechanical engineering disciplines.\nThe models can already communicate fluently about mechanical engineering concepts. The challenge is teaching them to reliably perform the actual engineering work: sizing components against real load cases, identifying potential failure modes, evaluating CAD assemblies and clearances, analyzing design changes, and understanding downstream impacts. Your engineering judgment will help establish the benchmark against which these AI models are evaluated.Engagement Details\nEngagement\nFully remote, project-based work with a flexible schedule. Around 10 hours per week is the recommended starting point; the project prioritizes engineers who can commit 30–40 hours per week, though part-time availability is considered.Pay Rate$40–$125+ USD/hour, paid via PayPal\nLocation\nUnited States, Canada, United Kingdom, Ireland, Australia, and New ZealandFirst StepSkills assessment (1–3 hours)Responsibilities:\nDesign challenging, closed-ended mechanical engineering problems based on your own professional experience that require genuine engineering reasoning rather than simple information lookup.\nDerive and verify the correct answers to your problems and develop clear, technically rigorous worked solutions demonstrating your methodology.\nTest engineering problems against advanced AI models and refine them to appropriately challenge the models’ reasoning capabilities.\nEvaluate AI-generated mechanical engineering analysis, designs, calculations, and technical documentation for accuracy and real-world applicability.\nCompare AI-generated solutions and determine which performs better, identifying specific strengths, weaknesses, and technical errors.\nIdentify and document concrete failures, including incorrect assumptions, calculation or unit errors, unrealistic results, overlooked failure modes, improper material or component selection, and misinterpretation of engineering requirements.\nReview problems and solutions developed by other engineering contributors for technical correctness, ambiguity, rigor, and practical relevance.\nApply your expertise across one or more mechanical engineering disciplines, including:\nMechanical Design & CAD: geometry, clearances, tolerances, mechanisms, assemblies, and the impact of design changes.\nStructures & Materials: stress, deflection, fatigue, buckling, material selection, and failure analysis.\nThermal & Fluids: heat transfer, thermodynamics, HVAC, pumps, piping, and fluid mechanics.\nDynamics & Controls: vibration, kinematics, rotating machinery, and control systems.\nManufacturing: DFM/DFA, process selection, GD&T, tolerance stack-ups, and cost and quality trade-offs.\nQualifications:\nFluency in English, with the ability to communicate complex technical reasoning clearly in writing.\n2+ years of professional mechanical engineering experience in design, product development, manufacturing, thermal systems, structural engineering, automotive, aerospace, HVAC, robotics, energy, or a related discipline.\nBackground in Mechanical Engineering or a closely related engineering field.\nStrong engineering fundamentals, including knowledge of mechanics of materials, dynamics, thermodynamics, heat transfer, fluid mechanics, and manufacturing processes.\nExperience with tools relevant to your engineering specialty, which may include CAD platforms such as SolidWorks, Fusion 360, Onshape, Creo, NX, CATIA, or Inventor; FEA/CFD tools; or MATLAB/Python for engineering analysis.\nAbility to develop precise, technically rigorous, and unambiguous engineering problems and clearly explain the reasoning behind the correct solution.\nAbility to articulate why an engineering answer or design is incorrect, not simply identify that it is wrong.\nStrong attention to detail and the ability to identify edge cases, incorrect assumptions, and potential failure modes.\nWorking comfort with AI tools, or the ability to learn and use them quickly.\nA current, in-progress, or completed Bachelor’s degree in Mechanical Engineering or a related field.\nRelevant Backgrounds:\nThis opportunity may be particularly relevant for professionals currently working as:\nMechanical Engineer\nMechanical Design Engineer\nProduct Engineer\nManufacturing Engineer\nStructural/Mechanical Engineer\nThermal Engineer\nHVAC Engineer\nAutomotive Engineer\nAerospace Engineer\nRobotics Engineer\nMechanical Systems Engineer\nNote: Payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD. Only applicants based in Australia, Canada, Ireland, New Zealand, the United Kingdom, and the United States will be considered for this role.\nThis is an independent contractor position.\n#RPOCAD\nOriginally posted on Himalayas",
-      "budget": "$40",
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 10,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "project budget below preferred floor",
-        "check eligibility: Australia, Canada, Ireland, New Zealand, United Kingdom, United States"
-      ],
-      "aliases": [],
-      "location": "Australia, Canada, Ireland, New Zealand, United Kingdom, United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/brunel/jobs/ai-trainer-mechanical-engineers-cad?utm_source=api",
-      "expires": "2027-01-06T20:17:35+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -838,23 +735,25 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote",
+      "id": "himalayas:https://himalayas.app/companies/bounteous/jobs/principal-architect",
       "source": "Himalayas",
-      "title": "YO AI Labs: Control System Engineer - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote",
-      "posted": "2026-11-07T20:19:40+00:00",
-      "body": "Role Title: Control Systems Engineer\nRole Type: Contractor\nLocation: RemoteRequired Skills\nPID Control | Controller Design | Plant Modeling | System Identification | Real-System Deployment | LQR | MPC | Kalman Filtering | Python | Control Systems | Model ValidationJob Summary\nWe are seeking experienced Control Systems Engineers to support a project focused on real-world control systems and AI training. The role involves designing, modeling, implementing, and validating controllers for physical systems.Key Responsibilities\nDesign and tune PID and advanced controllers such as LQR, MPC, and Kalman filters.\nDevelop and validate plant models using first-principles and empirical data.\nImplement and test control algorithms using Python and relevant control libraries.\nDeploy and validate controllers on real-world hardware.\nAnalyze system performance and optimize control strategies.\nDocument technical decisions and collaborate with interdisciplinary teams.\nQualifications\nBachelor's degree or higher in Control, Electrical, Mechanical, Mechatronics, or Aerospace Engineering.\n5+ years of hands-on controller design experience.\nProven experience deploying controllers on real physical systems.\nStrong knowledge of plant modeling, system identification, and control theory.\nProficiency in Python and control-system development.\nExperience with PID and at least one modern control method such as LQR, MPC, or Kalman filtering.\nStrong technical communication skills.\nExperience with CasADi, do-mpc, Modelica, ROS, embedded C/C++, or nonlinear/robust control is a plus.\nOriginally posted on Himalayas",
+      "title": "Bounteous: Principal Architect",
+      "url": "https://himalayas.app/companies/bounteous/jobs/principal-architect",
+      "posted": "2026-11-07T20:58:05+00:00",
+      "body": "Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building.\nJob Role: Principal Architect\nLocation: United States (Remote/Hybrid, client-facing travel as needed)\nExperience: 11+ years minimum, 8+ years in Solution/Technical ArchitectureRole Summary:\nThe Principal Architect is the senior-most technical authority and executive-facing owner of the overall solution architecture for the account. This is a client-facing, decision-making role accountable for technical credibility with the client's executive and engineering leadership, and for the integrity of the architecture across every workstream. Delivery on this account uses an agent-orchestrated development model — the Principal Architect is expected to direct AI coding agents (e.g., Claude Code) directly for spikes and validation, not only delegate to human engineers. The final technology stack is not yet finalized (it may or may not end up being Python + React), so this role is intentionally technology-agnostic rather than tied to a specific platform.Key Responsibilities:\nOwn the end-to-end solution architecture for the account, ensuring alignment with business goals and enterprise architecture standards, independent of whichever technology stack is ultimately selected.\nDefine and defend the target-state architecture and roadmap directly to client executive stakeholders and governance/Change Board forums.\nDrive technical design decisions across application architecture, APIs, integrations, cloud infrastructure, and non-functional requirements (performance, scalability, security, reliability).\nSet coding standards, design patterns, and technology choices across workstreams once the stack is confirmed, and keep design options open and unbiased until that decision is made.\nReview and approve high-level designs (HLDs) before implementation begins; hold final sign-off authority on architecture decisions and technical design changes, including authority to block releases that violate architectural standards.\nEvaluate and integrate new tools, frameworks, and AI/agentic development capabilities into the delivery model.\nDirect and prompt AI coding agents (e.g., Claude Code or equivalent) directly for architecture-level proofs of concept, technical spikes, and feasibility validation.\nPartner with the Tech Product Manager and Delivery Lead to align architecture with delivery timelines and prioritization.\nProvide technical leadership and mentoring to the India-based Principal Architect and Solution Architect, ensuring one coherent architecture across delivery locations.\nEscalate cross-cutting architectural risks and represent the account technically to the client's engineering leadership.\nRequired Qualifications\n11+ years in enterprise technology roles with 8+ years owning solution architecture on client-facing, multi-workstream programs.\nProven experience as the client-facing architecture owner, comfortable defending design decisions to VP/C-level stakeholders and formal governance bodies.\nDeep, current fluency in modern application architecture, API/integration design, cloud infrastructure, and non-functional requirements — technology-agnostic, with the ability to architect confidently on whichever stack is ultimately chosen.\nHands-on experience directing or prompting AI coding agents (e.g., Claude Code or an equivalent agentic development tool) as part of an agent-orchestrated delivery model — required, as this engagement is delivered using AI-assisted development.\nTrack record of resolving ambiguous, evolving requirements into a defensible, phased architecture.\nGood To Have\nEnterprise architecture certification (e.g., TOGAF) or a cloud/platform architect certification relevant to the eventual stack.\nExperience in pharmaceutical/healthcare distribution or another regulated industry.\nPrior experience architecting within an AI-agent-orchestrated or \"generative\" development delivery model.\nInformation Security Responsibilities\nPromote and enforce awareness of key information security practices, including acceptable use of information assets, malware protection, and password security protocols\nIdentify, assess, and report security risks, focusing on how these risks impact the confidentiality, integrity, and availability of information assets\nUnderstand and evaluate how data is stored, processed, or transmitted, ensuring compliance with data privacy and protection standards (GDPR, CCPA, etc.)\nEnsure data protection measures are integrated throughout the information lifecycle to safeguard sensitive information\nWe invite you to stay connected with us by subscribing to our monthly job openings alert here.\nBounteous is proud to be an equal opportunity employer. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law. Bounteous is willing to sponsor eligible candidates for employment visas. #BI-Remote\nOriginally posted on Himalayas",
       "budget": null,
-      "score": 3,
+      "score": 6,
       "matched": [
+        "agents",
+        "claude",
+        "prompt",
         "python",
+        "react",
         "ai"
       ],
       "queue": "contract",
       "priority": 8,
-      "reasons": [
-        "posted within 6 hours"
-      ],
+      "reasons": [],
       "flags": [
         "budget unknown",
         "check eligibility: United States",
@@ -864,40 +763,8 @@
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote?utm_source=api",
-      "expires": "2027-01-06T20:19:39+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Computational Physics Research Scientist  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote",
-      "posted": "2026-11-07T19:34:20+00:00",
-      "body": "Role Title: Principal Research Scientist (Computer Science / Computational Physics)\nRole Type: Contractor (Part-Time or Full-Time)\nLocation: Remote\nSchedule: Flexible\nWe are seeking experienced Principal Research Scientists in Computer Science or Computational Physics to support an advanced AI research project. You'll work with frontier AI models and agents to investigate open problems, validate scientific results, and evaluate progress in theoretical and computational research. No prior AI experience is required.Key Responsibilities\nIdentify foundational open problems, theoretical limits, and simulation challenges with verifiable outcomes.\nGuide AI models through complex research tasks involving proofs, algorithms, numerical experiments, and high-performance simulations.\nValidate results through proof checking, computational reproduction, and formal methods.\nEvaluate the novelty, correctness, and significance of research against existing literature.\nPrepare research memos documenting findings, partial solutions, and AI model limitations.\nRecommend promising research directions and open problems for AI-assisted investigation.\nRequired Qualifications\n7–10+ years of active research experience in computer science, mathematical physics, or computational physics.\nStrong record of scholarly contributions and publications in leading research venues, including recent work within the past year.\nExpertise in computational research methods, such as simulation, numerical analysis, algorithm implementation, or high-performance computing.\nAbility to rigorously evaluate t\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "agents",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 8,
-      "reasons": [
-        "posted within 6 hours"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote?utm_source=api",
-      "expires": "2027-01-06T19:34:19+00:00",
+      "apply_url": "https://himalayas.app/companies/bounteous/jobs/principal-architect?utm_source=api",
+      "expires": "2027-01-06T20:58:04+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -957,6 +824,69 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/generalist-u-s-tax-workflow-evaluation-remote?utm_source=api",
       "expires": "2027-01-05T21:22:59+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
+      "source": "Himalayas",
+      "title": "Stripe: Core Recruiter (Fixed Term)",
+      "url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
+      "posted": "2026-11-07T22:47:01+00:00",
+      "body": "Who we are About Stripe\nStripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.About the team\nThe Recruiting team builds Stripe’s culture by connecting exceptional talent with our highest-impact business needs. We bring Stripe’s operating principles to life through thoughtful, consistent hiring practices, a high-quality candidate experience, and data-informed partnership with the business.What you’ll do\nStripe is looking for a consultative, creative recruiter to support critical Core Business functions. You will partner with senior leaders who shape Stripe’s financial strategy, external narrative, long-term growth, and company-wide decision-making.\nThis is a high-impact portfolio with varied talent markets, senior stakeholders, and roles where the quality of each hire can influence how Stripe operates and grows. You will own full-cycle recruiting, advise leaders on hiring strategy and market conditions, and build trusted relationships with candidates and hiring teams.\nThis is a 12 month fixed term contract and you are employed directly through Stripe.Responsibilities\nPartner with senior leaders to understand business priorities, define hiring plans, and develop recruiting strategies that support headcount goals.\nOwn the full recruiting lifecycle, from intake and sourcing through offer acceptance and onboarding handoff.\nAdvise hiring teams on talent-market conditions, candidate availability, competitive dynamics, and hiring approaches for specialized and senior roles.\nDevelop and execute sourcing strategies that build broad, qualified candidate pipelines for current and future hiring needs.\nBuild strong candidate relationships and deliver a thoughtful, timely candidate experience throughout the process.\nUse recruiting data to track progress, identify risks and opportunities, and provide clear updates to business leaders.\nImprove recruiting processes where needed, testing practical changes that help hiring teams move with clarity and consistency.\nPartner closely with cross-functional teams, including Finance, People Operations, Benefits, Onboarding, and Legal, to support a smooth offer and onboarding experience.\nUphold structured, competency-based hiring practices and help hiring teams assess candidates against the requirements of each role.\nWho you are\nWe're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.Minimum requirements\n4+ years of full-cycle recruiting experience in a fast-paced, high-growth environment, including in-house recruiting experience.\nExperience partnering with senior leaders on hiring strategy, talent-market insights, and complex searches.\nAbility to build trust with senior stakeholders and influence decisions through sound judgment, data, and market knowledge.\nExperience developing sourcing strategies and engaging candidates for specialized or senior roles.\nAbility to use recruiting data to identify trends, communicate progress, and improve recruiting outcomes.\nStrong organizational skills and the ability to manage multiple searches and shifting priorities.\nA collaborative approach and comfort working across functions to solve problems and improve the hiring experience.\nCuriosity about emerging AI tools and a practical approach to testing and adopting new ways of working.\nPreferred qualifications\nExperience recruiting for business, corporate, finance, communications, strategy, legal, or other specialized professional functions.\nExperience supporting senior-level hiring or roles with complex stakeholder groups.\nExperience working across multiple geographies or advising on location strategy.\nFamiliarity with recruiting systems and sourcing tools, including applicant tracking systems, candidate relationship management tools, and LinkedIn Recruiter.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "stripe",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 7,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term?utm_source=api",
+      "expires": "2027-01-06T22:47:00+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Sr TypeScript Engineer - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote",
+      "posted": "2026-11-07T19:53:26+00:00",
+      "body": "Senior Software Engineer\nRole Type: Contractor\nLocation: Remote\nAvailability: ~15 hours/weekJob Summary\nWe are seeking Senior Software Engineers to create and evaluate AI coding tasks involving bug fixing, feature development, code refactoring, and performance optimization.No prior AI experience is required.Key Responsibilities\nCreate coding tasks and reproducible environments with reference solutions.\nDebug and fix complex software issues.\nImplement features and optimize existing code.\nRefactor codebases for performance and maintainability.\nDocument technical solutions and reasoning.\nReview and validate code submissions.\nRequired Skills\nPython 3, Java, Rust, Go, C++, or TypeScript\nAlgorithms & Data Structures\nBug Fixing\nFeature Implementation\nCodebase Refactoring\nPerformance Optimization\nSoftware Engineering\nAttention to Detail\nQualifications\nStrong experience in at least one listed programming language.\nSolid understanding of algorithms and software engineering.\nExperience with debugging, feature development, refactoring, and optimization.\nStrong technical communication and documentation skills.\nAbility to work independently in a remote environment.\nCompensation & Start\nOutput-based compensation per approved task.\nMinimum weekly submission requirements apply.\nExpected start within 24–48 hours after onboarding.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 5,
+      "matched": [
+        "typescript",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 6,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote?utm_source=api",
+      "expires": "2027-01-06T19:53:26+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -1022,6 +952,37 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/brunel/jobs/ai-trainer-mechanical-engineers-cad",
+      "source": "Himalayas",
+      "title": "Brunel: AI Trainer:  Mechanical Engineers CAD",
+      "url": "https://himalayas.app/companies/brunel/jobs/ai-trainer-mechanical-engineers-cad",
+      "posted": "2026-11-07T20:17:35+00:00",
+      "body": "Brunel is partnering with DataAnnotation to connect experienced Mechanical Engineers with an innovative AI training program. This opportunity brings together hands-on mechanical engineering expertise and artificial intelligence to help evaluate and improve how AI models solve real-world engineering problems. Selected experts will contribute their knowledge to the development of high-quality, technically accurate AI systems.\nThis opportunity is designed for practicing engineers across mechanical design and CAD, structures and materials, thermal and fluid systems, dynamics and controls, manufacturing, automotive, aerospace, HVAC, robotics, energy, and related mechanical engineering disciplines.\nThe models can already communicate fluently about mechanical engineering concepts. The challenge is teaching them to reliably perform the actual engineering work: sizing components against real load cases, identifying potential failure modes, evaluating CAD assemblies and clearances, analyzing design changes, and understanding downstream impacts. Your engineering judgment will help establish the benchmark against which these AI models are evaluated.Engagement Details\nEngagement\nFully remote, project-based work with a flexible schedule. Around 10 hours per week is the recommended starting point; the project prioritizes engineers who can commit 30–40 hours per week, though part-time availability is considered.Pay Rate$40–$125+ USD/hour, paid via PayPal\nLocation\nUnited States, Canada, United Kingdom, Ireland, Australia, and New ZealandFirst StepSkills assessment (1–3 hours)Responsibilities:\nDesign challenging, closed-ended mechanical engineering problems based on your own professional experience that require genuine engineering reasoning rather than simple information lookup.\nDerive and verify the correct answers to your problems and develop clear, technically rigorous worked solutions demonstrating your methodology.\nTest engineering problems against advanced AI models and refine them to appropriately challenge the models’ reasoning capabilities.\nEvaluate AI-generated mechanical engineering analysis, designs, calculations, and technical documentation for accuracy and real-world applicability.\nCompare AI-generated solutions and determine which performs better, identifying specific strengths, weaknesses, and technical errors.\nIdentify and document concrete failures, including incorrect assumptions, calculation or unit errors, unrealistic results, overlooked failure modes, improper material or component selection, and misinterpretation of engineering requirements.\nReview problems and solutions developed by other engineering contributors for technical correctness, ambiguity, rigor, and practical relevance.\nApply your expertise across one or more mechanical engineering disciplines, including:\nMechanical Design & CAD: geometry, clearances, tolerances, mechanisms, assemblies, and the impact of design changes.\nStructures & Materials: stress, deflection, fatigue, buckling, material selection, and failure analysis.\nThermal & Fluids: heat transfer, thermodynamics, HVAC, pumps, piping, and fluid mechanics.\nDynamics & Controls: vibration, kinematics, rotating machinery, and control systems.\nManufacturing: DFM/DFA, process selection, GD&T, tolerance stack-ups, and cost and quality trade-offs.\nQualifications:\nFluency in English, with the ability to communicate complex technical reasoning clearly in writing.\n2+ years of professional mechanical engineering experience in design, product development, manufacturing, thermal systems, structural engineering, automotive, aerospace, HVAC, robotics, energy, or a related discipline.\nBackground in Mechanical Engineering or a closely related engineering field.\nStrong engineering fundamentals, including knowledge of mechanics of materials, dynamics, thermodynamics, heat transfer, fluid mechanics, and manufacturing processes.\nExperience with tools relevant to your engineering specialty, which may include CAD platforms such as SolidWorks, Fusion 360, Onshape, Creo, NX, CATIA, or Inventor; FEA/CFD tools; or MATLAB/Python for engineering analysis.\nAbility to develop precise, technically rigorous, and unambiguous engineering problems and clearly explain the reasoning behind the correct solution.\nAbility to articulate why an engineering answer or design is incorrect, not simply identify that it is wrong.\nStrong attention to detail and the ability to identify edge cases, incorrect assumptions, and potential failure modes.\nWorking comfort with AI tools, or the ability to learn and use them quickly.\nA current, in-progress, or completed Bachelor’s degree in Mechanical Engineering or a related field.\nRelevant Backgrounds:\nThis opportunity may be particularly relevant for professionals currently working as:\nMechanical Engineer\nMechanical Design Engineer\nProduct Engineer\nManufacturing Engineer\nStructural/Mechanical Engineer\nThermal Engineer\nHVAC Engineer\nAutomotive Engineer\nAerospace Engineer\nRobotics Engineer\nMechanical Systems Engineer\nNote: Payment is made via PayPal. We will never ask for any money from you. PayPal will handle any currency conversions from USD. Only applicants based in Australia, Canada, Ireland, New Zealand, the United Kingdom, and the United States will be considered for this role.\nThis is an independent contractor position.\n#RPOCAD\nOriginally posted on Himalayas",
+      "budget": "$40",
+      "score": 3,
+      "matched": [
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 4,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "project budget below preferred floor",
+        "check eligibility: Australia, Canada, Ireland, New Zealand, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Australia, Canada, Ireland, New Zealand, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/brunel/jobs/ai-trainer-mechanical-engineers-cad?utm_source=api",
+      "expires": "2027-01-06T20:17:35+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-android-developer-remote",
       "source": "Himalayas",
       "title": "YO AI Labs: Sr Android Developer  - Remote",
@@ -1053,6 +1014,66 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-android-developer-remote?utm_source=api",
       "expires": "2027-01-05T21:09:52+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Control System Engineer - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote",
+      "posted": "2026-11-07T20:19:40+00:00",
+      "body": "Role Title: Control Systems Engineer\nRole Type: Contractor\nLocation: RemoteRequired Skills\nPID Control | Controller Design | Plant Modeling | System Identification | Real-System Deployment | LQR | MPC | Kalman Filtering | Python | Control Systems | Model ValidationJob Summary\nWe are seeking experienced Control Systems Engineers to support a project focused on real-world control systems and AI training. The role involves designing, modeling, implementing, and validating controllers for physical systems.Key Responsibilities\nDesign and tune PID and advanced controllers such as LQR, MPC, and Kalman filters.\nDevelop and validate plant models using first-principles and empirical data.\nImplement and test control algorithms using Python and relevant control libraries.\nDeploy and validate controllers on real-world hardware.\nAnalyze system performance and optimize control strategies.\nDocument technical decisions and collaborate with interdisciplinary teams.\nQualifications\nBachelor's degree or higher in Control, Electrical, Mechanical, Mechatronics, or Aerospace Engineering.\n5+ years of hands-on controller design experience.\nProven experience deploying controllers on real physical systems.\nStrong knowledge of plant modeling, system identification, and control theory.\nProficiency in Python and control-system development.\nExperience with PID and at least one modern control method such as LQR, MPC, or Kalman filtering.\nStrong technical communication skills.\nExperience with CasADi, do-mpc, Modelica, ROS, embedded C/C++, or nonlinear/robust control is a plus.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 2,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/control-system-engineer-remote?utm_source=api",
+      "expires": "2027-01-06T20:19:39+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Computational Physics Research Scientist  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote",
+      "posted": "2026-11-07T19:34:20+00:00",
+      "body": "Role Title: Principal Research Scientist (Computer Science / Computational Physics)\nRole Type: Contractor (Part-Time or Full-Time)\nLocation: Remote\nSchedule: Flexible\nWe are seeking experienced Principal Research Scientists in Computer Science or Computational Physics to support an advanced AI research project. You'll work with frontier AI models and agents to investigate open problems, validate scientific results, and evaluate progress in theoretical and computational research. No prior AI experience is required.Key Responsibilities\nIdentify foundational open problems, theoretical limits, and simulation challenges with verifiable outcomes.\nGuide AI models through complex research tasks involving proofs, algorithms, numerical experiments, and high-performance simulations.\nValidate results through proof checking, computational reproduction, and formal methods.\nEvaluate the novelty, correctness, and significance of research against existing literature.\nPrepare research memos documenting findings, partial solutions, and AI model limitations.\nRecommend promising research directions and open problems for AI-assisted investigation.\nRequired Qualifications\n7–10+ years of active research experience in computer science, mathematical physics, or computational physics.\nStrong record of scholarly contributions and publications in leading research venues, including recent work within the past year.\nExpertise in computational research methods, such as simulation, numerical analysis, algorithm implementation, or high-performance computing.\nAbility to rigorously evaluate t\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 2,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote?utm_source=api",
+      "expires": "2027-01-06T19:34:19+00:00",
       "imported": false,
       "date_basis": "posted"
     },
