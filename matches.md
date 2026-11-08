@@ -1,13 +1,13 @@
 # Gig radar
 
-Updated 2026-11-08 05:12 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-08 11:59 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
 
 - [(Task) Got a tedious task you wish someone would just take care of? I might be able to help!](https://www.reddit.com/r/slavelabour/comments/1xqmqzg/task_got_a_tedious_task_you_wish_someone_would/)  
   r/slavelabour | posted Nov 08 01:44 UTC | score 16 | data extraction, google sheets, automation, javascript, scraping, node.js
-  Fit: 54 | spreadsheet automation; data collection; posted within 6 hours; explicit hiring intent; small scope signal
+  Fit: 48 | spreadsheet automation; data collection; explicit hiring intent; small scope signal
   Check: budget unknown
   > Hey everyone! I'm a software engineer with a Claude Pro 20x subscription, and I often end up with quite a lot of unused usage by the end of each week. I thought I'd put it to better use by helping people with their projects and making a little money along the way. For example, recently I helped a lawyer friend with a research task that involved downloading thousands of documents from government websites (RBI, SEBI, RERA, etc.), organizing them into appropriate folder structures, and making everything easily accessible for his research. I can help with similar tasks, including: - Bulk docume...
 - [(HIRING) Cybersecurity Devs](https://www.reddit.com/r/hiring/comments/1xqd5hh/hiring_cybersecurity_devs/)  
@@ -15,11 +15,6 @@ Updated 2026-11-08 05:12 UTC. Projects first, ranked by fit and freshness.
   Fit: 29 | lead intake; explicit hiring intent
   Check: budget unknown
   > Wayne Citadel is searching for 2 (two) experienced, dedicated Security devs. what is all about: heres the story: Problem: Infrastructure changes submitted through GitHub pull requests can silently introduce security risks — widened IAM permissions, public exposure, destructive replacements — and reviewers rarely have time to read a full Terraform plan. Constraint: Explain only the change, never scan the whole state. The AI must never decide what a finding is or how severe it is; those decisions stay with deterministic logic. Nothing in the output may be invented. Decision: Separated detecti...
-- [(HIRING) UI/UX Designer (or Designer + Developer) to redesign a music streaming app + website, $700 design budget](https://www.reddit.com/r/forhire/comments/1xogb6x/hiring_uiux_designer_or_designer_developer_to/)  
-  r/forhire | posted Nov 05 11:29 UTC | score 4 | **$700** | mobile app, problem: website build
-  Fit: 25 | website build; explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Hi everyone, I run SoundPlus ( Graphikrafts music ), a free music streaming app for Android with a landing page and a web player. The product works, but the design doesn't match what it can be, so I'm looking for someone to give it a modern, polished identity. Current landing page: https://music.graphikrafts.com/ What I need (design): Full redesign of the landing page with a modern look and feel Full redesign of the Android app UI/UX (home, player, queue, equalizer, library, search). The current app is functional but not very engaging, so I want fresh ideas, not just a reskin. A proper desi...
 - [(Hiring) AI Software Engineer - $30~$60/hr](https://www.reddit.com/r/forhire/comments/1xoidq5/hiring_ai_software_engineer_3060hr/)  
   r/forhire | posted Nov 05 13:16 UTC | score 3 | **$30** | agents, ai
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
@@ -173,11 +168,6 @@ Updated 2026-11-08 05:12 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Role Title: Principal Research Scientist (Computer Science / Computational Physics) Role Type: Contractor (Part-Time or Full-Time) Location: Remote Schedule: Flexible We are seeking experienced Principal Research Scientists in Computer Science or Computational Physics to support an advanced AI research project. You'll work with frontier AI models and agents to investigate open problems, validate scientific results, and evaluate progress in theoretical and computational research. No prior AI experience is required.Key Responsibilities Identify foundational open problems, theoretical limits,...
-- [Location: Estonia Remote:Yes](https://news.ycombinator.com/item?id=50403646)  
-  HN Who is hiring | posted Nov 07 11:35 UTC | score 3 | typescript, next.js, react
-  Fit: 2 | 
-  Check: budget unknown; seniority requirement needs review
-  > Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \[at\] gmail \[dot\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in rol...
 - [YO AI Labs: Procurement & Vendor Management Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote)  
   Himalayas | posted Nov 06 23:00 UTC | score 3 | **USD 90 to 90/hourly** | llm, ai
   Fit: 0 | budget stated, verify scope and currency
@@ -193,6 +183,11 @@ Updated 2026-11-08 05:12 UTC. Projects first, ranked by fit and freshness.
   Fit: 0 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Semiconductor Engineering Expert Role Type: Contractor Location: Remote Compensation: $80–$185/hour Commitment: FlexibleJob Description We are seeking experienced Semiconductor Engineering Experts to develop challenging technical problems, provide accurate solutions, and establish evaluation criteria for advanced AI training projects.Key Responsibilities Design complex technical problems in device physics, process integration, circuit design, lithography, packaging, yield, and reliability. Provide accurate solutions with clear technical reasoning. Define objective criteria for evaluating te...
+- [Location: Estonia Remote:Yes](https://news.ycombinator.com/item?id=50403646)  
+  HN Who is hiring | posted Nov 07 11:35 UTC | score 3 | typescript, next.js, react
+  Fit: -4 | 
+  Check: budget unknown; seniority requirement needs review
+  > Location: Estonia Remote:Yes Willing to relocate: No Technologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand Part-time/Freelance: Yes Linkedin: https://www.linkedin.com/in/mustafadalga/ Contact info: mustafadalga \[at\] gmail \[dot\] com Front-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in rol...
 - [YO AI Labs: Finance & Accounting Expert - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/finance-accounting-expert-remote)  
   Himalayas | posted Nov 06 22:58 UTC | score 3 | llm, ai
   Fit: -4 | 
