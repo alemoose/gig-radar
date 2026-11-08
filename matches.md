@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-08 11:59 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-08 17:53 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
@@ -10,19 +10,24 @@ Updated 2026-11-08 11:59 UTC. Projects first, ranked by fit and freshness.
   Fit: 48 | spreadsheet automation; data collection; explicit hiring intent; small scope signal
   Check: budget unknown
   > Hey everyone! I'm a software engineer with a Claude Pro 20x subscription, and I often end up with quite a lot of unused usage by the end of each week. I thought I'd put it to better use by helping people with their projects and making a little money along the way. For example, recently I helped a lawyer friend with a research task that involved downloading thousands of documents from government websites (RBI, SEBI, RERA, etc.), organizing them into appropriate folder structures, and making everything easily accessible for his research. I can help with similar tasks, including: - Bulk docume...
+- [(Hiring) Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)](https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/)  
+  r/forhire | posted Nov 08 15:03 UTC | score 9 | **$50 - $100** | react native, mobile app, postgresql, typescript, next.js, ai
+  Fit: 37 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Hi everyone, I am looking for an experienced freelancer to conduct a technical code review and a white-box security assessment for a classifieds marketplace for pet supplies. The Tech Stack: TypeScript Monorepo (pnpm and Turborepo). 4 Apps: Website, Admin panel, API with worker, and an Android/iOS app. Frontend: Next.js 16.4 (App Router) and Tailwind 4. Backend: Hono + oRPC, Better Auth, PostgreSQL 18 with PostGIS and Drizzle ORM. Mobile App: React Native 0.88 with Expo SDK 58. The Task: Code and architecture review as a senior developer. White-box security assessment with dynamic tests on...
 - [(HIRING) Cybersecurity Devs](https://www.reddit.com/r/hiring/comments/1xqd5hh/hiring_cybersecurity_devs/)  
   r/hiring | posted Nov 07 18:23 UTC | score 5 | automation, ai, problem: lead intake
   Fit: 29 | lead intake; explicit hiring intent
   Check: budget unknown
   > Wayne Citadel is searching for 2 (two) experienced, dedicated Security devs. what is all about: heres the story: Problem: Infrastructure changes submitted through GitHub pull requests can silently introduce security risks — widened IAM permissions, public exposure, destructive replacements — and reviewers rarely have time to read a full Terraform plan. Constraint: Explain only the change, never scan the whole state. The AI must never decide what a finding is or how severe it is; those decisions stay with deterministic logic. Nothing in the output may be invented. Decision: Separated detecti...
-- [(Hiring) AI Software Engineer - $30~$60/hr](https://www.reddit.com/r/forhire/comments/1xoidq5/hiring_ai_software_engineer_3060hr/)  
-  r/forhire | posted Nov 05 13:16 UTC | score 3 | **$30** | agents, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > We're looking for a skilled AI Software Engineer with a strong background in software development and a deep understanding of AI technologies. The ideal candidate is passionate about building innovative AI-powered solutions and has solid engineering skills. Requirements: - Fluent in English, with strong verbal and written communication skills. - 3+ years of professional experience in software development. - Deep knowledge of AI, machine learning, and LLMs. - Strong problem-solving skills and the ability to work independently. - Experience developing, deploying, and maintaining production-re...
 
 ## Contract roles
 
+- [True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)](https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd)  
+  We Work Remotely | posted Nov 08 17:00 UTC | score 3 | **$60 to $120 per hour** | agents, python, ai
+  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Contribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work.What You'll Do Solve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development. Translate physical systems and engineering requirements into analytical or computational models....
 - [Decentralized Masters: Chief Information Security Officer](https://himalayas.app/companies/decentralized-masters/jobs/chief-information-security-officer)  
   Himalayas | posted Nov 07 22:20 UTC | score 10 | **$48.6** | automation, ai agent, agents, prompt, saas, llm
   Fit: 25 | API connection; explicit hiring intent; budget stated, verify scope and currency
@@ -43,11 +48,6 @@ Updated 2026-11-08 11:59 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > Software Engineer (GitHub Contributor) Role Type: Contractor Location: Remote – WorldwideJob Description We are seeking experienced Software Engineers to contribute to an AI training project focused on code generation, debugging, feature implementation, refactoring, and performance optimization. You'll create realistic coding challenges and reliable test environments to help train next-generation AI systems. Prior AI experience is not required.Required Skills Python 3, Java, Rust, C++, or TypeScript Algorithms and Data Structures GitHub and Open-Source Contributions Bug Fixing and Feature I...
-- [Lemon.io: Senior Vue Developer](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)  
-  Remote OK | posted Nov 05 12:45 UTC | score 14 | **$50,000 to $180,000/yr** | react native, automation, full stack, javascript, typescript, ai agent
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior Vue Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the clientâs team and work as part of it. Direct hire: some clients hi...
 - [YO AI Labs: Applied Scientists — Machine Learning  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595)  
   Himalayas | posted Nov 07 20:12 UTC | score 4 | agents, python, ai
   Fit: 19 | explicit hiring intent

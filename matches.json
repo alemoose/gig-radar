@@ -45,6 +45,43 @@
       "date_basis": "posted"
     },
     {
+      "id": "reddit:t3_1xr0gdt",
+      "source": "r/forhire",
+      "title": "[Hiring] Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)",
+      "url": "https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/",
+      "posted": "2026-11-08T15:03:55+00:00",
+      "body": "Hi everyone, \nI am looking for an experienced freelancer to conduct a technical code review and a white-box security assessment for a classifieds marketplace for pet supplies. \nThe Tech Stack: \nTypeScript Monorepo (pnpm and Turborepo). \n4 Apps: Website, Admin panel, API with worker, and an Android/iOS app. \nFrontend: Next.js 16.4 (App Router) and Tailwind 4. \nBackend: Hono + oRPC, Better Auth, PostgreSQL 18 with PostGIS and Drizzle ORM. \nMobile App: React Native 0.88 with Expo SDK 58. \nThe Task: \nCode and architecture review as a senior developer. \nWhite-box security assessment with dynamic tests on a staging system. \nSecurity baseline testing according to OWASP ASVS 5.0 L2 (for web and API) and MASVS (for the Android app). \nFinal delivery includes a report with an executive summary, a findings table, and a clear acceptance verdict for the public launch. \nRequirements: \nYou must have real, proven experience in security assessments and code reviews for this specific tech stack. \nLanguage: The UI, code comments, and documentation are mostly in German. Under the NDA, you are not allowed to put code or docs into online translation or AI services without asking us first. We can translate passages for you, but basic German comprehension is a big plus. \nYou must sign an NDA before any access is granted. \nBudget: I am looking to start with a budget of around $50 - $100 for the initial testing phase, but I am absolutely open to offers based on your experience and the required scope. \nIf you are interested and have the right skills, please send me a DM with your portfolio, relevant certifications (e.g., OSCP, CEH), or examples of past reviews. Must have a good CV.",
+      "budget": "$50 - $100",
+      "score": 9,
+      "matched": [
+        "react native",
+        "mobile app",
+        "postgresql",
+        "typescript",
+        "next.js",
+        "ai"
+      ],
+      "queue": "project",
+      "priority": 37,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "reddit:t3_1xqd5hh",
       "source": "r/hiring",
       "title": "[HIRING] Cybersecurity Devs",
@@ -79,21 +116,23 @@
       "date_basis": "posted"
     },
     {
-      "id": "reddit:t3_1xoidq5",
-      "source": "r/forhire",
-      "title": "[Hiring] AI Software Engineer - $30~$60/hr",
-      "url": "https://www.reddit.com/r/forhire/comments/1xoidq5/hiring_ai_software_engineer_3060hr/",
-      "posted": "2026-11-05T13:16:30+00:00",
-      "body": "We're looking for a skilled AI Software Engineer with a strong background in software development and a deep understanding of AI technologies. The ideal candidate is passionate about building innovative AI-powered solutions and has solid engineering skills. \nRequirements: \n- Fluent in English, with strong verbal and written communication skills. \n- 3+ years of professional experience in software development. \n- Deep knowledge of AI, machine learning, and LLMs. \n- Strong problem-solving skills and the ability to work independently. \n- Experience developing, deploying, and maintaining production-ready software. \n- Blockchain experience is a strong plus. \n- Passion for emerging technologies and innovative projects. \nNice to Have: \n- Experience with AI agents and decentralized AI systems. \n- Familiarity with blockchain ecosystems and Web3 technologies. \n- Experience working in a startup environment.",
-      "budget": "$30",
+      "id": "wwr:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "source": "We Work Remotely",
+      "title": "True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)",
+      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "posted": "2026-11-08T17:00:41+00:00",
+      "body": "Headquarters: United States\nURL: https://truetalentsolutionspartners.com\nAbout the Role\nContribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work.What You'll Do\nSolve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nReview engineering artifacts and analyses against relevant physical and design constraints.What We're Looking For\nAn MSc or PhD in Mechanical Engineering or a closely related engineering discipline, or a strong foundation in applied mechanics and mechanical engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nExperience solving and validating mechanical engineering problems in design, analysis, simulation, testing, or research and development.\nExperience translating engineering requirements into models and working with geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nPractical proficiency with coding agents and experience with Python.Compensation & Benefits\nCompensation is $60 to $120 per hour. This is output-based contractor work, with payment per task that meets project specifications. The expected commitment is approximately 15 hours per week, with a flexible schedule. Visa sponsorship is not available.Location\nFully remote.\nTo apply: https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "budget": "$60 to $120 per hour",
       "score": 3,
       "matched": [
         "agents",
+        "python",
         "ai"
       ],
-      "queue": "project",
-      "priority": 23,
+      "queue": "contract",
+      "priority": 27,
       "reasons": [
+        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -242,50 +281,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/github-expert-remote?utm_source=api",
       "expires": "2027-01-06T21:25:34+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "remoteok:1137688",
-      "source": "Remote OK",
-      "title": "Lemon.io: Senior Vue Developer",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
-      "posted": "2026-11-05T12:45:45+00:00",
-      "body": "engineer dev full time full stack remote remote work javascript typescript php laravel node dot net python front end\nLemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. Weâve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\nNew roles for Senior Vue Engineers come in all the time, and several are open right now.\nTwo ways to work with clients\nContract: most roles are contract-based. You join the clientâs team and work as part of it.\nDirect hire: some clients hire engineers full-time, and we support you through the process.\nBecause companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\nWhat you get\nCompetitive rate, based on your seniority and skills\nWe find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\nFlexible schedule. Work async or with a small overlap with the teamâs hours.\nNo micromanagement, no screen trackers\nDirect work with clients, most of them with technical backgrounds\nOngoing support from your application through every project, plus a community of engineers from 75+ countries\nWho weâre looking forSenior Vue.js & Nuxt.js Developers:\n4+ years of software development experience\n4+ years of experience with Vue.js\n2+ years of experience with Nuxt.js & JavaScript\nExperience with Typescript is a mustSenior Vue.js & PHP Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with PHP\nExperience with Laravel is a mustSenior Vue.js & Node.js Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js & 3+ years with Node.js\nExperience with Nuxt.js is a mustSenior Vue.js & .NET Developers:\n5+ years of software development experience\n3+ years of experience with Vue.js & 5+ years with .NET\nOR\n5+ years of experience with Vue.js & 3+ years with .NET\nExperience with Typescript is a mustSenior Vue.js & Python Developers:\n4+ years of software development experience\n3+ years of experience with Vue.js 3+ years with Python\nYou own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\nYou can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\nAdvanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\nYou work full-time remotely and deliver without supervision\nYou onboard quickly and start shipping in your first weeks\nHow it works\nApply and complete your profile\nVerify your role\nOnce approved, we match you with a project. Typical time to first project: 3 weeks\nReady? Apply and join the Lemon.io community.\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, Magento & PHP, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nPlease mention the word **PROMISED** and tag RNDAuNjkuMTIxLjIx when applying to show you read the job post completely (#RNDAuNjkuMTIxLjIx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "budget": "$50,000 to $180,000/yr",
-      "score": 14,
-      "matched": [
-        "react native",
-        "automation",
-        "full stack",
-        "javascript",
-        "typescript",
-        "ai agent",
-        "firebase",
-        "next.js",
-        "node.js",
-        "python",
-        "react",
-        "node",
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
