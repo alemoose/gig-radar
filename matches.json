@@ -25,7 +25,7 @@
         "problem: data collection"
       ],
       "queue": "project",
-      "priority": 48,
+      "priority": 42,
       "reasons": [
         "spreadsheet automation",
         "data collection",
@@ -115,6 +115,40 @@
       "date_basis": "posted"
     },
     {
+      "id": "hn:50420399",
+      "source": "HN Who is hiring",
+      "title": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design",
+      "url": "https://news.ycombinator.com/item?id=50420399",
+      "posted": "2026-11-09T02:48:07+00:00",
+      "body": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design\nOpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role.\n- $30–$100 per hour equivalent, paid per accepted task\n- 100% remote, United States\n- About 15 hours/week; choose your schedule\nWe need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems that write software.\nIdeal background\n- Strong professional backend experience with Python, Java, Node.js, Go, Rust, TypeScript, C++ or similar\n- Scalable APIs/services, complex features, debugging, bottleneck resolution and code review\n- Strong analytical, problem-solving and technical communication skills; professional English\n- Helpful: application security, secure coding, vulnerability assessment, penetration testing, OWASP/CWE or security-focused code review\n- No AI experience needed; structured task-design guidelines and verification criteria are provided\nIndependent contractor; pay is per accepted task. Fully remote and flexible, with no fixed shifts. Apply on OpenTrain (resume upload): https://app.opentrain.ai/api/out/cmu9linxg000o0bgm9xiw33b9?c...\nThen complete a short application on the hiring platform. Shortlisted applicants take a short AI interview.",
+      "budget": "$30",
+      "score": 5,
+      "matched": [
+        "typescript",
+        "node.js",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 31,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
       "source": "We Work Remotely",
       "title": "True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)",
@@ -129,9 +163,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 27,
+      "priority": 21,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -167,7 +200,7 @@
         "problem: API connection"
       ],
       "queue": "contract",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "API connection",
         "explicit hiring intent",
@@ -350,37 +383,37 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
+      "id": "himalayas:https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
       "source": "Himalayas",
-      "title": "We Are Rosie: Media Planner & Buyer",
-      "url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
-      "posted": "2026-11-07T22:11:37+00:00",
-      "body": "Are you a hands-on media planner and buyer who loves building as much as executing? We're seeking a Media Planner & Buyer to lead paid social and programmatic campaigns that drive audience growth and client results, and to help shape how our media function grows.About the Role\nHourly Rate: $55\nContract Duration: ASAP through mid-January 2027, with potential to extend\nLocation: Fully remote\nWeekly Hours: 40 hours per week\nAvailability: Eastern or Central time zone hours preferred; some availability between Christmas and New Year's required\nCompany Description\nWe're an early-stage startup in the AI space, building a news product alongside a new offering for the advertising toolbox. Our team is small, fast-moving, and based mostly in DC and Chicago. As we grow, we're bringing on an experienced media planner and buyer to run our paid campaigns and help us define what this function should look like long term.\nAs our Media Planner & Buyer, you'll lead paid campaigns that support audience growth and client programs, taking work from brief to live campaign on tight timelines. You'll personally build and optimize campaigns across paid social and programmatic platforms, partner with our audience, creative, and client teams, and turn performance data into clear recommendations. This is also a bridge role: you'll help us spot recurring needs, put process in place, and define what a future permanent hire in this seat should own. We're looking for an entrepreneurial builder who is as comfortable spending a full day trafficking campaigns as half a day writing a memo or brainstorming with leadership.Scope of SupportMedia Strategy and Planning\nConsult on audience strategies and build media plans for varied audiences, from local readers and broad consumer segments to business leaders, policymakers, and opinion influencers\nTranslate campaign goals into practical targeting, channel, and budget recommendations\nContribute strategic thinking through memos, recommendations, and brainstorms with the team and founder\nCampaign Execution and Optimization\nPersonally build, launch, manage, and optimize campaigns across Meta Ads Manager, LinkedIn Campaign Manager, and programmatic platforms such as The Trade Desk and StackAdapt\nOwn execution end to end, from setup, trafficking, and QA through budget pacing, testing, optimization, and reporting\nDeliver against commitments for reach, impressions, engagement, and other campaign goals\nCross-Functional Partnership and Building the Function\nPartner with audience, creative, and client teams to get campaigns live quickly and adapt as priorities shift\nTurn performance data into clear, actionable recommendations\nRecognize when the request and the real need differ, and deliver both\nFlag recurring needs, propose processes, and advise on how to resource media going forward, including the scope of a future permanent hire\nLook for ways to streamline workflows with AI, such as building agents or automations\n7 to 10 years of experience leading and executing paid social and programmatic campaigns at an agency, media company, public affairs firm, or similarly fast-paced environment\nHands-on, current expertise in Meta Ads Manager, LinkedIn Campaign Manager, and at least one programmatic platform such as The Trade Desk or StackAdapt\nStrong understanding of audience segmentation, geographic and contextual targeting, first-party data, retargeting, and the capabilities and limits of each platform\nSelf-directed working style: you identify what needs to happen, solve problems, flag risks early, and follow through with minimal oversight\nStrong analytical judgment and attention to detail, with the ability to manage multiple campaigns accurately under tight deadlines\nEntrepreneurial mindset: you thrive with ambiguity and enjoy creating structure rather than stepping into a predefined role\nNice to have: real comfort with AI tools like ChatGPT, Claude, or Gemini, and curiosity about using them to work smarter\nAdditional InformationThis is a W2 role.\nWe Are Rosie provides strategic consulting and talent solutions for the marketing industry. We partner with more than 200 of the world’s biggest brands and agencies to help them solve unique marketing challenges with the best people, swiftly and at scale. Founded by former advertising executive Stephanie Nadi Olson in 2018, We Are Rosie is on a mission to redefine how marketing works, with an inclusive, human-centric approach that’s better for business and better for marketers. Our company has been recognized as an industry trailblazer and earned many accolades, including being named to the 2023 Global Top 100 Inspiring Workplaces, the Inc. 5000 2022, and Adweek’s Fastest Growing Agencies in 2021.\nWe Are Rosie is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, age, national origin, ancestry, physical or mental disability, medical​​​ condition, pregnancy, genetic information, gender, sexual orientation, gender identity or ​expression, veteran status, marital status, or any other status protected under federal, state, or local law.\nAn early-stage, AI-powered news and media startup building new tools for advertisers.\nOriginally posted on Himalayas",
-      "budget": "USD 55 to 55/hourly",
-      "score": 5,
+      "title": "Object Edge: Senior Data Engineer (Databricks) - Contractor - US",
+      "url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
+      "posted": "2026-11-09T04:03:58+00:00",
+      "body": "About Object Edge:\nObject Edge is an AI-native, forward-deployed engineering firm. It builds Hive, a company brain for revenue, embeds engineers to build agentic workflows on it, and provides management engineering to lead the change.\nAward-winning eCommerce consultancy that delivers end-to-end design and development solutions centered around our client’s goals and customer needs.\nOur teams unite curious, intellectual advisors across the globe who creatively solve business problems and produce measurable results.\nAbout the Position: \nSenior Data Engineering (Databricks)\nWhat You’ll Do\n• Be a technical leader in teams with minimal oversight and direction to deliver innovative\nsolutions on the Databricks Platform using core cloud data lakehouse methodologies,\ntools, distributed processing engines, event streaming platforms, and other modern\ndata-related technologies.\n• Be part of the Databricks Center of Excellence.\n• Build the next generation of data platforms and work with some of the most forward-\nthinking organizations in data and analytics.\n• Work under the direction of a Solution Architect to help design and implement\ncomponents of our clients’ data platform solution.\n• Participate in design sessions and be able to break down complex development tasks,\nand complete development items on time.\n• Contribute to various COE initiatives to develop Databricks solution accelerators and\nbring an innovative mindset.\nLocation: Remote - United States\nWhat You’ll Bring:\nAs a Senior Engineer in the Databricks practice, you will bring a curious mindset and a passion for\nexploring innovative solutions to address our clients’ most pressing data challenges. You are a self-\nstarter who excels at breaking down complex problems and eagerly shares insights with your team\nand the broader Builder community.\nKey Responsibilities:\n• Develop and implement data solutions using Databricks, with hands-on experience in\nspecific Databricks platform features such as Delta Lake, Uniform (Iceberg), Delta Live\nTables (Lakeflow Declarative Pipelines), and Unity Catalog.\n• Collaborate with cross-functional teams to design and optimize data pipelines for both\nbatch and streaming data, ensuring data quality and efficiency.\n• Stay updated with emerging technologies, the latest Databricks platform features, and\ncontinuously improve your skills in Databricks and other relevant tools.\nExperience You’ll Bring:\n• Strong data engineering experience, with at least 2 years of hands-on data pipeline\ndesign and development experience with Databricks, including specific platform\nfeatures like Delta Lake, Uniform (Iceberg), Delta Live Tables (Lakeflow Declarative\npipelines), and Unity Catalog.\n• Proficiency in designing and building robust, scalable, YAML configuration-driven data\npipelines with batch, micro-batch, and streaming data ingestion and processing patterns\nusing tools like Auto Loader, demonstrating a strong understanding of modern data\nengineering practices.Experienced in building complex job/workflow orchestration patterns\nusing either Databricks jobs/workflows or other orchestration tools like Airflow, dbt\netc.\n• Exposure to building robust data quality, pipeline audit/observability solutions with\nDatabricks native features and/or other data quality tools/frameworks like Great\nExpectations, Collibra, dbt, etc.\n• Proficiency in Big Data Platforms: Apache Spark, Presto, Amazon EMR.\n• Experience with Cloud Data Warehouses: Amazon Redshift, Snowflake, Google\nBigQuery.\n• Strong programming skills using SQL, stored procedures, and object-oriented programming\nlanguages (like Java, Python, PySpark, etc.).\n• Familiarity with building DevOps, CI/CD pipelines using Databricks Asset Bundles with\nautomated validation and testing.\n• Exposure to Infrastructure as Code (IaC) tools like Terraform is a big plus.\n• Familiarity with NoSQL Databases and Container Management Systems.\n• Exposure to AI/ML tools (like MLflow), prompt engineering, and modern data and AI agentic\nworkflows.\n• An ideal candidate will have Databricks Data Engineering Associate and/or Professional\ncertification completed with multiple Databricks project delivery experience.\nCompensation:\nSalary is commensurate with experience based on department and role. \nObject Edge provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. We believe in providing employees with a work environment free of unlawful discrimination and harassment. In addition to national law requirements, Object Edge complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 4,
       "matched": [
-        "chatgpt",
-        "agents",
-        "claude",
-        "gemini",
+        "workflow",
+        "prompt",
+        "python",
         "ai"
       ],
       "queue": "contract",
       "priority": 15,
       "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
+        "posted within 6 hours",
+        "explicit hiring intent"
       ],
       "flags": [
+        "budget unknown",
         "check eligibility: United States",
         "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer?utm_source=api",
-      "expires": "2027-01-06T22:11:36+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us?utm_source=api",
+      "expires": "2027-01-08T04:03:57+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -445,95 +478,6 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote?utm_source=api",
       "expires": "2027-01-05T21:55:51+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Biology & Bioinformatics Expert  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
-      "posted": "2026-11-07T22:04:55+00:00",
-      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and AI model evaluation.Required Skills\nBioinformatics and Computational Biology\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, Samtools, GATK, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Reasoning\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic and biological datasets.\nOptimize pipelines and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible workflows and document findings.\nProvide scientific insights and actionable recommendations.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience analyzing biological data.\nStrong Python/R programming and analytical skills.\nProfessional English proficiency (C1 or higher).\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote?utm_source=api",
-      "expires": "2027-01-06T22:04:54+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Computational Biology Expert  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
-      "posted": "2026-11-07T22:04:26+00:00",
-      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and model evaluation. Candidates will contribute domain expertise to improve AI accuracy and scientific reasoning.Required Skills\nComputational Biology and Bioinformatics\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, GATK, Samtools, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Problem-Solving\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic, transcriptomic, and proteomic datasets.\nOptimize pipeline configurations and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible scientific workflows.\nDocument findings and communicate technical insights.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience with biological data analysis.\nStrong Python/R programming and statistical reasoning skills.\nExcellent written and verbal English communication.\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote?utm_source=api",
-      "expires": "2027-01-06T22:04:24+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer",
-      "source": "We Work Remotely",
-      "title": "Mindrift: Freelance Mechanical CFD Engineer - AI Trainer",
-      "url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer",
-      "posted": "2026-11-06T04:12:21+00:00",
-      "body": "Headquarters: Peru\nURL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift\nAbout the role \nHelp train and evaluate AI agents on expert-level fluid simulation tasks. You'll take CAD geometry, set up and run simulations, build verified reference solutions, and write Python checks for the agent's results.\nRequirements\nA degree in Mechanical or Aerospace Engineering, or a related field such as energy or oil & gas. A PhD is preferred but not required.\nSeveral years of hands-on industry or research CFD with OpenFOAM, ANSYS Fluent/CFX or STAR-CCM+, including meshing.\nSolid verification and validation practice: mesh-independence studies, and validation against experiment or benchmarks.\nComfortable with Python and GitHub.\nEnglish at B2 level or above.\nNice to have: aerospace, automotive, offshore or turbomachinery background; multiphase or particle-laden flow experience.\nProject time expectations \nFor this project, tasks are estimated to require around 10–20 hours per week during active phases, based on project requirements. This is an estimate, not a guaranteed workload, and applies only while the project is active. \nCompensation \nOn this project, contributors can earn up to $14 per hour equivalent, depending on their level and pace of contribution. \nCompensation varies across projects depending on scope, complexity, and required expertise. Please note that other projects on the platform may offer different earning levels based on their requirements.\nWhy this freelance opportunity might be a great fit for you? \nWork fully remote on your own schedule with just a laptop and stable internet connection.\nApply your expertise to real-world technology projects while gaining experience building high-quality solutions for a global platform. \nParticipate in performance-based bonus programs that reward high-quality work and consistent delivery.\nTo apply: https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer",
-      "budget": "$14 per hour",
-      "score": 4,
-      "matched": [
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -661,6 +605,41 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
+      "source": "Himalayas",
+      "title": "We Are Rosie: Media Planner & Buyer",
+      "url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
+      "posted": "2026-11-07T22:11:37+00:00",
+      "body": "Are you a hands-on media planner and buyer who loves building as much as executing? We're seeking a Media Planner & Buyer to lead paid social and programmatic campaigns that drive audience growth and client results, and to help shape how our media function grows.About the Role\nHourly Rate: $55\nContract Duration: ASAP through mid-January 2027, with potential to extend\nLocation: Fully remote\nWeekly Hours: 40 hours per week\nAvailability: Eastern or Central time zone hours preferred; some availability between Christmas and New Year's required\nCompany Description\nWe're an early-stage startup in the AI space, building a news product alongside a new offering for the advertising toolbox. Our team is small, fast-moving, and based mostly in DC and Chicago. As we grow, we're bringing on an experienced media planner and buyer to run our paid campaigns and help us define what this function should look like long term.\nAs our Media Planner & Buyer, you'll lead paid campaigns that support audience growth and client programs, taking work from brief to live campaign on tight timelines. You'll personally build and optimize campaigns across paid social and programmatic platforms, partner with our audience, creative, and client teams, and turn performance data into clear recommendations. This is also a bridge role: you'll help us spot recurring needs, put process in place, and define what a future permanent hire in this seat should own. We're looking for an entrepreneurial builder who is as comfortable spending a full day trafficking campaigns as half a day writing a memo or brainstorming with leadership.Scope of SupportMedia Strategy and Planning\nConsult on audience strategies and build media plans for varied audiences, from local readers and broad consumer segments to business leaders, policymakers, and opinion influencers\nTranslate campaign goals into practical targeting, channel, and budget recommendations\nContribute strategic thinking through memos, recommendations, and brainstorms with the team and founder\nCampaign Execution and Optimization\nPersonally build, launch, manage, and optimize campaigns across Meta Ads Manager, LinkedIn Campaign Manager, and programmatic platforms such as The Trade Desk and StackAdapt\nOwn execution end to end, from setup, trafficking, and QA through budget pacing, testing, optimization, and reporting\nDeliver against commitments for reach, impressions, engagement, and other campaign goals\nCross-Functional Partnership and Building the Function\nPartner with audience, creative, and client teams to get campaigns live quickly and adapt as priorities shift\nTurn performance data into clear, actionable recommendations\nRecognize when the request and the real need differ, and deliver both\nFlag recurring needs, propose processes, and advise on how to resource media going forward, including the scope of a future permanent hire\nLook for ways to streamline workflows with AI, such as building agents or automations\n7 to 10 years of experience leading and executing paid social and programmatic campaigns at an agency, media company, public affairs firm, or similarly fast-paced environment\nHands-on, current expertise in Meta Ads Manager, LinkedIn Campaign Manager, and at least one programmatic platform such as The Trade Desk or StackAdapt\nStrong understanding of audience segmentation, geographic and contextual targeting, first-party data, retargeting, and the capabilities and limits of each platform\nSelf-directed working style: you identify what needs to happen, solve problems, flag risks early, and follow through with minimal oversight\nStrong analytical judgment and attention to detail, with the ability to manage multiple campaigns accurately under tight deadlines\nEntrepreneurial mindset: you thrive with ambiguity and enjoy creating structure rather than stepping into a predefined role\nNice to have: real comfort with AI tools like ChatGPT, Claude, or Gemini, and curiosity about using them to work smarter\nAdditional InformationThis is a W2 role.\nWe Are Rosie provides strategic consulting and talent solutions for the marketing industry. We partner with more than 200 of the world’s biggest brands and agencies to help them solve unique marketing challenges with the best people, swiftly and at scale. Founded by former advertising executive Stephanie Nadi Olson in 2018, We Are Rosie is on a mission to redefine how marketing works, with an inclusive, human-centric approach that’s better for business and better for marketers. Our company has been recognized as an industry trailblazer and earned many accolades, including being named to the 2023 Global Top 100 Inspiring Workplaces, the Inc. 5000 2022, and Adweek’s Fastest Growing Agencies in 2021.\nWe Are Rosie is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, age, national origin, ancestry, physical or mental disability, medical​​​ condition, pregnancy, genetic information, gender, sexual orientation, gender identity or ​expression, veteran status, marital status, or any other status protected under federal, state, or local law.\nAn early-stage, AI-powered news and media startup building new tools for advertisers.\nOriginally posted on Himalayas",
+      "budget": "USD 55 to 55/hourly",
+      "score": 5,
+      "matched": [
+        "chatgpt",
+        "agents",
+        "claude",
+        "gemini",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 9,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer?utm_source=api",
+      "expires": "2027-01-06T22:11:36+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-python-developer-remote",
       "source": "Himalayas",
       "title": "YO AI Labs: Sr Python Developer - Remote",
@@ -755,34 +734,60 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
       "source": "Himalayas",
-      "title": "Stripe: Core Recruiter (Fixed Term)",
-      "url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
-      "posted": "2026-11-07T22:47:01+00:00",
-      "body": "Who we are About Stripe\nStripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.About the team\nThe Recruiting team builds Stripe’s culture by connecting exceptional talent with our highest-impact business needs. We bring Stripe’s operating principles to life through thoughtful, consistent hiring practices, a high-quality candidate experience, and data-informed partnership with the business.What you’ll do\nStripe is looking for a consultative, creative recruiter to support critical Core Business functions. You will partner with senior leaders who shape Stripe’s financial strategy, external narrative, long-term growth, and company-wide decision-making.\nThis is a high-impact portfolio with varied talent markets, senior stakeholders, and roles where the quality of each hire can influence how Stripe operates and grows. You will own full-cycle recruiting, advise leaders on hiring strategy and market conditions, and build trusted relationships with candidates and hiring teams.\nThis is a 12 month fixed term contract and you are employed directly through Stripe.Responsibilities\nPartner with senior leaders to understand business priorities, define hiring plans, and develop recruiting strategies that support headcount goals.\nOwn the full recruiting lifecycle, from intake and sourcing through offer acceptance and onboarding handoff.\nAdvise hiring teams on talent-market conditions, candidate availability, competitive dynamics, and hiring approaches for specialized and senior roles.\nDevelop and execute sourcing strategies that build broad, qualified candidate pipelines for current and future hiring needs.\nBuild strong candidate relationships and deliver a thoughtful, timely candidate experience throughout the process.\nUse recruiting data to track progress, identify risks and opportunities, and provide clear updates to business leaders.\nImprove recruiting processes where needed, testing practical changes that help hiring teams move with clarity and consistency.\nPartner closely with cross-functional teams, including Finance, People Operations, Benefits, Onboarding, and Legal, to support a smooth offer and onboarding experience.\nUphold structured, competency-based hiring practices and help hiring teams assess candidates against the requirements of each role.\nWho you are\nWe're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.Minimum requirements\n4+ years of full-cycle recruiting experience in a fast-paced, high-growth environment, including in-house recruiting experience.\nExperience partnering with senior leaders on hiring strategy, talent-market insights, and complex searches.\nAbility to build trust with senior stakeholders and influence decisions through sound judgment, data, and market knowledge.\nExperience developing sourcing strategies and engaging candidates for specialized or senior roles.\nAbility to use recruiting data to identify trends, communicate progress, and improve recruiting outcomes.\nStrong organizational skills and the ability to manage multiple searches and shifting priorities.\nA collaborative approach and comfort working across functions to solve problems and improve the hiring experience.\nCuriosity about emerging AI tools and a practical approach to testing and adopting new ways of working.\nPreferred qualifications\nExperience recruiting for business, corporate, finance, communications, strategy, legal, or other specialized professional functions.\nExperience supporting senior-level hiring or roles with complex stakeholder groups.\nExperience working across multiple geographies or advising on location strategy.\nFamiliarity with recruiting systems and sourcing tools, including applicant tracking systems, candidate relationship management tools, and LinkedIn Recruiter.\nOriginally posted on Himalayas",
+      "title": "YO AI Labs: Biology & Bioinformatics Expert  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote",
+      "posted": "2026-11-07T22:04:55+00:00",
+      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and AI model evaluation.Required Skills\nBioinformatics and Computational Biology\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, Samtools, GATK, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Reasoning\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic and biological datasets.\nOptimize pipelines and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible workflows and document findings.\nProvide scientific insights and actionable recommendations.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience analyzing biological data.\nStrong Python/R programming and analytical skills.\nProfessional English proficiency (C1 or higher).\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
       "budget": null,
       "score": 3,
       "matched": [
-        "stripe",
+        "python",
         "ai"
       ],
       "queue": "contract",
-      "priority": 7,
-      "reasons": [
-        "explicit hiring intent"
-      ],
+      "priority": 6,
+      "reasons": [],
       "flags": [
         "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
+        "check eligibility: United States"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term?utm_source=api",
-      "expires": "2027-01-06T22:47:00+00:00",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote?utm_source=api",
+      "expires": "2027-01-06T22:04:54+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Computational Biology Expert  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote",
+      "posted": "2026-11-07T22:04:26+00:00",
+      "body": "Computational Biology & Bioinformatics Expert (PhD)\nJob Type: Contractor\nLocation: Remote – WorldwideJob Summary\nWe are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and model evaluation. Candidates will contribute domain expertise to improve AI accuracy and scientific reasoning.Required Skills\nComputational Biology and Bioinformatics\nGenomics, Transcriptomics, and Proteomics\nPython and/or R Programming\nNGS, RNA-seq, and Variant Analysis\nBLAST, GATK, Samtools, and Biopython\nNextflow, Snakemake, and Linux\nStatistical Analysis and Scientific Problem-Solving\nTechnical Documentation and Communication\nResponsibilities\nDesign and evaluate bioinformatics workflows.\nAnalyze genomic, transcriptomic, and proteomic datasets.\nOptimize pipeline configurations and statistical methods.\nSupport AI model benchmarking and validation.\nDevelop reproducible scientific workflows.\nDocument findings and communicate technical insights.\nQualifications\nPhD in Bioinformatics, Computational Biology, Genomics, or a related field, or equivalent industry/research experience.\nHands-on experience with biological data analysis.\nStrong Python/R programming and statistical reasoning skills.\nExcellent written and verbal English communication.\nExperience with AI/ML-assisted biology, structural biology, or drug discovery is preferred.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 6,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote?utm_source=api",
+      "expires": "2027-01-06T22:04:24+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -913,6 +918,38 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/bounteous/jobs/principal-architect?utm_source=api",
       "expires": "2027-01-06T20:58:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
+      "source": "Himalayas",
+      "title": "Stripe: Core Recruiter (Fixed Term)",
+      "url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term",
+      "posted": "2026-11-07T22:47:01+00:00",
+      "body": "Who we are About Stripe\nStripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.About the team\nThe Recruiting team builds Stripe’s culture by connecting exceptional talent with our highest-impact business needs. We bring Stripe’s operating principles to life through thoughtful, consistent hiring practices, a high-quality candidate experience, and data-informed partnership with the business.What you’ll do\nStripe is looking for a consultative, creative recruiter to support critical Core Business functions. You will partner with senior leaders who shape Stripe’s financial strategy, external narrative, long-term growth, and company-wide decision-making.\nThis is a high-impact portfolio with varied talent markets, senior stakeholders, and roles where the quality of each hire can influence how Stripe operates and grows. You will own full-cycle recruiting, advise leaders on hiring strategy and market conditions, and build trusted relationships with candidates and hiring teams.\nThis is a 12 month fixed term contract and you are employed directly through Stripe.Responsibilities\nPartner with senior leaders to understand business priorities, define hiring plans, and develop recruiting strategies that support headcount goals.\nOwn the full recruiting lifecycle, from intake and sourcing through offer acceptance and onboarding handoff.\nAdvise hiring teams on talent-market conditions, candidate availability, competitive dynamics, and hiring approaches for specialized and senior roles.\nDevelop and execute sourcing strategies that build broad, qualified candidate pipelines for current and future hiring needs.\nBuild strong candidate relationships and deliver a thoughtful, timely candidate experience throughout the process.\nUse recruiting data to track progress, identify risks and opportunities, and provide clear updates to business leaders.\nImprove recruiting processes where needed, testing practical changes that help hiring teams move with clarity and consistency.\nPartner closely with cross-functional teams, including Finance, People Operations, Benefits, Onboarding, and Legal, to support a smooth offer and onboarding experience.\nUphold structured, competency-based hiring practices and help hiring teams assess candidates against the requirements of each role.\nWho you are\nWe're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.Minimum requirements\n4+ years of full-cycle recruiting experience in a fast-paced, high-growth environment, including in-house recruiting experience.\nExperience partnering with senior leaders on hiring strategy, talent-market insights, and complex searches.\nAbility to build trust with senior stakeholders and influence decisions through sound judgment, data, and market knowledge.\nExperience developing sourcing strategies and engaging candidates for specialized or senior roles.\nAbility to use recruiting data to identify trends, communicate progress, and improve recruiting outcomes.\nStrong organizational skills and the ability to manage multiple searches and shifting priorities.\nA collaborative approach and comfort working across functions to solve problems and improve the hiring experience.\nCuriosity about emerging AI tools and a practical approach to testing and adopting new ways of working.\nPreferred qualifications\nExperience recruiting for business, corporate, finance, communications, strategy, legal, or other specialized professional functions.\nExperience supporting senior-level hiring or roles with complex stakeholder groups.\nExperience working across multiple geographies or advising on location strategy.\nFamiliarity with recruiting systems and sourcing tools, including applicant tracking systems, candidate relationship management tools, and LinkedIn Recruiter.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "stripe",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 1,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term?utm_source=api",
+      "expires": "2027-01-06T22:47:00+00:00",
       "imported": false,
       "date_basis": "posted"
     },

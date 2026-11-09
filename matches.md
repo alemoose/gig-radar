@@ -1,13 +1,13 @@
 # Gig radar
 
-Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-09 08:40 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
 
 - [(Task) Got a tedious task you wish someone would just take care of? I might be able to help!](https://www.reddit.com/r/slavelabour/comments/1xqmqzg/task_got_a_tedious_task_you_wish_someone_would/)  
   r/slavelabour | posted Nov 08 01:44 UTC | score 16 | data extraction, google sheets, automation, javascript, scraping, node.js
-  Fit: 48 | spreadsheet automation; data collection; explicit hiring intent; small scope signal
+  Fit: 42 | spreadsheet automation; data collection; explicit hiring intent; small scope signal
   Check: budget unknown
   > Hey everyone! I'm a software engineer with a Claude Pro 20x subscription, and I often end up with quite a lot of unused usage by the end of each week. I thought I'd put it to better use by helping people with their projects and making a little money along the way. For example, recently I helped a lawyer friend with a research task that involved downloading thousands of documents from government websites (RBI, SEBI, RERA, etc.), organizing them into appropriate folder structures, and making everything easily accessible for his research. I can help with similar tasks, including: - Bulk docume...
 - [(Hiring) Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)](https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/)  
@@ -23,14 +23,19 @@ Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
 
 ## Contract roles
 
+- [OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design](https://news.ycombinator.com/item?id=50420399)  
+  HN Who is hiring | posted Nov 09 02:48 UTC | score 5 | **$30** | typescript, node.js, python, ai
+  Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role. - $30–$100 per hour equivalent, paid per accepted task - 100% remote, United States - About 15 hours/week; choose your schedule We need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems t...
 - [True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)](https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd)  
   We Work Remotely | posted Nov 08 17:00 UTC | score 3 | **$60 to $120 per hour** | agents, python, ai
-  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: United States URL: https://truetalentsolutionspartners.com About the Role Contribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work.What You'll Do Solve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development. Translate physical systems and engineering requirements into analytical or computational models....
 - [Decentralized Masters: Chief Information Security Officer](https://himalayas.app/companies/decentralized-masters/jobs/chief-information-security-officer)  
   Himalayas | posted Nov 07 22:20 UTC | score 10 | **$48.6** | automation, ai agent, agents, prompt, saas, llm
-  Fit: 25 | API connection; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 19 | API connection; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; check eligibility: United States; seniority requirement needs review
   > Who We Are Catalyst Capital is a profitable, bootstrapped holding company building a diversified financial services group: education, publishing, software, wealth and tax planning tools, investment products and proprietary trading technology. Funded entirely from its own operating cash. We have never taken outside capital. The cash engine is Decentralized Masters, a DeFi education business that went from zero to 150+ people, 4,500+ paying members and roughly $48.6M of FY26 revenue at ~25% earnings before tax in four years. That engine funds everything else on this page.Role summary Catalyst...
 - [YO AI Labs: Mathematics Expert  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/mathematics-expert-remote-9154552551)  
@@ -58,11 +63,11 @@ Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: United States URL: https://opentrain.ai/ Full-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States) • $50–$100 per hour equivalent, paid per accepted task • 100% remote • Part-time • Under 20 hours a week, you choose when Work on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks. AI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The wo...
-- [We Are Rosie: Media Planner & Buyer](https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer)  
-  Himalayas | posted Nov 07 22:11 UTC | score 5 | **USD 55 to 55/hourly** | chatgpt, agents, claude, gemini, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Are you a hands-on media planner and buyer who loves building as much as executing? We're seeking a Media Planner & Buyer to lead paid social and programmatic campaigns that drive audience growth and client results, and to help shape how our media function grows.About the Role Hourly Rate: $55 Contract Duration: ASAP through mid-January 2027, with potential to extend Location: Fully remote Weekly Hours: 40 hours per week Availability: Eastern or Central time zone hours preferred; some availability between Christmas and New Year's required Company Description We're an early-stage startup in...
+- [Object Edge: Senior Data Engineer (Databricks) - Contractor - US](https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us)  
+  Himalayas | posted Nov 09 04:03 UTC | score 4 | workflow, prompt, python, ai
+  Fit: 15 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > About Object Edge: Object Edge is an AI-native, forward-deployed engineering firm. It builds Hive, a company brain for revenue, embeds engineers to build agentic workflows on it, and provides management engineering to lead the change. Award-winning eCommerce consultancy that delivers end-to-end design and development solutions centered around our client’s goals and customer needs. Our teams unite curious, intellectual advisors across the globe who creatively solve business problems and produce measurable results. About the Position: Senior Data Engineering (Databricks) What You’ll Do • Be a...
 - [YO AI Labs: Applied Scientists — Machine Learning  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/applied-scientists-machine-learning-remote-187578595)  
   Himalayas | posted Nov 07 20:12 UTC | score 4 | agents, python, ai
   Fit: 13 | explicit hiring intent
@@ -73,21 +78,6 @@ Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Job Title: Machine Learning Researcher (MSc. or PhD) Job Type: Contractor Location: Global, Fully Remote Working Hours: Approximately 15 hours per week Schedule: Flexible, including weekendsJob Summary We are seeking skilled Machine Learning Researchers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine-learning models and train...
-- [YO AI Labs: Biology & Bioinformatics Expert  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote)  
-  Himalayas | posted Nov 07 22:04 UTC | score 3 | python, ai
-  Fit: 12 | 
-  Check: budget unknown; check eligibility: United States
-  > Computational Biology & Bioinformatics Expert (PhD) Job Type: Contractor Location: Remote – WorldwideJob Summary We are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and AI model evaluation.Required Skills Bioinformatics and Computational Biology Genomics, Transcriptomics, and Proteomics Python and/or R Programming NGS, RNA-seq, and Variant Analysis BLAST, Samtools, GATK, and Biopython Nextflow, Snakemake, and Linux Statistical Analysis and Scientific Reasoning Technical Docum...
-- [YO AI Labs: Computational Biology Expert  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote)  
-  Himalayas | posted Nov 07 22:04 UTC | score 3 | python, ai
-  Fit: 12 | 
-  Check: budget unknown; check eligibility: United States
-  > Computational Biology & Bioinformatics Expert (PhD) Job Type: Contractor Location: Remote – WorldwideJob Summary We are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and model evaluation. Candidates will contribute domain expertise to improve AI accuracy and scientific reasoning.Required Skills Computational Biology and Bioinformatics Genomics, Transcriptomics, and Proteomics Python and/or R Programming NGS, RNA-seq, and Variant Analysis BLAST, GATK, Samtools, and Biopython Ne...
-- [Mindrift: Freelance Mechanical CFD Engineer - AI Trainer](https://weworkremotely.com/remote-jobs/mindrift-freelance-mechanical-cfd-engineer-ai-trainer)  
-  We Work Remotely | posted Nov 06 04:12 UTC | score 4 | **$14 per hour** | agents, python, ai
-  Fit: 12 | budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: Peru URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift About the role Help train and evaluate AI agents on expert-level fluid simulation tasks. You'll take CAD geometry, set up and run simulations, build verified reference solutions, and write Python checks for the agent's results. Requirements A degree in Mechanical or Aerospace Engineering, or a related field such as energy or oil & gas. A PhD is preferred but not required. Several years of hands-on industry or research CFD with OpenFOAM, ANSYS Fluent/CFX or STAR-CCM+, including meshing. Solid ve...
 - [YO AI Labs: Research Evaluation Specialist - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/research-evaluation-specialist-remote)  
   Himalayas | posted Nov 07 20:25 UTC | score 3 | workflow, ai
   Fit: 11 | explicit hiring intent
@@ -108,6 +98,11 @@ Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Product Manager / Product Owner Role Type: Contractor Location: Remote We are seeking experienced Product Managers and Product Owners to contribute to a customer project focused on evaluating and improving advanced AI systems. You'll apply your product expertise to assess AI-generated content, specifications, and product documentation. No prior AI experience is required. This is strictly an evaluation and analysis role. It does not involve roadmap ownership, delivery management, sprint facilitation, stakeholder leadership, or program management. Candidates should have strong product managem...
+- [We Are Rosie: Media Planner & Buyer](https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer)  
+  Himalayas | posted Nov 07 22:11 UTC | score 5 | **USD 55 to 55/hourly** | chatgpt, agents, claude, gemini, ai
+  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Are you a hands-on media planner and buyer who loves building as much as executing? We're seeking a Media Planner & Buyer to lead paid social and programmatic campaigns that drive audience growth and client results, and to help shape how our media function grows.About the Role Hourly Rate: $55 Contract Duration: ASAP through mid-January 2027, with potential to extend Location: Fully remote Weekly Hours: 40 hours per week Availability: Eastern or Central time zone hours preferred; some availability between Christmas and New Year's required Company Description We're an early-stage startup in...
 - [YO AI Labs: Sr Python Developer - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/sr-python-developer-remote)  
   Himalayas | posted Nov 06 23:01 UTC | score 5 | **USD 30 to 100/hourly** | typescript, python, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -123,11 +118,16 @@ Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
   Fit: 8 | 
   Check: budget unknown; check eligibility: United States
   > Role Title: Generalist — U.S. Tax Workflow Evaluation Role Type: Contractor Location: Remote, U.S. Only We are engaging detail-oriented Generalists for a short-term customer project focused on evaluating U.S. tax and financial workflows. You'll apply your financial knowledge to review real-world tax processes, assess system-generated outputs, and provide high-quality feedback to support AI development. No prior AI experience is required.Scope of Work Review, annotate, and evaluate U.S. tax filing workflows and related financial processes. Apply defined rubrics to assess accuracy, completene...
-- [Stripe: Core Recruiter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term)  
-  Himalayas | posted Nov 07 22:47 UTC | score 3 | stripe, ai
-  Fit: 7 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.About the team The Recruiting team builds Stripe’s culture by connecting e...
+- [YO AI Labs: Biology & Bioinformatics Expert  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/biology-bioinformatics-expert-remote)  
+  Himalayas | posted Nov 07 22:04 UTC | score 3 | python, ai
+  Fit: 6 | 
+  Check: budget unknown; check eligibility: United States
+  > Computational Biology & Bioinformatics Expert (PhD) Job Type: Contractor Location: Remote – WorldwideJob Summary We are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and AI model evaluation.Required Skills Bioinformatics and Computational Biology Genomics, Transcriptomics, and Proteomics Python and/or R Programming NGS, RNA-seq, and Variant Analysis BLAST, Samtools, GATK, and Biopython Nextflow, Snakemake, and Linux Statistical Analysis and Scientific Reasoning Technical Docum...
+- [YO AI Labs: Computational Biology Expert  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/computational-biology-expert-remote)  
+  Himalayas | posted Nov 07 22:04 UTC | score 3 | python, ai
+  Fit: 6 | 
+  Check: budget unknown; check eligibility: United States
+  > Computational Biology & Bioinformatics Expert (PhD) Job Type: Contractor Location: Remote – WorldwideJob Summary We are seeking experienced computational biology and bioinformatics experts to support an AI training project focused on biological data analysis, scientific workflows, and model evaluation. Candidates will contribute domain expertise to improve AI accuracy and scientific reasoning.Required Skills Computational Biology and Bioinformatics Genomics, Transcriptomics, and Proteomics Python and/or R Programming NGS, RNA-seq, and Variant Analysis BLAST, GATK, Samtools, and Biopython Ne...
 - [YO AI Labs: English Teacher - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/english-teacher-remote)  
   Himalayas | posted Nov 06 22:28 UTC | score 3 | prompt, ai
   Fit: 6 | 
@@ -148,6 +148,11 @@ Updated 2026-11-08 21:50 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: Principal Architect Locati...
+- [Stripe: Core Recruiter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/core-recruiter-fixed-term)  
+  Himalayas | posted Nov 07 22:47 UTC | score 3 | stripe, ai
+  Fit: 1 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.About the team The Recruiting team builds Stripe’s culture by connecting e...
 - [YO AI Labs: Sr TypeScript Engineer - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote)  
   Himalayas | posted Nov 07 19:53 UTC | score 5 | typescript, python, ai
   Fit: 0 | 
