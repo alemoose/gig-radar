@@ -45,6 +45,102 @@
       "date_basis": "posted"
     },
     {
+      "id": "reddit:t3_1xsg2xp",
+      "source": "r/hiring",
+      "title": "[Hiring] Data annotation and prompt-quality contractors — Remote (US) — $35/hr",
+      "url": "https://www.reddit.com/r/hiring/comments/1xsg2xp/hiring_data_annotation_and_promptquality/",
+      "posted": "2026-11-10T06:48:21+00:00",
+      "body": "We're building annotation capacity for an ongoing AI training pipeline and adding \nseveral contractors on a rolling basis. Six months of work queued, not a single batch. \nThe work \nAnnotating and reviewing AI training data against a written rubric: labeling model \noutputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 \nitems on a weekly cadence. \nTo be clear about what this is not: it isn't survey work, sign-up work, or click-work. \nEvery batch ships with a written specification and a worked example before you start, \nand you get QA feedback on the previous batch so quality improves rather than drifting. \nYou \n- Based in the US and authorized to work in the US; no sponsorship \n- 18+, minimum 10 hrs/week, reliable turnaround \n- Clear written English \n- Prior annotation, labeling, QA or transcription experience preferred, not required \nPay \n$35/hr, tracked against delivered batches. Paid by PayPal within 7 days of submission. \nOne revision round included if a batch misses spec, and payment isn't held back for it. \nTo apply \nDM me your relevant experience, weekly availability, and one or two examples of \ncomparable work you produced yourself. Put RUBRIC at the start of your message so I \nknow you read this. All questions and applications by DM, please.",
+      "budget": "$35/hr",
+      "score": 3,
+      "matched": [
+        "prompt",
+        "ai"
+      ],
+      "queue": "project",
+      "priority": 29,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "reddit:t3_1xsfw4x",
+      "source": "r/forhire",
+      "title": "[Hiring] Data annotation and prompt-quality contractors — Remote (US) — $35/hr",
+      "url": "https://www.reddit.com/r/forhire/comments/1xsfw4x/hiring_data_annotation_and_promptquality/",
+      "posted": "2026-11-10T06:36:43+00:00",
+      "body": "We're building annotation capacity for an ongoing AI training pipeline and adding \ncontractors on a rolling basis. Six months of work queued, not a single batch. \nThe work \nAnnotating and reviewing AI training data against a written rubric: labeling model \noutputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 \nitems on a weekly cadence. Spec and worked example supplied before you start, so \nthe deliverable is clear before you commit. \nYou \n- Based in the US and authorized to work in the US; no sponsorship \n- 18+, minimum 10 hrs/week, reliable turnaround \n- Clear written English \n- Prior annotation, labeling, QA or transcription experience preferred, not required \nPay \n$35/hr, tracked against delivered batches. PayPal within 7 days of submission. \nOne revision round is included if a batch misses spec, and payment isn't held back \nfor it. \nTo apply \nPM me your relevant experience, weekly availability, and one or two examples of \ncomparable work you produced yourself. A short message is fine. Put RUBRIC at the \nstart of your subject line so I know you read this.",
+      "budget": "$35/hr",
+      "score": 3,
+      "matched": [
+        "prompt",
+        "ai"
+      ],
+      "queue": "project",
+      "priority": 29,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "reddit:t3_1xsi730",
+      "source": "r/hiring",
+      "title": "[Hiring] Senior Python / SWE roles in AI evaluation and agentic coding (remote, $80-100/hr)",
+      "url": "https://www.reddit.com/r/hiring/comments/1xsi730/hiring_senior_python_swe_roles_in_ai_evaluation/",
+      "posted": "2026-11-10T09:04:41+00:00",
+      "body": "Sharing two remote contract roles in AI that might interest senior engineers here. Full disclosure: I have a link to apply for. You’re also free to apply directly on the company’s site. \n1. Senior Software Engineer, AI Evaluation & Benchmarks \nBuild benchmarks that test frontier AI models \nPython-heavy \n$80-100/hr, fully remote \n2. Senior Software Engineer, Agentic Coding \nBuild AI agents that write code autonomously \nFlexible, fully remote \nWho it fits: experienced engineers (strong Python especially) who want to work on evals, agents, or LLM tooling. \nIf you want the link, DM me and I’ll send it. Happy to answer questions about the listings in the comments too.",
+      "budget": "$80-100/hr",
+      "score": 6,
+      "matched": [
+        "agents",
+        "python",
+        "llm",
+        "ai"
+      ],
+      "queue": "project",
+      "priority": 25,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "reddit:t3_1xr0gdt",
       "source": "r/forhire",
       "title": "[Hiring] Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)",
@@ -62,7 +158,7 @@
         "ai"
       ],
       "queue": "project",
-      "priority": 31,
+      "priority": 25,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -115,6 +211,76 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd",
+      "source": "Himalayas",
+      "title": "micro1: Aerodynamics Expert (MSc. or PhD)",
+      "url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd",
+      "posted": "2026-11-10T13:00:10+00:00",
+      "body": "Aerodynamics Expert (MSc. or PhD)\nPay: $80–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you can choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing an airfoil, preparing a computational domain and mesh, defining appropriate boundary conditions, running a CFD simulation, calculating lift and drag, and determining whether the resulting flow field is numerically and physically valid.What You’ll Work On\nSolve and validate aerodynamic and fluid-dynamics problems.\nTranslate physical requirements into computational models and solver-ready cases.\nCreate or modify geometries, computational domains, and meshes.\nDefine appropriate initial conditions, boundary conditions, fluid properties, and solver settings.\nRun CFD and aerodynamic-analysis workflows using command-line-accessible tools.\nUse Python to automate preprocessing, simulation execution, parameter sweeps, postprocessing, and validation.\nRequired Qualifications\nAn MS or PhD in Aerospace Engineering, or Mechanical Engineering with an aerodynamics, fluid dynamics, or thermofluids specialization; or\nA BS in Aerospace or Mechanical Engineering plus at least 1–2 years of aero-specific professional or research experience.\nStrong understanding of fluid mechanics and applied aerodynamics.\nExperience formulating and executing CFD or aerodynamic analyses.\nPractical proficiency with Python.\nExperience with at least one engineering tool or library that can be operated through a CLI, scripting interface, configuration files, or programmatic API.\nAbility to select and justify modeling assumptions, boundary conditions, mesh strategies, and solver settings.\nAbility to diagnose non-convergence, unstable solutions, incorrect results, and physically invalid outputs.\nAbility to communicate technical reasoning and engineering trade-offs clearly.\nRelevant tools may include Python,OpenFOAM, SU2, Gmsh, FEniCSx, Elmer, CalculiX, SciPy, or similar programmatic engineering software. Experience with an equivalent CLI-accessible tool is acceptable.\nRelevant Python tools may include NumPy, SciPy, pandas, Matplotlib, Jupyter, solver APIs, mesh-processing libraries, or domain-specific scientific packages. No single library is mandatory.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$80",
+      "score": 4,
+      "matched": [
+        "automate",
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd?utm_source=api",
+      "expires": "2026-12-15T23:52:43+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd",
+      "source": "Himalayas",
+      "title": "micro1: Hardware Expert (MSc. or PhD)",
+      "url": "https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd",
+      "posted": "2026-11-10T13:00:11+00:00",
+      "body": "Hardware Expert (MSc. or PhD)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nWe are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We value engineers who can connect first-principles reasoning with practical constraints and produce work that can be independently verified.Scope of Work\nCreate technically rigorous, self-contained hardware engineering problems based on realistic industry or research scenarios.\nDevelop clear reference solutions using engineering calculations, simulations, scripts, experimental reasoning, or other appropriate methods.\nUse tools such as Python, MATLAB, Simulink, SPICE, Julia, C/C++, test automation platforms, or equivalent engineering software to validate results when relevant.\nPreferred Qualifications\nBachelor’s, Master’s, or PhD degree in Electrical Engineering, Mechanical Engineering, Mechatronics, Aerospace Engineering, Systems Engineering, Applied Physics, or a closely related field.\nSignificant professional or research experience in hardware engineering, product development, systems integration, testing, validation, reliability, or failure analysis.\nDemonstrated ownership of a substantial engineering problem—for example, a product or subsystem that reached production, a model validated against physical testing, a test system you developed, or a difficult failure you diagnosed.\nExperience working with Coding Agents is a must\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
+      "score": 5,
+      "matched": [
+        "automation",
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 19,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "project budget below preferred floor",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd?utm_source=api",
+      "expires": "2026-12-16T03:42:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "hn:50420399",
       "source": "HN Who is hiring",
       "title": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design",
@@ -130,40 +296,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 31,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
-      "source": "We Work Remotely",
-      "title": "True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)",
-      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
-      "posted": "2026-11-08T17:00:41+00:00",
-      "body": "Headquarters: United States\nURL: https://truetalentsolutionspartners.com\nAbout the Role\nContribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work.What You'll Do\nSolve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nReview engineering artifacts and analyses against relevant physical and design constraints.What We're Looking For\nAn MSc or PhD in Mechanical Engineering or a closely related engineering discipline, or a strong foundation in applied mechanics and mechanical engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nExperience solving and validating mechanical engineering problems in design, analysis, simulation, testing, or research and development.\nExperience translating engineering requirements into models and working with geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nPractical proficiency with coding agents and experience with Python.Compensation & Benefits\nCompensation is $60 to $120 per hour. This is output-based contractor work, with payment per task that meets project specifications. The expected commitment is approximately 15 hours per week, with a flexible schedule. Visa sponsorship is not available.Location\nFully remote.\nTo apply: https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
-      "budget": "$60 to $120 per hour",
-      "score": 3,
-      "matched": [
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -254,37 +387,72 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/biology-expert-remote",
+      "id": "himalayas:https://himalayas.app/companies/worldvia/jobs/contract-role-devsecops-aws-platform-engineer",
       "source": "Himalayas",
-      "title": "YO AI Labs: Biology Expert - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-expert-remote",
-      "posted": "2026-11-06T22:18:17+00:00",
-      "body": "STEM & Scientific AI Expert\nLocation: Global, Fully Remote\nJob Type: Contractor (~15 hours per week)\nSchedule: FlexibleJob Summary\nWe are seeking STEM and scientific-domain experts to support AI training through complex problem-solving, scientific reasoning, data analysis, and Python-based coding. This is a coding-heavy role requiring experience with coding agents and the ability to evaluate AI-generated technical solutions.Areas of Expertise\nChemistry, Biology, Mathematics, and Physics\nEarth Science, Geoscience, and Environmental Science\nRobotics and related scientific or quantitative fields\nKey Responsibilities\nSolve complex scientific and mathematical problems within your expertise.\nUse Python or other programming languages for calculations, simulations, and data analysis.\nReview AI-generated solutions for scientific and technical accuracy.\nIdentify reasoning errors, incorrect assumptions, and missing constraints.\nValidate solutions against project requirements.\nRequired Qualifications\nStrong expertise in at least one relevant STEM discipline.\nPractical programming experience, preferably with Python.\nStrong analytical, scientific, and quantitative reasoning skills.\nExperience using coding agents in your workflow.\nFamiliarity with tools such as NumPy, SciPy, pandas, SymPy, Jupyter, or relevant scientific libraries is beneficial.\nRelevant expertise may come from academic research, industry, teaching, engineering, or independent technical work. A specific degree or minimum number of years of experience is not required if expertise can be demonstrated.Selection Process\nSubmit an application and complete screening questions.\nComplete an approximately 30-minute AI interview.\nComplete the hiring manager review.\nAvailability\nCandidates should be ready to start promptly, with the first task expected within 24–48 hours after onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 5,
+      "title": "WorldVia: Contract Role - DevSecOps / AWS Platform Engineer",
+      "url": "https://himalayas.app/companies/worldvia/jobs/contract-role-devsecops-aws-platform-engineer",
+      "posted": "2026-11-09T23:06:59+00:00",
+      "body": "6-Month Contract | Potential Full-Time Opportunity | Remote (US)\nEngagement: Six-month contract, approximately 40 hours per week, with potential extension or conversion to permanent employment\nLocation: Remote, United States, with substantial Eastern Time business-hour overlap\nStart: As soon as possible\nWe're looking for a highly experienced, hands-on DevSecOps / AWS Platform Engineer to help strengthen and modernize our cloud infrastructure, application security, and development operations.\nThis engagement encompasses two major initiatives: improving our cloud and application security infrastructure and migrating business-critical legacy systems into AWS.\nYou'll work closely with our engineering and technology leadership teams, with significant autonomy to recommend solutions, make technical decisions, and implement improvements.\nThis is not a purely advisory or architectural role. We want an engineer who enjoys designing solutions, writing code, automating infrastructure, and delivering working systems.\nWhile initially structured as a six-month contract, we're building a long-term internal technology capability, and the right candidate may have an opportunity to transition into a permanent position.RequirementsCloud & Application Security\nEvaluate and strengthen application and AWS security, including identity, authorization, data protection, and infrastructure controls.\nImplement automated security monitoring, vulnerability management, and incident response capabilities.\nEmbed security practices into our development workflows without unnecessarily slowing delivery.\nAWS Infrastructure & Migration\nLead the technical migration of legacy production workloads into WorldVia-managed AWS environments.\nDesign secure, reliable, cost-effective AWS infrastructure supporting modern applications and traditional business systems.\nImplement infrastructure as code, backup and recovery, monitoring, and operational automation.\nCoordinate migration testing, validation, cutover, and stabilization with internal stakeholders.\nDevOps & Platform Engineering\nImprove CI/CD pipelines, deployment automation, and environment management.\nIntegrate security scanning and automated safeguards into development workflows.\nEstablish practical infrastructure standards and reusable deployment patterns.\nSupport cloud infrastructure needs for applications incorporating generative AI and agentic workflows.\nDocument architecture, operating procedures, and technical decisions so our internal team can maintain and evolve the environment.\nQualificationsRequired:\n4+ years of hands-on experience in DevOps, cloud infrastructure, platform engineering, SRE, or related disciplines.\nStrong AWS expertise, including networking, compute, databases, IAM, security, monitoring, and infrastructure architecture.\nDemonstrated experience migrating production workloads from legacy or third-party environments into AWS, preferably including Windows-based applications.\nPractical experience implementing application and cloud security controls.\nProficiency with infrastructure as code, such as Terraform or AWS CDK.\nExperience with GitHub Actions or comparable CI/CD systems, automated security scanning, and deployment automation.\nStrong understanding of backup, disaster recovery, production monitoring, and incident response.\nAbility to work independently, communicate clearly, and collaborate with a small, fast-moving engineering team.\nEspecially Valuable, Preferred:\nExperience with multi-tenant SaaS platforms.\nAmazon Bedrock, AgentCore, or other AI infrastructure.\nSecure development practices involving AI coding tools.\nFinancial application or legacy enterprise system migrations.\nPCI DSS or SOC 2 readiness experience.\nExperience balancing security, reliability, infrastructure costs, and rapid product delivery.\nWhat Makes This Opportunity Different\nWe're a product-driven company making a substantial investment in technology. Our engineering team is small, entrepreneurial, and actively embracing AI-assisted development.You'll have the opportunity to:\nOwn meaningful technical initiatives from design through production.\nWork directly with decision-makers with minimal bureaucracy.\nInfluence the architecture and operational foundations of a growing technology platform.\nBuild automated systems and guardrails that make engineers more productive.\nPotentially grow into a permanent role as our technology organization expands.\nWe value practical problem-solvers who favor thoughtful, maintainable solutions over unnecessary complexity.What Success Looks Like\nAt the end of the initial engagement, we expect to have materially improved our security posture, modernized important AWS infrastructure, advanced or completed our priority migrations, and established more consistent and efficient deployment and operating practices.\nJust as importantly, the systems and processes you build should be well-documented, maintainable, and ready for our internal team to operate.How to Apply\nPlease submit your resume and a brief description of one or two relevant projects you've personally led, particularly involving AWS migration, cloud security, or DevOps automation.\nWe're especially interested in candidates who can demonstrate hands-on ownership of complex production environments and sound engineering judgment.About WorldVia\nWorldVia Travel Group is a growing travel technology and services company serving thousands of independent travel advisors, travel entrepreneurs, and corporate travel clients.\nWe're investing heavily in our next generation of technology, including an integrated advisor operating platform, consumer travel applications, and AIVIA, our AI-powered workspace.\nOur technology strategy centers on AWS, modern software development, automation, and AI. We're building a platform designed to transform how travel professionals operate their businesses.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
       "matched": [
-        "workflow",
-        "agents",
-        "python",
+        "automation",
+        "saas",
         "ai"
       ],
       "queue": "contract",
-      "priority": 19,
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/worldvia/jobs/contract-role-devsecops-aws-platform-engineer?utm_source=api",
+      "expires": "2027-01-08T23:06:59+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "hn:50428062",
+      "source": "HN Who is hiring",
+      "title": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4...",
+      "url": "https://news.ycombinator.com/item?id=50428062",
+      "posted": "2026-11-09T16:46:20+00:00",
+      "body": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month\nI'm looking to hire our first engineer to own architecture and build product first version.\nStack: TypeScript, React/Next.js, Node.js and PostgreSQL.\nThe core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads.\nYou should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and be able to explain your architectural decisions and trade-offs.\nTerms: a paid 4–5-month contract, 20-30+ hours/week, at $3,000–4,000/month, paid against agreed milestones. At least three hours of daily overlaps. For the right person, there’s potential to continue in a founding role with equity\nProcess: a short application, a live walkthrough of something you've built, then a paid 2-3hr tenant-isolation exercise and a 30-minute discussion.\nApply here:https://forms.gle/yJAabKvLKtJmfz21A\nPublic source code isn't required. Please don't share confidential employer or client material.",
+      "budget": "$3,000",
+      "score": 9,
+      "matched": [
+        "full-stack",
+        "postgresql",
+        "typescript",
+        "postgres",
+        "next.js",
+        "node.js",
+        "react",
+        "saas"
+      ],
+      "queue": "contract",
+      "priority": 17,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
-        "check eligibility: United States"
+        "dollar currency unverified",
+        "seniority requirement needs review"
       ],
-      "aliases": [
-        "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/chemistry-expert-remote"
-      ],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/biology-expert-remote?utm_source=api",
-      "expires": "2027-01-05T22:18:16+00:00",
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -352,20 +520,94 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-      "source": "We Work Remotely",
-      "title": "OpenTrain AI: Full-Stack Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-      "posted": "2026-11-06T20:13:18+00:00",
-      "body": "Headquarters: United States\nURL: https://opentrain.ai/\nFull-Stack Engineer, Part-Time AI Code Evaluation - Remote (United States)\n• $50–$100 per hour equivalent, paid per accepted task\n• 100% remote\n• Part-time\n• Under 20 hours a week, you choose when\nWork on AI code evaluation on your own schedule, using your full-stack engineering judgment to create, review and validate software tasks.\nAI systems improve through examples reviewed by engineers. In this role, full-stack professionals design realistic tasks, assess generated code, write reference solutions, and explain technical gaps. The work is part-time remote contract work for under 20 hours per week.\nWhat you'll do\n• Create and solve realistic full-stack tasks involving user-facing features and APIs\n• Trace requests and data across browsers and back-end services to judge whether an AI implementation works correctly\n• Write professional reference solutions and validate code across front-end and back-end systems\n• Review AI-generated code for security, performance and maintainability, and explain where it needs improvement\nWhy this is worth your time\n• Earn $50–$100 per hour equivalent for accepted tasks that meet project specifications while applying your full-stack engineering judgment.\n• Review AI-generated code for security, performance and maintainability across front-end and back-end systems.\n• Use your full-stack experience to assess AI-generated solutions across unfamiliar codebases and complete software systems.\n• Fully remote and flexible, no fixed shifts, no commute\nWho this is for\n• Strong professional experience building production full-stack applications across multiple programming languages\n• Strong full-stack systems knowledge covering browser applications, APIs, application state, databases, service integration, architecture and debugging\n• Professional fluency in English; experience contributing to complete software-system architecture, working in unfamiliar codebases, and solving difficult debugging problems\n• No AI experience needed. Experience reviewing AI-generated code for security, performance and maintainability is helpful.\nPay and details\n• $50–$100 per hour equivalent; pay is per accepted task, as an independent contractor\n• Part-time, under 20 hours a week, you choose when; fully remote, United States\nHow to apply\n1. Apply on OpenTrain (about two minutes): https://app.opentrain.ai/api/out/cmu3vn4y500000bgm9fcp5md7?ch=weworkremotely&sub=weworkremotely-cmu3vn4y5-us-2026-10\n2. Complete a short application on the hiring platform.\n3. If shortlisted, take a conversational AI interview with technical questions and a coding challenge, whenever it suits you.\nReady to apply your full-stack engineering judgment to AI code evaluation? Apply today.\nAbout OpenTrain AI\nOpenTrain AI connects experienced professionals with paid, part-time AI training work: shaping and improving the AI systems that companies are building right now.\nTo apply: https://weworkremotely.com/remote-jobs/opentrain-ai-full-stack-engineer",
-      "budget": "$50",
-      "score": 4,
+      "id": "himalayas:https://himalayas.app/companies/coderoad/jobs/sr-fullstack-developer-python-react",
+      "source": "Himalayas",
+      "title": "CodeRoad: Sr Fullstack Developer (Python/ React)",
+      "url": "https://himalayas.app/companies/coderoad/jobs/sr-fullstack-developer-python-react",
+      "posted": "2026-11-09T22:08:03+00:00",
+      "body": "Engagement Type: Full-TimeAbout CodeRoad\nCodeRoad is a technology execution partner trusted by companies across North America since 2002. We work alongside our clients to engineer, modernize, and scale the technology that powers their businesses, combining deep technical expertise, specialized teams, and shared accountability for outcomes. Our capabilities span product engineering, platform engineering, legacy modernization, and AI engineering.\nOur engineers, designers, delivery leaders, and technology specialists collaborate through Velocity Studios: specialized teams developed within CodeRoad to deliver complex technology initiatives. Being assigned to a project means you become part of a collaborative environment where you can strengthen your expertise, take ownership of meaningful work, and grow alongside experienced professionals.Why Build Your Career at CodeRoad?\nHigh-Velocity Work & Client Exposure: We work close to the technology, teams and roadmaps that move real outcomes. Direct engagement with U.S. client teams and roadmaps.\nCareer Continuity & Long-Term Opportunity: Your career here can outlast any single project. Continuous multi-project pipeline; long-tenure CodeRoaders.\nEngineering Autonomy & Technical Mastery: We invest in the skills that shape what's next. Agentic AI tools and training, Coursera Enterprise, Studio practice labs, L1-L7 Career Framework.\nHigh-Trust Employee Experience: You grow in an environment built on trust, transparency and recognition. High-touch onboarding, transparent leadership communication, community recognition, psychological safety.\nKey Responsibilities\nArchitect & Scale Modern Web Applications: Design, build, and maintain robust end-to-end web applications, engineering responsive user interfaces and scalable back-end services in Python (Django) and JavaScript/TypeScript.\nLead Legacy Modernization: Drive complex migration initiatives from legacy systems (Zoho, Delphi, FoxPro) to modern, decoupled web architectures—including data migration, API integrations, and cutover execution.\nLeverage Agentic AI & Modern Tooling: Thriving in an AI-first development culture, utilizing modern AI coding assistant tools to accelerate designing, building, testing, and shipping high-quality code.\nBuild Data Services & Integrations: Design RESTful APIs and optimize complex SQL queries across MS SQL Server and PostgreSQL to seamlessly integrate applications with core data platforms and interim legacy setups.\nChampion Technical Leadership & Mentorship: Provide guidance to peer developers through paired programming, design reviews, and code quality standards, helping legacy engineers cross-skill into modern full-stack methodologies.\nDrive Continuous Delivery & Production Excellence: Automate build and deployment pipelines using Git/Bitbucket Pipelines and Jira, ensuring high test coverage, operational stability, and rapid production support.\nWhat You Bring\nCore Experience:5+ years of professional software engineering experience delivering end-to-end web solutions across both front-end and back-end environments.\nTechnical Stack Expertise: Deep hands-on experience with Python (Django), and React.\nDatabase & Modernization Mastery: Advanced expertise in SQL (MS SQL Server / PostgreSQL), RESTful API design, and a track record of successfully migrating legacy systems to modern cloud setups.\nDevOps & Cloud Foundations: Strong grasp of version control via Git, automated CI/CD pipelines (Bitbucket Pipelines), Agile workflows (Jira), and exposure to cloud platforms (Azure) and containerization (Docker).\nOwnership & Soft Skills: Proactive problem-solver comfortable interacting directly with business users, taking end-to-end accountability for software outcomes, and fostering collaboration across cross-functional teams.\nCommunication:Fluent English (written and verbal) with exceptional technical communication and articulation skills for seamless integration with North American teams.\nWhat You’ll Love\nUSA Contractor / 100% Remote\nCompetitive Pay (USD)\nHolidays Off & Paid Time Off\nHealth insurance assistance program\nOpportunity to work with high-growth US-based companies and cutting-edge tech stacks.\nReady to Build What Actually Ships?\nExplore opportunities and submit your application today!\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 10,
       "matched": [
         "full-stack",
+        "javascript",
+        "postgresql",
+        "typescript",
+        "automate",
+        "python",
+        "react",
         "ai"
       ],
       "queue": "contract",
-      "priority": 17,
+      "priority": 16,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/coderoad/jobs/sr-fullstack-developer-python-react?utm_source=api",
+      "expires": "2027-01-08T22:08:01+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online",
+      "source": "Himalayas",
+      "title": "goCloudOffice: Outsourced Bookkeeping Services — QuickBooks Online",
+      "url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online",
+      "posted": "2026-11-10T04:47:08+00:00",
+      "body": "Request for qualifications from independent bookkeeping practices.About goCloudOffice®\ngoCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement\nEngagement: outsourced bookkeeping services for a California S-corporation (IT consulting; QuickBooks Online Advanced; QuickBooks Online Payroll) — monthly close and reconciliations, accounts-payable preparation, payroll-run review, year-end package for our CPA. Initial scope approximately 1–2 hours per week; providers propose a monthly fee and terms.\nThe S-corporation is goCloudOffice® itself. This engagement outsources goCloudOffice®'s bookkeeping function: the practice owns the monthly close, the reconciliations and accounts-payable preparation, and goCloudOffice®'s finance administrator is its internal approver and liaison. goCloudOffice®'s own AI bookkeeping tools prepare draft categorizations, reconciliation worksheets and reports for the practice to review.\nThis is a business-to-business engagement under a services agreement between goCloudOffice® and your practice, which invoices for the services it delivers.\nEngagement contact: the CEO, who approves and releases all payments.Scope of services\nMonthly close and reconciliations. Close the books each month and reconcile every bank, credit-card and merchant (payment-processor) account, with a close package for the CEO.\nAccounts receivable. Apply customer payments to invoices and review receivables aging.\nAccounts-payable preparation. Enter and code bills with their source documents. Prepare vendor payments for the owner's approval and release. Route every new payee and every change to a payee's bank details to the owner for verification before use.\nPayroll-run review. Review each scheduled payroll run for accuracy and report exceptions before it processes. Tie each run to the ledger afterwards, tie out the quarterly payroll returns, and verify that retirement-plan deferrals are remitted on time.\n1099 and sales-tax support. Collect Forms W-9 through the year, prepare Forms 1099-NEC and California DE 542 reports for the owner's review and filing, and reconcile the sales-tax accounts.\nYear-end package for our CPA. Deliver the trial balance, general ledger, fixed-asset and loan schedules, the 1099 batch, the annual payroll reconciliation and the S-corporation officer-compensation and shareholder items. The CPA firm prepares and signs the tax returns.\nMonthly billing reconciliation. Review the monthly reconciliation of managed-device counts against recurring invoices that goCloudOffice®'s AI tools prepare, and book the corrections goCloudOffice® approves.\nQuickBooks Online Advanced hygiene. Keep the chart of accounts, classes and bank rules clean and consistent month to month.\nServices must meet goCloudOffice®'s financial-control, security and confidentiality policies and the service levels in the services agreement.\nThe provider uses its own equipment and business identity; goCloudOffice® grants only the QuickBooks and view-only banking access the services require.\nYour practice serves its other clients alongside this engagement.\nWhat your practice brings (required qualifications)\n1. An established bookkeeping practice serving small professional-services or IT firms, with references from current clients. Your practice:\noperates and invoices under its own business name;\nserves other current clients;\nis listed publicly, for example in the QuickBooks Online ProAdvisor directory or on its own website;\nholds the business license its location requires;\ncarries errors-and-omissions insurance of at least USD 250,000, third-party fidelity or crime coverage for client funds of at least USD 50,000, and network security and privacy liability coverage of at least USD 250,000 with breach-response cover; the services agreement sets the final limits.\nEvery business form is welcome, including a sole-proprietor ProAdvisor with an established practice.\n2. QuickBooks Online Advanced proficiency: day-to-day bookkeeping in QuickBooks Online, including bank feeds and rules, reconciliations, bills, classes, custom user roles, the audit log and month-end reports.\n3. Typically five or more years of bookkeeping for small professional-services or IT firms.\n4. Payroll-run review with an automated payroll (QuickBooks Online Payroll or comparable): reviewing each scheduled run for accuracy before it processes, reporting exceptions, and tying payroll to the ledger and the quarterly returns.\n5. Accounts-payable preparation under owner approval: entering and coding bills, preparing vendor payments for the owner's approval and release, and routing every new payee and every bank-detail change to the owner for verification.\n6. Year-end and CPA collaboration: tax-ready books, a year-end package a CPA can work from directly, and Forms 1099 prepared on time.\n7. AI-assisted bookkeeping. Providers should demonstrate at least one year of AI-assisted bookkeeping in their practice (for example, AI-assisted categorization, reconciliation or reporting). We look for:\nTools:any mainstream assistant, such as Intuit Assist in QuickBooks, Microsoft 365 Copilot, ChatGPT, Claude or Gemini.\nA clear method for checking AI output: tying every AI-proposed category or match back to the bank statement or source document, reviewing each AI-proposed entry before it posts, and keeping client financial data inside tools the client approves.\n8. Clear written communication: concise month-end summaries, precise questions, and plain-language explanations a busy CEO can act on quickly.\n9. Remote service from the United States: services performed from within the United States (our financial and payroll data are processed only in the United States).\nWhere a qualification names years, equivalent depth gained in fewer years counts; tell us how.Also valuable (preferred qualifications)\nA.Experience with S-corporations: officer payroll, shareholder distributions, and the year-end items an S-corporation return needs.\nB.Exposure to NinjaOne, Stripe or subscription (SaaS) billing, including recurring invoices priced per device or per seat.\nC.Experience designing QuickBooks Online Advanced custom user roles and approval workflows.\nD.Experience working alongside AI-generated reconciliation or categorization drafts.\nE.More than one qualified person in your practice who can perform the work, for coverage continuity.\nFee, service levels and term\nBudget:[to be confirmed by the principal]. Providers propose a monthly fee and terms.\nFee model: a fixed monthly fee for the scope above, reviewed annually; hourly rates apply only to out-of-scope projects, such as clean-ups or migrations, under a separate statement of work.\nService levels: monthly close by the 10th business day; payroll review before each scheduled run; one-business-day response to questions. The provider schedules its own work.\nTerm:a 12-month services agreement, renewable, with 30 days' notice.\nHow to respond\nSubmit your practice's qualifications: a capability statement, résumés of the people who would personally perform the work, and answers to the response questions. The questions cover your legal business name and form, years in practice, the number of current clients and their industries, ProAdvisor status, insurance in force, who personally performs the work, your proposed monthly fee, your licenses, where the practice performs its services, one example of AI-assisted bookkeeping, and any existing relationship with goCloudOffice®. Please send résumés without photographs, dates of birth, government identification numbers or home addresses, and share the notice below with the personnel whose résumés you submit. The qualification process is clear and quick:\n1. A review of your response against the posted qualifications.\n2. A 25-minute introductory qualification call about how your practice runs.\n3. A technical qualification call with a practical QuickBooks Online exercise on sample data, using the AI assistant of your choice or one we provide.\n4. Two references from current bookkeeping clients.\n5. A final decision by goCloudOffice®'s CEO.\nEvery respondent receives an answer. Reasonable accommodations and other adjustments to any step are available on request; the notice below explains how to reach us.AI-assistance and privacy notice\nThis notice covers the businesses that respond to this request for qualifications and the personnel they name. goCloudOffice, Inc. may use AI-assisted tools — Manatal, the platform that hosts our request page, and AI models from Anthropic — to organize and summarize responses against the qualifications posted here and to draft our replies. People, not tools, make every selection decision, and a person reads every response before any decision is made. We keep response records for four years and never sell or share them. You may decline AI assistance, ask for human re-review of any step, or request an accommodation for a qualification call through our contact form at ; doing so will not affect how we evaluate your response. Our full privacy notice for respondents, including California privacy rights, is at .Equal opportunity\ngoCloudOffice® selects providers on the posted qualifications alone. It welcomes responses from every qualified business, and considers them without regard to the race, color, religion or creed, sex, pregnancy, gender identity or expression, sexual orientation, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or reproductive health decision-making of the business's owners or personnel, or any other characteristic protected by law.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 7,
+      "matched": [
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "stripe",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online?utm_source=api",
+      "expires": "2027-01-09T04:47:07+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "source": "We Work Remotely",
+      "title": "True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)",
+      "url": "https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "posted": "2026-11-08T17:00:41+00:00",
+      "body": "Headquarters: United States\nURL: https://truetalentsolutionspartners.com\nAbout the Role\nContribute to an AI training project by creating, solving, reviewing, and validating engineering tasks. The work spans engineering design, physical modeling, simulation, technical problem-solving, and Python, helping assess the quality of computational engineering work.What You'll Do\nSolve and validate mechanical engineering problems across design, analysis, simulation, testing, and research and development.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nReview engineering artifacts and analyses against relevant physical and design constraints.What We're Looking For\nAn MSc or PhD in Mechanical Engineering or a closely related engineering discipline, or a strong foundation in applied mechanics and mechanical engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nExperience solving and validating mechanical engineering problems in design, analysis, simulation, testing, or research and development.\nExperience translating engineering requirements into models and working with geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nPractical proficiency with coding agents and experience with Python.Compensation & Benefits\nCompensation is $60 to $120 per hour. This is output-based contractor work, with payment per task that meets project specifications. The expected commitment is approximately 15 hours per week, with a flexible schedule. Visa sponsorship is not available.Location\nFully remote.\nTo apply: https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd",
+      "budget": "$60 to $120 per hour",
+      "score": 3,
+      "matched": [
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -379,41 +621,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
-      "source": "Himalayas",
-      "title": "Object Edge: Senior Data Engineer (Databricks) - Contractor - US",
-      "url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
-      "posted": "2026-11-09T04:03:58+00:00",
-      "body": "About Object Edge:\nObject Edge is an AI-native, forward-deployed engineering firm. It builds Hive, a company brain for revenue, embeds engineers to build agentic workflows on it, and provides management engineering to lead the change.\nAward-winning eCommerce consultancy that delivers end-to-end design and development solutions centered around our client’s goals and customer needs.\nOur teams unite curious, intellectual advisors across the globe who creatively solve business problems and produce measurable results.\nAbout the Position: \nSenior Data Engineering (Databricks)\nWhat You’ll Do\n• Be a technical leader in teams with minimal oversight and direction to deliver innovative\nsolutions on the Databricks Platform using core cloud data lakehouse methodologies,\ntools, distributed processing engines, event streaming platforms, and other modern\ndata-related technologies.\n• Be part of the Databricks Center of Excellence.\n• Build the next generation of data platforms and work with some of the most forward-\nthinking organizations in data and analytics.\n• Work under the direction of a Solution Architect to help design and implement\ncomponents of our clients’ data platform solution.\n• Participate in design sessions and be able to break down complex development tasks,\nand complete development items on time.\n• Contribute to various COE initiatives to develop Databricks solution accelerators and\nbring an innovative mindset.\nLocation: Remote - United States\nWhat You’ll Bring:\nAs a Senior Engineer in the Databricks practice, you will bring a curious mindset and a passion for\nexploring innovative solutions to address our clients’ most pressing data challenges. You are a self-\nstarter who excels at breaking down complex problems and eagerly shares insights with your team\nand the broader Builder community.\nKey Responsibilities:\n• Develop and implement data solutions using Databricks, with hands-on experience in\nspecific Databricks platform features such as Delta Lake, Uniform (Iceberg), Delta Live\nTables (Lakeflow Declarative Pipelines), and Unity Catalog.\n• Collaborate with cross-functional teams to design and optimize data pipelines for both\nbatch and streaming data, ensuring data quality and efficiency.\n• Stay updated with emerging technologies, the latest Databricks platform features, and\ncontinuously improve your skills in Databricks and other relevant tools.\nExperience You’ll Bring:\n• Strong data engineering experience, with at least 2 years of hands-on data pipeline\ndesign and development experience with Databricks, including specific platform\nfeatures like Delta Lake, Uniform (Iceberg), Delta Live Tables (Lakeflow Declarative\npipelines), and Unity Catalog.\n• Proficiency in designing and building robust, scalable, YAML configuration-driven data\npipelines with batch, micro-batch, and streaming data ingestion and processing patterns\nusing tools like Auto Loader, demonstrating a strong understanding of modern data\nengineering practices.Experienced in building complex job/workflow orchestration patterns\nusing either Databricks jobs/workflows or other orchestration tools like Airflow, dbt\netc.\n• Exposure to building robust data quality, pipeline audit/observability solutions with\nDatabricks native features and/or other data quality tools/frameworks like Great\nExpectations, Collibra, dbt, etc.\n• Proficiency in Big Data Platforms: Apache Spark, Presto, Amazon EMR.\n• Experience with Cloud Data Warehouses: Amazon Redshift, Snowflake, Google\nBigQuery.\n• Strong programming skills using SQL, stored procedures, and object-oriented programming\nlanguages (like Java, Python, PySpark, etc.).\n• Familiarity with building DevOps, CI/CD pipelines using Databricks Asset Bundles with\nautomated validation and testing.\n• Exposure to Infrastructure as Code (IaC) tools like Terraform is a big plus.\n• Familiarity with NoSQL Databases and Container Management Systems.\n• Exposure to AI/ML tools (like MLflow), prompt engineering, and modern data and AI agentic\nworkflows.\n• An ideal candidate will have Databricks Data Engineering Associate and/or Professional\ncertification completed with multiple Databricks project delivery experience.\nCompensation:\nSalary is commensurate with experience based on department and role. \nObject Edge provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. We believe in providing employees with a work environment free of unlawful discrimination and harassment. In addition to national law requirements, Object Edge complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "workflow",
-        "prompt",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us?utm_source=api",
-      "expires": "2027-01-08T04:03:57+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -450,34 +657,37 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote",
+      "id": "himalayas:https://himalayas.app/companies/gocloudoffice/jobs/outsourced-tier-1-it-help-desk-services-microsoft-365-rmm",
       "source": "Himalayas",
-      "title": "YO AI Labs: Machine Learning Researcher - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote",
-      "posted": "2026-11-06T21:55:52+00:00",
-      "body": "Job Title: Machine Learning Researcher (MSc. or PhD)\nJob Type: Contractor\nLocation: Global, Fully Remote\nWorking Hours: Approximately 15 hours per week\nSchedule: Flexible, including weekendsJob Summary\nWe are seeking skilled Machine Learning Researchers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization.\nThis is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities\nDevelop and validate machine-learning models and training pipelines.\nImplement model components, data pipelines, and evaluation systems.\nBuild reproducible workflows using Python and command-line tools.\nDebug technical issues and optimize memory usage, throughput, and performance.\nReview and validate implementations against defined requirements.\nRequired Qualifications\nMaster's degree or PhD in Computer Science, Machine Learning, AI, Applied Mathematics, Statistics, Engineering, or a related field.\nStrong professional or research experience in machine learning.\nPractical proficiency in Python and coding agents.\nExperience with model development, training workflows, and performance optimization.\nExperience at established technology companies, AI labs, research organizations, or through exceptional academic and open-source work is preferred.Selection Process\nApply and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nStart Timeline\nRoles are typically filled within 48 hours.\nImmediate availability is preferred.\nSelected candidates should begin their first task within 24–48 hours after onboarding.\nCompensation Structure: Payment is based on completed tasks that meet project specifications. Minimum submission requirements apply.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
+      "title": "goCloudOffice: Outsourced Tier-1 IT Help Desk Services — Microsoft 365 & RMM",
+      "url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-tier-1-it-help-desk-services-microsoft-365-rmm",
+      "posted": "2026-11-09T20:15:27+00:00",
+      "body": "Request for qualifications from IT services firms and independent IT businesses.About goCloudOffice®\ngoCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement\nRequest for qualifications: first-line IT support services (remote) for goCloudOffice®'s Helpdesk customers — Tier-1 end-user support, RMM operations tasks and Tier-1 administration at goCloudOffice®'s Tier-1 service level. Budgeted rate USD 65 per hour; providers propose coverage windows, a block fee and terms.\ngoCloudOffice® welcomes responses from IT services firms, including helpdesk firms whose own W-2 personnel provide first-line support, and from independent IT practitioners who operate an established business.\nThis is a business-to-business engagement under a master services agreement and a statement of work between goCloudOffice® and your business, which invoices for the services it delivers.\nEngagement contact: the goCloudOffice® account lead. The provider directs its own work and personnel.Scope of services\nThe services are first-line IT support at goCloudOffice®'s Tier-1 service level: requests that follow a clear, documented runbook, delivered remotely, with anything beyond a runbook handed off to goCloudOffice®'s senior providers.\nTier-1 end-user support. Remote help for business users through the Helpdesk ticketing system: Windows 10 and 11 and macOS troubleshooting; Microsoft 365 apps such as Outlook, Teams and OneDrive; printers and peripherals; Microsoft 365 and authenticator apps on users' phones; and the Tier-1 steps of user onboarding and offboarding.\nRMM operations. RMM operations deliverables in goCloudOffice®'s NinjaOne environment (patch-policy roll-outs, scripted remediations, alert triage) under named, scoped access.\nTier-1 administration. In each customer's Microsoft 365 tenant: user additions and changes, password resets and multi-factor re-registration after identity verification, and group, distribution-list and license changes, each under the customer's change rules and a documented runbook.\nEscalation.Security events, tenant-wide settings, new policies and scripts, network changes and multi-system work are handed off to goCloudOffice®'s senior providers, with a hand-off note that records what was seen, what was tried and what the user was told.\nDocumentation.Clear ticket notes, knowledge-base articles and runbook updates, so every customer stays easy to support.\nAI-assisted delivery. AI tools used as a daily part of the work, including AI-assisted troubleshooting, knowledge-base drafting and ticket summarization, with every output verified before it reaches a customer or a customer system.\nFirst-line tickets are triaged by the Helpdesk's AI assistant; the provider handles the tickets it accepts under the statement of work and hands off to goCloudOffice®'s senior providers on escalation.\nServices must meet each customer's security, access and confidentiality policies and the service levels in the statement of work.\nThe provider uses its own equipment and business identity; goCloudOffice® grants only the proprietary system access the services require.\nThe provider presents under its own business name on every surface a customer sees: a Helpdesk alias of the form \"[Name] — [Business]\", public replies signed \"Thanks, [Name], [Business] — for the Helpdesk\", and RMM and customer-tenant accounts labelled with the business.\nThe services are delivered remotely, and providers in any US state may respond. On-site work at customer premises is arranged separately and sits outside this scope.\nWhat your business brings (required qualifications)\n1. An independently established IT services business. Your business:\noperates under its own business name, including in the ticketing and management systems it works in;\nregularly contracts with other businesses and advertises its services to the public;\nholds the business licenses and registrations its work requires (for example, in its home city and state);\ncarries general liability insurance (USD 1M per occurrence, USD 2M aggregate), technology errors-and-omissions and network security and privacy liability insurance (USD 1M per claim) with breach-response cover, and workers' compensation where the business has W-2 personnel;\nprovides its own equipment.\nPreferred structure:A corporation, or an LLC taxed as an S-corporation, whose own W-2 personnel perform the services is preferred; helpdesk firms that staff first-line support this way are welcome. Sole proprietorships and single-member LLCs are also considered.\n2. Typically three or more years of hands-on Tier-1 and Tier-2 IT support experience for business users across Windows, macOS and Microsoft 365.\n3. Remote Tier-1 troubleshooting: Windows 10 and 11, macOS, Microsoft 365 apps, printers and peripherals, and Microsoft 365 and authenticator apps on users' phones, resolved through tickets and remote sessions.\n4. Microsoft 365 Tier-1 administration: user additions and changes, password resets and multi-factor re-registration, and group, distribution-list and license changes, carried out from documented runbooks, with identity verification before every account change.\n5. RMM operations:hands-on delivery of RMM operations tasks on a remote monitoring and management platform (patch-policy roll-outs, scripted remediations and alert triage), with every action documented in the ticket.\n6. AI-assisted service delivery. Providers should demonstrate at least one year of AI-assisted service delivery in their practice (for example, AI-assisted troubleshooting, knowledge-base drafting or ticket summarization). We look for:\nTools:any mainstream assistant, such as Microsoft 365 Copilot, ChatGPT, Claude, Gemini or GitHub Copilot.\nA clear method for checking AI output: confirming answers against vendor documentation such as Microsoft Learn or Apple Support, trying a fix on one device before wider use, reading every line of a script before running it, checking every AI-drafted reply for accuracy before a customer sees it, and keeping customer data inside tools approved for it.\nExperience with AI-triaged ticket queues: reading an AI assistant's triage critically before acting on it.\n7. Security judgment:identity verification before any account or device change, immediate escalation of security events such as a phishing report or an unusual sign-in, and careful handling of credentials, recovery keys and customer data.\n8. Clear written communication with end users: patient, plain-language replies, accurate ticket notes, and hand-offs complete enough for the next engineer to continue from the last step.\n9. Remote service capability: able to deliver the services remotely from any US state (customer data is handled under the customer's terms and within the United States), within the coverage windows the provider proposes and commits to, and at the service levels in the statement of work.\nWhere a qualification names years, equivalent depth gained in fewer years counts; tell us how.Also valuable (preferred qualifications)\nA.Hands-on NinjaOne experience: device management, patch management, alerts and conditions, the script library and remote access.\nB.Relevant certifications, such as CompTIA A+, CompTIA Network+, Microsoft 365 Certified: Endpoint Administrator Associate (exam MD-102) or Microsoft 365 Certified: Fundamentals (exam MS-900).\nC.Experience with a Zendesk-class ticketing desk: views, macros, internal notes and service-level targets.\nD.More than one qualified person in your business who can perform the services, for coverage continuity.\nRate, fee and term\nBudgeted rate: USD 65 per hour. Providers propose their own rates and commercial terms.\nFee structure: a fixed fee per coverage block, sized from the budgeted rate, plus hourly or per-ticket overage for work outside the block, itemized on the provider's invoice.\nCoverage:Customer demand is concentrated in US Pacific business hours; providers propose the coverage windows they will commit to.\nService levels: acknowledgment and first-response targets, measured over each month and set in the statement of work.\nVolume:the coverage windows the provider proposes set the volume; scope may expand by statement of work.\nTerm:a 12-month statement of work, renewable.\nHow to respond\nSubmit your business's qualifications: a capability statement, résumés of the personnel who would perform the services, and answers to the response questions. The questions cover business details, licenses and insurance in force, who performs the services, current clients (count and industries, including those your business serves remotely; no names), equipment, the ticketing and RMM platforms your personnel use for other clients, the coverage windows you offer, your proposed fee and terms, and one example of AI-assisted service delivery. Please send résumés without photographs, dates of birth, government identification numbers or home addresses, and share the notice below with the personnel whose résumés you submit. The qualification process is clear and quick:\n1. A review of your response against the posted qualifications.\n2. A 25-minute introductory qualification call about how your business runs.\n3. A technical qualification call with live Tier-1 scenarios and a practical AI exercise, using the AI assistant of your choice or one we provide.\n4. A walk-through of the Helpdesk workflow, using sample tickets.5. Two references from current clients.\n6. A final decision by goCloudOffice®'s founder.\nEvery respondent receives an answer. Reasonable accommodations and other adjustments to any step are available on request; the notice below explains how to reach us.AI-assistance and privacy notice\nThis notice covers the businesses that respond to this request for qualifications and the personnel they name. goCloudOffice, Inc. may use AI-assisted tools — Manatal, the platform that hosts our request page, and AI models from Anthropic — to organize and summarize responses against the qualifications posted here and to draft our replies. People, not tools, make every selection decision, and a person reads every response before any decision is made. We keep response records for four years and never sell or share them. You may decline AI assistance, ask for human re-review of any step, or request an accommodation for a qualification call through our contact form at ; doing so will not affect how we evaluate your response. Our full privacy notice for respondents, including California privacy rights, is at .Equal opportunity\ngoCloudOffice® selects providers on the posted qualifications alone. It welcomes responses from every qualified business, and considers them without regard to the race, color, religion or creed, sex, pregnancy, gender identity or expression, sexual orientation, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or reproductive health decision-making of the business's owners or personnel, or any other characteristic protected by law.\nOriginally posted on Himalayas",
+      "budget": "USD 65 to 65/hourly",
+      "score": 6,
       "matched": [
-        "agents",
-        "python",
+        "anthropic",
+        "workflow",
+        "chatgpt",
+        "claude",
+        "gemini",
         "ai"
       ],
       "queue": "contract",
-      "priority": 13,
+      "priority": 12,
       "reasons": [
-        "explicit hiring intent"
+        "budget stated, verify scope and currency"
       ],
       "flags": [
-        "budget unknown",
-        "check eligibility: United States"
+        "check eligibility: United States",
+        "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-researcher-remote?utm_source=api",
-      "expires": "2027-01-05T21:55:51+00:00",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-tier-1-it-help-desk-services-microsoft-365-rmm?utm_source=api",
+      "expires": "2027-01-08T20:15:25+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -575,36 +785,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/product-manager-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Product Manager - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/product-manager-remote",
-      "posted": "2026-11-06T22:29:40+00:00",
-      "body": "Product Manager / Product Owner\nRole Type: Contractor\nLocation: Remote\nWe are seeking experienced Product Managers and Product Owners to contribute to a customer project focused on evaluating and improving advanced AI systems.\nYou'll apply your product expertise to assess AI-generated content, specifications, and product documentation. No prior AI experience is required.\nThis is strictly an evaluation and analysis role. It does not involve roadmap ownership, delivery management, sprint facilitation, stakeholder leadership, or program management. Candidates should have strong product management or product ownership experience.Scope of Work\nEvaluate and compare AI-generated specifications, release notes, user-facing content, and stakeholder communications.\nAssess responses for clarity, accuracy, tone, usefulness, and adherence to instructions.\nProvide detailed rationales and actionable feedback for each evaluation.\nIdentify content that is fluent but fails to address the intended question or user need.\nDetect factual inaccuracies, inconsistencies, and violations of prompt requirements.\nCollaborate virtually and asynchronously with project managers and reviewers to maintain evaluation quality and consistency.\nPreferred Qualifications\nProfessional experience as a Product Manager or Product Owner.\nNative-level English fluency and excellent written communication skills.\nExperience creating and reviewing PRDs, specifications, acceptance criteria, release notes, or decision documents.\nAbility to evaluate content for technical stakeholders, executives, and end users.\nStrong critical analysis, attention to detail, and written feedback skills.\nAbility to work independently and meet deadlines in a remote environment.\nFamiliarity with AI model evaluation, RLHF, or annotation is a plus, but not required.\nOriginally posted on Himalayas",
-      "budget": "USD 90 to 140/hourly",
-      "score": 3,
-      "matched": [
-        "prompt",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 10,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/product-manager-remote?utm_source=api",
-      "expires": "2027-01-05T22:29:39+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/we-are-rosie/jobs/media-planner-buyer",
       "source": "Himalayas",
       "title": "We Are Rosie: Media Planner & Buyer",
@@ -640,96 +820,38 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-python-developer-remote",
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
       "source": "Himalayas",
-      "title": "YO AI Labs: Sr Python Developer - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-python-developer-remote",
-      "posted": "2026-11-06T23:01:59+00:00",
-      "body": "Senior Software Engineer\nJob Type: Contractor (~15 hrs/week)\nLocation: Remote\nSchedule: FlexibleRequired Skills\nPython 3, Java, Rust, TypeScript, C++\nAlgorithms & Data Structures\nBug Fixing & Feature Implementation\nCodebase Refactoring\nPerformance Optimization\nAutomated Testing\nBackend Development\nJob Summary\nWork on challenging coding tasks designed to improve next-generation AI systems. You'll create realistic coding problems, implement features and bug fixes, and build deterministic verifiers to evaluate solutions.What We're Looking For\nStrong backend development experience\nExperience building scalable services and APIs\nStrong debugging and performance optimization skills\nExcellent code review and problem-solving abilities\nCybersecurity/SecOps experience is a plus\nResponsibilities\nDevelop and debug complex software\nImplement new features and improvements\nRefactor and optimize existing codebases\nDesign coding tasks and reliable verification systems\nApply strong software engineering and algorithmic principles\nOriginally posted on Himalayas",
-      "budget": "USD 30 to 100/hourly",
-      "score": 5,
-      "matched": [
-        "typescript",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 9,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [
-        "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-c-developer-remote"
-      ],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-python-developer-remote?utm_source=api",
-      "expires": "2027-01-05T23:01:59+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/competitive-data-scientist-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Competitive Data Scientist - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/competitive-data-scientist-remote",
-      "posted": "2026-11-06T22:22:09+00:00",
-      "body": "Role Title: Competitive Data Scientist\nRole Type: Contractor\nLocation: Global, Fully Remote\nTime Commitment: Approximately 15 hours per week\nSchedule: Flexible, including weekends\nWe are seeking Data Scientists, Machine Learning Practitioners, and Applied Mathematics experts with competitive data science experience to support an AI training project. You'll develop challenging, reproducible tasks that test problem-solving, programming, and analytical reasoning. Each task must include a verified reference solution and reliable evaluation criteria.Key Responsibilities\nBuild reproducible environments, prepare datasets and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria to verify solution correctness.\nRun coding agents on tasks, analyze failures, and refine tasks based on observed results.\nIdentify implementation errors, flawed assumptions, data leakage, and other correctness issues.\nDocument task requirements, solution logic, and verification procedures clearly.\nRequired Qualifications\nDemonstrated experience in data science, machine learning, quantitative modeling, or research competitions.\nStrong problem-solving skills and a clear understanding of analytical methods.\nPractical programming skills to implement, test, and verify solutions.\nExperience with competitive data science platforms such as Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, or CodaLab/Codabench.\nPreferred Qualifications\nStrong Python programming skills.\nExperience with testing, debugging, and working with unfamiliar code.\nOriginally posted on Himalayas",
-      "budget": null,
+      "title": "micro1: ML Engineer (MSc. or PhD)",
+      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
+      "posted": "2026-11-10T13:00:10+00:00",
+      "body": "Senior ML Engineer (MSc. or PhD)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA master’s degree or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
       "score": 4,
       "matched": [
+        "workflow",
         "agents",
         "python",
         "ai"
       ],
       "queue": "contract",
-      "priority": 8,
-      "reasons": [],
+      "priority": 7,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
       "flags": [
-        "budget unknown",
-        "check eligibility: United States"
+        "project budget below preferred floor",
+        "check eligibility: Worldwide (check timezone)",
+        "seniority requirement needs review"
       ],
       "aliases": [],
-      "location": "United States",
+      "location": "Worldwide (check timezone)",
       "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/competitive-data-scientist-remote?utm_source=api",
-      "expires": "2027-01-05T22:22:08+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/generalist-u-s-tax-workflow-evaluation-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Generalist — U.S. Tax Workflow Evaluation - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/generalist-u-s-tax-workflow-evaluation-remote",
-      "posted": "2026-11-06T21:23:00+00:00",
-      "body": "Role Title: Generalist — U.S. Tax Workflow Evaluation\nRole Type: Contractor\nLocation: Remote, U.S. Only\nWe are engaging detail-oriented Generalists for a short-term customer project focused on evaluating U.S. tax and financial workflows. You'll apply your financial knowledge to review real-world tax processes, assess system-generated outputs, and provide high-quality feedback to support AI development. No prior AI experience is required.Scope of Work\nReview, annotate, and evaluate U.S. tax filing workflows and related financial processes.\nApply defined rubrics to assess accuracy, completeness, and user experience.\nCompare system-generated outputs against real-world tax documents and scenarios.\nReview relevant tax-related documents and financial information through secure project workflows.\nIdentify errors, inconsistencies, and areas for improvement.\nProvide clear written and verbal feedback on evaluation results.\nCollaborate asynchronously with project coordinators and meet assigned deadlines.\nPreferred Qualifications\nCurrently residing in a mainland U.S. state and available to start immediately.\nStrong financial literacy and hands-on experience filing 2025 U.S. taxes, independently or with professional assistance.\nComfortable working with digital financial and document-sharing workflows.\nStrong document review, annotation, and attention-to-detail skills.\nExperience with rubrics, quality review, data annotation, or workflow evaluation is a plus.\nExcellent written and verbal communication skills.\nFamiliarity with Google Workspace, including Docs, Sheets, and Drive.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "workflow",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 8,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/generalist-u-s-tax-workflow-evaluation-remote?utm_source=api",
-      "expires": "2027-01-05T21:22:59+00:00",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api",
+      "expires": "2026-12-15T19:35:19+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -792,98 +914,69 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/english-teacher-remote",
+      "id": "himalayas:https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
       "source": "Himalayas",
-      "title": "YO AI Labs: English Teacher - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/english-teacher-remote",
-      "posted": "2026-11-06T22:28:19+00:00",
-      "body": "Role Title: English Teacher\nRole Type: Contractor\nLocation: Remote, United States Only\nWe are seeking experienced English Teachers to support an AI training project by completing teaching-related tasks and evaluating AI assistant responses. Candidates will use their expertise in English, literature, writing, and classroom management to assess the accuracy, clarity, tone, and quality of AI-generated content.Key Responsibilities\nComplete teaching-related tasks, including emails, scheduling, and classroom coordination using AI tools.\nFollow detailed instructions and project guidelines accurately.\nReview AI-generated responses for grammar, tone, accuracy, and completeness.\nEvaluate writing quality, literary analysis, and audience appropriateness.\nRank and annotate AI responses using established evaluation criteria.\nDocument findings and submit assessments according to project requirements.\nRequired Qualifications\nMust be based in the United States.\niPhone with iMessage and a Facebook and/or Instagram account.\nBachelor's degree in English, Literature, Education, or a related field.\nExperience teaching English or literature at K–12, college, or adult education levels.\nStrong knowledge of grammar, writing conventions, and literary analysis.\nDaily hands-on experience with Google Classroom, Gmail, and Google Calendar.\nPractical experience using AI tools.\nExcellent attention to detail and instruction-following skills.\nPreferred Qualifications\nMaster's degree or advanced coursework in a related field.\nExperience in AI evaluation, data labeling, or user testing.\nFamiliarity with prompt writing and AI assistant capabilities.\nExperience developing grading rubrics and providing structured feedback.\nOriginally posted on Himalayas",
+      "title": "Object Edge: Senior Data Engineer (Databricks) - Contractor - US",
+      "url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
+      "posted": "2026-11-09T04:03:58+00:00",
+      "body": "About Object Edge:\nObject Edge is an AI-native, forward-deployed engineering firm. It builds Hive, a company brain for revenue, embeds engineers to build agentic workflows on it, and provides management engineering to lead the change.\nAward-winning eCommerce consultancy that delivers end-to-end design and development solutions centered around our client’s goals and customer needs.\nOur teams unite curious, intellectual advisors across the globe who creatively solve business problems and produce measurable results.\nAbout the Position: \nSenior Data Engineering (Databricks)\nWhat You’ll Do\n• Be a technical leader in teams with minimal oversight and direction to deliver innovative\nsolutions on the Databricks Platform using core cloud data lakehouse methodologies,\ntools, distributed processing engines, event streaming platforms, and other modern\ndata-related technologies.\n• Be part of the Databricks Center of Excellence.\n• Build the next generation of data platforms and work with some of the most forward-\nthinking organizations in data and analytics.\n• Work under the direction of a Solution Architect to help design and implement\ncomponents of our clients’ data platform solution.\n• Participate in design sessions and be able to break down complex development tasks,\nand complete development items on time.\n• Contribute to various COE initiatives to develop Databricks solution accelerators and\nbring an innovative mindset.\nLocation: Remote - United States\nWhat You’ll Bring:\nAs a Senior Engineer in the Databricks practice, you will bring a curious mindset and a passion for\nexploring innovative solutions to address our clients’ most pressing data challenges. You are a self-\nstarter who excels at breaking down complex problems and eagerly shares insights with your team\nand the broader Builder community.\nKey Responsibilities:\n• Develop and implement data solutions using Databricks, with hands-on experience in\nspecific Databricks platform features such as Delta Lake, Uniform (Iceberg), Delta Live\nTables (Lakeflow Declarative Pipelines), and Unity Catalog.\n• Collaborate with cross-functional teams to design and optimize data pipelines for both\nbatch and streaming data, ensuring data quality and efficiency.\n• Stay updated with emerging technologies, the latest Databricks platform features, and\ncontinuously improve your skills in Databricks and other relevant tools.\nExperience You’ll Bring:\n• Strong data engineering experience, with at least 2 years of hands-on data pipeline\ndesign and development experience with Databricks, including specific platform\nfeatures like Delta Lake, Uniform (Iceberg), Delta Live Tables (Lakeflow Declarative\npipelines), and Unity Catalog.\n• Proficiency in designing and building robust, scalable, YAML configuration-driven data\npipelines with batch, micro-batch, and streaming data ingestion and processing patterns\nusing tools like Auto Loader, demonstrating a strong understanding of modern data\nengineering practices.Experienced in building complex job/workflow orchestration patterns\nusing either Databricks jobs/workflows or other orchestration tools like Airflow, dbt\netc.\n• Exposure to building robust data quality, pipeline audit/observability solutions with\nDatabricks native features and/or other data quality tools/frameworks like Great\nExpectations, Collibra, dbt, etc.\n• Proficiency in Big Data Platforms: Apache Spark, Presto, Amazon EMR.\n• Experience with Cloud Data Warehouses: Amazon Redshift, Snowflake, Google\nBigQuery.\n• Strong programming skills using SQL, stored procedures, and object-oriented programming\nlanguages (like Java, Python, PySpark, etc.).\n• Familiarity with building DevOps, CI/CD pipelines using Databricks Asset Bundles with\nautomated validation and testing.\n• Exposure to Infrastructure as Code (IaC) tools like Terraform is a big plus.\n• Familiarity with NoSQL Databases and Container Management Systems.\n• Exposure to AI/ML tools (like MLflow), prompt engineering, and modern data and AI agentic\nworkflows.\n• An ideal candidate will have Databricks Data Engineering Associate and/or Professional\ncertification completed with multiple Databricks project delivery experience.\nCompensation:\nSalary is commensurate with experience based on department and role. \nObject Edge provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. We believe in providing employees with a work environment free of unlawful discrimination and harassment. In addition to national law requirements, Object Edge complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\nOriginally posted on Himalayas",
       "budget": null,
-      "score": 3,
+      "score": 4,
       "matched": [
+        "workflow",
         "prompt",
+        "python",
         "ai"
       ],
       "queue": "contract",
-      "priority": 6,
-      "reasons": [],
+      "priority": 3,
+      "reasons": [
+        "explicit hiring intent"
+      ],
       "flags": [
         "budget unknown",
-        "check eligibility: United States"
+        "check eligibility: United States",
+        "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/english-teacher-remote?utm_source=api",
-      "expires": "2027-01-05T22:28:18+00:00",
+      "apply_url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us?utm_source=api",
+      "expires": "2027-01-08T04:03:57+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/rand-corporation/jobs/ai-security-researcher",
-      "source": "Himalayas",
-      "title": "RAND Corporation: AI Security Researcher",
-      "url": "https://himalayas.app/companies/rand-corporation/jobs/ai-security-researcher",
-      "posted": "2026-11-06T21:18:22+00:00",
-      "body": "Job Type: Term (Fixed Term)Overview\nRAND’s Center on AI, Security, and Technology (CAST), part of the Global and Emerging Risks (GER) Division, is seeking researchers to advance the technical foundations of AI safety. This role is intended for researchers with deep expertise in areas such as theoretical computer science, cryptography, formal methods, programming languages, systems security, computer architecture, distributed systems, or machine learning systems.\nYou will conduct original research on technically challenging problems at the intersection of AI and security. Researchers are expected to exercise independent scientific judgment in identifying important questions, developing appropriate methods, and leading projects from problem formulation through analysis, implementation, experimentation, and publication. The work may span fundamental research, systems building, empirical evaluation, and technical analysis.\nYour research will inform both the broader technical community and analysis delivered to senior government and industry leaders. You will communicate results through peer-reviewed publications, technical reports, research artifacts, and policy-facing products for both technical and non-technical audiences. One example of RAND's work in this area is the Securing AI Model Weights report.\nThis position is structured as a three-year appointment with options to renew and explore opportunities for longer-term employment at RAND thereafter.\nQualifications\nAll research positions at RAND require excellent analytic skills; the ability to communicate clearly and effectively, both orally and in writing; the ability to work effectively as a member of a multi-disciplinary team; and a strong commitment to RAND's core values of quality and objectivity.\nRequired:\nDemonstrated ability to conduct independent, original technical research.\nDeep expertise in at least one area such as theoretical computer science, cryptography, formal methods, programming languages, computer security, systems, computer architecture, or machine learning systems.\nAbility to identify and formulate important research problems, showing creativity and initiative in the conception and execution of projects.\nStrong programming or systems-building ability in languages such as Python, Rust, Go, C/C++, or equivalent tools appropriate to the candidate's research area.\nDemonstrated ability to lead complex research projects from conception through completion.\nExcellent written and verbal communication skills for both technical and non-technical audiences.\nAbility to work effectively in a collaborative, geographically distributed environment.\nCandidates should demonstrate a strong research record through peer-reviewed publications, significant research artifacts, or equivalent technical contributions. Strong candidates will often have published at leading venues such as NeurIPS, ICML, ICLR, COLT, USENIX Security, IEEE Symposium on Security and Privacy, ACM CCS, NDSS, STOC, FOCS, SODA, CRYPTO, TCC, SOSP, OSDI, CAV, POPL, PLDI, OOPSLA, ICFP, or comparable venues.\nPreferred:\nPhD in Computer Science, Electrical Engineering, Mathematics, Physics, or a closely related technical field. Late stage PhD candidates with an anticipated dissertation defense date will also be considered.\nExpertise spanning multiple areas of computer science.\nExperience with formal methods, verification, or cryptography.\nExperience in systems security, hardware security, confidential computing, or secure systems design.\nExperience with machine learning systems, distributed training, inference infrastructure, accelerators, or large-scale computing systems.\nExperience developing research prototypes or experimental systems.\nExperience with security analysis, vulnerability research, adversarial evaluation, or red teaming.\nExperience translating technical research for policymakers, research funders, or senior technical decision-makers.\nPrior experience specifically in AI security is not required. We encourage applications from researchers in adjacent areas who are interested in applying deep technical expertise to emerging AI security problems.\nEducation Requirements\nRAND is hiring multiple AI Security Researchers at associate, specialist, and expert levels of experience. Minimum education requirements at the associate level include:\nA PhD in Computer Science, Computer Engineering, Electrical Engineering, Cybersecurity, Information Security, Information Technology, Mathematics, Applied Mathematics, Physics, Applied Physics, Engineering Physics, Artificial Intelligence, Machine Learning, Engineering and Public Policy, Technology and Policy, National Security Policy, Policy Analysis, Political Science, International Relations, or similar is required.\nOR\nA Master’s degree in the fields listed above with at least 3 years of relevant professional experience, is required.\nOR\nA Bachelor’s degree in the fields listed above with at least 5 years of relevant professional experience, is required.PhD strongly preferred.\nSecurity Clearance\nAbility to obtain and maintain a U.S. government clearance is preferred but not required.\nLocation\nIn-person, hybrid, and fully remote work options are available. We have offices in San Francisco, CA; Washington, DC; Santa Monica, CA; Pittsburgh, PA; and Boston, MA. US visa support will also be considered.\nWriting or Code Sample\nEither a writing sample or a code sample is required for this position. This sample can use a recent, previously written paper or technical report (e.g., journal article, master’s thesis or paper written for coursework, research project, technical analysis, briefings), or source code showing technical expertise in relevant domains.\nTerm\nThis position is a three-year term appointment with a possibility of renewal, alongside options for longer term employment.\nSalary Range:$132,000 - $338,925\nAI Security Associate = $132,000 - $181,500\nAI Security Specialist = $164,000 - $225,500AI Security Expert = $192,300 - $278,850\nSenior AI Security Expert = $222,300 - $338,925\nRAND considers a variety of factors when formulating an offer, including but not limited to, the specific role and associated responsibilities; a candidate’s work experience, education/training, skills, expertise; and internal equity. Successful candidates will be offered employment in a specific title, as determined by the candidate’s education and experience. The salary range includes base pay plus RAND’s sabbatic pay (which provides additional compensation above base pay when vacation is taken). In addition, RAND provides strong benefits including health insurance coverage, life and disability insurance, savings plan, paid time-off and more.\nEqual Opportunity Employer\nOriginally posted on Himalayas",
-      "budget": "USD 132000 to 338925/annual",
-      "score": 3,
+      "id": "hn:50427924",
+      "source": "HN Who is hiring",
+      "title": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/w...",
+      "url": "https://news.ycombinator.com/item?id=50427924",
+      "posted": "2026-11-09T16:36:13+00:00",
+      "body": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time\nSunsave is building what replaces your energy supplier. Customers switch to solar and a battery with nothing to pay upfront: kit, install, finance and long-term protection in one package, and the battery trades energy on the grid every day to push their bills towards zero. Founded in 2022, £113m Series A (equity and debt) in 2025, more than 3x growth last year, nearly 90 people.\nI lead engineering and data science. Software runs every step of the customer journey: the quote, the finance application, the contract, the install and the battery trading. You'd join a small squad on one area: acquisition (website, quote, finance, contract), installation, in-life (customer app, monitoring, maintenance) or energy (battery optimisation and grid trading).\nProduct engineers here own problems end to end, from working with the people who use what they build to running it in production. Agents do a lot of the implementation. We expect you to use them every day, delegate the implementation but never the thinking, and own every line you merge. We offer finance and hold customer data, so correctness, auditability and security matter a lot.\nExperience: 2+ years running production software for mid-level, 6+ for senior. TypeScript, NestJS, React/Next.js, PostgreSQL and AWS are a plus but not required. Right to work in the UK required.\nThe interview is built for how we work. No leetcode. A ~45 min async review of a pull request written with AI, then a ~90 min live session where you shape and build a small problem close to our work with your own AI tools.\nJD: https://sunsave.notion.site/Sunsave-Product-Engineer-410e7b6...\nApply: https://ats.welcometothejungle.com/board/sunsave-RTBuAt/job/...",
+      "budget": null,
+      "score": 6,
       "matched": [
-        "python",
+        "postgresql",
+        "typescript",
+        "next.js",
+        "agents",
+        "react",
         "ai"
       ],
       "queue": "contract",
-      "priority": 5,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
+      "priority": 2,
+      "reasons": [],
       "flags": [
-        "check eligibility: United States",
+        "budget unknown",
         "seniority requirement needs review"
       ],
       "aliases": [],
-      "location": "United States",
-      "employment_type": "Temporary",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/rand-corporation/jobs/ai-security-researcher?utm_source=api",
-      "expires": "2027-01-05T21:18:21+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/sr-android-developer-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Sr Android Developer  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-android-developer-remote",
-      "posted": "2026-11-06T21:09:53+00:00",
-      "body": "Role Title: Senior Mobile Software Engineer\nRole Type: Contractor\nLocation: Remote\nCommitment: Approximately 15 hours per week\nWe are seeking experienced Mobile Software Engineers to support an AI training project by designing challenging coding tasks, building reproducible testing environments, and developing reference solutions. Candidates will help evaluate AI models' ability to solve complex mobile development problems.Key Responsibilities\nCreate challenging mobile coding tasks involving debugging, feature development, refactoring, and performance optimization.\nBuild reproducible environments for testing AI-generated solutions.\nDevelop deterministic verifiers to assess solution correctness.\nCreate reference solutions for each coding task.\nDesign problems involving application state, lifecycle management, and asynchronous programming.\nEnsure tasks meet project quality and evaluation standards.\nRequired Qualifications\nStrong experience in at least one mobile development track:\nCross-platform: React Native, TypeScript, JavaScript, or Flutter with Dart.\niOS: Swift, SwiftUI, or UIKit.\nAndroid: Kotlin, Jetpack Compose, or Android Views.\nDeep understanding of mobile architecture, state management, and application lifecycle.\nProven debugging and problem-solving skills.\nExperience optimizing mobile application performance.\nAbility to create reliable tests and reference implementations.\nCompensation\nPayment is based on completed tasks that meet project specifications. Weekly submission requirements will be shared during onboarding.Start Timeline\nSelection typically takes around 48 hours.\nSelected candidates should be ready to start within 24–48 hours after onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 100/hourly",
-      "score": 5,
-      "matched": [
-        "react native",
-        "javascript",
-        "typescript",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 4,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [
-        "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/senior-mobile-developer-remote"
-      ],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-android-developer-remote?utm_source=api",
-      "expires": "2027-01-05T21:09:52+00:00",
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -918,6 +1011,38 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/bounteous/jobs/principal-architect?utm_source=api",
       "expires": "2027-01-06T20:58:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/coding-expert-8353093837",
+      "source": "Himalayas",
+      "title": "micro1: Coding Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/coding-expert-8353093837",
+      "posted": "2026-11-10T01:20:54+00:00",
+      "body": "Role Title: Coding ExpertRole Type: ContractorLocation: Remote\nmicro1 is engaging Coding Experts to contribute to a customer's coding-focused project spanning diverse programming challenges and real-world problem-solving. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work\nAnalyze, interpret, and debug code snippets and technical documentation across Python, JavaScript, C++, Java, and SQL.\nProduce comprehensive explanations or annotations for code segments, focusing on clarity and accuracy.\nReview, assess, and improve solutions generated by AI relating to software development challenges.\nSimulate real developer workflows by reading, executing, and troubleshooting diverse codebases.\nParticipate in extended, multi-turn chats requiring careful reading and nuanced understanding of technical issues.\nCompare and evaluate multiple long-form responses to complex coding prompts.\nDocument findings and provide actionable feedback for continuous improvement of AI capabilities.\nPreferred Qualifications\nBachelor’s degree in computer science, software engineering, or a related field, or equivalent hands-on experience as a software developer (1+ year preferred).\nAdvanced proficiency in Python, JavaScript, and C++.\nProven ability to read, run, and debug code in Python, JavaScript, Java, C/C++, and SQL.\nNative or near-native command of written English, with strong attention to detail in both written and verbal communication.\nExperience in careful analysis of long, multi-step technical conversations and documentation.\nPrior experience with annotation, code review, or technical content creation is a strong plus.\nDemonstrated ability to work independently and deliver results remotely.\nOriginally posted on Himalayas",
+      "budget": "USD 20 to 45/hourly",
+      "score": 3,
+      "matched": [
+        "javascript",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 1,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/coding-expert-8353093837?utm_source=api",
+      "expires": "2027-01-09T01:20:54+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -981,99 +1106,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/sr-typescript-engineer-remote?utm_source=api",
       "expires": "2027-01-06T19:53:26+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Procurement & Vendor Management Expert - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote",
-      "posted": "2026-11-06T23:00:36+00:00",
-      "body": "Job Title: Procurement & Vendor Management Expert\nRole Type: Contractor\nLocation: Remote, GlobalJob Summary\nWe are seeking experienced Procurement & Vendor Management Experts to contribute to an AI training project by designing realistic, multi-step procurement tasks with objective grading criteria. The role involves transforming real-world procurement workflows into structured benchmark tasks that evaluate AI systems' analytical skills, reasoning, and decision-making. Prior AI experience is not required.Key Responsibilities\nDesign multi-step tasks based on real procurement workflows, including supplier assessment, bid comparison, vendor risk analysis, and contract review.\nDevelop clear instructions and objective grading criteria to ensure consistent evaluation.\nCreate tasks that require sound judgment, analytical thinking, and accurate interpretation of procurement documents.\nPrepare supporting materials, including RFP responses, pricing schedules, contracts, service-level agreements (SLAs), and risk assessments.\nIdentify ambiguous or ungradable tasks and refine them before submission.\nDeliver high-quality, approved tasks within project deadlines.\nPreferred Qualifications\nAt least 5 years of hands-on experience in procurement, sourcing, supplier assessment, or vendor management.\nExperience developing or applying structured evaluation standards, including supplier scorecards, weighted bid criteria, vendor risk frameworks, or category strategies.\nStrong analytical skills and the ability to work across contracts, spreadsheets, and reports.\nCIPS, CPSM, or an equivalent professional certification is an advantage but not mandatory.\nStrong written and spoken English proficiency (B2 minimum; C1 preferred).\nExperience with AI or LLM evaluation is a plus but not required.\nProject Details\nEngagement: Project-based, with payment per approved task.\nCompensation: Up to $90/hour equivalent.\nEstimated Time: Approximately 10 hours per task.\nWork Mode: Fully remote, with no geographic restrictions.\nLanguage Requirement: B2-level English minimum; C1 preferred.\nSelection Process\nApply and complete the screening questions.\nComplete the role-specific AI interview to demonstrate your procurement and vendor management expertise.\nUndergo a profile review.\nComplete onboarding with the Talent Operations team.\nOriginally posted on Himalayas",
-      "budget": "USD 90 to 90/hourly",
-      "score": 3,
-      "matched": [
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/procurement-vendor-management-expert-remote?utm_source=api",
-      "expires": "2027-01-05T23:00:35+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/legal-compliance-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Legal & Compliance Expert - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/legal-compliance-expert-remote",
-      "posted": "2026-11-06T22:37:52+00:00",
-      "body": "Job Title: Legal & Compliance Expert\nRole Type: Contractor\nLocation: Remote, GlobalJob Summary\nWe are seeking experienced Legal & Compliance Experts to contribute to an AI training project by designing realistic, multi-step legal and compliance tasks with objective grading criteria. The role involves transforming real-world legal workflows into structured benchmark tasks that evaluate AI systems' reasoning, judgment, and accuracy. Prior AI experience is not required.Key Responsibilities\nDesign multi-step tasks based on real legal and compliance workflows, including contract review, due diligence, regulatory assessments, and risk analysis.\nDevelop clear instructions and objective grading criteria to ensure consistent evaluation.\nCreate tasks that require legal judgment, careful document interpretation, and analytical reasoning rather than simple information lookup.\nPrepare supporting materials, including agreements, policy documents, regulatory texts, and due diligence files.\nIdentify ambiguous or ungradable tasks and refine them before submission.\nDeliver high-quality, approved tasks within project deadlines.\nPreferred Qualifications\nAt least 5 years of hands-on experience in contract review, due diligence, regulatory compliance, or risk management.\nExperience developing or applying structured review standards, compliance frameworks, due diligence protocols, playbooks, or training assessments.\nStrong analytical skills and the ability to identify inconsistencies across multiple documents.\nA law degree and bar admission, or an equivalent compliance qualification, is an advantage but not mandatory.\nStrong written and spoken English proficiency (B2 minimum; C1 preferred).\nExperience with AI or LLM evaluation is a plus but not required.\nProject Details\nEngagement: Project-based, with payment per approved task.\nCompensation: Up to $90/hour equivalent.\nEstimated Time: Approximately 10 hours per task.\nWork Mode: Fully remote, with no geographic restrictions.\nLanguage Requirement: B2-level English minimum; C1 preferred.\nSelection Process\nApply and complete the screening questions.\nComplete the role-specific AI interview to demonstrate your expertise.\nUndergo a profile review.\nComplete onboarding with the Talent Operations team.\nOriginally posted on Himalayas",
-      "budget": "USD 90 to 90/hourly",
-      "score": 3,
-      "matched": [
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/legal-compliance-expert-remote?utm_source=api",
-      "expires": "2027-01-05T22:37:51+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/semiconductor-engineering-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Semiconductor Engineering Expert - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/semiconductor-engineering-expert-remote",
-      "posted": "2026-11-06T21:11:09+00:00",
-      "body": "Semiconductor Engineering Expert\nRole Type: Contractor\nLocation: Remote\nCompensation: $80–$185/hour\nCommitment: FlexibleJob Description\nWe are seeking experienced Semiconductor Engineering Experts to develop challenging technical problems, provide accurate solutions, and establish evaluation criteria for advanced AI training projects.Key Responsibilities\nDesign complex technical problems in device physics, process integration, circuit design, lithography, packaging, yield, and reliability.\nProvide accurate solutions with clear technical reasoning.\nDefine objective criteria for evaluating technical answers.\nReview other contributors' work for technical accuracy.\nIdentify ambiguous or ungradable problems.\nRequired Qualifications\nMaster's or PhD in Electrical Engineering, Materials Science, Applied Physics, or a related field.\nPrincipal-, Staff-, or Fellow-level experience at a major semiconductor company, or faculty experience at a leading university.\nDeep expertise in at least one semiconductor domain.\nStrong analytical and technical communication skills.\nPreferred Qualifications\nPublications, patents, or technical leadership experience.\nAI or LLM evaluation experience is a plus.\nSelection Process\nApplication and screening questions.\nAI interview.\nProfile review.\nOnboarding with the Talent Operations team.\nOriginally posted on Himalayas",
-      "budget": "USD 80 to 185/hourly",
-      "score": 3,
-      "matched": [
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/semiconductor-engineering-expert-remote?utm_source=api",
-      "expires": "2027-01-05T21:11:08+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -1165,66 +1197,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-physics-research-scientist-remote?utm_source=api",
       "expires": "2027-01-06T19:34:19+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "hn:50403646",
-      "source": "HN Who is hiring",
-      "title": "Location: Estonia Remote:Yes",
-      "url": "https://news.ycombinator.com/item?id=50403646",
-      "posted": "2026-11-07T11:35:58+00:00",
-      "body": "Location: Estonia Remote:Yes\nWilling to relocate: No\nTechnologies: React.js,Vue.js, Next.js,Nuxt.js ,TypeScript, SCSS, CSS3, Tailwind CSS, Redux, Zustand\nPart-time/Freelance: Yes\nLinkedin: https://www.linkedin.com/in/mustafadalga/\nContact info: mustafadalga \\[at\\] gmail \\[dot\\] com\nFront-end engineer with 7+ years of experience in React/Next.js, Vue/Nuxt.js, and TypeScript. Focused on performance and UI modernization, with results such as improving Lighthouse scores from 50→88 and cutting load times by 80%. Experienced in migrating legacy codebases and mentoring teams, and interested in roles involving dashboard rebuilds, performance optimization, and modernization work.",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "typescript",
-        "next.js",
-        "react"
-      ],
-      "queue": "contract",
-      "priority": -4,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/finance-accounting-expert-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Finance & Accounting Expert - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/finance-accounting-expert-remote",
-      "posted": "2026-11-06T22:58:09+00:00",
-      "body": "Job Title: Finance & Accounting Expert\nRole Type: Contractor\nLocation: Remote, GlobalJob Summary\nWe are seeking experienced Finance and Accounting Experts to contribute to an AI training project by designing realistic, multi-step finance tasks with objective grading criteria. The role focuses on translating real-world financial workflows into structured benchmark tasks that evaluate AI accuracy, reasoning, and practical judgment. Prior AI experience is not required.Key Responsibilities\nDesign multi-step tasks involving FP&A analysis, financial reporting, audits, reconciliations, and accounting workflows.\nDevelop clear instructions and objective grading criteria to ensure consistent evaluation.\nCreate tasks that require financial judgment, accurate document interpretation, and analytical reasoning.\nPrepare supporting materials, including spreadsheets, general ledger extracts, financial statements, and policy documents.\nIdentify ambiguous or ungradable tasks and refine them before submission.\nDeliver high-quality, approved tasks within project deadlines.\nPreferred Qualifications\nAt least 5 years of hands-on experience in FP&A, financial reporting, auditing, reconciliations, or accounting.\nExperience creating or applying structured review standards, audit programs, checklists, grading rubrics, or training assessments.\nStrong Excel skills and the ability to analyze multiple documents simultaneously.\nCPA, CA, ACCA, CMA, or an equivalent qualification is an advantage but not mandatory.\nStrong written English communication skills.\nExperience in AI or LLM evaluation is a plus but not required.\nProject Details\nEngagement: Project-based, with payment per approved task.\nTask Duration: Approximately 10 hours per task.\nWork Mode: Fully remote, with no geographic restrictions.\nLanguage Requirement: Advanced English proficiency (B2 or C1 level).\nSelection Process\nApply and complete the screening questions.\nComplete the role-specific AI interview.\nUndergo a profile review.\nComplete onboarding with the Talent Operations team.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": -4,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/finance-accounting-expert-remote?utm_source=api",
-      "expires": "2027-01-05T22:58:09+00:00",
       "imported": false,
       "date_basis": "posted"
     }
