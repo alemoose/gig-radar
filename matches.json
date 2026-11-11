@@ -2,6 +2,42 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "reddit:t3_1xr0gdt",
+      "source": "r/forhire",
+      "title": "[Hiring] Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)",
+      "url": "https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/",
+      "posted": "2026-11-08T15:03:55+00:00",
+      "body": "Hi everyone, \nI am looking for an experienced freelancer to conduct a technical code review and a white-box security assessment for a classifieds marketplace for pet supplies. \nThe Tech Stack: \nTypeScript Monorepo (pnpm and Turborepo). \n4 Apps: Website, Admin panel, API with worker, and an Android/iOS app. \nFrontend: Next.js 16.4 (App Router) and Tailwind 4. \nBackend: Hono + oRPC, Better Auth, PostgreSQL 18 with PostGIS and Drizzle ORM. \nMobile App: React Native 0.88 with Expo SDK 58. \nThe Task: \nCode and architecture review as a senior developer. \nWhite-box security assessment with dynamic tests on a staging system. \nSecurity baseline testing according to OWASP ASVS 5.0 L2 (for web and API) and MASVS (for the Android app). \nFinal delivery includes a report with an executive summary, a findings table, and a clear acceptance verdict for the public launch. \nRequirements: \nYou must have real, proven experience in security assessments and code reviews for this specific tech stack. \nLanguage: The UI, code comments, and documentation are mostly in German. Under the NDA, you are not allowed to put code or docs into online translation or AI services without asking us first. We can translate passages for you, but basic German comprehension is a big plus. \nYou must sign an NDA before any access is granted. \nBudget: I am looking to start with a budget of around $50 - $100 for the initial testing phase, but I am absolutely open to offers based on your experience and the required scope. \nIf you are interested and have the right skills, please send me a DM with your portfolio, relevant certifications (e.g., OSCP, CEH), or examples of past reviews. Must have a good CV.",
+      "budget": "$50 - $100",
+      "score": 9,
+      "matched": [
+        "react native",
+        "mobile app",
+        "postgresql",
+        "typescript",
+        "next.js",
+        "ai"
+      ],
+      "queue": "project",
+      "priority": 25,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "reddit:t3_1xsg2xp",
       "source": "r/hiring",
       "title": "[Hiring] Data annotation and prompt-quality contractors — Remote (US) — $35/hr",
@@ -15,7 +51,7 @@
         "ai"
       ],
       "queue": "project",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -46,7 +82,7 @@
         "ai"
       ],
       "queue": "project",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -79,43 +115,7 @@
         "ai"
       ],
       "queue": "project",
-      "priority": 25,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "reddit:t3_1xr0gdt",
-      "source": "r/forhire",
-      "title": "[Hiring] Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)",
-      "url": "https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/",
-      "posted": "2026-11-08T15:03:55+00:00",
-      "body": "Hi everyone, \nI am looking for an experienced freelancer to conduct a technical code review and a white-box security assessment for a classifieds marketplace for pet supplies. \nThe Tech Stack: \nTypeScript Monorepo (pnpm and Turborepo). \n4 Apps: Website, Admin panel, API with worker, and an Android/iOS app. \nFrontend: Next.js 16.4 (App Router) and Tailwind 4. \nBackend: Hono + oRPC, Better Auth, PostgreSQL 18 with PostGIS and Drizzle ORM. \nMobile App: React Native 0.88 with Expo SDK 58. \nThe Task: \nCode and architecture review as a senior developer. \nWhite-box security assessment with dynamic tests on a staging system. \nSecurity baseline testing according to OWASP ASVS 5.0 L2 (for web and API) and MASVS (for the Android app). \nFinal delivery includes a report with an executive summary, a findings table, and a clear acceptance verdict for the public launch. \nRequirements: \nYou must have real, proven experience in security assessments and code reviews for this specific tech stack. \nLanguage: The UI, code comments, and documentation are mostly in German. Under the NDA, you are not allowed to put code or docs into online translation or AI services without asking us first. We can translate passages for you, but basic German comprehension is a big plus. \nYou must sign an NDA before any access is granted. \nBudget: I am looking to start with a budget of around $50 - $100 for the initial testing phase, but I am absolutely open to offers based on your experience and the required scope. \nIf you are interested and have the right skills, please send me a DM with your portfolio, relevant certifications (e.g., OSCP, CEH), or examples of past reviews. Must have a good CV.",
-      "budget": "$50 - $100",
-      "score": 9,
-      "matched": [
-        "react native",
-        "mobile app",
-        "postgresql",
-        "typescript",
-        "next.js",
-        "ai"
-      ],
-      "queue": "project",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -234,43 +234,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online",
-      "source": "Himalayas",
-      "title": "goCloudOffice: Outsourced Bookkeeping Services — QuickBooks Online",
-      "url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online",
-      "posted": "2026-11-10T04:47:08+00:00",
-      "body": "Request for qualifications from independent bookkeeping practices.About goCloudOffice®\ngoCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement\nEngagement: outsourced bookkeeping services for a California S-corporation (IT consulting; QuickBooks Online Advanced; QuickBooks Online Payroll) — monthly close and reconciliations, accounts-payable preparation, payroll-run review, year-end package for our CPA. Initial scope approximately 1–2 hours per week; providers propose a monthly fee and terms.\nThe S-corporation is goCloudOffice® itself. This engagement outsources goCloudOffice®'s bookkeeping function: the practice owns the monthly close, the reconciliations and accounts-payable preparation, and goCloudOffice®'s finance administrator is its internal approver and liaison. goCloudOffice®'s own AI bookkeeping tools prepare draft categorizations, reconciliation worksheets and reports for the practice to review.\nThis is a business-to-business engagement under a services agreement between goCloudOffice® and your practice, which invoices for the services it delivers.\nEngagement contact: the CEO, who approves and releases all payments.Scope of services\nMonthly close and reconciliations. Close the books each month and reconcile every bank, credit-card and merchant (payment-processor) account, with a close package for the CEO.\nAccounts receivable. Apply customer payments to invoices and review receivables aging.\nAccounts-payable preparation. Enter and code bills with their source documents. Prepare vendor payments for the owner's approval and release. Route every new payee and every change to a payee's bank details to the owner for verification before use.\nPayroll-run review. Review each scheduled payroll run for accuracy and report exceptions before it processes. Tie each run to the ledger afterwards, tie out the quarterly payroll returns, and verify that retirement-plan deferrals are remitted on time.\n1099 and sales-tax support. Collect Forms W-9 through the year, prepare Forms 1099-NEC and California DE 542 reports for the owner's review and filing, and reconcile the sales-tax accounts.\nYear-end package for our CPA. Deliver the trial balance, general ledger, fixed-asset and loan schedules, the 1099 batch, the annual payroll reconciliation and the S-corporation officer-compensation and shareholder items. The CPA firm prepares and signs the tax returns.\nMonthly billing reconciliation. Review the monthly reconciliation of managed-device counts against recurring invoices that goCloudOffice®'s AI tools prepare, and book the corrections goCloudOffice® approves.\nQuickBooks Online Advanced hygiene. Keep the chart of accounts, classes and bank rules clean and consistent month to month.\nServices must meet goCloudOffice®'s financial-control, security and confidentiality policies and the service levels in the services agreement.\nThe provider uses its own equipment and business identity; goCloudOffice® grants only the QuickBooks and view-only banking access the services require.\nYour practice serves its other clients alongside this engagement.\nWhat your practice brings (required qualifications)\n1. An established bookkeeping practice serving small professional-services or IT firms, with references from current clients. Your practice:\noperates and invoices under its own business name;\nserves other current clients;\nis listed publicly, for example in the QuickBooks Online ProAdvisor directory or on its own website;\nholds the business license its location requires;\ncarries errors-and-omissions insurance of at least USD 250,000, third-party fidelity or crime coverage for client funds of at least USD 50,000, and network security and privacy liability coverage of at least USD 250,000 with breach-response cover; the services agreement sets the final limits.\nEvery business form is welcome, including a sole-proprietor ProAdvisor with an established practice.\n2. QuickBooks Online Advanced proficiency: day-to-day bookkeeping in QuickBooks Online, including bank feeds and rules, reconciliations, bills, classes, custom user roles, the audit log and month-end reports.\n3. Typically five or more years of bookkeeping for small professional-services or IT firms.\n4. Payroll-run review with an automated payroll (QuickBooks Online Payroll or comparable): reviewing each scheduled run for accuracy before it processes, reporting exceptions, and tying payroll to the ledger and the quarterly returns.\n5. Accounts-payable preparation under owner approval: entering and coding bills, preparing vendor payments for the owner's approval and release, and routing every new payee and every bank-detail change to the owner for verification.\n6. Year-end and CPA collaboration: tax-ready books, a year-end package a CPA can work from directly, and Forms 1099 prepared on time.\n7. AI-assisted bookkeeping. Providers should demonstrate at least one year of AI-assisted bookkeeping in their practice (for example, AI-assisted categorization, reconciliation or reporting). We look for:\nTools:any mainstream assistant, such as Intuit Assist in QuickBooks, Microsoft 365 Copilot, ChatGPT, Claude or Gemini.\nA clear method for checking AI output: tying every AI-proposed category or match back to the bank statement or source document, reviewing each AI-proposed entry before it posts, and keeping client financial data inside tools the client approves.\n8. Clear written communication: concise month-end summaries, precise questions, and plain-language explanations a busy CEO can act on quickly.\n9. Remote service from the United States: services performed from within the United States (our financial and payroll data are processed only in the United States).\nWhere a qualification names years, equivalent depth gained in fewer years counts; tell us how.Also valuable (preferred qualifications)\nA.Experience with S-corporations: officer payroll, shareholder distributions, and the year-end items an S-corporation return needs.\nB.Exposure to NinjaOne, Stripe or subscription (SaaS) billing, including recurring invoices priced per device or per seat.\nC.Experience designing QuickBooks Online Advanced custom user roles and approval workflows.\nD.Experience working alongside AI-generated reconciliation or categorization drafts.\nE.More than one qualified person in your practice who can perform the work, for coverage continuity.\nFee, service levels and term\nBudget:[to be confirmed by the principal]. Providers propose a monthly fee and terms.\nFee model: a fixed monthly fee for the scope above, reviewed annually; hourly rates apply only to out-of-scope projects, such as clean-ups or migrations, under a separate statement of work.\nService levels: monthly close by the 10th business day; payroll review before each scheduled run; one-business-day response to questions. The provider schedules its own work.\nTerm:a 12-month services agreement, renewable, with 30 days' notice.\nHow to respond\nSubmit your practice's qualifications: a capability statement, résumés of the people who would personally perform the work, and answers to the response questions. The questions cover your legal business name and form, years in practice, the number of current clients and their industries, ProAdvisor status, insurance in force, who personally performs the work, your proposed monthly fee, your licenses, where the practice performs its services, one example of AI-assisted bookkeeping, and any existing relationship with goCloudOffice®. Please send résumés without photographs, dates of birth, government identification numbers or home addresses, and share the notice below with the personnel whose résumés you submit. The qualification process is clear and quick:\n1. A review of your response against the posted qualifications.\n2. A 25-minute introductory qualification call about how your practice runs.\n3. A technical qualification call with a practical QuickBooks Online exercise on sample data, using the AI assistant of your choice or one we provide.\n4. Two references from current bookkeeping clients.\n5. A final decision by goCloudOffice®'s CEO.\nEvery respondent receives an answer. Reasonable accommodations and other adjustments to any step are available on request; the notice below explains how to reach us.AI-assistance and privacy notice\nThis notice covers the businesses that respond to this request for qualifications and the personnel they name. goCloudOffice, Inc. may use AI-assisted tools — Manatal, the platform that hosts our request page, and AI models from Anthropic — to organize and summarize responses against the qualifications posted here and to draft our replies. People, not tools, make every selection decision, and a person reads every response before any decision is made. We keep response records for four years and never sell or share them. You may decline AI assistance, ask for human re-review of any step, or request an accommodation for a qualification call through our contact form at ; doing so will not affect how we evaluate your response. Our full privacy notice for respondents, including California privacy rights, is at .Equal opportunity\ngoCloudOffice® selects providers on the posted qualifications alone. It welcomes responses from every qualified business, and considers them without regard to the race, color, religion or creed, sex, pregnancy, gender identity or expression, sexual orientation, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or reproductive health decision-making of the business's owners or personnel, or any other characteristic protected by law.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 7,
-      "matched": [
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "gemini",
-        "stripe",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online?utm_source=api",
-      "expires": "2027-01-09T04:47:07+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -406,6 +369,43 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/coderoad/jobs/sr-fullstack-developer-python-react?utm_source=api",
       "expires": "2027-01-08T22:08:01+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online",
+      "source": "Himalayas",
+      "title": "goCloudOffice: Outsourced Bookkeeping Services — QuickBooks Online",
+      "url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online",
+      "posted": "2026-11-10T04:47:08+00:00",
+      "body": "Request for qualifications from independent bookkeeping practices.About goCloudOffice®\ngoCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement\nEngagement: outsourced bookkeeping services for a California S-corporation (IT consulting; QuickBooks Online Advanced; QuickBooks Online Payroll) — monthly close and reconciliations, accounts-payable preparation, payroll-run review, year-end package for our CPA. Initial scope approximately 1–2 hours per week; providers propose a monthly fee and terms.\nThe S-corporation is goCloudOffice® itself. This engagement outsources goCloudOffice®'s bookkeeping function: the practice owns the monthly close, the reconciliations and accounts-payable preparation, and goCloudOffice®'s finance administrator is its internal approver and liaison. goCloudOffice®'s own AI bookkeeping tools prepare draft categorizations, reconciliation worksheets and reports for the practice to review.\nThis is a business-to-business engagement under a services agreement between goCloudOffice® and your practice, which invoices for the services it delivers.\nEngagement contact: the CEO, who approves and releases all payments.Scope of services\nMonthly close and reconciliations. Close the books each month and reconcile every bank, credit-card and merchant (payment-processor) account, with a close package for the CEO.\nAccounts receivable. Apply customer payments to invoices and review receivables aging.\nAccounts-payable preparation. Enter and code bills with their source documents. Prepare vendor payments for the owner's approval and release. Route every new payee and every change to a payee's bank details to the owner for verification before use.\nPayroll-run review. Review each scheduled payroll run for accuracy and report exceptions before it processes. Tie each run to the ledger afterwards, tie out the quarterly payroll returns, and verify that retirement-plan deferrals are remitted on time.\n1099 and sales-tax support. Collect Forms W-9 through the year, prepare Forms 1099-NEC and California DE 542 reports for the owner's review and filing, and reconcile the sales-tax accounts.\nYear-end package for our CPA. Deliver the trial balance, general ledger, fixed-asset and loan schedules, the 1099 batch, the annual payroll reconciliation and the S-corporation officer-compensation and shareholder items. The CPA firm prepares and signs the tax returns.\nMonthly billing reconciliation. Review the monthly reconciliation of managed-device counts against recurring invoices that goCloudOffice®'s AI tools prepare, and book the corrections goCloudOffice® approves.\nQuickBooks Online Advanced hygiene. Keep the chart of accounts, classes and bank rules clean and consistent month to month.\nServices must meet goCloudOffice®'s financial-control, security and confidentiality policies and the service levels in the services agreement.\nThe provider uses its own equipment and business identity; goCloudOffice® grants only the QuickBooks and view-only banking access the services require.\nYour practice serves its other clients alongside this engagement.\nWhat your practice brings (required qualifications)\n1. An established bookkeeping practice serving small professional-services or IT firms, with references from current clients. Your practice:\noperates and invoices under its own business name;\nserves other current clients;\nis listed publicly, for example in the QuickBooks Online ProAdvisor directory or on its own website;\nholds the business license its location requires;\ncarries errors-and-omissions insurance of at least USD 250,000, third-party fidelity or crime coverage for client funds of at least USD 50,000, and network security and privacy liability coverage of at least USD 250,000 with breach-response cover; the services agreement sets the final limits.\nEvery business form is welcome, including a sole-proprietor ProAdvisor with an established practice.\n2. QuickBooks Online Advanced proficiency: day-to-day bookkeeping in QuickBooks Online, including bank feeds and rules, reconciliations, bills, classes, custom user roles, the audit log and month-end reports.\n3. Typically five or more years of bookkeeping for small professional-services or IT firms.\n4. Payroll-run review with an automated payroll (QuickBooks Online Payroll or comparable): reviewing each scheduled run for accuracy before it processes, reporting exceptions, and tying payroll to the ledger and the quarterly returns.\n5. Accounts-payable preparation under owner approval: entering and coding bills, preparing vendor payments for the owner's approval and release, and routing every new payee and every bank-detail change to the owner for verification.\n6. Year-end and CPA collaboration: tax-ready books, a year-end package a CPA can work from directly, and Forms 1099 prepared on time.\n7. AI-assisted bookkeeping. Providers should demonstrate at least one year of AI-assisted bookkeeping in their practice (for example, AI-assisted categorization, reconciliation or reporting). We look for:\nTools:any mainstream assistant, such as Intuit Assist in QuickBooks, Microsoft 365 Copilot, ChatGPT, Claude or Gemini.\nA clear method for checking AI output: tying every AI-proposed category or match back to the bank statement or source document, reviewing each AI-proposed entry before it posts, and keeping client financial data inside tools the client approves.\n8. Clear written communication: concise month-end summaries, precise questions, and plain-language explanations a busy CEO can act on quickly.\n9. Remote service from the United States: services performed from within the United States (our financial and payroll data are processed only in the United States).\nWhere a qualification names years, equivalent depth gained in fewer years counts; tell us how.Also valuable (preferred qualifications)\nA.Experience with S-corporations: officer payroll, shareholder distributions, and the year-end items an S-corporation return needs.\nB.Exposure to NinjaOne, Stripe or subscription (SaaS) billing, including recurring invoices priced per device or per seat.\nC.Experience designing QuickBooks Online Advanced custom user roles and approval workflows.\nD.Experience working alongside AI-generated reconciliation or categorization drafts.\nE.More than one qualified person in your practice who can perform the work, for coverage continuity.\nFee, service levels and term\nBudget:[to be confirmed by the principal]. Providers propose a monthly fee and terms.\nFee model: a fixed monthly fee for the scope above, reviewed annually; hourly rates apply only to out-of-scope projects, such as clean-ups or migrations, under a separate statement of work.\nService levels: monthly close by the 10th business day; payroll review before each scheduled run; one-business-day response to questions. The provider schedules its own work.\nTerm:a 12-month services agreement, renewable, with 30 days' notice.\nHow to respond\nSubmit your practice's qualifications: a capability statement, résumés of the people who would personally perform the work, and answers to the response questions. The questions cover your legal business name and form, years in practice, the number of current clients and their industries, ProAdvisor status, insurance in force, who personally performs the work, your proposed monthly fee, your licenses, where the practice performs its services, one example of AI-assisted bookkeeping, and any existing relationship with goCloudOffice®. Please send résumés without photographs, dates of birth, government identification numbers or home addresses, and share the notice below with the personnel whose résumés you submit. The qualification process is clear and quick:\n1. A review of your response against the posted qualifications.\n2. A 25-minute introductory qualification call about how your practice runs.\n3. A technical qualification call with a practical QuickBooks Online exercise on sample data, using the AI assistant of your choice or one we provide.\n4. Two references from current bookkeeping clients.\n5. A final decision by goCloudOffice®'s CEO.\nEvery respondent receives an answer. Reasonable accommodations and other adjustments to any step are available on request; the notice below explains how to reach us.AI-assistance and privacy notice\nThis notice covers the businesses that respond to this request for qualifications and the personnel they name. goCloudOffice, Inc. may use AI-assisted tools — Manatal, the platform that hosts our request page, and AI models from Anthropic — to organize and summarize responses against the qualifications posted here and to draft our replies. People, not tools, make every selection decision, and a person reads every response before any decision is made. We keep response records for four years and never sell or share them. You may decline AI assistance, ask for human re-review of any step, or request an accommodation for a qualification call through our contact form at ; doing so will not affect how we evaluate your response. Our full privacy notice for respondents, including California privacy rights, is at .Equal opportunity\ngoCloudOffice® selects providers on the posted qualifications alone. It welcomes responses from every qualified business, and considers them without regard to the race, color, religion or creed, sex, pregnancy, gender identity or expression, sexual orientation, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or reproductive health decision-making of the business's owners or personnel, or any other characteristic protected by law.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 7,
+      "matched": [
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "stripe",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 9,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online?utm_source=api",
+      "expires": "2027-01-09T04:47:07+00:00",
       "imported": false,
       "date_basis": "posted"
     },

@@ -1,30 +1,30 @@
 # Gig radar
 
-Updated 2026-11-11 02:59 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-11 10:43 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
 
-- [(Hiring) Data annotation and prompt-quality contractors — Remote (US) — $35/hr](https://www.reddit.com/r/hiring/comments/1xsg2xp/hiring_data_annotation_and_promptquality/)  
-  r/hiring | posted Nov 10 06:48 UTC | score 3 | **$35/hr** | prompt, ai
-  Fit: 29 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > We're building annotation capacity for an ongoing AI training pipeline and adding several contractors on a rolling basis. Six months of work queued, not a single batch. The work Annotating and reviewing AI training data against a written rubric: labeling model outputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 items on a weekly cadence. To be clear about what this is not: it isn't survey work, sign-up work, or click-work. Every batch ships with a written specification and a worked example before you start, and you get QA feedback on the previous batch so quali...
-- [(Hiring) Data annotation and prompt-quality contractors — Remote (US) — $35/hr](https://www.reddit.com/r/forhire/comments/1xsfw4x/hiring_data_annotation_and_promptquality/)  
-  r/forhire | posted Nov 10 06:36 UTC | score 3 | **$35/hr** | prompt, ai
-  Fit: 29 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > We're building annotation capacity for an ongoing AI training pipeline and adding contractors on a rolling basis. Six months of work queued, not a single batch. The work Annotating and reviewing AI training data against a written rubric: labeling model outputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 items on a weekly cadence. Spec and worked example supplied before you start, so the deliverable is clear before you commit. You - Based in the US and authorized to work in the US; no sponsorship - 18+, minimum 10 hrs/week, reliable turnaround - Clear written En...
-- [(Hiring) Senior Python / SWE roles in AI evaluation and agentic coding (remote, $80-100/hr)](https://www.reddit.com/r/hiring/comments/1xsi730/hiring_senior_python_swe_roles_in_ai_evaluation/)  
-  r/hiring | posted Nov 10 09:04 UTC | score 6 | **$80-100/hr** | agents, python, llm, ai
-  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Sharing two remote contract roles in AI that might interest senior engineers here. Full disclosure: I have a link to apply for. You’re also free to apply directly on the company’s site. 1. Senior Software Engineer, AI Evaluation & Benchmarks Build benchmarks that test frontier AI models Python-heavy $80-100/hr, fully remote 2. Senior Software Engineer, Agentic Coding Build AI agents that write code autonomously Flexible, fully remote Who it fits: experienced engineers (strong Python especially) who want to work on evals, agents, or LLM tooling. If you want the link, DM me and I’ll send it....
 - [(Hiring) Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native)](https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/)  
   r/forhire | posted Nov 08 15:03 UTC | score 9 | **$50 - $100** | react native, mobile app, postgresql, typescript, next.js, ai
   Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Hi everyone, I am looking for an experienced freelancer to conduct a technical code review and a white-box security assessment for a classifieds marketplace for pet supplies. The Tech Stack: TypeScript Monorepo (pnpm and Turborepo). 4 Apps: Website, Admin panel, API with worker, and an Android/iOS app. Frontend: Next.js 16.4 (App Router) and Tailwind 4. Backend: Hono + oRPC, Better Auth, PostgreSQL 18 with PostGIS and Drizzle ORM. Mobile App: React Native 0.88 with Expo SDK 58. The Task: Code and architecture review as a senior developer. White-box security assessment with dynamic tests on...
+- [(Hiring) Data annotation and prompt-quality contractors — Remote (US) — $35/hr](https://www.reddit.com/r/hiring/comments/1xsg2xp/hiring_data_annotation_and_promptquality/)  
+  r/hiring | posted Nov 10 06:48 UTC | score 3 | **$35/hr** | prompt, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > We're building annotation capacity for an ongoing AI training pipeline and adding several contractors on a rolling basis. Six months of work queued, not a single batch. The work Annotating and reviewing AI training data against a written rubric: labeling model outputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 items on a weekly cadence. To be clear about what this is not: it isn't survey work, sign-up work, or click-work. Every batch ships with a written specification and a worked example before you start, and you get QA feedback on the previous batch so quali...
+- [(Hiring) Data annotation and prompt-quality contractors — Remote (US) — $35/hr](https://www.reddit.com/r/forhire/comments/1xsfw4x/hiring_data_annotation_and_promptquality/)  
+  r/forhire | posted Nov 10 06:36 UTC | score 3 | **$35/hr** | prompt, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > We're building annotation capacity for an ongoing AI training pipeline and adding contractors on a rolling basis. Six months of work queued, not a single batch. The work Annotating and reviewing AI training data against a written rubric: labeling model outputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 items on a weekly cadence. Spec and worked example supplied before you start, so the deliverable is clear before you commit. You - Based in the US and authorized to work in the US; no sponsorship - 18+, minimum 10 hrs/week, reliable turnaround - Clear written En...
+- [(Hiring) Senior Python / SWE roles in AI evaluation and agentic coding (remote, $80-100/hr)](https://www.reddit.com/r/hiring/comments/1xsi730/hiring_senior_python_swe_roles_in_ai_evaluation/)  
+  r/hiring | posted Nov 10 09:04 UTC | score 6 | **$80-100/hr** | agents, python, llm, ai
+  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Sharing two remote contract roles in AI that might interest senior engineers here. Full disclosure: I have a link to apply for. You’re also free to apply directly on the company’s site. 1. Senior Software Engineer, AI Evaluation & Benchmarks Build benchmarks that test frontier AI models Python-heavy $80-100/hr, fully remote 2. Senior Software Engineer, Agentic Coding Build AI agents that write code autonomously Flexible, fully remote Who it fits: experienced engineers (strong Python especially) who want to work on evals, agents, or LLM tooling. If you want the link, DM me and I’ll send it....
 
 ## Contract roles
 
@@ -43,11 +43,6 @@ Updated 2026-11-11 02:59 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month I'm looking to hire our first engineer to own architecture and build product first version. Stack: TypeScript, React/Next.js, Node.js and PostgreSQL. The core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads. You should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and b...
-- [goCloudOffice: Outsourced Bookkeeping Services — QuickBooks Online](https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online)  
-  Himalayas | posted Nov 10 04:47 UTC | score 7 | anthropic, chatgpt, claude, gemini, stripe, saas
-  Fit: 15 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Request for qualifications from independent bookkeeping practices.About goCloudOffice® goCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement Engagement: outsourced bookkeeping ser...
 - [True Talent Solutions Partners: Mechanical Engineering Expert (MSc. or PhD)](https://weworkremotely.com/remote-jobs/true-talent-solutions-partners-mechanical-engineering-expert-msc-or-phd)  
   We Work Remotely | posted Nov 08 17:00 UTC | score 3 | **$60 to $120 per hour** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -68,6 +63,11 @@ Updated 2026-11-11 02:59 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Engagement Type: Full-TimeAbout CodeRoad CodeRoad is a technology execution partner trusted by companies across North America since 2002. We work alongside our clients to engineer, modernize, and scale the technology that powers their businesses, combining deep technical expertise, specialized teams, and shared accountability for outcomes. Our capabilities span product engineering, platform engineering, legacy modernization, and AI engineering. Our engineers, designers, delivery leaders, and technology specialists collaborate through Velocity Studios: specialized teams developed within Code...
+- [goCloudOffice: Outsourced Bookkeeping Services — QuickBooks Online](https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online)  
+  Himalayas | posted Nov 10 04:47 UTC | score 7 | anthropic, chatgpt, claude, gemini, stripe, saas
+  Fit: 9 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Request for qualifications from independent bookkeeping practices.About goCloudOffice® goCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement Engagement: outsourced bookkeeping ser...
 - [goCloudOffice: Outsourced Tier-1 IT Help Desk Services — Microsoft 365 & RMM](https://himalayas.app/companies/gocloudoffice/jobs/outsourced-tier-1-it-help-desk-services-microsoft-365-rmm)  
   Himalayas | posted Nov 09 20:15 UTC | score 6 | **USD 65 to 65/hourly** | anthropic, workflow, chatgpt, claude, gemini, ai
   Fit: 6 | budget stated, verify scope and currency
