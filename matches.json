@@ -122,7 +122,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent"
       ],
@@ -155,7 +155,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -188,7 +188,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 23,
+      "priority": 17,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -202,169 +202,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371?utm_source=api",
       "expires": "2027-01-10T15:32:37+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: 🌎 AI Trainer (ML Engineering), Remote- Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract",
-      "posted": "2026-11-11T11:03:38+00:00",
-      "body": "Role Title: AI Trainer (ML Engineering)\nLocation: Global, fully remote\nJob Type: Contract\nTime Commitment: 15+ hours per week\nSchedule: FlexibleRequired Skills:\nML Engineering\nAI training\nProgramming Skills\nYou will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On:\nCreate realistic machine learning engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, and evaluation criteria.\nEvaluate model-generated code, experiments, analyses, and technical deliverables.\nIdentify issues involving data leakage, incorrect validation, unstable training, performance, or reproducibility.\nRequired Qualifications:\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nHands-on experience using PyTorch, JAX, TensorFlow, scikit-learn, XGBoost, LightGBM, or comparable ML tools.\nPublic Proof of Skill\nStrong applicants should provide evidence such as:\nGitHub repositories or public model implementations\nKaggle, DrivenData, AIcrowd, or similar competition results\nHugging Face models or datasets\nResearch publications or technical reports\nOpen-source ML contributions\nPublic benchmarks, experiments, or technical projects\nPreferred Qualifications:\nExperience creating AI-training tasks, reference answers, rubrics, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nKaggle Expert, Master, or Grandmaster status, or strong results in another technical competition.\nPublications or open-source contributions in machine learning.\nPrior experience with long-horizon or agentic AI evaluations.\nAvailability to begin immediately.\nApplication Process:\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation:\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract?utm_source=api",
-      "expires": "2027-01-10T11:03:37+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote",
-      "source": "Himalayas",
-      "title": "Advance CNC Machining: CNC Programmer Contract-Remote",
-      "url": "https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote",
-      "posted": "2026-11-11T16:41:36+00:00",
-      "body": "CNC Programmer – Contract - Remote\nAdvance CNC Machining is looking for skilled CNC programmers to write quality CNC programs on a contract, job-by-job basis, working remotely. Expert level experience required.\nCompensation TBD based on an hourly rate or per job.\nYou can work from home in your pajamas in this position! Hour's are extremely flexible as long as you are also available to make adjustments in a timely fashion. We’re just looking for people who we enjoy working with and who can write excellent CNC programs.What You’ll DoYour responsibilities will include:\nCNC programming using Mastercam 2027 for 4-axis and 5-axis horizontal and vertical Makino milling centers with automation\nFixture design, tool selection, setup sheets, and verification\nCollaborating with Production and Quality groups to ensure we produce quality machined parts\nWhat You’ll Bring\nWe’re looking for a CNC Programmer with the aptitude, willingness, and proactivity to excel in a fast-paced and growing manufacturing environment.The skills needed:\nAbility to write excellent CNC programs\nMinimum of five years of Mastercam software experience for 4- and 5-axis CNC milling machines\nMinimum of five years of experience as a CNC Setup Machinist\nExperience with Vericut software is a plus\nReady to Join Us?\nIf you’re ready to bring your CNC programming expertise to our growing team, we’d love to talk. Check us out at Advance CNC Machiningand apply today!\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "automation",
-        "problem: spreadsheet automation"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "spreadsheet automation",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote?utm_source=api",
-      "expires": "2027-01-10T16:41:35+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote",
-      "source": "Himalayas",
-      "title": "DrHouse, Inc.: Social Media Marketing Manager - Healthcare - Remote",
-      "url": "https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote",
-      "posted": "2026-11-11T16:33:32+00:00",
-      "body": "Social Media Marketing Manager\nDrHouse is a growing U.S. telehealth company seeking a hands-on, highly organized Social Media Marketing Manager to build and own social campaigns that drive awareness, website traffic, new patients, and use of our services.\nYou'll learn our business and audiences, bring campaign ideas, create content, manage engagement, and use performance data to improve results.\nYour performance will be measured on three outcomes: growth, meaningful engagement, and conversion.\nWhat You'll Own\n•Channels: Manage Instagram, Facebook, TikTok, LinkedIn, and YouTube. Create B2B content for LinkedIn and consumer content for the other channels.\n•Campaigns & calendar: Develop social campaigns tied to business priorities, seasonal moments, audience needs, and trends. Build and maintain a rolling 30-day content and campaign calendar.\n•Content creation: Generate ideas and write hooks, captions, and post copy. Create everyday posts in Canva using templates, existing assets, carousels, user-generated content (UGC), and simple short-form video.\n•UGC & creators: Help build our UGC and creator strategy, especially for TikTok and Instagram.\n•Community engagement: Engage actively with relevant accounts, creators, communities, partners, and B2B audiences.\n•Testing & reporting: Test ideas to increase reach, website traffic, and conversion. Track performance weekly, recommend what to scale, change, or stop, and flag top content for paid promotion.\nCreative Support\nYou'll help set our social look and feel, including templates and content formats, and should be able to produce most everyday posts yourself in Canva. For advanced design, animation, or video editing, we may bring in additional creative support. You own the idea, direction, and day-to-day execution.\nHealthcare Context\nYou should understand, or be willing to quickly learn, healthcare marketing rules, including patient privacy (HIPAA), appropriate health claims, and when to escalate content or comments. Some content will need compliance review before publishing.\nWhat We're Looking For\n•Proven experience growing social accounts with results beyond follower counts, and running campaigns from idea to results.\n•Excellent written English and strong social copywriting skills.\n•Strong Canva skills, good visual judgment, and short-form video experience.\n•Highly organized and comfortable reading performance data.\n•Creative, proactive, and able to work independently and with marketing and creative partners.\n•Comfortable using AI tools to work faster, with the judgment to avoid generic, AI-generated content.\n•Healthcare or regulated-industry experience is required.\nSchedule\nRegular overlap with U.S. Central Time (CT) business hours. \nTo Apply\nPlease share a brief introduction and 2 to 3 examples of social content or campaigns you personally helped create.\nBefore your interview, please review DrHouse's website and social channels. Come prepared for a high-level conversation about our current social presence and how you would help us meet our growth and conversion goals. No formal presentation is required.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "ai",
-        "problem: website build"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "website build",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Part Time",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote?utm_source=api",
-      "expires": "2027-01-10T16:33:31+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/intermedia-intelligent-communications/jobs/implementation-engineer-contract",
-      "source": "Himalayas",
-      "title": "Intermedia Intelligent Communications: Implementation Engineer - Contract",
-      "url": "https://himalayas.app/companies/intermedia-intelligent-communications/jobs/implementation-engineer-contract",
-      "posted": "2026-11-11T12:04:13+00:00",
-      "body": "Are you looking for a company where YOUR VOICE is heard? Where you can MAKE A DIFFERENCE? Do you THRIVE in a FAST-PACED work environment? Do you wake every morning EXCITED to work with GREAT PEOPLE and create SUCCESS TOGETHER? Then Intermedia is the place for you.\nIntermedia has established itself as a leading provider of cloud communications and collaboration tech that allows companies to connect better. We have a strong track record of growth, profitability, and creating an environment where everyone matters. Everyone. While we are fast-paced and admittedly a bit intense, we promise that you won’t be bored. You will find Intermedia is a place where you can indulge your passion for creating and supporting great cloud technology. What’s more, we always look to promote from within and have many employees who have been with us 10, 15, and 20+ years!\nCulture at Intermedia is built on teamwork and transparency. We hold each other accountable and always have each other’s back!\nAre you ready to make your mark?\nAbout the Role:\nThe Implementation Engineer (Integrations) designs, builds, and supports IVR and API integrations for enterprise contact center environments. This role works directly with customers to gather requirements, design call flows, and connect internal systems with third-party services such as CRM platforms, billing systems, and payment services. The position combines hands-on integration development, solution consulting, and troubleshooting to deliver reliable, scalable solutions and successful customer deployments.\nWhat You Will Be Doing:\nAnalyze customer contact center configurations, data extracts, and call flows to plan for the API integration\nGather and document customer requirements for API integrations, evaluate system readiness, and define scope, deliverables, and API integration timelines.\nBuild integrations between Intermedia contact center platform and third-party services using APIs, including CRM, billing, and payment platforms.\nRead API documentation and design authentication, requests, data mappings, retries, and error handling; validate authentication and connectivity using tools such as Postman.\nCreate and maintain backend services, webhooks, middleware, and automation workflows that support customer implementations and ongoing data exchange.\nTransform and synchronize data across systems, including mapping and validating customer records between CRM platforms, billing systems, and internal databases.\nDesign and implement API-driven IVR call flows, including data collection, menu design, conditional routing, and payment integrations; guide customers in creating efficient, user-friendly experiences.\nWork with product, backend engineering, security, support, and vendor teams to clarify requirements, resolve technical constraints, and implement integrations with cloud services such as Azure or AWS.\nWrite and maintain automated tests, integration documentation, and operational runbooks covering configuration, deployment, monitoring, and recovery.\nTroubleshoot integration failures, latency, and data quality; lead troubleshooting of production incidents and complex issues across APIs, IVR platforms, CRM systems;\nApply security practices including OAuth 2.0, secrets management, and encryption.\nLead technical design discussions and provide professional services and consulting for large and strategic customer accounts throughout implementation.\nProvide post implementation escalation support to ensure stability and successful adoption.\nWhat You Will Bring to the Role:\nBachelor’s degree in Computer Science, Information Technology, Telecommunications, or a related field with 5+ years of experience in contact center technology, systems integration, or technical implementation. Equivalent combinations of education and experience may be considered.\nHands-on experience with enterprise contact center technologies, including IVR call flows, routing rules, callbacks, external data tables, working hours configurations, and reporting or monitoring tools.\nStrong understanding of REST APIs, JSON, webhooks, and OAuth 2.0, with practical experience using API documentation and tools such as Postman to build, validate, and troubleshoot integrations. \nFamiliarity with GraphQL APIs and API debugging using Swagger or developer portals.\nHands-on scripting or development experience in a backend language such as Python, JavaScript, Java, or C#, including working with variables, data types, string manipulation, and error handling.\nWorking knowledge of SQL, data mapping, and data transformation to support reliable synchronization and validation across systems.\nExperience integrating CRM platforms such as Salesforce or Zendesk with external systems and evaluating their API capabilities and technical constraints.\nExperience with cloud services, logging, and monitoring, with strong troubleshooting skills across distributed systems, APIs, and IVR environments.\nUnderstanding of API rate limits, retries, versioning, permissions, secrets management, and encryption, and the ability to apply these practices to customer integrations.\nAbility to analyze customer environments and translate requirements into scalable solutions that improve contact center efficiency and customer experience.\nProven ability to manage deliverables, timelines, tests, and technical documentation, and to use ticketing or CRM systems to track implementation tasks, communications, and configuration updates.\nExcellent written, verbal, and customer-facing communication skills, including the ability to explain technical concepts clearly and lead design discussions.\nAbility to work independently and collaborate with Sales, Product, Development, Security, Support, and external vendors while continuously developing technical expertise.\nAbility to work effectively in a remote environment, including maintaining a reliable home office setup with internet connectivity, a workstation, and required software.\nDiversity Inclusion and Equal Opportunity\nWe hire, promote, and compensate employees based on their ability to perform their job responsibilities, without regard to race, color, creed, religion, sex, gender, marital status, national origin, ancestry, age, citizenship, physical or mental disability, sexual orientation, or any other basis protected by applicable law (collectively referred to in our Code of Conduct as “Protected Classes”). We do not tolerate employment discrimination in the workplace, and we are committed to making reasonable accommodations for identified disabilities or other limitations as required by all applicable laws. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\nOriginally posted on Himalayas",
-      "budget": "USD 40 to 50/hourly",
-      "score": 7,
-      "matched": [
-        "api integration",
-        "automation",
-        "javascript",
-        "python",
-        "problem: API connection"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "API connection",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/intermedia-intelligent-communications/jobs/implementation-engineer-contract?utm_source=api",
-      "expires": "2027-01-10T12:04:12+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: 🌎 Life Sciences Research Expert (Python), Remote- Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512",
-      "posted": "2026-11-11T11:12:40+00:00",
-      "body": "Role Title: Life Sciences Research Expert (Python)\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills:\nPython\nBiology\nMedicine\nMaterials\nNeuroscience\nAstronomy\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise:\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work:\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications:\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess:\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure:\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow. Minimum submission requirements apply.Start Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512?utm_source=api",
-      "expires": "2027-01-10T11:12:39+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -402,40 +239,33 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50428062",
-      "source": "HN Who is hiring",
-      "title": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4...",
-      "url": "https://news.ycombinator.com/item?id=50428062",
-      "posted": "2026-11-09T16:46:20+00:00",
-      "body": "Collabify | Senior Full-Stack Engineer (backend-heavy) | REMOTE (worldwide) | Contract, 4–5 months | $3,000–4,000/month\nI'm looking to hire our first engineer to own architecture and build product first version.\nStack: TypeScript, React/Next.js, Node.js and PostgreSQL.\nThe core challenges: tenant isolation on a shared Postgres schema with row level security, multiple authentication flows, subdomain-based client portals and large video uploads.\nYou should have personally shipped and maintained a production multi-tenant SaaS product, have strong PostgreSQL and data-modelling experience, and be able to explain your architectural decisions and trade-offs.\nTerms: a paid 4–5-month contract, 20-30+ hours/week, at $3,000–4,000/month, paid against agreed milestones. At least three hours of daily overlaps. For the right person, there’s potential to continue in a founding role with equity\nProcess: a short application, a live walkthrough of something you've built, then a paid 2-3hr tenant-isolation exercise and a 30-minute discussion.\nApply here:https://forms.gle/yJAabKvLKtJmfz21A\nPublic source code isn't required. Please don't share confidential employer or client material.",
-      "budget": "$3,000",
-      "score": 9,
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: 🌎 AI Trainer (ML Engineering), Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract",
+      "posted": "2026-11-11T11:03:38+00:00",
+      "body": "Role Title: AI Trainer (ML Engineering)\nLocation: Global, fully remote\nJob Type: Contract\nTime Commitment: 15+ hours per week\nSchedule: FlexibleRequired Skills:\nML Engineering\nAI training\nProgramming Skills\nYou will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On:\nCreate realistic machine learning engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, and evaluation criteria.\nEvaluate model-generated code, experiments, analyses, and technical deliverables.\nIdentify issues involving data leakage, incorrect validation, unstable training, performance, or reproducibility.\nRequired Qualifications:\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nHands-on experience using PyTorch, JAX, TensorFlow, scikit-learn, XGBoost, LightGBM, or comparable ML tools.\nPublic Proof of Skill\nStrong applicants should provide evidence such as:\nGitHub repositories or public model implementations\nKaggle, DrivenData, AIcrowd, or similar competition results\nHugging Face models or datasets\nResearch publications or technical reports\nOpen-source ML contributions\nPublic benchmarks, experiments, or technical projects\nPreferred Qualifications:\nExperience creating AI-training tasks, reference answers, rubrics, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nKaggle Expert, Master, or Grandmaster status, or strong results in another technical competition.\nPublications or open-source contributions in machine learning.\nPrior experience with long-horizon or agentic AI evaluations.\nAvailability to begin immediately.\nApplication Process:\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation:\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
       "matched": [
-        "full-stack",
-        "postgresql",
-        "typescript",
-        "postgres",
-        "next.js",
-        "node.js",
-        "react",
-        "saas"
+        "python",
+        "ai"
       ],
       "queue": "contract",
-      "priority": 17,
+      "priority": 15,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
+        "check eligibility: Worldwide (check timezone)"
       ],
       "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract?utm_source=api",
+      "expires": "2027-01-10T11:03:37+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -473,23 +303,89 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/arctiq/jobs/senior-systems-engineer",
+      "id": "himalayas:https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote",
       "source": "Himalayas",
-      "title": "Arctiq: Senior Systems Engineer",
-      "url": "https://himalayas.app/companies/arctiq/jobs/senior-systems-engineer",
-      "posted": "2026-11-11T11:10:54+00:00",
-      "body": "Arctiq is a global, intelligence-driven technology services company delivering professional and managed services across Hybrid Cloud Infrastructure, Networking & Connected Experiences, Cybersecurity, Data & AI, Autonomous Operations & Intelligence, and Enterprise Service Management. We help organizations operate, secure, and modernize complex environments by unifying infrastructure, networking, data, security, automation, and observability under a single, integrated operating model. Our work focuses on helping customers reduce operational friction, improve resilience, and make better, faster decisions as their environments evolve. Arctiq builds on decades of industry expertise and a customer-centric ethos to deliver exceptional value to clients across diverse industries.\nThis is a fully remote 6 month contract-to-permanent opportunity with one of Arctiq's clients. Candidates must be able to work permanent for any US employer and located in one of these states: AZ; CA; CO; CT; DC; FL; IL; IN; MA; MD; ME; NH; NJ; NY; PA; TN; TX; UT; VA; VT. \nWe are hiring a Senior Systems Engineer to take the lead on engineering, administering, and continually refining our client's enterprise Systems and Compute environment. Your focus will be keeping the infrastructure reliable, secure, and efficient, and spotting ways to modernize, automate, and upgrade the overall technology environment.\nDay to day, you'll collaborate with the Manager of Systems and other technology groups to make sure infrastructure solutions fit business requirements, enterprise architecture, and operational standards. We need someone who pairs hands-on technical depth with sharp problem-solving and real experience running complex enterprise environments.Responsibilities\nDesign, implement, and manage the foundational systems: Exchange, physical and virtual servers, Active Directory and Group Policy, Certificate Services, authentication platforms, and the compute, networking, storage, and remote access/mobility services that go with them.\nProvide administration and support for cloud-based platforms and services, including Microsoft Azure and Office 365.\nOversee and administer Citrix VDI, load balancers, and SSL certificate management.\nTrack, maintain, and fine-tune system performance so the environment stays reliable, scalable, and secure.\nHandle routine, scheduled, and long-term maintenance as well as user-facing service work, keeping operational standards consistently high.\nAct as the expert-level escalation contact for difficult technical problems.\nWrite and keep current detailed technical documentation covering processes, procedures, troubleshooting guides, training materials, and change management records.\nShare in the on-call rotation, covering after-hours support as required.\nBe ready for occasional overtime, off-hours work, or travel when projects and operations call for it. Make sure integrations are secure, efficient, and in line with enterprise architecture and governance standards.\nPut security best practices into action and help meet relevant security protocols and regulatory requirements, in partnership with the Information Security, Applications, and Infrastructure teams.\nWork alongside appropriate cross-functional technology teams on risk assessments and on strategies to lower exposure to security vulnerabilities.\nKeep records of data flows, API endpoints, schemas, and integration logic.\nHelp evaluate, select, implement, and improve integration platforms.\nBack efforts to ensure data quality, integrity, and reconciliation between systems.\nRequired Qualifications\n10+ years as a Systems Engineer, with Microsoft Server experience in enterprise settings.\n10+ years of designing, building, securing, and managing virtualized environments on the VMware stack (ESXi, vCenter).\nHands-on experience building and securing Hyperconverged Infrastructure (Nutanix, Dell VxRail, HPE).\nExperience managing and administering Citrix VDI, load balancers, and SSL certificate management.\nExperience with mail and messaging services in Exchange Online.\nExperience working with Microsoft Azure and Entra ID.\nFamiliarity with enterprise storage across block (SCSI/NVMe), file (CIFS/NFS), and object (S3) types.\nExperience with enterprise backup and recovery platforms (Rubrik, Cohesity, Veeam).\nProven capability to run enterprise-wide systems and compute infrastructure while juggling several infrastructure components at the same time.\nExpert command of Microsoft Windows enterprise environments, including Active Directory, M365, and PKI design, support, and administration.\nAdvanced understanding of VMware, Windows Server, TCP/IP, DNS, and related protocols.\nStrong grasp of network design and management (LAN/WAN, MPLS, VPN, VLAN, Wi-Fi).\nSolid working knowledge of encryption technologies, along with cybersecurity risk reduction and system hardening practices.\nAdvanced PowerShell scripting ability for system utilities, automation, and administration.\nSkilled with monitoring platforms (SolarWinds, LogicMonitor, Splunk, Aria)\nEducation\nA bachelor's degree in computer science, computer information systems, or a related discipline is preferred, and an advanced degree is a plus.\nArctiq is an equal opportunity employer. If you need any accommodations or adjustments throughout the interview process and beyond, please let us know. We celebrate our inclusive work environment and welcome members of all backgrounds and perspectives to apply.\nWe thank you for your interest in joining the Arctiq team! While we welcome all applicants, only those who are selected for an interview will be contacted.Salary: 65-75/hr\nOriginally posted on Himalayas",
-      "budget": "USD 65 to 75/hourly",
+      "title": "Advance CNC Machining: CNC Programmer Contract-Remote",
+      "url": "https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote",
+      "posted": "2026-11-11T16:41:36+00:00",
+      "body": "CNC Programmer – Contract - Remote\nAdvance CNC Machining is looking for skilled CNC programmers to write quality CNC programs on a contract, job-by-job basis, working remotely. Expert level experience required.\nCompensation TBD based on an hourly rate or per job.\nYou can work from home in your pajamas in this position! Hour's are extremely flexible as long as you are also available to make adjustments in a timely fashion. We’re just looking for people who we enjoy working with and who can write excellent CNC programs.What You’ll DoYour responsibilities will include:\nCNC programming using Mastercam 2027 for 4-axis and 5-axis horizontal and vertical Makino milling centers with automation\nFixture design, tool selection, setup sheets, and verification\nCollaborating with Production and Quality groups to ensure we produce quality machined parts\nWhat You’ll Bring\nWe’re looking for a CNC Programmer with the aptitude, willingness, and proactivity to excel in a fast-paced and growing manufacturing environment.The skills needed:\nAbility to write excellent CNC programs\nMinimum of five years of Mastercam software experience for 4- and 5-axis CNC milling machines\nMinimum of five years of experience as a CNC Setup Machinist\nExperience with Vericut software is a plus\nReady to Join Us?\nIf you’re ready to bring your CNC programming expertise to our growing team, we’d love to talk. Check us out at Advance CNC Machiningand apply today!\nOriginally posted on Himalayas",
+      "budget": null,
       "score": 4,
       "matched": [
         "automation",
-        "fine-tune",
-        "automate",
-        "ai"
+        "problem: spreadsheet automation"
       ],
       "queue": "contract",
       "priority": 13,
       "reasons": [
+        "spreadsheet automation",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote?utm_source=api",
+      "expires": "2027-01-10T16:41:35+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote",
+      "source": "Himalayas",
+      "title": "DrHouse, Inc.: Social Media Marketing Manager - Healthcare - Remote",
+      "url": "https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote",
+      "posted": "2026-11-11T16:33:32+00:00",
+      "body": "Social Media Marketing Manager\nDrHouse is a growing U.S. telehealth company seeking a hands-on, highly organized Social Media Marketing Manager to build and own social campaigns that drive awareness, website traffic, new patients, and use of our services.\nYou'll learn our business and audiences, bring campaign ideas, create content, manage engagement, and use performance data to improve results.\nYour performance will be measured on three outcomes: growth, meaningful engagement, and conversion.\nWhat You'll Own\n•Channels: Manage Instagram, Facebook, TikTok, LinkedIn, and YouTube. Create B2B content for LinkedIn and consumer content for the other channels.\n•Campaigns & calendar: Develop social campaigns tied to business priorities, seasonal moments, audience needs, and trends. Build and maintain a rolling 30-day content and campaign calendar.\n•Content creation: Generate ideas and write hooks, captions, and post copy. Create everyday posts in Canva using templates, existing assets, carousels, user-generated content (UGC), and simple short-form video.\n•UGC & creators: Help build our UGC and creator strategy, especially for TikTok and Instagram.\n•Community engagement: Engage actively with relevant accounts, creators, communities, partners, and B2B audiences.\n•Testing & reporting: Test ideas to increase reach, website traffic, and conversion. Track performance weekly, recommend what to scale, change, or stop, and flag top content for paid promotion.\nCreative Support\nYou'll help set our social look and feel, including templates and content formats, and should be able to produce most everyday posts yourself in Canva. For advanced design, animation, or video editing, we may bring in additional creative support. You own the idea, direction, and day-to-day execution.\nHealthcare Context\nYou should understand, or be willing to quickly learn, healthcare marketing rules, including patient privacy (HIPAA), appropriate health claims, and when to escalate content or comments. Some content will need compliance review before publishing.\nWhat We're Looking For\n•Proven experience growing social accounts with results beyond follower counts, and running campaigns from idea to results.\n•Excellent written English and strong social copywriting skills.\n•Strong Canva skills, good visual judgment, and short-form video experience.\n•Highly organized and comfortable reading performance data.\n•Creative, proactive, and able to work independently and with marketing and creative partners.\n•Comfortable using AI tools to work faster, with the judgment to avoid generic, AI-generated content.\n•Healthcare or regulated-industry experience is required.\nSchedule\nRegular overlap with U.S. Central Time (CT) business hours. \nTo Apply\nPlease share a brief introduction and 2 to 3 examples of social content or campaigns you personally helped create.\nBefore your interview, please review DrHouse's website and social channels. Come prepared for a high-level conversation about our current social presence and how you would help us meet our growth and conversion goals. No formal presentation is required.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 4,
+      "matched": [
+        "ai",
+        "problem: website build"
+      ],
+      "queue": "contract",
+      "priority": 13,
+      "reasons": [
+        "website build",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Part Time",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote?utm_source=api",
+      "expires": "2027-01-10T16:33:31+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/intermedia-intelligent-communications/jobs/implementation-engineer-contract",
+      "source": "Himalayas",
+      "title": "Intermedia Intelligent Communications: Implementation Engineer - Contract",
+      "url": "https://himalayas.app/companies/intermedia-intelligent-communications/jobs/implementation-engineer-contract",
+      "posted": "2026-11-11T12:04:13+00:00",
+      "body": "Are you looking for a company where YOUR VOICE is heard? Where you can MAKE A DIFFERENCE? Do you THRIVE in a FAST-PACED work environment? Do you wake every morning EXCITED to work with GREAT PEOPLE and create SUCCESS TOGETHER? Then Intermedia is the place for you.\nIntermedia has established itself as a leading provider of cloud communications and collaboration tech that allows companies to connect better. We have a strong track record of growth, profitability, and creating an environment where everyone matters. Everyone. While we are fast-paced and admittedly a bit intense, we promise that you won’t be bored. You will find Intermedia is a place where you can indulge your passion for creating and supporting great cloud technology. What’s more, we always look to promote from within and have many employees who have been with us 10, 15, and 20+ years!\nCulture at Intermedia is built on teamwork and transparency. We hold each other accountable and always have each other’s back!\nAre you ready to make your mark?\nAbout the Role:\nThe Implementation Engineer (Integrations) designs, builds, and supports IVR and API integrations for enterprise contact center environments. This role works directly with customers to gather requirements, design call flows, and connect internal systems with third-party services such as CRM platforms, billing systems, and payment services. The position combines hands-on integration development, solution consulting, and troubleshooting to deliver reliable, scalable solutions and successful customer deployments.\nWhat You Will Be Doing:\nAnalyze customer contact center configurations, data extracts, and call flows to plan for the API integration\nGather and document customer requirements for API integrations, evaluate system readiness, and define scope, deliverables, and API integration timelines.\nBuild integrations between Intermedia contact center platform and third-party services using APIs, including CRM, billing, and payment platforms.\nRead API documentation and design authentication, requests, data mappings, retries, and error handling; validate authentication and connectivity using tools such as Postman.\nCreate and maintain backend services, webhooks, middleware, and automation workflows that support customer implementations and ongoing data exchange.\nTransform and synchronize data across systems, including mapping and validating customer records between CRM platforms, billing systems, and internal databases.\nDesign and implement API-driven IVR call flows, including data collection, menu design, conditional routing, and payment integrations; guide customers in creating efficient, user-friendly experiences.\nWork with product, backend engineering, security, support, and vendor teams to clarify requirements, resolve technical constraints, and implement integrations with cloud services such as Azure or AWS.\nWrite and maintain automated tests, integration documentation, and operational runbooks covering configuration, deployment, monitoring, and recovery.\nTroubleshoot integration failures, latency, and data quality; lead troubleshooting of production incidents and complex issues across APIs, IVR platforms, CRM systems;\nApply security practices including OAuth 2.0, secrets management, and encryption.\nLead technical design discussions and provide professional services and consulting for large and strategic customer accounts throughout implementation.\nProvide post implementation escalation support to ensure stability and successful adoption.\nWhat You Will Bring to the Role:\nBachelor’s degree in Computer Science, Information Technology, Telecommunications, or a related field with 5+ years of experience in contact center technology, systems integration, or technical implementation. Equivalent combinations of education and experience may be considered.\nHands-on experience with enterprise contact center technologies, including IVR call flows, routing rules, callbacks, external data tables, working hours configurations, and reporting or monitoring tools.\nStrong understanding of REST APIs, JSON, webhooks, and OAuth 2.0, with practical experience using API documentation and tools such as Postman to build, validate, and troubleshoot integrations. \nFamiliarity with GraphQL APIs and API debugging using Swagger or developer portals.\nHands-on scripting or development experience in a backend language such as Python, JavaScript, Java, or C#, including working with variables, data types, string manipulation, and error handling.\nWorking knowledge of SQL, data mapping, and data transformation to support reliable synchronization and validation across systems.\nExperience integrating CRM platforms such as Salesforce or Zendesk with external systems and evaluating their API capabilities and technical constraints.\nExperience with cloud services, logging, and monitoring, with strong troubleshooting skills across distributed systems, APIs, and IVR environments.\nUnderstanding of API rate limits, retries, versioning, permissions, secrets management, and encryption, and the ability to apply these practices to customer integrations.\nAbility to analyze customer environments and translate requirements into scalable solutions that improve contact center efficiency and customer experience.\nProven ability to manage deliverables, timelines, tests, and technical documentation, and to use ticketing or CRM systems to track implementation tasks, communications, and configuration updates.\nExcellent written, verbal, and customer-facing communication skills, including the ability to explain technical concepts clearly and lead design discussions.\nAbility to work independently and collaborate with Sales, Product, Development, Security, Support, and external vendors while continuously developing technical expertise.\nAbility to work effectively in a remote environment, including maintaining a reliable home office setup with internet connectivity, a workstation, and required software.\nDiversity Inclusion and Equal Opportunity\nWe hire, promote, and compensate employees based on their ability to perform their job responsibilities, without regard to race, color, creed, religion, sex, gender, marital status, national origin, ancestry, age, citizenship, physical or mental disability, sexual orientation, or any other basis protected by applicable law (collectively referred to in our Code of Conduct as “Protected Classes”). We do not tolerate employment discrimination in the workplace, and we are committed to making reasonable accommodations for identified disabilities or other limitations as required by all applicable laws. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\nOriginally posted on Himalayas",
+      "budget": "USD 40 to 50/hourly",
+      "score": 7,
+      "matched": [
+        "api integration",
+        "automation",
+        "javascript",
+        "python",
+        "problem: API connection"
+      ],
+      "queue": "contract",
+      "priority": 13,
+      "reasons": [
+        "API connection",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -501,19 +397,19 @@
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/arctiq/jobs/senior-systems-engineer?utm_source=api",
-      "expires": "2027-01-10T11:10:53+00:00",
+      "apply_url": "https://himalayas.app/companies/intermedia-intelligent-communications/jobs/implementation-engineer-contract?utm_source=api",
+      "expires": "2027-01-10T12:04:12+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512",
       "source": "Himalayas",
-      "title": "micro1: Life Sciences Research Expert (Python)",
-      "url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
-      "posted": "2026-11-11T13:00:14+00:00",
-      "body": "Role Title: Life Sciences Research Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced life sciences researchers with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$60",
+      "title": "Xperteez Technology: 🌎 Life Sciences Research Expert (Python), Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512",
+      "posted": "2026-11-11T11:12:40+00:00",
+      "body": "Role Title: Life Sciences Research Expert (Python)\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills:\nPython\nBiology\nMedicine\nMaterials\nNeuroscience\nAstronomy\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise:\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work:\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications:\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess:\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure:\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow. Minimum submission requirements apply.Start Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": null,
       "score": 4,
       "matched": [
         "workflow",
@@ -521,21 +417,20 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 11,
+      "priority": 13,
       "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
+        "explicit hiring intent"
       ],
       "flags": [
-        "project budget below preferred floor",
+        "budget unknown",
         "check eligibility: Worldwide (check timezone)"
       ],
       "aliases": [],
       "location": "Worldwide (check timezone)",
       "employment_type": "Contractor",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python?utm_source=api",
-      "expires": "2026-12-21T19:26:50+00:00",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512?utm_source=api",
+      "expires": "2027-01-10T11:12:39+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -645,6 +540,40 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/arctiq/jobs/senior-systems-engineer",
+      "source": "Himalayas",
+      "title": "Arctiq: Senior Systems Engineer",
+      "url": "https://himalayas.app/companies/arctiq/jobs/senior-systems-engineer",
+      "posted": "2026-11-11T11:10:54+00:00",
+      "body": "Arctiq is a global, intelligence-driven technology services company delivering professional and managed services across Hybrid Cloud Infrastructure, Networking & Connected Experiences, Cybersecurity, Data & AI, Autonomous Operations & Intelligence, and Enterprise Service Management. We help organizations operate, secure, and modernize complex environments by unifying infrastructure, networking, data, security, automation, and observability under a single, integrated operating model. Our work focuses on helping customers reduce operational friction, improve resilience, and make better, faster decisions as their environments evolve. Arctiq builds on decades of industry expertise and a customer-centric ethos to deliver exceptional value to clients across diverse industries.\nThis is a fully remote 6 month contract-to-permanent opportunity with one of Arctiq's clients. Candidates must be able to work permanent for any US employer and located in one of these states: AZ; CA; CO; CT; DC; FL; IL; IN; MA; MD; ME; NH; NJ; NY; PA; TN; TX; UT; VA; VT. \nWe are hiring a Senior Systems Engineer to take the lead on engineering, administering, and continually refining our client's enterprise Systems and Compute environment. Your focus will be keeping the infrastructure reliable, secure, and efficient, and spotting ways to modernize, automate, and upgrade the overall technology environment.\nDay to day, you'll collaborate with the Manager of Systems and other technology groups to make sure infrastructure solutions fit business requirements, enterprise architecture, and operational standards. We need someone who pairs hands-on technical depth with sharp problem-solving and real experience running complex enterprise environments.Responsibilities\nDesign, implement, and manage the foundational systems: Exchange, physical and virtual servers, Active Directory and Group Policy, Certificate Services, authentication platforms, and the compute, networking, storage, and remote access/mobility services that go with them.\nProvide administration and support for cloud-based platforms and services, including Microsoft Azure and Office 365.\nOversee and administer Citrix VDI, load balancers, and SSL certificate management.\nTrack, maintain, and fine-tune system performance so the environment stays reliable, scalable, and secure.\nHandle routine, scheduled, and long-term maintenance as well as user-facing service work, keeping operational standards consistently high.\nAct as the expert-level escalation contact for difficult technical problems.\nWrite and keep current detailed technical documentation covering processes, procedures, troubleshooting guides, training materials, and change management records.\nShare in the on-call rotation, covering after-hours support as required.\nBe ready for occasional overtime, off-hours work, or travel when projects and operations call for it. Make sure integrations are secure, efficient, and in line with enterprise architecture and governance standards.\nPut security best practices into action and help meet relevant security protocols and regulatory requirements, in partnership with the Information Security, Applications, and Infrastructure teams.\nWork alongside appropriate cross-functional technology teams on risk assessments and on strategies to lower exposure to security vulnerabilities.\nKeep records of data flows, API endpoints, schemas, and integration logic.\nHelp evaluate, select, implement, and improve integration platforms.\nBack efforts to ensure data quality, integrity, and reconciliation between systems.\nRequired Qualifications\n10+ years as a Systems Engineer, with Microsoft Server experience in enterprise settings.\n10+ years of designing, building, securing, and managing virtualized environments on the VMware stack (ESXi, vCenter).\nHands-on experience building and securing Hyperconverged Infrastructure (Nutanix, Dell VxRail, HPE).\nExperience managing and administering Citrix VDI, load balancers, and SSL certificate management.\nExperience with mail and messaging services in Exchange Online.\nExperience working with Microsoft Azure and Entra ID.\nFamiliarity with enterprise storage across block (SCSI/NVMe), file (CIFS/NFS), and object (S3) types.\nExperience with enterprise backup and recovery platforms (Rubrik, Cohesity, Veeam).\nProven capability to run enterprise-wide systems and compute infrastructure while juggling several infrastructure components at the same time.\nExpert command of Microsoft Windows enterprise environments, including Active Directory, M365, and PKI design, support, and administration.\nAdvanced understanding of VMware, Windows Server, TCP/IP, DNS, and related protocols.\nStrong grasp of network design and management (LAN/WAN, MPLS, VPN, VLAN, Wi-Fi).\nSolid working knowledge of encryption technologies, along with cybersecurity risk reduction and system hardening practices.\nAdvanced PowerShell scripting ability for system utilities, automation, and administration.\nSkilled with monitoring platforms (SolarWinds, LogicMonitor, Splunk, Aria)\nEducation\nA bachelor's degree in computer science, computer information systems, or a related discipline is preferred, and an advanced degree is a plus.\nArctiq is an equal opportunity employer. If you need any accommodations or adjustments throughout the interview process and beyond, please let us know. We celebrate our inclusive work environment and welcome members of all backgrounds and perspectives to apply.\nWe thank you for your interest in joining the Arctiq team! While we welcome all applicants, only those who are selected for an interview will be contacted.Salary: 65-75/hr\nOriginally posted on Himalayas",
+      "budget": "USD 65 to 75/hourly",
+      "score": 4,
+      "matched": [
+        "automation",
+        "fine-tune",
+        "automate",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 7,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/arctiq/jobs/senior-systems-engineer?utm_source=api",
+      "expires": "2027-01-10T11:10:53+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd",
       "source": "Himalayas",
       "title": "micro1: Hardware Expert (MSc. or PhD)",
@@ -747,35 +676,35 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50427924",
-      "source": "HN Who is hiring",
-      "title": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/w...",
-      "url": "https://news.ycombinator.com/item?id=50427924",
-      "posted": "2026-11-09T16:36:13+00:00",
-      "body": "Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/week in office) | Full-time\nSunsave is building what replaces your energy supplier. Customers switch to solar and a battery with nothing to pay upfront: kit, install, finance and long-term protection in one package, and the battery trades energy on the grid every day to push their bills towards zero. Founded in 2022, £113m Series A (equity and debt) in 2025, more than 3x growth last year, nearly 90 people.\nI lead engineering and data science. Software runs every step of the customer journey: the quote, the finance application, the contract, the install and the battery trading. You'd join a small squad on one area: acquisition (website, quote, finance, contract), installation, in-life (customer app, monitoring, maintenance) or energy (battery optimisation and grid trading).\nProduct engineers here own problems end to end, from working with the people who use what they build to running it in production. Agents do a lot of the implementation. We expect you to use them every day, delegate the implementation but never the thinking, and own every line you merge. We offer finance and hold customer data, so correctness, auditability and security matter a lot.\nExperience: 2+ years running production software for mid-level, 6+ for senior. TypeScript, NestJS, React/Next.js, PostgreSQL and AWS are a plus but not required. Right to work in the UK required.\nThe interview is built for how we work. No leetcode. A ~45 min async review of a pull request written with AI, then a ~90 min live session where you shape and build a small problem close to our work with your own AI tools.\nJD: https://sunsave.notion.site/Sunsave-Product-Engineer-410e7b6...\nApply: https://ats.welcometothejungle.com/board/sunsave-RTBuAt/job/...",
-      "budget": null,
-      "score": 6,
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
+      "source": "Himalayas",
+      "title": "micro1: Life Sciences Research Expert (Python)",
+      "url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
+      "posted": "2026-11-11T13:00:14+00:00",
+      "body": "Role Title: Life Sciences Research Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced life sciences researchers with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
+      "score": 4,
       "matched": [
-        "postgresql",
-        "typescript",
-        "next.js",
-        "agents",
-        "react",
+        "workflow",
+        "python",
         "ai"
       ],
       "queue": "contract",
-      "priority": 2,
-      "reasons": [],
+      "priority": 5,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
       "flags": [
-        "budget unknown",
-        "seniority requirement needs review"
+        "project budget below preferred floor",
+        "check eligibility: Worldwide (check timezone)"
       ],
       "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python?utm_source=api",
+      "expires": "2026-12-21T19:26:50+00:00",
       "imported": false,
       "date_basis": "posted"
     },
