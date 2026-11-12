@@ -369,39 +369,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50420399",
-      "source": "HN Who is hiring",
-      "title": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design",
-      "url": "https://news.ycombinator.com/item?id=50420399",
-      "posted": "2026-11-09T02:48:07+00:00",
-      "body": "OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design\nOpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role.\n- $30–$100 per hour equivalent, paid per accepted task\n- 100% remote, United States\n- About 15 hours/week; choose your schedule\nWe need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems that write software.\nIdeal background\n- Strong professional backend experience with Python, Java, Node.js, Go, Rust, TypeScript, C++ or similar\n- Scalable APIs/services, complex features, debugging, bottleneck resolution and code review\n- Strong analytical, problem-solving and technical communication skills; professional English\n- Helpful: application security, secure coding, vulnerability assessment, penetration testing, OWASP/CWE or security-focused code review\n- No AI experience needed; structured task-design guidelines and verification criteria are provided\nIndependent contractor; pay is per accepted task. Fully remote and flexible, with no fixed shifts. Apply on OpenTrain (resume upload): https://app.opentrain.ai/api/out/cmu9linxg000o0bgm9xiw33b9?c...\nThen complete a short application on the hiring platform. Shortlisted applicants take a short AI interview.",
-      "budget": "$30",
-      "score": 5,
-      "matched": [
-        "typescript",
-        "node.js",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd",
       "source": "Himalayas",
       "title": "micro1: Aerodynamics Expert (MSc. or PhD)",
@@ -776,40 +743,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/gocloudoffice/jobs/outsourced-tier-1-it-help-desk-services-microsoft-365-rmm?utm_source=api",
       "expires": "2027-01-08T20:15:25+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
-      "source": "Himalayas",
-      "title": "Object Edge: Senior Data Engineer (Databricks) - Contractor - US",
-      "url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us",
-      "posted": "2026-11-09T04:03:58+00:00",
-      "body": "About Object Edge:\nObject Edge is an AI-native, forward-deployed engineering firm. It builds Hive, a company brain for revenue, embeds engineers to build agentic workflows on it, and provides management engineering to lead the change.\nAward-winning eCommerce consultancy that delivers end-to-end design and development solutions centered around our client’s goals and customer needs.\nOur teams unite curious, intellectual advisors across the globe who creatively solve business problems and produce measurable results.\nAbout the Position: \nSenior Data Engineering (Databricks)\nWhat You’ll Do\n• Be a technical leader in teams with minimal oversight and direction to deliver innovative\nsolutions on the Databricks Platform using core cloud data lakehouse methodologies,\ntools, distributed processing engines, event streaming platforms, and other modern\ndata-related technologies.\n• Be part of the Databricks Center of Excellence.\n• Build the next generation of data platforms and work with some of the most forward-\nthinking organizations in data and analytics.\n• Work under the direction of a Solution Architect to help design and implement\ncomponents of our clients’ data platform solution.\n• Participate in design sessions and be able to break down complex development tasks,\nand complete development items on time.\n• Contribute to various COE initiatives to develop Databricks solution accelerators and\nbring an innovative mindset.\nLocation: Remote - United States\nWhat You’ll Bring:\nAs a Senior Engineer in the Databricks practice, you will bring a curious mindset and a passion for\nexploring innovative solutions to address our clients’ most pressing data challenges. You are a self-\nstarter who excels at breaking down complex problems and eagerly shares insights with your team\nand the broader Builder community.\nKey Responsibilities:\n• Develop and implement data solutions using Databricks, with hands-on experience in\nspecific Databricks platform features such as Delta Lake, Uniform (Iceberg), Delta Live\nTables (Lakeflow Declarative Pipelines), and Unity Catalog.\n• Collaborate with cross-functional teams to design and optimize data pipelines for both\nbatch and streaming data, ensuring data quality and efficiency.\n• Stay updated with emerging technologies, the latest Databricks platform features, and\ncontinuously improve your skills in Databricks and other relevant tools.\nExperience You’ll Bring:\n• Strong data engineering experience, with at least 2 years of hands-on data pipeline\ndesign and development experience with Databricks, including specific platform\nfeatures like Delta Lake, Uniform (Iceberg), Delta Live Tables (Lakeflow Declarative\npipelines), and Unity Catalog.\n• Proficiency in designing and building robust, scalable, YAML configuration-driven data\npipelines with batch, micro-batch, and streaming data ingestion and processing patterns\nusing tools like Auto Loader, demonstrating a strong understanding of modern data\nengineering practices.Experienced in building complex job/workflow orchestration patterns\nusing either Databricks jobs/workflows or other orchestration tools like Airflow, dbt\netc.\n• Exposure to building robust data quality, pipeline audit/observability solutions with\nDatabricks native features and/or other data quality tools/frameworks like Great\nExpectations, Collibra, dbt, etc.\n• Proficiency in Big Data Platforms: Apache Spark, Presto, Amazon EMR.\n• Experience with Cloud Data Warehouses: Amazon Redshift, Snowflake, Google\nBigQuery.\n• Strong programming skills using SQL, stored procedures, and object-oriented programming\nlanguages (like Java, Python, PySpark, etc.).\n• Familiarity with building DevOps, CI/CD pipelines using Databricks Asset Bundles with\nautomated validation and testing.\n• Exposure to Infrastructure as Code (IaC) tools like Terraform is a big plus.\n• Familiarity with NoSQL Databases and Container Management Systems.\n• Exposure to AI/ML tools (like MLflow), prompt engineering, and modern data and AI agentic\nworkflows.\n• An ideal candidate will have Databricks Data Engineering Associate and/or Professional\ncertification completed with multiple Databricks project delivery experience.\nCompensation:\nSalary is commensurate with experience based on department and role. \nObject Edge provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. We believe in providing employees with a work environment free of unlawful discrimination and harassment. In addition to national law requirements, Object Edge complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "workflow",
-        "prompt",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 3,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us?utm_source=api",
-      "expires": "2027-01-08T04:03:57+00:00",
       "imported": false,
       "date_basis": "posted"
     },

@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-12 00:58 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-12 08:11 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Small projects
@@ -63,11 +63,6 @@ Updated 2026-11-12 00:58 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone)
   > Role Title: Life Sciences Research Expert (Python) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Python Biology Medicine Materials Neuroscience Astronomy In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.A...
-- [OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design](https://news.ycombinator.com/item?id=50420399)  
-  HN Who is hiring | posted Nov 09 02:48 UTC | score 5 | **$30** | typescript, node.js, python, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > OpenTrain AI | REMOTE (US) | Part-time | Backend Engineer, AI Coding Task Design OpenTrain AI connects experienced professionals with paid, part-time AI training work. We are the hiring company and are actively filling this role. - $30–$100 per hour equivalent, paid per accepted task - 100% remote, United States - About 15 hours/week; choose your schedule We need backend engineers to design realistic coding tasks for AI systems, write deterministic verifiers, assess correctness and code quality, and apply secure coding and security review where relevant. This work helps improve AI systems t...
 - [micro1: Aerodynamics Expert (MSc. or PhD)](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd)  
   Himalayas | posted Nov 10 13:00 UTC | score 4 | **$80** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -123,11 +118,6 @@ Updated 2026-11-12 00:58 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Request for qualifications from IT services firms and independent IT businesses.About goCloudOffice® goCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement Request for qualificatio...
-- [Object Edge: Senior Data Engineer (Databricks) - Contractor - US](https://himalayas.app/companies/object-edge/jobs/senior-data-engineer-databricks-contractor-us)  
-  Himalayas | posted Nov 09 04:03 UTC | score 4 | workflow, prompt, python, ai
-  Fit: 3 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > About Object Edge: Object Edge is an AI-native, forward-deployed engineering firm. It builds Hive, a company brain for revenue, embeds engineers to build agentic workflows on it, and provides management engineering to lead the change. Award-winning eCommerce consultancy that delivers end-to-end design and development solutions centered around our client’s goals and customer needs. Our teams unite curious, intellectual advisors across the globe who creatively solve business problems and produce measurable results. About the Position: Senior Data Engineering (Databricks) What You’ll Do • Be a...
 - [Sunsave | Product Engineer (Mid-Level / Senior) | London, United Kingdom (Holborn) | ONSITE (hybrid, 3 days/w...](https://news.ycombinator.com/item?id=50427924)  
   HN Who is hiring | posted Nov 09 16:36 UTC | score 6 | postgresql, typescript, next.js, agents, react, ai
   Fit: 2 | 
