@@ -17,9 +17,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 26,
+      "priority": 20,
       "reasons": [
-        "posted within 6 hours",
         "budget stated, verify scope and currency"
       ],
       "flags": [
@@ -31,136 +30,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist",
-      "source": "Himalayas",
-      "title": "micro1: Sales and Business Development Specialist",
-      "url": "https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist",
-      "posted": "2026-11-12T22:20:41+00:00",
-      "body": "Role type: Contractor, part-time\nLocation: Remote, worldwideAbout the role\nmicro1 is looking for experienced Sales and Business Development Specialists to contribute to an AI training project focused on real-world B2B sales and outbound prospecting workflows.\nIn this role, you'll apply your practical experience in lead generation, prospect research, and outbound sales to evaluate how prospecting activities are performed, identify effective approaches, and provide expert feedback on sales workflows.\nThis opportunity is suitable for Sales Development Representatives, Business Development Representatives, Account Executives, and Sales Leaders who have hands-on experience conducting their own outbound prospecting.What you'll do\nEvaluate real-world B2B outbound prospecting workflows and sales practices.\nReview approaches to prospect research, lead identification, and qualification.\nAssess outbound email sequences, cold outreach strategies, and prospect engagement methods.\nIdentify effective prospecting techniques and common workflow challenges.\nApply professional sales judgment to evaluate the quality and effectiveness of prospecting activities.\nProvide clear, actionable feedback based on your experience using sales and prospecting tools.\nQualifications\nProfessional experience in B2B sales, business development, or sales development.\nHands-on experience conducting outbound prospecting and generating sales opportunities.\nFamiliarity with lead generation, prospect research, and outbound engagement workflows.\nExperience using CRM systems, sales engagement platforms, or prospecting tools.\nAbility to evaluate sales processes and communicate practical insights clearly.\nPreferred qualifications\nExperience using B2B sales intelligence, contact enrichment, or prospecting automation platforms.\nExperience developing or optimizing outbound sales campaigns.\nExperience in B2B SaaS, technology sales, or similar environments.\nEngagement details\nRemote, worldwide opportunity.\nPart-time contractor engagement.\nCustomer project focused on AI training and evaluation.\nAbout micro1\nmicro1 is a data lab that connects professionals with opportunities to apply their expertise to customer projects. We work with specialists across fields such as engineering, finance, healthcare, and law to support AI labs and enterprises. Through our extended network, contributors bring their knowledge and judgment to projects with their own scope, requirements, and engagement terms.\nOriginally posted on Himalayas",
-      "budget": "USD 35 to 65/hourly",
-      "score": 4,
-      "matched": [
-        "automation",
-        "workflow",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist?utm_source=api",
-      "expires": "2027-01-11T22:20:41+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer",
-      "source": "Himalayas",
-      "title": "micro1: Junior Machine Learning Engineer",
-      "url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer",
-      "posted": "2026-11-12T20:20:32+00:00",
-      "body": "Junior Machine Learning Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BS in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer?utm_source=api",
-      "expires": "2027-01-11T20:20:32+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours",
-      "source": "Himalayas",
-      "title": "Bowery Valuation: Lead, AR (Accounts Receivable) - Remote, Part-time hours",
-      "url": "https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours",
-      "posted": "2026-11-12T23:25:27+00:00",
-      "body": "About Bowery Valuation\nBowery Valuation is redefining the commercial real estate appraisal industry through technology, data, and exceptional talent. As one of the fastest-growing appraisal firms in the country, Bowery combines cutting-edge valuation technology with a national team of expert appraisers to deliver a better experience for clients and employees alike. Bowery writes appraisal reports that assess the value of commercial properties - such as hotels and apartment complexes - for hundreds of active clients.\nPosition Overview\nWe are seeking an AR Lead to run an accounts receivable clean up and help improve our accounts receivable process, DSO, and outstanding balance. You will join our lean, collaborative accounting team, working directly to the Accounting Manager, and work closely with the accounting, business development, and appraisal teams to ensure invoices are paid accurately and on time.\nThis is not a light-touch collections role. As a transactional, B2B business with hundreds of active clients and widely varied payment processes, our AR cycle is a complex, multi-step process that requires diligence, organization, and consistent follow-through. We are looking for someone who wants to help with this function with a high degree of ownership — and who treats the AR balance as their number for those clients which have been assigned to them.\nYou will also work with our technology system to automate portions of client reach-outs, helping shape and streamline the collections workflow.\nNote: This is a remote role for a U.S.-based independent contractor.\nHours & Compensation\nEstimated 10–20 hours per week.\nCompensation: $40–60 per hour, depending on experience.\nOngoing contract with no fixed end date. We are looking for someone to partner with for the long term.\nKey Responsibilities\nOwn the end-to-end accounts receivable cycle for assigned clients, with a primary focus on client outreach and collections.\nProactively research and identify the appropriate point of contact within client organizations for each invoice.\nCommunicate professionally, clearly, and collaboratively with clients via email to resolve outstanding payments.\nCollaborate closely with the Accounting Manager, business development team, and appraisers to clarify invoice details and resolve discrepancies.\nMonitor the overall AR balance and drive it down through consistent, organized follow-up.\nManage a high volume of client accounts and follow-ups with diligence and attention to detail.\nSupport payment application and reconciliation as needed.\nUse our upcoming automation system for client reach-outs, and help streamline AR workflows as new tools are rolled out.\nFlag recurring issues or patterns in payment delays to leadership.\nTake on additional accounting tasks over time as the role evolves.\nWhat We're Looking For\nProven experience owning accounts receivable end to end in a B2B, transactional business (rather than a subscription-based model).\nAn ownership mindset: you want to run this function, not just work a queue, and you bring the diligence a complex collections process requires.\nAccounting background or degree is a strong plus.\nExperience with an ERP or accounting software (NetSuite is a plus, not required).\nExcellent written and verbal communication skills; able to communicate professionally yet naturally with clients.\nHighly organized, personable, and collaborative working style.\nComfortable working core hours aligned with U.S. Eastern Time.\nBased in the United States and authorized to work as an independent contractor.\nGenuine interest in AR/collections work.\nOriginally posted on Himalayas",
-      "budget": "USD 40 to 60/hourly",
-      "score": 3,
-      "matched": [
-        "automation",
-        "automate",
-        "workflow"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours?utm_source=api",
-      "expires": "2027-01-11T23:25:26+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/unit21/jobs/grc-associate-contract",
-      "source": "Himalayas",
-      "title": "Unit21: GRC Associate (Contract)",
-      "url": "https://himalayas.app/companies/unit21/jobs/grc-associate-contract",
-      "posted": "2026-11-12T21:26:00+00:00",
-      "body": "This is a remote position.About the Role:\nWe're looking for a part-time GRC Associate to do the day-to-day work of our governance, risk and compliance program. You'll own the deliverables: audit evidence, security questionnaire responses, the compliance calendar, and vendor reviews. You'll partner closely with our security engineers, Sales and Solutions Engineering. The Head of Security owns program strategy, risk decisions and policy sign-off.What you'll doAudit readiness (SOC 2 Type II, PCI DSS)\nRun day-to-day work in Drata: map controls, connect integrations, close gaps, and keep evidence collection current\nCoordinate the SOC 2 audit cycle: auditor coordination, evidence requests, walkthroughs, and tracking exceptions and remediation\nRun the biannual and quarterly PCI reviews and track external scan findings to closure\nPrepare recurring SOC 2 evidence, including quarterly access and group reviews, audit-log exports, and incident summaries\nChase owners to close postmortem follow-ups and control gaps across Engineering, Infra/DevOps, IT, HR and People Ops\nCustomer trust and sales support\nBe first responder on security questionnaires, DDQs and customer vendor-risk reviews (about 4–8 a month). These include SIG, CAIQ and custom bank questionnaires, often submitted through customer portals such as LogicGate, Aravo and Coupa.\nKeep the security answers current in the answer library that Solutions Engineering maintains. New or changed security claims get Security sign-off before they go out.\nBuild a reusable screenshot evidence pack for customers that won't accept Trust Center links\nKeep our Trust Center current: SOC 2 report, pen test summary, policies and subprocessors\nReview customer security requirements in MSAs and DPAs, and keep our customer security requirements tracker up to date\nPolicies, risk and governance\nRun the annual review of our security policy set\nManage the security policy exceptions log\nCoordinate the annual risk assessment, keep the risk register current, and prepare the leadership risk review\nCoordinate the annual BCP/DR test and write the customer-facing summary\nTrack the HR-side SOC 2 controls: background checks, security training, onboarding and offboarding\nThird-party risk management\nRun security assessments of internal-use and non-critical vendors. Support the Head of Security on critical vendor and subprocessor reviews, including annual reviews.\nKeep the subprocessor list accurate and drive customer notifications when it changes\nRun the intake and review process for new SaaS apps, OAuth apps, AI tools and MCP servers\nPartner compliance and program structure\nHandle day-to-day compliance work for our data-provider reseller agreements, starting with LexisNexis: customer credentialing, audit readiness and reporting\nBuild and run a compliance calendar of recurring controls, reviews, audits and renewals, with named owners\nSend a monthly GRC status report to the Head of Security\nWhat you'll bringMust have\n2–4 years in GRC, security compliance or IT audit, ideally at a B2B SaaS company selling to regulated customers\nSupported at least one SOC 2 Type II audit: evidence collection, control testing and auditor requests\nHas answered customer security questionnaires or DDQs\nClear writing: customer-facing answers should need only light review\nOrganized and persistent; you can track many small asks across teams and follow up without needing escalation\nNice to have\nHands-on experience with a compliance automation platform such as Drata, Vanta, Secureframe or OneTrust\nFintech, BaaS or banking-vendor experience\nISO 27001 experience\nAI governance experience (NIST AI RMF, ISO 42001)\nPCI DSS exposure; Security+, CISA or ISO 27001 Implementer\nEngagement details\nHours:~20 hrs/week, flexible within the week. Volume is bursty around audit and questionnaire cycles.\nLocation:US Remote. Hours in US Pacific time, or a minimum of 4 hours overlap.\nContract:6-month initial term, renewable, with 30 days' notice to end. Hourly rate.\nOnboarding:background check, NDA and security training. Access is through named accounts with least privilege (Drata, Notion, Slack, Google Workspace).\nWork LocationThis is a remote and hourly position.\nRemote work is currently limited to candidates located in the following states:\nAZ, CA, CO, GA, ID, IL, KS, MA, MD, NJ, NY, OR, PA, RI, TX, WA.CompensationBase:$50-$65/hourWe Offer\nCompetitive salary and pre-IPO equity\n100% company-paid medical, dental, and vision insurance for employees\nUnlimited PTO and generous leave programs\n401(k)\nLearning & development stipend\nHome office setup support\nA high-ownership, collaborative culture focused on impact, innovation, and growth\nEqual Opportunity Employer\nUnit21 is an equal opportunity employer. We encourage candidates to apply even if they don't meet every listed requirement. We are committed to building a diverse, inclusive workforce where everyone has the opportunity to thrive.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 65/hourly",
-      "score": 3,
-      "matched": [
-        "automation",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/unit21/jobs/grc-associate-contract?utm_source=api",
-      "expires": "2027-01-11T21:25:59+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -274,37 +143,68 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
-      "source": "We Work Remotely",
-      "title": "V4C.ai: Databricks QA Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
-      "posted": "2026-11-13T15:58:13+00:00",
-      "body": "Headquarters: United States\nURL: https://jobs.workable.com/company/kb5Wja5n4RGDc2pq5FujAz/jobs-at-v4c.ai\nAbout V4C\nV4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging).\nAs a Databricks QA Engineer on our data engineering team you will own the quality gate for enterprise data platforms, working directly with customers. You will work on live enterprise data platforms alongside one of the most heavily Databricks-certified delivery teams in the market.\nThe Role\nThis is a QA role for people who understand data engineering, not general software QA pointed at a data project. You will validate Lakehouse pipelines, which means reasoning about row counts, schema drift, late-arriving data, and silent transformation errors no UI will ever surface. Our approach is automation-first: suites in Python and PySpark, running in CI, blocking promotion when they fail. You own release sign-off, which makes you the last person between a customer and bad data in production. \nResponsibilities\nOwn test strategy and release sign-off on engagements, including documented test plans covering scope, risk, and coverage\nBuild and maintain automated test suites in Python and PySpark (pytest), integrated into CI pipelines\nValidate data pipelines end to end: ingestion, Medallion layer transformations, Delta Lake tables, and ELT workflows\nImplement data quality rules as code, including Lakeflow expectations and reusable validation frameworks\nRun regression validation after code changes and maintain CI quality gates that block merge or promotion on failure\nPartner with engineers to identify automation candidates and raise the coverage bar across the practice\n5+ years in QA automation or test engineering, including meaningful time testing data pipelines rather than applications alone\nA data engineering background: you can read a pipeline, reason about a transformation, and write the SQL to verify it\nExpert-level SQL\nExperience with Medallion architecture, Delta Lake, and ELT-based data platforms\nExperience building automated suites that run in CI and gate deployment\nDemonstrable hands-on experience working on Databricks or similar platforms\nPreferences\nHealthcare or life sciences experience preferred but not required\nExisting Databricks certification(s)\nHands-on experience with Unity Catalog, Lakeflow pipelines, or Databricks Asset Bundles\nExperience with Azure DevOps pipelines, or equivalent CI tooling (GitHub Actions, GitLab CI)\nFamiliarity with contract-based data validation standards such as ODCS\nExperience using LLM agents or MCP-connected tooling to run validations, triage failures, or draft defect reports\nConsulting or client-facing background\nPay Rate: $70 – $80 per hour (1099 independent contractor).\nThis is a contract engagement rather than a salaried employee role. Where a rate lands within the range depends on depth of data-pipeline testing experience and automation capability. Open to contractors anywhere in the United States.\nTo apply: https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
-      "budget": "$70",
-      "score": 6,
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist",
+      "source": "Himalayas",
+      "title": "micro1: Sales and Business Development Specialist",
+      "url": "https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist",
+      "posted": "2026-11-12T22:20:41+00:00",
+      "body": "Role type: Contractor, part-time\nLocation: Remote, worldwideAbout the role\nmicro1 is looking for experienced Sales and Business Development Specialists to contribute to an AI training project focused on real-world B2B sales and outbound prospecting workflows.\nIn this role, you'll apply your practical experience in lead generation, prospect research, and outbound sales to evaluate how prospecting activities are performed, identify effective approaches, and provide expert feedback on sales workflows.\nThis opportunity is suitable for Sales Development Representatives, Business Development Representatives, Account Executives, and Sales Leaders who have hands-on experience conducting their own outbound prospecting.What you'll do\nEvaluate real-world B2B outbound prospecting workflows and sales practices.\nReview approaches to prospect research, lead identification, and qualification.\nAssess outbound email sequences, cold outreach strategies, and prospect engagement methods.\nIdentify effective prospecting techniques and common workflow challenges.\nApply professional sales judgment to evaluate the quality and effectiveness of prospecting activities.\nProvide clear, actionable feedback based on your experience using sales and prospecting tools.\nQualifications\nProfessional experience in B2B sales, business development, or sales development.\nHands-on experience conducting outbound prospecting and generating sales opportunities.\nFamiliarity with lead generation, prospect research, and outbound engagement workflows.\nExperience using CRM systems, sales engagement platforms, or prospecting tools.\nAbility to evaluate sales processes and communicate practical insights clearly.\nPreferred qualifications\nExperience using B2B sales intelligence, contact enrichment, or prospecting automation platforms.\nExperience developing or optimizing outbound sales campaigns.\nExperience in B2B SaaS, technology sales, or similar environments.\nEngagement details\nRemote, worldwide opportunity.\nPart-time contractor engagement.\nCustomer project focused on AI training and evaluation.\nAbout micro1\nmicro1 is a data lab that connects professionals with opportunities to apply their expertise to customer projects. We work with specialists across fields such as engineering, finance, healthcare, and law to support AI labs and enterprises. Through our extended network, contributors bring their knowledge and judgment to projects with their own scope, requirements, and engagement terms.\nOriginally posted on Himalayas",
+      "budget": "USD 35 to 65/hourly",
+      "score": 4,
       "matched": [
         "automation",
-        "agents",
-        "python",
-        "llm",
+        "workflow",
+        "saas",
         "ai"
       ],
       "queue": "contract",
-      "priority": 18,
+      "priority": 17,
       "reasons": [
-        "posted within 6 hours",
+        "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
+        "check eligibility: Worldwide (check timezone)"
       ],
       "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist?utm_source=api",
+      "expires": "2027-01-11T22:20:41+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer",
+      "source": "Himalayas",
+      "title": "micro1: Junior Machine Learning Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer",
+      "posted": "2026-11-12T20:20:32+00:00",
+      "body": "Junior Machine Learning Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BS in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer?utm_source=api",
+      "expires": "2027-01-11T20:20:32+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -371,6 +271,70 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371?utm_source=api",
       "expires": "2027-01-10T15:32:37+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours",
+      "source": "Himalayas",
+      "title": "Bowery Valuation: Lead, AR (Accounts Receivable) - Remote, Part-time hours",
+      "url": "https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours",
+      "posted": "2026-11-12T23:25:27+00:00",
+      "body": "About Bowery Valuation\nBowery Valuation is redefining the commercial real estate appraisal industry through technology, data, and exceptional talent. As one of the fastest-growing appraisal firms in the country, Bowery combines cutting-edge valuation technology with a national team of expert appraisers to deliver a better experience for clients and employees alike. Bowery writes appraisal reports that assess the value of commercial properties - such as hotels and apartment complexes - for hundreds of active clients.\nPosition Overview\nWe are seeking an AR Lead to run an accounts receivable clean up and help improve our accounts receivable process, DSO, and outstanding balance. You will join our lean, collaborative accounting team, working directly to the Accounting Manager, and work closely with the accounting, business development, and appraisal teams to ensure invoices are paid accurately and on time.\nThis is not a light-touch collections role. As a transactional, B2B business with hundreds of active clients and widely varied payment processes, our AR cycle is a complex, multi-step process that requires diligence, organization, and consistent follow-through. We are looking for someone who wants to help with this function with a high degree of ownership — and who treats the AR balance as their number for those clients which have been assigned to them.\nYou will also work with our technology system to automate portions of client reach-outs, helping shape and streamline the collections workflow.\nNote: This is a remote role for a U.S.-based independent contractor.\nHours & Compensation\nEstimated 10–20 hours per week.\nCompensation: $40–60 per hour, depending on experience.\nOngoing contract with no fixed end date. We are looking for someone to partner with for the long term.\nKey Responsibilities\nOwn the end-to-end accounts receivable cycle for assigned clients, with a primary focus on client outreach and collections.\nProactively research and identify the appropriate point of contact within client organizations for each invoice.\nCommunicate professionally, clearly, and collaboratively with clients via email to resolve outstanding payments.\nCollaborate closely with the Accounting Manager, business development team, and appraisers to clarify invoice details and resolve discrepancies.\nMonitor the overall AR balance and drive it down through consistent, organized follow-up.\nManage a high volume of client accounts and follow-ups with diligence and attention to detail.\nSupport payment application and reconciliation as needed.\nUse our upcoming automation system for client reach-outs, and help streamline AR workflows as new tools are rolled out.\nFlag recurring issues or patterns in payment delays to leadership.\nTake on additional accounting tasks over time as the role evolves.\nWhat We're Looking For\nProven experience owning accounts receivable end to end in a B2B, transactional business (rather than a subscription-based model).\nAn ownership mindset: you want to run this function, not just work a queue, and you bring the diligence a complex collections process requires.\nAccounting background or degree is a strong plus.\nExperience with an ERP or accounting software (NetSuite is a plus, not required).\nExcellent written and verbal communication skills; able to communicate professionally yet naturally with clients.\nHighly organized, personable, and collaborative working style.\nComfortable working core hours aligned with U.S. Eastern Time.\nBased in the United States and authorized to work as an independent contractor.\nGenuine interest in AR/collections work.\nOriginally posted on Himalayas",
+      "budget": "USD 40 to 60/hourly",
+      "score": 3,
+      "matched": [
+        "automation",
+        "automate",
+        "workflow"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours?utm_source=api",
+      "expires": "2027-01-11T23:25:26+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/unit21/jobs/grc-associate-contract",
+      "source": "Himalayas",
+      "title": "Unit21: GRC Associate (Contract)",
+      "url": "https://himalayas.app/companies/unit21/jobs/grc-associate-contract",
+      "posted": "2026-11-12T21:26:00+00:00",
+      "body": "This is a remote position.About the Role:\nWe're looking for a part-time GRC Associate to do the day-to-day work of our governance, risk and compliance program. You'll own the deliverables: audit evidence, security questionnaire responses, the compliance calendar, and vendor reviews. You'll partner closely with our security engineers, Sales and Solutions Engineering. The Head of Security owns program strategy, risk decisions and policy sign-off.What you'll doAudit readiness (SOC 2 Type II, PCI DSS)\nRun day-to-day work in Drata: map controls, connect integrations, close gaps, and keep evidence collection current\nCoordinate the SOC 2 audit cycle: auditor coordination, evidence requests, walkthroughs, and tracking exceptions and remediation\nRun the biannual and quarterly PCI reviews and track external scan findings to closure\nPrepare recurring SOC 2 evidence, including quarterly access and group reviews, audit-log exports, and incident summaries\nChase owners to close postmortem follow-ups and control gaps across Engineering, Infra/DevOps, IT, HR and People Ops\nCustomer trust and sales support\nBe first responder on security questionnaires, DDQs and customer vendor-risk reviews (about 4–8 a month). These include SIG, CAIQ and custom bank questionnaires, often submitted through customer portals such as LogicGate, Aravo and Coupa.\nKeep the security answers current in the answer library that Solutions Engineering maintains. New or changed security claims get Security sign-off before they go out.\nBuild a reusable screenshot evidence pack for customers that won't accept Trust Center links\nKeep our Trust Center current: SOC 2 report, pen test summary, policies and subprocessors\nReview customer security requirements in MSAs and DPAs, and keep our customer security requirements tracker up to date\nPolicies, risk and governance\nRun the annual review of our security policy set\nManage the security policy exceptions log\nCoordinate the annual risk assessment, keep the risk register current, and prepare the leadership risk review\nCoordinate the annual BCP/DR test and write the customer-facing summary\nTrack the HR-side SOC 2 controls: background checks, security training, onboarding and offboarding\nThird-party risk management\nRun security assessments of internal-use and non-critical vendors. Support the Head of Security on critical vendor and subprocessor reviews, including annual reviews.\nKeep the subprocessor list accurate and drive customer notifications when it changes\nRun the intake and review process for new SaaS apps, OAuth apps, AI tools and MCP servers\nPartner compliance and program structure\nHandle day-to-day compliance work for our data-provider reseller agreements, starting with LexisNexis: customer credentialing, audit readiness and reporting\nBuild and run a compliance calendar of recurring controls, reviews, audits and renewals, with named owners\nSend a monthly GRC status report to the Head of Security\nWhat you'll bringMust have\n2–4 years in GRC, security compliance or IT audit, ideally at a B2B SaaS company selling to regulated customers\nSupported at least one SOC 2 Type II audit: evidence collection, control testing and auditor requests\nHas answered customer security questionnaires or DDQs\nClear writing: customer-facing answers should need only light review\nOrganized and persistent; you can track many small asks across teams and follow up without needing escalation\nNice to have\nHands-on experience with a compliance automation platform such as Drata, Vanta, Secureframe or OneTrust\nFintech, BaaS or banking-vendor experience\nISO 27001 experience\nAI governance experience (NIST AI RMF, ISO 42001)\nPCI DSS exposure; Security+, CISA or ISO 27001 Implementer\nEngagement details\nHours:~20 hrs/week, flexible within the week. Volume is bursty around audit and questionnaire cycles.\nLocation:US Remote. Hours in US Pacific time, or a minimum of 4 hours overlap.\nContract:6-month initial term, renewable, with 30 days' notice to end. Hourly rate.\nOnboarding:background check, NDA and security training. Access is through named accounts with least privilege (Drata, Notion, Slack, Google Workspace).\nWork LocationThis is a remote and hourly position.\nRemote work is currently limited to candidates located in the following states:\nAZ, CA, CO, GA, ID, IL, KS, MA, MD, NJ, NY, OR, PA, RI, TX, WA.CompensationBase:$50-$65/hourWe Offer\nCompetitive salary and pre-IPO equity\n100% company-paid medical, dental, and vision insurance for employees\nUnlimited PTO and generous leave programs\n401(k)\nLearning & development stipend\nHome office setup support\nA high-ownership, collaborative culture focused on impact, innovation, and growth\nEqual Opportunity Employer\nUnit21 is an equal opportunity employer. We encourage candidates to apply even if they don't meet every listed requirement. We are committed to building a diverse, inclusive workforce where everyone has the opportunity to thrive.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 65/hourly",
+      "score": 3,
+      "matched": [
+        "automation",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/unit21/jobs/grc-associate-contract?utm_source=api",
+      "expires": "2027-01-11T21:25:59+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -534,6 +498,40 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/life-sciences-research-expert-python-remote-contract-6593342512?utm_source=api",
       "expires": "2027-01-10T11:12:39+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
+      "source": "We Work Remotely",
+      "title": "V4C.ai: Databricks QA Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
+      "posted": "2026-11-13T15:58:13+00:00",
+      "body": "Headquarters: United States\nURL: https://jobs.workable.com/company/kb5Wja5n4RGDc2pq5FujAz/jobs-at-v4c.ai\nAbout V4C\nV4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging).\nAs a Databricks QA Engineer on our data engineering team you will own the quality gate for enterprise data platforms, working directly with customers. You will work on live enterprise data platforms alongside one of the most heavily Databricks-certified delivery teams in the market.\nThe Role\nThis is a QA role for people who understand data engineering, not general software QA pointed at a data project. You will validate Lakehouse pipelines, which means reasoning about row counts, schema drift, late-arriving data, and silent transformation errors no UI will ever surface. Our approach is automation-first: suites in Python and PySpark, running in CI, blocking promotion when they fail. You own release sign-off, which makes you the last person between a customer and bad data in production. \nResponsibilities\nOwn test strategy and release sign-off on engagements, including documented test plans covering scope, risk, and coverage\nBuild and maintain automated test suites in Python and PySpark (pytest), integrated into CI pipelines\nValidate data pipelines end to end: ingestion, Medallion layer transformations, Delta Lake tables, and ELT workflows\nImplement data quality rules as code, including Lakeflow expectations and reusable validation frameworks\nRun regression validation after code changes and maintain CI quality gates that block merge or promotion on failure\nPartner with engineers to identify automation candidates and raise the coverage bar across the practice\n5+ years in QA automation or test engineering, including meaningful time testing data pipelines rather than applications alone\nA data engineering background: you can read a pipeline, reason about a transformation, and write the SQL to verify it\nExpert-level SQL\nExperience with Medallion architecture, Delta Lake, and ELT-based data platforms\nExperience building automated suites that run in CI and gate deployment\nDemonstrable hands-on experience working on Databricks or similar platforms\nPreferences\nHealthcare or life sciences experience preferred but not required\nExisting Databricks certification(s)\nHands-on experience with Unity Catalog, Lakeflow pipelines, or Databricks Asset Bundles\nExperience with Azure DevOps pipelines, or equivalent CI tooling (GitHub Actions, GitLab CI)\nFamiliarity with contract-based data validation standards such as ODCS\nExperience using LLM agents or MCP-connected tooling to run validations, triage failures, or draft defect reports\nConsulting or client-facing background\nPay Rate: $70 – $80 per hour (1099 independent contractor).\nThis is a contract engagement rather than a salaried employee role. Where a rate lands within the range depends on depth of data-pipeline testing experience and automation capability. Open to contractors anywhere in the United States.\nTo apply: https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
+      "budget": "$70",
+      "score": 6,
+      "matched": [
+        "automation",
+        "agents",
+        "python",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 12,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },

@@ -1,35 +1,15 @@
 # Gig radar
 
-Updated 2026-11-13 18:27 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-13 23:51 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
 - [Crazy Maple Studio: AI-Assisted Story Writer (1099 Contract)](https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract)  
   We Work Remotely | posted Nov 13 15:58 UTC | score 5 | **$3,000** | workflow, chatgpt, claude, ai
-  Fit: 26 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 20 | budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: Culver City, California, United States URL: https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio Crazy Maple Studio is a fast-growing company based in the Bay Area and Los Angeles, focusing on mobile gaming, reading, and streaming. We are proud to have a global team that drives our innovation and success across diverse markets. Our flagship platform, ReelShort, is the #1 vertical streaming app in the U.S., with over 8 million DAU, delivering bite-sized episodic content that keeps viewers hooked. Other standout products include Chapters, where use...
-- [micro1: Sales and Business Development Specialist](https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist)  
-  Himalayas | posted Nov 12 22:20 UTC | score 4 | **USD 35 to 65/hourly** | automation, workflow, saas, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role type: Contractor, part-time Location: Remote, worldwideAbout the role micro1 is looking for experienced Sales and Business Development Specialists to contribute to an AI training project focused on real-world B2B sales and outbound prospecting workflows. In this role, you'll apply your practical experience in lead generation, prospect research, and outbound sales to evaluate how prospecting activities are performed, identify effective approaches, and provide expert feedback on sales workflows. This opportunity is suitable for Sales Development Representatives, Business Development Repr...
-- [micro1: Junior Machine Learning Engineer](https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer)  
-  Himalayas | posted Nov 12 20:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Junior Machine Learning Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or mod...
-- [Bowery Valuation: Lead, AR (Accounts Receivable) - Remote, Part-time hours](https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours)  
-  Himalayas | posted Nov 12 23:25 UTC | score 3 | **USD 40 to 60/hourly** | automation, automate, workflow
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About Bowery Valuation Bowery Valuation is redefining the commercial real estate appraisal industry through technology, data, and exceptional talent. As one of the fastest-growing appraisal firms in the country, Bowery combines cutting-edge valuation technology with a national team of expert appraisers to deliver a better experience for clients and employees alike. Bowery writes appraisal reports that assess the value of commercial properties - such as hotels and apartment complexes - for hundreds of active clients. Position Overview We are seeking an AR Lead to run an accounts receivable c...
-- [Unit21: GRC Associate (Contract)](https://himalayas.app/companies/unit21/jobs/grc-associate-contract)  
-  Himalayas | posted Nov 12 21:26 UTC | score 3 | **USD 50 to 65/hourly** | automation, saas, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > This is a remote position.About the Role: We're looking for a part-time GRC Associate to do the day-to-day work of our governance, risk and compliance program. You'll own the deliverables: audit evidence, security questionnaire responses, the compliance calendar, and vendor reviews. You'll partner closely with our security engineers, Sales and Solutions Engineering. The Head of Security owns program strategy, risk decisions and policy sign-off.What you'll doAudit readiness (SOC 2 Type II, PCI DSS) Run day-to-day work in Drata: map controls, connect integrations, close gaps, and keep evidenc...
 - [RemoteJobsOne: Software Engineer – Backend – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide)  
   Himalayas | posted Nov 12 15:48 UTC | score 5 | **USD 30 to 100/hourly** | typescript, workflow, node.js, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -45,11 +25,16 @@ Updated 2026-11-13 18:27 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: AI Trainer (SWE) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: FlexibleRequired Skills: Software Engineering AI training You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On: Create realistic software engineering tasks that challenge advanced AI models. Develop task instructions,...
-- [V4C.ai: Databricks QA Engineer](https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer)  
-  We Work Remotely | posted Nov 13 15:58 UTC | score 6 | **$70** | automation, agents, python, llm, ai
-  Fit: 18 | posted within 6 hours; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: United States URL: https://jobs.workable.com/company/kb5Wja5n4RGDc2pq5FujAz/jobs-at-v4c.ai About V4C V4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging). As a Databricks QA Engineer on our data engineering team you will own the quality gate for enterprise data platforms, working directly with customers. You will work on live enterprise data platforms alongside one of the most heavily Databricks-certified delivery teams in the market....
+- [micro1: Sales and Business Development Specialist](https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist)  
+  Himalayas | posted Nov 12 22:20 UTC | score 4 | **USD 35 to 65/hourly** | automation, workflow, saas, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role type: Contractor, part-time Location: Remote, worldwideAbout the role micro1 is looking for experienced Sales and Business Development Specialists to contribute to an AI training project focused on real-world B2B sales and outbound prospecting workflows. In this role, you'll apply your practical experience in lead generation, prospect research, and outbound sales to evaluate how prospecting activities are performed, identify effective approaches, and provide expert feedback on sales workflows. This opportunity is suitable for Sales Development Representatives, Business Development Repr...
+- [micro1: Junior Machine Learning Engineer](https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer)  
+  Himalayas | posted Nov 12 20:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Junior Machine Learning Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or mod...
 - [micro1: Aerodynamics Expert (MSc. or PhD)](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd)  
   Himalayas | posted Nov 12 13:00 UTC | score 4 | **$80** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -60,6 +45,16 @@ Updated 2026-11-13 18:27 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Software Engineer — Open Source ContributionsRole Type: ContractorLocation: Remote micro1 is engaging Software Engineer — Open Source Contributions experts to participate in an impactful customer project focused on high-quality, open source software development. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work Develop, implement, and refine new features wit...
+- [Bowery Valuation: Lead, AR (Accounts Receivable) - Remote, Part-time hours](https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours)  
+  Himalayas | posted Nov 12 23:25 UTC | score 3 | **USD 40 to 60/hourly** | automation, automate, workflow
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About Bowery Valuation Bowery Valuation is redefining the commercial real estate appraisal industry through technology, data, and exceptional talent. As one of the fastest-growing appraisal firms in the country, Bowery combines cutting-edge valuation technology with a national team of expert appraisers to deliver a better experience for clients and employees alike. Bowery writes appraisal reports that assess the value of commercial properties - such as hotels and apartment complexes - for hundreds of active clients. Position Overview We are seeking an AR Lead to run an accounts receivable c...
+- [Unit21: GRC Associate (Contract)](https://himalayas.app/companies/unit21/jobs/grc-associate-contract)  
+  Himalayas | posted Nov 12 21:26 UTC | score 3 | **USD 50 to 65/hourly** | automation, saas, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > This is a remote position.About the Role: We're looking for a part-time GRC Associate to do the day-to-day work of our governance, risk and compliance program. You'll own the deliverables: audit evidence, security questionnaire responses, the compliance calendar, and vendor reviews. You'll partner closely with our security engineers, Sales and Solutions Engineering. The Head of Security owns program strategy, risk decisions and policy sign-off.What you'll doAudit readiness (SOC 2 Type II, PCI DSS) Run day-to-day work in Drata: map controls, connect integrations, close gaps, and keep evidenc...
 - [Xperteez Technology: 🌎 AI Trainer (ML Engineering), Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract)  
   Himalayas | posted Nov 11 11:03 UTC | score 3 | **USD 60 to 120/hourly** | python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -85,6 +80,11 @@ Updated 2026-11-13 18:27 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone)
   > Role Title: Life Sciences Research Expert (Python) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Python Biology Medicine Materials Neuroscience Astronomy In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.A...
+- [V4C.ai: Databricks QA Engineer](https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer)  
+  We Work Remotely | posted Nov 13 15:58 UTC | score 6 | **$70** | automation, agents, python, llm, ai
+  Fit: 12 | budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: United States URL: https://jobs.workable.com/company/kb5Wja5n4RGDc2pq5FujAz/jobs-at-v4c.ai About V4C V4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging). As a Databricks QA Engineer on our data engineering team you will own the quality gate for enterprise data platforms, working directly with customers. You will work on live enterprise data platforms alongside one of the most heavily Databricks-certified delivery teams in the market....
 - [RemoteJobsOne: Senior Software Engineer – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/senior-software-engineer-remote-worldwide)  
   Himalayas | posted Nov 12 16:53 UTC | score 5 | **USD 30 to 100/hourly** | typescript, workflow, node.js, python, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
