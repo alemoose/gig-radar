@@ -1,48 +1,20 @@
 # Gig radar
 
-Updated 2026-11-13 02:55 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-13 10:42 UTC. Projects first, ranked by fit and freshness.
 
-
-## Small projects
-
-- [(Hiring) Data annotation and prompt-quality contractors — Remote (US) — $35/hr](https://www.reddit.com/r/hiring/comments/1xsg2xp/hiring_data_annotation_and_promptquality/)  
-  r/hiring | posted Nov 10 06:48 UTC | score 3 | **$35/hr** | prompt, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > We're building annotation capacity for an ongoing AI training pipeline and adding several contractors on a rolling basis. Six months of work queued, not a single batch. The work Annotating and reviewing AI training data against a written rubric: labeling model outputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 items on a weekly cadence. To be clear about what this is not: it isn't survey work, sign-up work, or click-work. Every batch ships with a written specification and a worked example before you start, and you get QA feedback on the previous batch so quali...
-- [(Hiring) Data annotation and prompt-quality contractors — Remote (US) — $35/hr](https://www.reddit.com/r/forhire/comments/1xsfw4x/hiring_data_annotation_and_promptquality/)  
-  r/forhire | posted Nov 10 06:36 UTC | score 3 | **$35/hr** | prompt, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > We're building annotation capacity for an ongoing AI training pipeline and adding contractors on a rolling basis. Six months of work queued, not a single batch. The work Annotating and reviewing AI training data against a written rubric: labeling model outputs, flagging errors, writing short prompt/response pairs. Batches of 200-400 items on a weekly cadence. Spec and worked example supplied before you start, so the deliverable is clear before you commit. You - Based in the US and authorized to work in the US; no sponsorship - 18+, minimum 10 hrs/week, reliable turnaround - Clear written En...
-- [(Hiring) Senior Python / SWE roles in AI evaluation and agentic coding (remote, $80-100/hr)](https://www.reddit.com/r/hiring/comments/1xsi730/hiring_senior_python_swe_roles_in_ai_evaluation/)  
-  r/hiring | posted Nov 10 09:04 UTC | score 6 | **$80-100/hr** | agents, python, llm, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Sharing two remote contract roles in AI that might interest senior engineers here. Full disclosure: I have a link to apply for. You’re also free to apply directly on the company’s site. 1. Senior Software Engineer, AI Evaluation & Benchmarks Build benchmarks that test frontier AI models Python-heavy $80-100/hr, fully remote 2. Senior Software Engineer, Agentic Coding Build AI agents that write code autonomously Flexible, fully remote Who it fits: experienced engineers (strong Python especially) who want to work on evals, agents, or LLM tooling. If you want the link, DM me and I’ll send it....
 
 ## Contract roles
 
-- [micro1: Sales and Business Development Specialist](https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist)  
-  Himalayas | posted Nov 12 22:20 UTC | score 4 | **USD 35 to 65/hourly** | automation, workflow, saas, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role type: Contractor, part-time Location: Remote, worldwideAbout the role micro1 is looking for experienced Sales and Business Development Specialists to contribute to an AI training project focused on real-world B2B sales and outbound prospecting workflows. In this role, you'll apply your practical experience in lead generation, prospect research, and outbound sales to evaluate how prospecting activities are performed, identify effective approaches, and provide expert feedback on sales workflows. This opportunity is suitable for Sales Development Representatives, Business Development Repr...
-- [Bowery Valuation: Lead, AR (Accounts Receivable) - Remote, Part-time hours](https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours)  
-  Himalayas | posted Nov 12 23:25 UTC | score 3 | **USD 40 to 60/hourly** | automation, automate, workflow
-  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About Bowery Valuation Bowery Valuation is redefining the commercial real estate appraisal industry through technology, data, and exceptional talent. As one of the fastest-growing appraisal firms in the country, Bowery combines cutting-edge valuation technology with a national team of expert appraisers to deliver a better experience for clients and employees alike. Bowery writes appraisal reports that assess the value of commercial properties - such as hotels and apartment complexes - for hundreds of active clients. Position Overview We are seeking an AR Lead to run an accounts receivable c...
-- [Unit21: GRC Associate (Contract)](https://himalayas.app/companies/unit21/jobs/grc-associate-contract)  
-  Himalayas | posted Nov 12 21:26 UTC | score 3 | **USD 50 to 65/hourly** | automation, saas, ai
-  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > This is a remote position.About the Role: We're looking for a part-time GRC Associate to do the day-to-day work of our governance, risk and compliance program. You'll own the deliverables: audit evidence, security questionnaire responses, the compliance calendar, and vendor reviews. You'll partner closely with our security engineers, Sales and Solutions Engineering. The Head of Security owns program strategy, risk decisions and policy sign-off.What you'll doAudit readiness (SOC 2 Type II, PCI DSS) Run day-to-day work in Drata: map controls, connect integrations, close gaps, and keep evidenc...
 - [RemoteJobsOne: Software Engineer – Backend – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide)  
   Himalayas | posted Nov 12 15:48 UTC | score 5 | **USD 30 to 100/hourly** | typescript, workflow, node.js, python, ai
   Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United States, United Kingdom, Canada, Germany, India, France, Netherlands, Singapore. Pay: $30–$100/hr Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-g...
+- [micro1: Sales and Business Development Specialist](https://himalayas.app/companies/micro1/jobs/sales-and-business-development-specialist)  
+  Himalayas | posted Nov 12 22:20 UTC | score 4 | **USD 35 to 65/hourly** | automation, workflow, saas, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role type: Contractor, part-time Location: Remote, worldwideAbout the role micro1 is looking for experienced Sales and Business Development Specialists to contribute to an AI training project focused on real-world B2B sales and outbound prospecting workflows. In this role, you'll apply your practical experience in lead generation, prospect research, and outbound sales to evaluate how prospecting activities are performed, identify effective approaches, and provide expert feedback on sales workflows. This opportunity is suitable for Sales Development Representatives, Business Development Repr...
 - [micro1: Junior Machine Learning Engineer](https://himalayas.app/companies/micro1/jobs/junior-machine-learning-engineer)  
   Himalayas | posted Nov 12 20:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
@@ -53,6 +25,16 @@ Updated 2026-11-13 02:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert (MSc. or PhD) Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may req...
+- [Bowery Valuation: Lead, AR (Accounts Receivable) - Remote, Part-time hours](https://himalayas.app/companies/bowery-valuation/jobs/lead-ar-accounts-receivable-remote-part-time-hours)  
+  Himalayas | posted Nov 12 23:25 UTC | score 3 | **USD 40 to 60/hourly** | automation, automate, workflow
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About Bowery Valuation Bowery Valuation is redefining the commercial real estate appraisal industry through technology, data, and exceptional talent. As one of the fastest-growing appraisal firms in the country, Bowery combines cutting-edge valuation technology with a national team of expert appraisers to deliver a better experience for clients and employees alike. Bowery writes appraisal reports that assess the value of commercial properties - such as hotels and apartment complexes - for hundreds of active clients. Position Overview We are seeking an AR Lead to run an accounts receivable c...
+- [Unit21: GRC Associate (Contract)](https://himalayas.app/companies/unit21/jobs/grc-associate-contract)  
+  Himalayas | posted Nov 12 21:26 UTC | score 3 | **USD 50 to 65/hourly** | automation, saas, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > This is a remote position.About the Role: We're looking for a part-time GRC Associate to do the day-to-day work of our governance, risk and compliance program. You'll own the deliverables: audit evidence, security questionnaire responses, the compliance calendar, and vendor reviews. You'll partner closely with our security engineers, Sales and Solutions Engineering. The Head of Security owns program strategy, risk decisions and policy sign-off.What you'll doAudit readiness (SOC 2 Type II, PCI DSS) Run day-to-day work in Drata: map controls, connect integrations, close gaps, and keep evidenc...
 - [Lemon.io: Senior Magento Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer)  
   We Work Remotely | posted Nov 11 16:41 UTC | score 13 | react native, automation, javascript, typescript, ai agent, firebase
   Fit: 19 | explicit hiring intent
@@ -103,11 +85,6 @@ Updated 2026-11-13 02:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone)
   > Role Title: Life Sciences Research Expert (Python) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Python Biology Medicine Materials Neuroscience Astronomy In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.A...
-- [goCloudOffice: Outsourced Bookkeeping Services — QuickBooks Online](https://himalayas.app/companies/gocloudoffice/jobs/outsourced-bookkeeping-services-quickbooks-online)  
-  Himalayas | posted Nov 10 04:47 UTC | score 7 | anthropic, chatgpt, claude, gemini, stripe, saas
-  Fit: 9 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Request for qualifications from independent bookkeeping practices.About goCloudOffice® goCloudOffice® is a modern, AI-driven IT consulting company. Founded in 2003 and based in Silicon Valley, we serve customers nationwide across the United States. Our customers are small businesses of 5 to 50 people, in industries that include biotechnology, law and professional services. They own their business applications, and we run their IT with senior engineering judgment and AI-augmented support that has been in daily production since summer 2024.The engagement Engagement: outsourced bookkeeping ser...
 - [Aretum: Senior Web Developer/Technical Lead - Contingent](https://himalayas.app/companies/aretum/jobs/senior-web-developer-technical-lead-contingent)  
   Himalayas | posted Nov 11 18:23 UTC | score 4 | **USD 130000 to 150000/annual** | javascript, problem: website build
   Fit: 7 | website build; explicit hiring intent; budget stated, verify scope and currency
