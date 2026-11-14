@@ -17,9 +17,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 31,
+      "priority": 25,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -32,6 +31,40 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698?utm_source=api",
       "expires": "2027-01-13T10:48:36+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer",
+      "source": "We Work Remotely",
+      "title": "D2B: Technical Support Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer",
+      "posted": "2026-11-14T17:00:56+00:00",
+      "body": "Headquarters: South Africa\nURL: https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b\nPosition: Technical Support Engineer\nSalary: 25,000 ZAR to 32,000 ZAR \nWorking Hours: Aligned with UK Business Hours\nWork Type: Independent Contractor\nABOUT THE COMPANY: \nOur company isn't just scaling; we're redefining human risk and secure behaviour management in cybersecurity. Trusted by leading global enterprises including Vodafone, Merck, Arriva, and Hershey, we reduce human cyber risk through AI-driven automation, with Agentic AI expanding our capabilities even further.\nIn this company, support is where the product meets reality. Every ticket represents a customer telling us something true about the platform—and every issue is either something we repeatedly answer, or a problem we solve once and eliminate at the source. We view support as an integral extension of product engineering, not a downstream cost centre.\nROLE OVERVIEW:\nWe are seeking a high-calibre Technical Support Engineer to take full ownership of our tier-2/tier-3 technical customer support function. This is a technical, investigative engagement—not a script-reading helpdesk.\nOperating as an independent contractor based in South Africa, you will manage customer issues end to end: diagnosing logs and error records, reproducing complex platform issues in dedicated test tenants, handing fully documented, reproduction-ready defect packages to the Product Lead, and actively closing the loop by removing recurring root causes from our product, documentation, or onboarding flows.\nYou will inherit a high-discipline, high-efficiency operational setup powered by modern observability, AI acceleration, and proactive tenant-level monitoring.\nRESPONSIBILITIES:End-to-End Case Resolution\nManage the inbound queue via Intercom, triaging by severity and business impact, meeting strict SLAs, and proactively setting clear expectations for next updates.\nConduct deep diagnostic investigations before reaching out to customers: analyze error/event records, audit logs, browser console outputs, network traces, API request/response payloads, mail flow, and multi-tenant configurations.\nReproduce issues in staging/test tenants. If an issue is elusive, correlate system data across tenant IDs, timestamps, and user telemetry to isolate the failure state.\nPackage and escalate verified defects directly to the Product Lead. Every escalation must contain reproduction steps, tenant/user IDs, UTC timestamps, relevant log excerpts, and ruled-out variables to allow immediate engineering action without rework.\nMaintain complete ownership of the customer communication loop during escalation cycles, verifying hotfixes against your original reproduction steps prior to closing cases.\nMonitor proactive health alerts across tenant accounts (e.g., in Sentry), identifying failures before customers do and initiating contact with pre-empted fixes.\nTrack bi-weekly release cycles: review release notes on deployment day, validate altered functionality in sandbox environments, and resolve pending customer cases impacted by updates.Root-Cause Elimination & Product Evolution\nClassify every resolved ticket by verified root cause: product defect, documentation gap, UX friction, environmental configuration, feature limitation, or edge-case anomaly.\nConduct root-cause analysis on repeating issue categories to identify architectural, operational, or instructional fixes.\nDirectly author and maintain Help Centre articles, implementation guides, and troubleshooting documentation to drive customer self-service.\nSurface UX friction points to the Product Lead backed by empirical evidence (user journeys, reproduction paths, screenshots, and aggregate impact metrics).\nReport on support metrics using empirical data: ticket volumes categorized by cause, trend trajectories, and high-impact preventative targets.\nLeverage approved AI acceleration tools (e.g., Claude, ChatGPT, Cursor) responsibly to speed up technical research, verifying all outputs against source data prior to customer transmission.\n3+ years of technical support, application support, product support, or customer-facing engineering experience dedicated to a multi-tenant B2B SaaS platform.\nProven track record supporting technical B2B enterprise buyers, such as CISOs, IT Directors, SOC teams, security engineers, or system administrators.\nDemonstrated competency diagnosing multi-tenant architectures, recognizing tenant-specific misconfigurations versus global system incidents.\nStrong working knowledge of web technologies: browser developer tools, HTTP status codes, REST APIs, JSON payloads, and log analysis.\nDemonstrated history of systemic root-cause resolution (e.g., authored documentation that deflected ticket volume, initiated a UX change, or caught critical bugs).\nHands-on experience with modern support and service platforms (Intercom preferred; or Zendesk, Freshdesk, HubSpot Service Hub, Front).\nFlawless written and verbal English communication skills, with the ability to convey technical diagnostics plainly and confidently under pressure.\nProven self-directed problem-solving ability, with an aptitude for learning complex platform capabilities directly from architecture docs.\nFully equipped home office environment in South Africa, including high-speed fibre internet, dedicated backup power (UPS/inverter) for load-shedding resilience, and quality AV peripherals.\nPREFERRED:\nDomain exposure to cybersecurity, secure email gateways, or human risk management platforms (e.g., KnowBe4, Proofpoint, Mimecast, Hoxhunt, Abnormal).\nWorking familiarity with enterprise mail flow systems: Microsoft 365 / Google Workspace administration, including SPF, DKIM, and DMARC record handling.\nFamiliarity with identity architecture and directory integrations: SSO, SAML, OIDC, SCIM, Active Directory, or Entra ID (Azure AD).\nPractical ability to write and execute read-only SQL queries.\nExposure to modern web/cloud stacks (e.g., Cloudflare, Nuxt, Vue, PostgreSQL, Sentry).\nWorking knowledge of enterprise compliance standards (ISO 27001, SOC 2, UK GDPR) in a data-handling capacity.\nActive Intercom certification (or commitment to achieve certification within 90 days of engagement).\nWhat You’ll Bring:\nInvestigation-First Mindset: A refusal to guess or relay unverified theories. You look at logs, inspect configurations, reproduce the scenario, and present verified data.\nCustomer Empathy Without the Runaround: You never send the customer a boilerplate troubleshooting checklist for information you could pull from internal logs yourself.\nAccountability & Integrity: You set expectations accurately (e.g., \"I am investigating this log sequence and will update you by 14:00\"), communicate transparently, and follow through predictably.\nCalm, Consultative Demeanor: Composure and clarity when de-escalating frustrated enterprise customers.\nProduct-Minded Curiosity: An instinct to treat every resolved ticket as product feedback, asking why the problem existed and advocating for fixes that eliminate the issue permanently.\nTo apply: https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer",
+      "budget": null,
+      "score": 6,
+      "matched": [
+        "automation",
+        "postgresql",
+        "chatgpt",
+        "claude",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 24,
+      "reasons": [
+        "posted within 6 hours"
+      ],
+      "flags": [
+        "budget unknown"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -51,9 +84,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -87,9 +119,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 28,
+      "priority": 22,
       "reasons": [
-        "posted within 6 hours",
         "budget stated, verify scope and currency"
       ],
       "flags": [
@@ -117,10 +148,9 @@
         "problem: API connection"
       ],
       "queue": "contract",
-      "priority": 27,
+      "priority": 21,
       "reasons": [
         "API connection",
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -151,9 +181,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 27,
+      "priority": 21,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -166,165 +195,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/punchcut/jobs/design-engineer-contract-mid-level?utm_source=api",
       "expires": "2027-01-13T09:30:34+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
-      "source": "Himalayas",
-      "title": "YO AI Labs: 在宅ビデオ撮影スタッフ（日本）",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
-      "posted": "2026-11-14T11:43:11+00:00",
-      "body": "Job Description: Frontend / UI Engineer\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Frontend / UI Engineers to create and evaluate challenging coding tasks based on visual references such as screenshots, UI mockups, diagrams, and screen recordings. You will use your frontend development expertise to design tasks with clear requirements, measurable success criteria, and working reference implementations.Key Responsibilities\nDesign multi-step coding tasks based on screenshots, UI mockups, diagrams, and screen recordings of real workflows.\nDefine the code, files, and artifacts involved in each task, along with the expected functionality and behavior.\nEstablish objective success criteria to ensure tasks can be accurately verified and evaluated.\nDevelop working reference implementations demonstrating the expected results.\nReview tasks created by other contributors for technical accuracy, clarity, and verifiability.\nIdentify and flag ambiguous or ungradable tasks rather than submitting unclear requirements.\nRequired Qualifications\nA public GitHub profile demonstrating substantial and verifiable contributions, such as commits, merged pull requests, or maintained repositories. This is essential.\nStrong frontend development experience with React, TypeScript, or similar technologies.\nExperience building and delivering complex user interfaces and interactive applications.\nAbility to read, modify, debug, and validate real application code.\nStrong written English communication skills.\nAbility to explain expected application behavior and provide clear, reproducible verification steps.\nPreferred Qualifications\nExperience with UI development, graphics, SVG, or Canvas.\nProduct or UI design experience combined with hands-on frontend implementation and public code contributions.\nPrevious experience in data labeling, AI evaluation, or rubric-based technical review.\nOriginally posted on Himalayas",
-      "budget": "USD 35 to 100/hourly",
-      "score": 4,
-      "matched": [
-        "typescript",
-        "react",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 24,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502?utm_source=api",
-      "expires": "2027-01-13T11:43:11+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Computational Chemistry, Structural Biology & Drug Discovery Scientist   - Remot",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
-      "posted": "2026-11-14T09:28:09+00:00",
-      "body": "Job Description: Clinical, Microbiome & Translational Research Scientist (PhD)\nRole Type: Contractor\nLocation: Remote (Worldwide)About the Role\nWe are seeking PhD-level experts in clinical research, microbiome science, and translational bioinformatics to contribute their scientific expertise to the development and evaluation of next-generation AI systems.\nIn this role, you will create advanced scientific problems, evaluate AI-generated responses, and assess the accuracy, rigor, and depth of scientific reasoning. Your contributions will help ensure that AI systems deliver reliable, evidence-based insights across microbiome research, clinical bioinformatics, and translational life sciences.Key Responsibilities\nDesign and develop challenging, expert-level scientific problems in microbiome research, metagenomics, clinical bioinformatics, and related life sciences, with clear and verifiable solutions.\nReview and evaluate AI-generated outputs for scientific accuracy, methodological rigor, and depth of reasoning.\nIdentify subtle scientific errors, unsupported conclusions, and methodological limitations.\nDevelop detailed evaluation rubrics and reference answers grounded in primary literature and established research methodologies.\nApply domain expertise in areas such as 16S and shotgun metagenomics, virome and host-microbiome analysis, biomarker discovery, clinical genomics, and omics-driven precision medicine.\nProvide clear, detailed written explanations of scientific reasoning to support expert review and validation.\nMaintain high-quality standards through iterative feedback, revisions, and peer review.\nRequired Qualifications\nPhD in Microbiology, Bioinformatics, Computational Biology, Biomedical Sciences, Immunology, Epidemiology, or a closely related field.\nHands-on research experience in an academic or industry laboratory. Wet lab experience is an advantage.\nProfessional written and spoken English proficiency (C1 level or higher).\nPreferred Skills and Qualifications\nPostdoctoral or industry research experience in microbiome, clinical, or translational research.\nPeer-reviewed publications, preferably as a first author in relevant scientific journals.\nExperience with microbiome analysis tools such as QIIME2, Kraken2, MetaPhlAn, HUMAnN, MAG assembly and binning, or virome analysis tools.\nClinical and translational research experience involving TCGA, UK Biobank, biomarker discovery, survival analysis, electronic health record (EHR) and omics integration, or oncology and immunology genomics.\nStrong knowledge of statistics and machine learning methods for high-dimensional biological data.\nProgramming proficiency in Python and/or R, with familiarity with Bash and workflow management tools.\nExperience reviewing, benchmarking, or developing scientific content.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 90/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 24,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot?utm_source=api",
-      "expires": "2027-01-13T09:28:08+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation",
-      "source": "Himalayas",
-      "title": "Padmore Global Connections LLC: System Administrator Automation",
-      "url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation",
-      "posted": "2026-11-14T09:49:47+00:00",
-      "body": "Title/Role: GA DHS System Administrator Automation (756594)\n﻿Worksite Address: 47 Trinity Ave SW. Atlanta, GA 30334\n﻿Agency Interview Type: Web Cam Interview Only\n﻿Work Arrangement: Remote \n﻿Engagement Type: Contract\n﻿NOTE: All applications with PDF Format resumes will be automaticaly rejected. Only Word format resumes will be considered.﻿\nShort Description:\nThe Georgia Department of Human Services (DHS), Office of Information Technology is seeking candidates for the temporary contractor position of System Administrator Automation in Atlanta, Georgia.\nComplete Description:We are looking for an experienced System Administrator Automation with expertise in Ansible, GitHub, LoadRunner, and LeapWork to join our team. This role will focus on managing and optimizing automation and testing tools, ensuring streamlined integration across development, testing, and operations teams. The ideal candidate will play a key role in automating processes, managing version control, and driving the performance of automation and testing tools.Key Responsibilities \n· Configure and manage tools such as Ansible, Leapwork, LoadRunner, Github leveraged by Infrastructure and Application team\n Develop, maintain, and optimize Ansible playbooks and roles for automating IT infrastructure and application deployments.\n Collaborate with DevOps and IT teams to automate configuration management, software deployments, and cloud provisioning. Troubleshoot, debug, and enhance Ansible playbooks for performance and reliability.\n Manage GitHub repositories, ensuring best practices for version control, collaboration, and pull request workflows.\n Implement access controls, branch protection, and security policies to maintain repository integrity.\n Integrate GitHub with CI/CD tools to automate code deployment and testing.\n Configure, monitor, and maintain LoadRunner environments for performance and load testing.\n Develop and execute LoadRunner test scripts to ensure application scalability and reliability.\n Analyze LoadRunner test results to identify bottlenecks and recommend performance improvements.\n Collaborate with development teams to design and implement performance testing strategies using LoadRunner and Leapwork.\n Integrate Ansible, GitHub, LoadRunner, and LeapWork with other tools to create efficient end-to-end automation pipelines.\n Provide ongoing support for all tools, ensuring smooth operation and resolving issues that arise within the automation and testing environments.\n Create and maintain reports and dashboards to track automation progress, test results, and performance metrics.\n· Stay updated with the latest developments in the tools and technologies to recommend and implement improvements\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "automation",
-        "automate"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation?utm_source=api",
-      "expires": "2027-01-13T09:49:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Bioinformatics Scientist - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote",
-      "posted": "2026-11-14T08:20:46+00:00",
-      "body": "Job Description: Bioinformatics Scientist\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Bioinformatics Scientists to contribute their specialized expertise to an innovative project focused on advancing AI systems.\nIn this role, you will apply your knowledge of bioinformatics, computational biology, and medicinal chemistry to analyze complex scientific datasets, support AI model development, and evaluate AI-generated outputs. Your contributions will help improve the accuracy, reliability, and scientific reasoning capabilities of next-generation AI systems.\nPrior experience in AI is not required; relevant scientific and technical expertise is what matters.Key Responsibilities\nAnalyze complex medicinal chemistry datasets using advanced bioinformatics methodologies.\nProvide scientific insights and high-quality content to support AI model development and training.\nCurate, annotate, and validate datasets related to drug discovery and molecular analysis.\nAnalyze and interpret findings from biological, chemical, and clinical data sources.\nProvide subject matter expertise on experimental design and data interpretation in medicinal chemistry.\nEvaluate AI-generated outputs for scientific accuracy, relevance, and reliability.\nDeliver detailed written feedback and actionable recommendations to improve AI model performance.\nPreferred Qualifications\nAdvanced degree (MSc or PhD) in Bioinformatics, Computational Biology, Medicinal Chemistry, or a related discipline.\nStrong understanding of medicinal chemistry concepts, including structure-activity relationships (SAR) and drug design principles.\nDemonstrated experience handling and interpreting large-scale omics or cheminformatics datasets.\nFamiliarity with bioinformatics tools, databases, and programming languages such as Python, R, RDKit, and KNIME.\nExcellent scientific communication skills, with the ability to explain complex technical concepts clearly.\nProven experience contributing to research projects at the intersection of biology, chemistry, and data science.\nExperience working in multidisciplinary or remote project environments is an advantage.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 90/hourly",
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 22,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote?utm_source=api",
-      "expires": "2027-01-13T08:20:45+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
-      "source": "We Work Remotely",
-      "title": "Crazy Maple Studio: AI-Assisted Story Writer (1099 Contract)",
-      "url": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
-      "posted": "2026-11-13T15:58:18+00:00",
-      "body": "Headquarters: Culver City, California, United States\nURL: https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio\nCrazy Maple Studio is a fast-growing company based in the Bay Area and Los Angeles, focusing on mobile gaming, reading, and streaming. We are proud to have a global team that drives our innovation and success across diverse markets.\nOur flagship platform, ReelShort, is the #1 vertical streaming app in the U.S., with over 8 million DAU, delivering bite-sized episodic content that keeps viewers hooked. Other standout products include Chapters, where users shape immersive stories across drama, fantasy, and romance, and My Fiction, a platform for consuming and creating serialized romance.\nWe’re proud to be recognized as one of the Global Most Loved Workplaces 2025, reflecting our commitment to innovation, creativity, and an employee-first culture.\nPosition Overview:\nAs an AI-Assisted Story Writer, you will create short, high-hook, pay-per-chapter stories for mobile readers, working hand in hand with external AI and our in-house AI story system. Our system guides every story through a proven pipeline; your job is to steer that process with strong editorial judgment, push every story past \"good enough,\" and turn out titles that readers pay to finish.\nThis is an ROI-driven role. Every story you deliver goes into live testing, and its results (ad performance, reader conversion past the paywall, and return on ad spend) are the main measure of your success. \nThe ideal candidate is a commercial storyteller first: someone who instinctively understands hooks, cliffhangers, revenge payoffs, romance tension, and why a reader taps \"unlock\" on the next chapter. You are comfortable using AI as a creative partner, you know when to trust it and when to override it, and you are energized rather than intimidated by data.\nKey Responsibilities:\nUse AI story system to write complete short stories of roughly 20,000 words, from title and logline through final chapter, delivered on schedule.\nDevelop stories from a wide range of source material, including one-line ideas, trending topics, web novels, user-generated content, and existing hit stories.\nApprove story direction at each checkpoint: genre track, core reader expectation, paywall placement, and chapter-by-chapter emotional pacing.\nEdit and polish AI drafts so the final prose is vivid, emotionally specific, consistent in voice, and free of generic or repetitive AI patterns.\nWrite high-impact titles, loglines, opening hooks, and paywall moments designed to drive ad clicks and reader conversion.\nReview testing results for every story you deliver, utilize retest reports to diagnose what underperformed, and revise promising stories that fall short of targets.\nTrack your own story performance and apply what you learn to each new title.\nStay current on trending tropes, hit stories, and reader tastes across short fiction, web novels, and short-form video drama, and bring new story ideas to the team.\nHow Success Is Measured:\nTest pass rate: the share of your stories that meet or beat performance benchmarks in live testing.\nReturn on ad spend (ROAS): how efficiently your stories turn marketing spend into reader revenue.\nReader conversion: how well your opening and paywall turn readers into paying readers.\nOutput and turnaround: consistently delivering finished, test-ready stories on schedule.\nRevision impact: how much your rewrites improve the results of underperforming stories.\nMinimum of 2 years of writing experience in commercial fiction, such as serialized fiction, web novels, Wattpad, Kindle Vella, romance publishing, short drama scripts, or a similar medium.\nA portfolio that shows strong commercial instincts: fast-paced plotting, emotional payoffs, and hooks that keep readers turning pages.\nStrong command of romance, revenge, family drama, and suspense, including popular tropes and what readers expect from them.\nHands-on experience using AI writing tools (ChatGPT, Claude, or similar) in a real writing workflow. \nExcellent editing skills and the judgment to spot and fix flat, clichéd, or illogical AI output.\nComfort with a results-driven environment where performance data shapes priorities and compensation.\nAbility to read and act on basic performance metrics (click-through rate, conversion, ROAS).\nComfortable writing young adult and adult romance and drama, which may include sensitive and triggering content.\nNative or near-native English writing ability for English-speaking Western readers.\nStrong attention to detail, self-direction, and the ability to manage multiple stories at once under deadline.\nFlexibility to work across different time zones and communicate clearly in a remote team.\nEagerness to learn and thrive in a fast-paced startup environment.\nNice to Have:\nExperience writing for pay-per-chapter apps or short-form video drama platforms.\nA track record of stories or titles with measurable commercial results (reads, rankings, sales, or conversion).\nExperience writing ad copy, hooks, or marketing content for fiction.\nBachelor's degree in Creative Writing, English, Journalism, Film, or a related field.\nCompensation: $3,000. This is an independent contractor (1099) position with an initial one-month term. \nCrazy Maple Studio, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.\nTo apply: https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
-      "budget": "$3,000",
-      "score": 5,
-      "matched": [
-        "workflow",
-        "chatgpt",
-        "claude",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 20,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -363,77 +233,95 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "source": "We Work Remotely",
-      "title": "Lemon.io: Senior Magento Developer",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "posted": "2026-11-11T16:41:48+00:00",
-      "body": "Headquarters: New York, NY\nURL: https://lemon.io\nLemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us.\nNew roles for Senior Magento Engineers come in all the time, and several are open right now.\nTwo ways to work with clients\nContract: most roles are contract-based. You join the client’s team and work as part of it.\nDirect hire: some clients hire engineers full-time, and we support you through the process.\nBecause companies trust our vetting, applying through Lemon.io is often a shortcut. You get to the client faster than going through their full hiring process on your own.\nWhat you get\nCompetitive rate, based on your seniority and skills\nWe find the projects. No client hunting or rate negotiations. We match you manually based on your skills and preferences.\nFlexible schedule. Work async or with a small overlap with the team’s hours.\nNo micromanagement, no screen trackers\nDirect work with clients, most of them with technical backgrounds\nOngoing support from your application through every project, plus a community of engineers from 75+ countries\nWho we’re looking for\nSenior Magento Developer with:\n3+ years of commercial experience with Magento/Adobe Creative Suite\n3+ years of commercial experience with PHP\nYou own problems end-to-end: you spot the issue, design and build the solution, and ship it to production\nYou can show the business impact of your work with concrete results (e.g., faster processing, lower costs, more users, fewer incidents)\nAdvanced English: you discuss business tasks, explain your decisions, raise issues early, and present yourself and your results well on client calls\nYou work full-time remotely and deliver without supervision\nYou onboard quickly and start shipping in your first weeks\nHow it works\nApply and complete your profile\nVerify your role\nOnce approved, we match you with a project. Typical time to first project: 3 weeks\nReady? Apply and join the Lemon.io community.\nNOT YOUR TECH STACK?\nWe're placing Senior Developers (4+ yrs commercial experience) across AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, Enterprise Software Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter & Firebase, Solutions Engineer, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Angular, Python & Node, React & Node.js, Node & TypeScript, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering and more. Reach out and we'll match you.\nWe do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.\nWe work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, Saudi Arabia, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).\nTo apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-magento-developer",
-      "budget": null,
-      "score": 13,
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
+      "source": "Himalayas",
+      "title": "YO AI Labs: 在宅ビデオ撮影スタッフ（日本）",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
+      "posted": "2026-11-14T11:43:11+00:00",
+      "body": "Job Description: Frontend / UI Engineer\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Frontend / UI Engineers to create and evaluate challenging coding tasks based on visual references such as screenshots, UI mockups, diagrams, and screen recordings. You will use your frontend development expertise to design tasks with clear requirements, measurable success criteria, and working reference implementations.Key Responsibilities\nDesign multi-step coding tasks based on screenshots, UI mockups, diagrams, and screen recordings of real workflows.\nDefine the code, files, and artifacts involved in each task, along with the expected functionality and behavior.\nEstablish objective success criteria to ensure tasks can be accurately verified and evaluated.\nDevelop working reference implementations demonstrating the expected results.\nReview tasks created by other contributors for technical accuracy, clarity, and verifiability.\nIdentify and flag ambiguous or ungradable tasks rather than submitting unclear requirements.\nRequired Qualifications\nA public GitHub profile demonstrating substantial and verifiable contributions, such as commits, merged pull requests, or maintained repositories. This is essential.\nStrong frontend development experience with React, TypeScript, or similar technologies.\nExperience building and delivering complex user interfaces and interactive applications.\nAbility to read, modify, debug, and validate real application code.\nStrong written English communication skills.\nAbility to explain expected application behavior and provide clear, reproducible verification steps.\nPreferred Qualifications\nExperience with UI development, graphics, SVG, or Canvas.\nProduct or UI design experience combined with hands-on frontend implementation and public code contributions.\nPrevious experience in data labeling, AI evaluation, or rubric-based technical review.\nOriginally posted on Himalayas",
+      "budget": "USD 35 to 100/hourly",
+      "score": 4,
       "matched": [
-        "react native",
-        "automation",
-        "javascript",
         "typescript",
-        "ai agent",
-        "firebase",
-        "next.js",
-        "node.js",
-        "python",
         "react",
-        "node",
-        "llm",
         "ai"
       ],
       "queue": "contract",
-      "priority": 19,
+      "priority": 18,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502?utm_source=api",
+      "expires": "2027-01-13T11:43:11+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Computational Chemistry, Structural Biology & Drug Discovery Scientist   - Remot",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
+      "posted": "2026-11-14T09:28:09+00:00",
+      "body": "Job Description: Clinical, Microbiome & Translational Research Scientist (PhD)\nRole Type: Contractor\nLocation: Remote (Worldwide)About the Role\nWe are seeking PhD-level experts in clinical research, microbiome science, and translational bioinformatics to contribute their scientific expertise to the development and evaluation of next-generation AI systems.\nIn this role, you will create advanced scientific problems, evaluate AI-generated responses, and assess the accuracy, rigor, and depth of scientific reasoning. Your contributions will help ensure that AI systems deliver reliable, evidence-based insights across microbiome research, clinical bioinformatics, and translational life sciences.Key Responsibilities\nDesign and develop challenging, expert-level scientific problems in microbiome research, metagenomics, clinical bioinformatics, and related life sciences, with clear and verifiable solutions.\nReview and evaluate AI-generated outputs for scientific accuracy, methodological rigor, and depth of reasoning.\nIdentify subtle scientific errors, unsupported conclusions, and methodological limitations.\nDevelop detailed evaluation rubrics and reference answers grounded in primary literature and established research methodologies.\nApply domain expertise in areas such as 16S and shotgun metagenomics, virome and host-microbiome analysis, biomarker discovery, clinical genomics, and omics-driven precision medicine.\nProvide clear, detailed written explanations of scientific reasoning to support expert review and validation.\nMaintain high-quality standards through iterative feedback, revisions, and peer review.\nRequired Qualifications\nPhD in Microbiology, Bioinformatics, Computational Biology, Biomedical Sciences, Immunology, Epidemiology, or a closely related field.\nHands-on research experience in an academic or industry laboratory. Wet lab experience is an advantage.\nProfessional written and spoken English proficiency (C1 level or higher).\nPreferred Skills and Qualifications\nPostdoctoral or industry research experience in microbiome, clinical, or translational research.\nPeer-reviewed publications, preferably as a first author in relevant scientific journals.\nExperience with microbiome analysis tools such as QIIME2, Kraken2, MetaPhlAn, HUMAnN, MAG assembly and binning, or virome analysis tools.\nClinical and translational research experience involving TCGA, UK Biobank, biomarker discovery, survival analysis, electronic health record (EHR) and omics integration, or oncology and immunology genomics.\nStrong knowledge of statistics and machine learning methods for high-dimensional biological data.\nProgramming proficiency in Python and/or R, with familiarity with Bash and workflow management tools.\nExperience reviewing, benchmarking, or developing scientific content.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 90/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 18,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot?utm_source=api",
+      "expires": "2027-01-13T09:28:08+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation",
+      "source": "Himalayas",
+      "title": "Padmore Global Connections LLC: System Administrator Automation",
+      "url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation",
+      "posted": "2026-11-14T09:49:47+00:00",
+      "body": "Title/Role: GA DHS System Administrator Automation (756594)\n﻿Worksite Address: 47 Trinity Ave SW. Atlanta, GA 30334\n﻿Agency Interview Type: Web Cam Interview Only\n﻿Work Arrangement: Remote \n﻿Engagement Type: Contract\n﻿NOTE: All applications with PDF Format resumes will be automaticaly rejected. Only Word format resumes will be considered.﻿\nShort Description:\nThe Georgia Department of Human Services (DHS), Office of Information Technology is seeking candidates for the temporary contractor position of System Administrator Automation in Atlanta, Georgia.\nComplete Description:We are looking for an experienced System Administrator Automation with expertise in Ansible, GitHub, LoadRunner, and LeapWork to join our team. This role will focus on managing and optimizing automation and testing tools, ensuring streamlined integration across development, testing, and operations teams. The ideal candidate will play a key role in automating processes, managing version control, and driving the performance of automation and testing tools.Key Responsibilities \n· Configure and manage tools such as Ansible, Leapwork, LoadRunner, Github leveraged by Infrastructure and Application team\n Develop, maintain, and optimize Ansible playbooks and roles for automating IT infrastructure and application deployments.\n Collaborate with DevOps and IT teams to automate configuration management, software deployments, and cloud provisioning. Troubleshoot, debug, and enhance Ansible playbooks for performance and reliability.\n Manage GitHub repositories, ensuring best practices for version control, collaboration, and pull request workflows.\n Implement access controls, branch protection, and security policies to maintain repository integrity.\n Integrate GitHub with CI/CD tools to automate code deployment and testing.\n Configure, monitor, and maintain LoadRunner environments for performance and load testing.\n Develop and execute LoadRunner test scripts to ensure application scalability and reliability.\n Analyze LoadRunner test results to identify bottlenecks and recommend performance improvements.\n Collaborate with development teams to design and implement performance testing strategies using LoadRunner and Leapwork.\n Integrate Ansible, GitHub, LoadRunner, and LeapWork with other tools to create efficient end-to-end automation pipelines.\n Provide ongoing support for all tools, ensuring smooth operation and resolving issues that arise within the automation and testing environments.\n Create and maintain reports and dashboards to track automation progress, test results, and performance metrics.\n· Stay updated with the latest developments in the tools and technologies to recommend and implement improvements\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "automation",
+        "automate"
+      ],
+      "queue": "contract",
+      "priority": 17,
       "reasons": [
         "explicit hiring intent"
       ],
       "flags": [
         "budget unknown",
-        "seniority requirement needs review"
+        "check eligibility: United States"
       ],
       "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: 🌎 AI Trainer (SWE), Remote- Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract",
-      "posted": "2026-11-11T15:23:33+00:00",
-      "body": "Role Title: AI Trainer (SWE)\nLocation: Global, fully remote\nJob Type: Contract\nTime Commitment: 15+ hours per week\nSchedule: FlexibleRequired Skills:\nSoftware Engineering\nAI training\nYou will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On:\nCreate realistic software engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, tests, and evaluation criteria.\nEvaluate model-generated code and technical deliverables for correctness, robustness, and completeness.\nIdentify issues involving implementation, debugging, dependencies, performance, testing, or reproducibility.\nRequired Qualifications:\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nProfessional experience with at least one additional programming language, such as Java, JavaScript, TypeScript, Rust, C++, C#, or Go.\nStrong knowledge of software design, debugging, testing, version control, and dependency management.\nPublic Proof of Skill:\nStrong applicants should provide evidence such as:\nSubstantial GitHub or GitLab repositories\nMeaningful open-source contributions\nMaintainer or core-contributor responsibilities\nCodeforces, ICPC, Olympiad, or other programming-competition results\nPublic developer tools, libraries, systems, or technical projects\nTechnical publications, benchmarks, or engineering write-ups\nPreferred Qualifications:\nExperience creating AI-training tasks, reference solutions, tests, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nCodeforces rating of approximately 1900 or higher, or strong results in another programming competition.\nExperience with Linux, Docker, CI/CD, command-line tools, or sandboxed environments.\nPrior experience with long-horizon or agentic coding evaluations.\nAvailability to begin immediately.\nApplication Process:\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation:\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 5,
-      "matched": [
-        "javascript",
-        "typescript",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
+      "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract?utm_source=api",
-      "expires": "2027-01-10T15:23:32+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation?utm_source=api",
+      "expires": "2027-01-13T09:49:46+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -537,35 +425,32 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371",
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote",
       "source": "Himalayas",
-      "title": "micro1: Software Engineer -  Open Source Contributions",
-      "url": "https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371",
-      "posted": "2026-11-11T15:32:37+00:00",
-      "body": "Role Title: Software Engineer — Open Source ContributionsRole Type: ContractorLocation: Remote\nmicro1 is engaging Software Engineer — Open Source Contributions experts to participate in an impactful customer project focused on high-quality, open source software development. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work\nDevelop, implement, and refine new features within existing open source codebases using Python3, Java, Rust, C++, and Typescript.\nAnalyze and resolve complex bugs, ensuring robust and maintainable solutions that align with project standards.\nRefactor and optimize legacy code to enhance performance, readability, and scalability.\nContribute to code validation processes, focusing on accuracy, output consistency, and best coding practices.\nUtilize advanced algorithms and competitive programming techniques to conceptualize and deliver efficient solutions for intricate problems.\nCollaborate remotely with other contributors to review proposed changes and maintain project documentation.\nDeliver clear, concise technical write-ups to articulate solution design and implementation details.\nPreferred Qualifications\nExpert-level proficiency in at least two of the following: Python, C++, Java, Rust, Typescript, Go, or C#.\nExtensive experience in open source contributions, particularly in feature development, bug fixing, and codebase refactoring.\nDemonstrated expertise in competitive programming and complex coding problem analysis.\nStrong analytical skills to interpret multifaceted problem constraints and identify multiple solution pathways.\nExceptional written and verbal communication skills for clear, precise technical documentation and peer collaboration.\nMeticulous attention to detail in code review, validation, and maintenance.\nComfort working independently in a remote, collaborative environment with a commitment to producing high-quality, well-documented code under project deadlines.\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 100/hourly",
-      "score": 4,
+      "title": "YO AI Labs: Bioinformatics Scientist - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote",
+      "posted": "2026-11-14T08:20:46+00:00",
+      "body": "Job Description: Bioinformatics Scientist\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Bioinformatics Scientists to contribute their specialized expertise to an innovative project focused on advancing AI systems.\nIn this role, you will apply your knowledge of bioinformatics, computational biology, and medicinal chemistry to analyze complex scientific datasets, support AI model development, and evaluate AI-generated outputs. Your contributions will help improve the accuracy, reliability, and scientific reasoning capabilities of next-generation AI systems.\nPrior experience in AI is not required; relevant scientific and technical expertise is what matters.Key Responsibilities\nAnalyze complex medicinal chemistry datasets using advanced bioinformatics methodologies.\nProvide scientific insights and high-quality content to support AI model development and training.\nCurate, annotate, and validate datasets related to drug discovery and molecular analysis.\nAnalyze and interpret findings from biological, chemical, and clinical data sources.\nProvide subject matter expertise on experimental design and data interpretation in medicinal chemistry.\nEvaluate AI-generated outputs for scientific accuracy, relevance, and reliability.\nDeliver detailed written feedback and actionable recommendations to improve AI model performance.\nPreferred Qualifications\nAdvanced degree (MSc or PhD) in Bioinformatics, Computational Biology, Medicinal Chemistry, or a related discipline.\nStrong understanding of medicinal chemistry concepts, including structure-activity relationships (SAR) and drug design principles.\nDemonstrated experience handling and interpreting large-scale omics or cheminformatics datasets.\nFamiliarity with bioinformatics tools, databases, and programming languages such as Python, R, RDKit, and KNIME.\nExcellent scientific communication skills, with the ability to explain complex technical concepts clearly.\nProven experience contributing to research projects at the intersection of biology, chemistry, and data science.\nExperience working in multidisciplinary or remote project environments is an advantage.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 90/hourly",
+      "score": 3,
       "matched": [
-        "typescript",
-        "workflow",
         "python",
         "ai"
       ],
       "queue": "contract",
-      "priority": 17,
+      "priority": 16,
       "reasons": [
-        "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
-        "check eligibility: Worldwide (check timezone)"
+        "check eligibility: United States"
       ],
       "aliases": [],
-      "location": "Worldwide (check timezone)",
+      "location": "United States",
       "employment_type": "Contractor",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/software-engineer-open-source-contributions-6337154371?utm_source=api",
-      "expires": "2027-01-10T15:32:37+00:00",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote?utm_source=api",
+      "expires": "2027-01-13T08:20:45+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -634,30 +519,27 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50495944",
-      "source": "HN Who is hiring",
-      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote",
-      "url": "https://news.ycombinator.com/item?id=50495944",
-      "posted": "2026-11-14T10:50:31+00:00",
-      "body": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote\nSenior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces.\nRecent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities.\nPortfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon2004@gmail.com",
-      "budget": null,
-      "score": 6,
+      "id": "wwr:https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
+      "source": "We Work Remotely",
+      "title": "Crazy Maple Studio: AI-Assisted Story Writer (1099 Contract)",
+      "url": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
+      "posted": "2026-11-13T15:58:18+00:00",
+      "body": "Headquarters: Culver City, California, United States\nURL: https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio\nCrazy Maple Studio is a fast-growing company based in the Bay Area and Los Angeles, focusing on mobile gaming, reading, and streaming. We are proud to have a global team that drives our innovation and success across diverse markets.\nOur flagship platform, ReelShort, is the #1 vertical streaming app in the U.S., with over 8 million DAU, delivering bite-sized episodic content that keeps viewers hooked. Other standout products include Chapters, where users shape immersive stories across drama, fantasy, and romance, and My Fiction, a platform for consuming and creating serialized romance.\nWe’re proud to be recognized as one of the Global Most Loved Workplaces 2025, reflecting our commitment to innovation, creativity, and an employee-first culture.\nPosition Overview:\nAs an AI-Assisted Story Writer, you will create short, high-hook, pay-per-chapter stories for mobile readers, working hand in hand with external AI and our in-house AI story system. Our system guides every story through a proven pipeline; your job is to steer that process with strong editorial judgment, push every story past \"good enough,\" and turn out titles that readers pay to finish.\nThis is an ROI-driven role. Every story you deliver goes into live testing, and its results (ad performance, reader conversion past the paywall, and return on ad spend) are the main measure of your success. \nThe ideal candidate is a commercial storyteller first: someone who instinctively understands hooks, cliffhangers, revenge payoffs, romance tension, and why a reader taps \"unlock\" on the next chapter. You are comfortable using AI as a creative partner, you know when to trust it and when to override it, and you are energized rather than intimidated by data.\nKey Responsibilities:\nUse AI story system to write complete short stories of roughly 20,000 words, from title and logline through final chapter, delivered on schedule.\nDevelop stories from a wide range of source material, including one-line ideas, trending topics, web novels, user-generated content, and existing hit stories.\nApprove story direction at each checkpoint: genre track, core reader expectation, paywall placement, and chapter-by-chapter emotional pacing.\nEdit and polish AI drafts so the final prose is vivid, emotionally specific, consistent in voice, and free of generic or repetitive AI patterns.\nWrite high-impact titles, loglines, opening hooks, and paywall moments designed to drive ad clicks and reader conversion.\nReview testing results for every story you deliver, utilize retest reports to diagnose what underperformed, and revise promising stories that fall short of targets.\nTrack your own story performance and apply what you learn to each new title.\nStay current on trending tropes, hit stories, and reader tastes across short fiction, web novels, and short-form video drama, and bring new story ideas to the team.\nHow Success Is Measured:\nTest pass rate: the share of your stories that meet or beat performance benchmarks in live testing.\nReturn on ad spend (ROAS): how efficiently your stories turn marketing spend into reader revenue.\nReader conversion: how well your opening and paywall turn readers into paying readers.\nOutput and turnaround: consistently delivering finished, test-ready stories on schedule.\nRevision impact: how much your rewrites improve the results of underperforming stories.\nMinimum of 2 years of writing experience in commercial fiction, such as serialized fiction, web novels, Wattpad, Kindle Vella, romance publishing, short drama scripts, or a similar medium.\nA portfolio that shows strong commercial instincts: fast-paced plotting, emotional payoffs, and hooks that keep readers turning pages.\nStrong command of romance, revenge, family drama, and suspense, including popular tropes and what readers expect from them.\nHands-on experience using AI writing tools (ChatGPT, Claude, or similar) in a real writing workflow. \nExcellent editing skills and the judgment to spot and fix flat, clichéd, or illogical AI output.\nComfort with a results-driven environment where performance data shapes priorities and compensation.\nAbility to read and act on basic performance metrics (click-through rate, conversion, ROAS).\nComfortable writing young adult and adult romance and drama, which may include sensitive and triggering content.\nNative or near-native English writing ability for English-speaking Western readers.\nStrong attention to detail, self-direction, and the ability to manage multiple stories at once under deadline.\nFlexibility to work across different time zones and communicate clearly in a remote team.\nEagerness to learn and thrive in a fast-paced startup environment.\nNice to Have:\nExperience writing for pay-per-chapter apps or short-form video drama platforms.\nA track record of stories or titles with measurable commercial results (reads, rankings, sales, or conversion).\nExperience writing ad copy, hooks, or marketing content for fiction.\nBachelor's degree in Creative Writing, English, Journalism, Film, or a related field.\nCompensation: $3,000. This is an independent contractor (1099) position with an initial one-month term. \nCrazy Maple Studio, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.\nTo apply: https://weworkremotely.com/remote-jobs/crazy-maple-studio-ai-assisted-story-writer-1099-contract",
+      "budget": "$3,000",
+      "score": 5,
       "matched": [
-        "full-stack",
-        "typescript",
-        "next.js",
-        "node",
-        "saas",
+        "workflow",
+        "chatgpt",
+        "claude",
         "ai"
       ],
       "queue": "contract",
       "priority": 14,
       "reasons": [
-        "posted within 6 hours"
+        "budget stated, verify scope and currency"
       ],
       "flags": [
-        "budget unknown",
-        "seniority requirement needs review"
+        "dollar currency unverified"
       ],
       "aliases": [],
       "location": "",
@@ -665,204 +547,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
-      "source": "Himalayas",
-      "title": "Homestead Studio: Retention Specialist",
-      "url": "https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
-      "posted": "2026-11-14T08:17:41+00:00",
-      "body": "Homestead Studio\nWe are an email marketing agency specializing in growing eCommerce brands by creating exciting, engaging, and personalized messaging across email and SMS channels. Our expertise in email and SMS marketing allows our clients to cultivate relationships with potential customers and build lasting relationships with current customers to create lifetime value.\nAbout the role\nWe're hiring a Retention Specialist to own the day-to-day execution and project management of email and SMS programs across a portfolio of e-commerce clients. You'll work in lockstep with the Retention Strategist to keep campaigns and flows moving smoothly from creative development through client approval, implementation, and deployment. You'll have a constant pulse on your entire book of business — knowing where every deliverable stands, what's waiting on the client or internal team, which deadlines are approaching, and what needs to happen next. You'll serve as an operational point of contact for clients, managing assets, previews, approvals, and feedback while coordinating internally to keep work on track. This is a hands-on role. Alongside project ownership, you'll build campaigns, create segments, perform QA, send previews, implement feedback, schedule deployments, and troubleshoot issues. We're looking for someone who thinks ahead, catches risks before they become problems, and takes ownership of getting high-quality work out the door on time. \nResponsibilities\nMaintain a clear pulse on every campaign, flow, deadline, and deliverable across your clients \nKeep projects moving, proactively following up on outstanding assets, approvals, and feedback \nIdentify risks and blockers early and communicate them to the right people\nManage Client & Team Coordination \nServe as an operational point of contact for clients, managing previews, approvals, assets, and updates \nWork closely with Retention Strategists, copywriters, and designers to keep deliverables on track \nKeep project management systems accurate and up to date Execute Campaigns & Flows \nBuild and schedule email and SMS campaigns and flows \nCreate segments, send previews, implement feedback, and manage deployments \nSupport reporting and troubleshoot implementation issues as needed Own Quality & Deadlines \nPerform comprehensive QA before campaigns and flows go live \nVerify links, segmentation, personalization, UTMs, formatting, and scheduling\nEnsure work launches accurately, on time, and to Homestead's quality standards\nQualifications\n 2–5 years of experience in email/SMS, lifecycle marketing, marketing operations, or project management \nHighly organized and comfortable managing multiple clients and deadlines \nStrong client-facing communication skills \nExperience building campaigns, flows, segments, and performing QA\nProactive, detail-oriented, and confident solving problems independently \nComfortable with tools like Asana, Slack, Google Workspace, and lifecycle marketing platforms\nExcited to use AI and automation to work more efficiently\nAdditional Information\nThis is a fully remote role. Candidates must be able to work standard business hours (9:00am–5:00pm) in ET, CT, MT, or PT time zones.\nHomestead Studio is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Homestead is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. \nNote on Application Responses\nWe strongly encourage applicants to answer questions in their own words. While tools like ChatGPT can be helpful for organizing or polishing your thoughts, it is very easy to recognize when responses are copied and pasted without personalization. Candidates who use AI in that way are typically less successful in our process. Please treat your responses as an opportunity to show us how you think and communicate.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "automation",
-        "chatgpt",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 13,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/homestead-studio/jobs/retention-specialist?utm_source=api",
-      "expires": "2027-01-13T08:17:40+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote",
-      "source": "Himalayas",
-      "title": "Advance CNC Machining: CNC Programmer Contract-Remote",
-      "url": "https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote",
-      "posted": "2026-11-11T16:41:36+00:00",
-      "body": "CNC Programmer – Contract - Remote\nAdvance CNC Machining is looking for skilled CNC programmers to write quality CNC programs on a contract, job-by-job basis, working remotely. Expert level experience required.\nCompensation TBD based on an hourly rate or per job.\nYou can work from home in your pajamas in this position! Hour's are extremely flexible as long as you are also available to make adjustments in a timely fashion. We’re just looking for people who we enjoy working with and who can write excellent CNC programs.What You’ll DoYour responsibilities will include:\nCNC programming using Mastercam 2027 for 4-axis and 5-axis horizontal and vertical Makino milling centers with automation\nFixture design, tool selection, setup sheets, and verification\nCollaborating with Production and Quality groups to ensure we produce quality machined parts\nWhat You’ll Bring\nWe’re looking for a CNC Programmer with the aptitude, willingness, and proactivity to excel in a fast-paced and growing manufacturing environment.The skills needed:\nAbility to write excellent CNC programs\nMinimum of five years of Mastercam software experience for 4- and 5-axis CNC milling machines\nMinimum of five years of experience as a CNC Setup Machinist\nExperience with Vericut software is a plus\nReady to Join Us?\nIf you’re ready to bring your CNC programming expertise to our growing team, we’d love to talk. Check us out at Advance CNC Machiningand apply today!\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "automation",
-        "problem: spreadsheet automation"
-      ],
-      "queue": "contract",
-      "priority": 13,
-      "reasons": [
-        "spreadsheet automation",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/advance-cnc-machining/jobs/cnc-programmer-contract-remote?utm_source=api",
-      "expires": "2027-01-10T16:41:35+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote",
-      "source": "Himalayas",
-      "title": "DrHouse, Inc.: Social Media Marketing Manager - Healthcare - Remote",
-      "url": "https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote",
-      "posted": "2026-11-11T16:33:32+00:00",
-      "body": "Social Media Marketing Manager\nDrHouse is a growing U.S. telehealth company seeking a hands-on, highly organized Social Media Marketing Manager to build and own social campaigns that drive awareness, website traffic, new patients, and use of our services.\nYou'll learn our business and audiences, bring campaign ideas, create content, manage engagement, and use performance data to improve results.\nYour performance will be measured on three outcomes: growth, meaningful engagement, and conversion.\nWhat You'll Own\n•Channels: Manage Instagram, Facebook, TikTok, LinkedIn, and YouTube. Create B2B content for LinkedIn and consumer content for the other channels.\n•Campaigns & calendar: Develop social campaigns tied to business priorities, seasonal moments, audience needs, and trends. Build and maintain a rolling 30-day content and campaign calendar.\n•Content creation: Generate ideas and write hooks, captions, and post copy. Create everyday posts in Canva using templates, existing assets, carousels, user-generated content (UGC), and simple short-form video.\n•UGC & creators: Help build our UGC and creator strategy, especially for TikTok and Instagram.\n•Community engagement: Engage actively with relevant accounts, creators, communities, partners, and B2B audiences.\n•Testing & reporting: Test ideas to increase reach, website traffic, and conversion. Track performance weekly, recommend what to scale, change, or stop, and flag top content for paid promotion.\nCreative Support\nYou'll help set our social look and feel, including templates and content formats, and should be able to produce most everyday posts yourself in Canva. For advanced design, animation, or video editing, we may bring in additional creative support. You own the idea, direction, and day-to-day execution.\nHealthcare Context\nYou should understand, or be willing to quickly learn, healthcare marketing rules, including patient privacy (HIPAA), appropriate health claims, and when to escalate content or comments. Some content will need compliance review before publishing.\nWhat We're Looking For\n•Proven experience growing social accounts with results beyond follower counts, and running campaigns from idea to results.\n•Excellent written English and strong social copywriting skills.\n•Strong Canva skills, good visual judgment, and short-form video experience.\n•Highly organized and comfortable reading performance data.\n•Creative, proactive, and able to work independently and with marketing and creative partners.\n•Comfortable using AI tools to work faster, with the judgment to avoid generic, AI-generated content.\n•Healthcare or regulated-industry experience is required.\nSchedule\nRegular overlap with U.S. Central Time (CT) business hours. \nTo Apply\nPlease share a brief introduction and 2 to 3 examples of social content or campaigns you personally helped create.\nBefore your interview, please review DrHouse's website and social channels. Come prepared for a high-level conversation about our current social presence and how you would help us meet our growth and conversion goals. No formal presentation is required.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "ai",
-        "problem: website build"
-      ],
-      "queue": "contract",
-      "priority": 13,
-      "reasons": [
-        "website build",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Part Time",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/drhouse-inc/jobs/social-media-marketing-manager-healthcare-remote?utm_source=api",
-      "expires": "2027-01-10T16:33:31+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
-      "source": "Himalayas",
-      "title": "dentsu international: Manager, Data Modeling and Data Science - Temporary Worker",
-      "url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
-      "posted": "2026-11-14T12:05:02+00:00",
-      "body": "Job Description:Temporary role, W2 statusStart date: ASAP ~4-5 month engagementCandidates must be located in the U.S. \nROLE SUMMARY\nThe Manager, Data Modeling & Data Science will drive strategic business impact through advanced analytics and predictive modeling, serving as a trusted advisor to clients across multiple vertical portfolios. This role combines hands-on technical excellence with strategy —designing sophisticated analytical solutions, owning quality assurance across all deliverables, and mentoring analysts. The Manager will act as the client's analytical partner, translating complex marketing challenges into data-driven strategies that drive measurable business outcomes.\nEnsure timely delivery of data, analytics, and models to support the client’s data licenses, database marketing initiatives, and campaigns;\nDeveloping and/or editing R code, Python code for model builds, scoring and delivery.\nProvide direction and manage the work processes and output of database marketing analysts;\nParticipate in creating relevant solutions for clients by evaluating client needs for quantitative analysis and in developing methods or processes for implementation;\nLeverage knowledge, and hands on work, of data and statistical modeling techniques to provide suggestions or guidance to teams using tools like Snowflake/SQL/Python/R\nProvide hands on building and optimization of clients’ multi-channel campaigns through model building, campaign scoring, and production using tools like Snowflake/SQL/Python/R.\nPerform 3rd party data vendor evaluations for the data product leveraging qualitative and quantitative methods.\nManage project tasks, timelines and deliverables inclusive of model builds, deployment, campaign production activities, like scoring.\nAct as an advisor in the following techniques: Predictive statistical models, Customer profiling, Segmentation Analysis, Campaign Analysis & Scoring, Data Analysis and Mining,\nCo-presenting modeling findings and campaign results to clients,\nWork independently with minimum supervision, and provide guidance to junior team members;\nundefinedExperience: \nPossess core database marketing knowledge such as understanding of company and client data, relational database concepts, and direct marketing concepts;\n5+ years in quantitative marketing/analytics/data science\nAdvanced Experience with Snowflake, SQL, R, Python, AI tools (Claude) logistic regression, linear regression, XGboost machine learning, clustering;\nAdvanced experience using 3rd party data in combination with 1st party data for modeling, scoring, and campaign analytics;\nAbility to explain/present complicated/advanced analytical methodology and results to non-technical audiences;\nAbility to execute advanced analytic tasks (including but not limited to developing/editing modeling code, modeling, segmentation, DOE, forecasting, etc.) and create meaningful analytical outputs;\nAbility to translate analysis insights into actionable recommendations and strategies for marketers; Experience with applying statistical techniques such as regression, cluster analysis, factor analysis, to solve business problems;\nPossess core analytical competencies such as ability to formulate an analytical problem, QC data and results, summarize key findings/insights, make actionable recommendations, and develop new and innovative analytical solutions to solve challenging business problems;\nRequires a Bachelor’s degree or foreign equivalent in Statistics, Math, Economics or related scientific/quantitative field and at least five (5+) years of experience as a Data Analyst or related occupation. Masters+ preferred.\nThe hourly pay range for this position is $65.79 - $87.77. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA - Remote - ColoradoBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
-      "budget": "USD 65.79 to 87.77/hourly",
-      "score": 3,
-      "matched": [
-        "claude",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Temporary",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker?utm_source=api",
-      "expires": "2027-01-13T12:05:01+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
-      "source": "We Work Remotely",
-      "title": "V4C.ai: Databricks QA Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
-      "posted": "2026-11-13T15:58:13+00:00",
-      "body": "Headquarters: United States\nURL: https://jobs.workable.com/company/kb5Wja5n4RGDc2pq5FujAz/jobs-at-v4c.ai\nAbout V4C\nV4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging).\nAs a Databricks QA Engineer on our data engineering team you will own the quality gate for enterprise data platforms, working directly with customers. You will work on live enterprise data platforms alongside one of the most heavily Databricks-certified delivery teams in the market.\nThe Role\nThis is a QA role for people who understand data engineering, not general software QA pointed at a data project. You will validate Lakehouse pipelines, which means reasoning about row counts, schema drift, late-arriving data, and silent transformation errors no UI will ever surface. Our approach is automation-first: suites in Python and PySpark, running in CI, blocking promotion when they fail. You own release sign-off, which makes you the last person between a customer and bad data in production. \nResponsibilities\nOwn test strategy and release sign-off on engagements, including documented test plans covering scope, risk, and coverage\nBuild and maintain automated test suites in Python and PySpark (pytest), integrated into CI pipelines\nValidate data pipelines end to end: ingestion, Medallion layer transformations, Delta Lake tables, and ELT workflows\nImplement data quality rules as code, including Lakeflow expectations and reusable validation frameworks\nRun regression validation after code changes and maintain CI quality gates that block merge or promotion on failure\nPartner with engineers to identify automation candidates and raise the coverage bar across the practice\n5+ years in QA automation or test engineering, including meaningful time testing data pipelines rather than applications alone\nA data engineering background: you can read a pipeline, reason about a transformation, and write the SQL to verify it\nExpert-level SQL\nExperience with Medallion architecture, Delta Lake, and ELT-based data platforms\nExperience building automated suites that run in CI and gate deployment\nDemonstrable hands-on experience working on Databricks or similar platforms\nPreferences\nHealthcare or life sciences experience preferred but not required\nExisting Databricks certification(s)\nHands-on experience with Unity Catalog, Lakeflow pipelines, or Databricks Asset Bundles\nExperience with Azure DevOps pipelines, or equivalent CI tooling (GitHub Actions, GitLab CI)\nFamiliarity with contract-based data validation standards such as ODCS\nExperience using LLM agents or MCP-connected tooling to run validations, triage failures, or draft defect reports\nConsulting or client-facing background\nPay Rate: $70 – $80 per hour (1099 independent contractor).\nThis is a contract engagement rather than a salaried employee role. Where a rate lands within the range depends on depth of data-pipeline testing experience and automation capability. Open to contractors anywhere in the United States.\nTo apply: https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
-      "budget": "$70",
-      "score": 6,
-      "matched": [
-        "automation",
-        "agents",
-        "python",
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
-      "source": "Himalayas",
-      "title": "micro1: Life Sciences Research Expert (Python)",
-      "url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
-      "posted": "2026-11-13T13:00:10+00:00",
-      "body": "Role Title: Life Sciences Research Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced life sciences researchers with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$60",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 11,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "project budget below preferred floor",
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python?utm_source=api",
-      "expires": "2026-12-21T19:26:50+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -902,34 +586,68 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259",
+      "id": "hn:50495944",
+      "source": "HN Who is hiring",
+      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote",
+      "url": "https://news.ycombinator.com/item?id=50495944",
+      "posted": "2026-11-14T10:50:31+00:00",
+      "body": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote\nSenior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces.\nRecent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities.\nPortfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon2004@gmail.com",
+      "budget": null,
+      "score": 6,
+      "matched": [
+        "full-stack",
+        "typescript",
+        "next.js",
+        "node",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 8,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
       "source": "Himalayas",
-      "title": "YO AI Labs: Passport Acceptance Agent  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259",
-      "posted": "2026-11-14T08:56:08+00:00",
-      "body": "Job Description: Passport Acceptance Agent\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Passport Acceptance Agents to contribute to a project focused on improving the efficiency and accuracy of passport application processes.\nIn this role, you will use your professional knowledge of passport acceptance procedures to help train and evaluate AI systems. You will review application scenarios, provide expert feedback, and share practical insights into identity verification, document authentication, and passport processing requirements.\nNo prior AI experience is required. Your domain expertise is what matters most.Key Responsibilities\nReview passport application materials for completeness, accuracy, and compliance with applicable procedures.\nAnalyze real-world passport acceptance scenarios and provide insights to support AI model development.\nDocument and explain complex identity verification and document authentication procedures.\nEvaluate existing workflows and recommend improvements to increase efficiency, accuracy, and clarity.\nCreate sample documents, responses, and acceptance scenarios to train and validate AI systems.\nCommunicate findings and observations clearly through written feedback and discussions, providing actionable recommendations for system improvement.\nPreferred Qualifications\nExtensive experience as a Passport Acceptance Agent or in a similar professional role.\nStrong written and verbal communication skills, with excellent attention to detail and accuracy.\nIn-depth knowledge of applicable federal and state guidelines for passport processing.\nAbility to explain complex procedures clearly and adapt information for non-expert audiences.\nFamiliarity with digital documentation platforms and online application workflows.\nStrong commitment to confidentiality, data security, and information integrity.\nInterest in contributing professional expertise to innovative projects and collaborative problem-solving.\nOriginally posted on Himalayas",
-      "budget": "USD 20 to 50/hourly",
+      "title": "Homestead Studio: Retention Specialist",
+      "url": "https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
+      "posted": "2026-11-14T08:17:41+00:00",
+      "body": "Homestead Studio\nWe are an email marketing agency specializing in growing eCommerce brands by creating exciting, engaging, and personalized messaging across email and SMS channels. Our expertise in email and SMS marketing allows our clients to cultivate relationships with potential customers and build lasting relationships with current customers to create lifetime value.\nAbout the role\nWe're hiring a Retention Specialist to own the day-to-day execution and project management of email and SMS programs across a portfolio of e-commerce clients. You'll work in lockstep with the Retention Strategist to keep campaigns and flows moving smoothly from creative development through client approval, implementation, and deployment. You'll have a constant pulse on your entire book of business — knowing where every deliverable stands, what's waiting on the client or internal team, which deadlines are approaching, and what needs to happen next. You'll serve as an operational point of contact for clients, managing assets, previews, approvals, and feedback while coordinating internally to keep work on track. This is a hands-on role. Alongside project ownership, you'll build campaigns, create segments, perform QA, send previews, implement feedback, schedule deployments, and troubleshoot issues. We're looking for someone who thinks ahead, catches risks before they become problems, and takes ownership of getting high-quality work out the door on time. \nResponsibilities\nMaintain a clear pulse on every campaign, flow, deadline, and deliverable across your clients \nKeep projects moving, proactively following up on outstanding assets, approvals, and feedback \nIdentify risks and blockers early and communicate them to the right people\nManage Client & Team Coordination \nServe as an operational point of contact for clients, managing previews, approvals, assets, and updates \nWork closely with Retention Strategists, copywriters, and designers to keep deliverables on track \nKeep project management systems accurate and up to date Execute Campaigns & Flows \nBuild and schedule email and SMS campaigns and flows \nCreate segments, send previews, implement feedback, and manage deployments \nSupport reporting and troubleshoot implementation issues as needed Own Quality & Deadlines \nPerform comprehensive QA before campaigns and flows go live \nVerify links, segmentation, personalization, UTMs, formatting, and scheduling\nEnsure work launches accurately, on time, and to Homestead's quality standards\nQualifications\n 2–5 years of experience in email/SMS, lifecycle marketing, marketing operations, or project management \nHighly organized and comfortable managing multiple clients and deadlines \nStrong client-facing communication skills \nExperience building campaigns, flows, segments, and performing QA\nProactive, detail-oriented, and confident solving problems independently \nComfortable with tools like Asana, Slack, Google Workspace, and lifecycle marketing platforms\nExcited to use AI and automation to work more efficiently\nAdditional Information\nThis is a fully remote role. Candidates must be able to work standard business hours (9:00am–5:00pm) in ET, CT, MT, or PT time zones.\nHomestead Studio is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Homestead is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. \nNote on Application Responses\nWe strongly encourage applicants to answer questions in their own words. While tools like ChatGPT can be helpful for organizing or polishing your thoughts, it is very easy to recognize when responses are copied and pasted without personalization. Candidates who use AI in that way are typically less successful in our process. Please treat your responses as an opportunity to show us how you think and communicate.\nOriginally posted on Himalayas",
+      "budget": null,
       "score": 3,
       "matched": [
-        "agents",
+        "automation",
+        "chatgpt",
         "ai"
       ],
       "queue": "contract",
       "priority": 7,
       "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
+        "explicit hiring intent"
       ],
       "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259?utm_source=api",
-      "expires": "2027-01-13T08:56:07+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/homestead-studio/jobs/retention-specialist?utm_source=api",
+      "expires": "2027-01-13T08:17:40+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -969,23 +687,22 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/aretum/jobs/senior-web-developer-technical-lead-contingent",
+      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
       "source": "Himalayas",
-      "title": "Aretum: Senior Web Developer/Technical Lead - Contingent",
-      "url": "https://himalayas.app/companies/aretum/jobs/senior-web-developer-technical-lead-contingent",
-      "posted": "2026-11-11T18:23:48+00:00",
-      "body": "Public Trust Eligibility Required\nThis is a contingent position, meaning employment is dependent upon the successful award of the associated contract to Aretum and completion of any required background investigation or security clearance verification. About Aretum\nAretum is a mission-driven organization committed to delivering innovative, technology-enabled solutions to our customers across defense, civilian, and homeland security sectors. Our teams work at the intersection of strategy, technology, and transformation, helping agencies solve their most critical challenges. We believe in investing in our people and creating a culture where collaboration, inclusion, and professional growth are at the forefront. Job Summary \nThe Senior Web Developer serves as the lead technical resource responsible for the design, development, integration, testing support, deployment, maintenance, and security compliance of the client's websites. The position provides technical leadership for all website development activities using the client's WordPress Content Management System (CMS) platform and approved plugins, while ensuring compliance with the client's policies, accessibility requirements, cybersecurity standards, and quality assurance procedures. \nDue to the nature of our work as a federal consulting organization, employees may be expected to handle Controlled Unclassified Information (CUI) and must adhere to applicable safeguarding and compliance requirements. Responsibilities \nLead development of new and redesigned client websites using WordPress CMS \nConfigure and customize approved client plugins and components \nDevelop responsive website functionality and templates \nImplement custom code within approved client's guidelines and child-theme architecture \nSupport website branding and implementation of approved design mockups \nEnsure compatibility with client-hosted infrastructure and content delivery services \nServe as the primary technical point of contact for project teams and client stakeholders \nProvide technical recommendations, risk assessments, and solution alternatives \nReview technical requirements and ensure compliance with client development standards \nSupport project planning, estimation, and implementation activities \nEnsure compliance with OWASP secure coding practices and OWASP Top 10 mitigation requirements \nSupport remediation of cybersecurity findings and vulnerabilities \nEnsure compliance with client cybersecurity policies and procedures \nVerify that all integrations, forms, and custom functionality comply with client privacy and security requirements \nDevelop and maintain constituent correspondence forms \nImplement CSS integrations and approved email routing solutions \nEnsure external IP address capture requirements are met \nValidate approved plugin usage and integration performance \nDevelop technical test procedures and support unit, integration, system, and production testing \nResolve defects identified during testing and post-launch monitoring \nParticipate in readiness reviews and production deployment activities \nSupport accessibility, usability, performance, and functional testing efforts \nCoordinate production releases and launch activities \nSupport post-launch monitoring and defect remediation \nProvide website maintenance and end-user support \nImplement enhancements and content-related technical changes requested by client offices \nProduce technical documentation and code documentation \nSupport development of administrator and end-user training materials \nAssist with knowledge transfer activities for client office personnel\nRequirements\nBachelor's degree in Computer Science, Information Systems, Web Development, or related field\nMinimum 7 years of professional web development experience \nMinimum 5 years of WordPress development experience \nExperience with HTML5, CSS3, JavaScript, PHP, and MySQL \nExperience implementing Section 508 and WCAG accessibility requirements \nExperience implementing and maintaining CMS-based websites \nExperience performing website integrations, form development, and content migrations \nExperience working within secure or regulated environmentsPreferred Qualifications\nExperience supporting Federal Government, Congressional, legislative, or public-sector websites \nExperience with Adobe Analytics implementation \nFamiliarity with OWASP secure coding practices \nExperience supporting production website launches and post-launch monitoring \nWordPress, accessibility, or cybersecurity certifications \nAdvanced WordPress development expertise \nStrong debugging and troubleshooting skills \nUnderstanding of web application security principles Travel Requirements\nThis is a remote position; however, occasional travel may be required based on project needs, client meetings, team collaboration events, or training sessions. Travel is expected to be less than 10% and will be communicated in advance whenever possible. EEO Statement\nAretum is committed to fostering a workplace rooted in excellence, integrity, and equal opportunity for all. We adhere to merit-based hiring practices, ensuring that all employment decisions are made based on qualifications, skills, and ability to perform the job, without preference or consideration of factors unrelated to job performance. \nAs an Equal Opportunity Employer, Aretum complies with all applicable federal, state, and local employment laws. \nWe are proud to support our nation’s veterans and military families, providing career opportunities that honor their service and experience. \nIf you require reasonable accommodation during the hiring process due to a disability, please contact for assistance. \nEqual Opportunity Employer/Veterans/Disabled U.S. Work Authorization \nDue to federal contract requirements, only U.S. citizens are eligible for this position. This position supports a federal government contract and requires the ability to obtain and maintain a Public Trust or Suitability Determination, depending on the agency’s background investigation requirements. Benefits\nSalary Range: $130,000–$150,000 annually. Final compensation will be determined based on factors including education, experience, qualifications, skills, and applicable contract requirements. \nHealth Care Plan (Medical, Dental & Vision) \nRetirement Plan (401k) \nLife Insurance (Basic, Voluntary & AD&D) \nPaid Time Off \nFamily Leave (Maternity, Paternity) \nShort Term & Long-Term Disability \nTraining & Development \nOriginally posted on Himalayas",
-      "budget": "USD 130000 to 150000/annual",
-      "score": 4,
+      "title": "dentsu international: Manager, Data Modeling and Data Science - Temporary Worker",
+      "url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
+      "posted": "2026-11-14T12:05:02+00:00",
+      "body": "Job Description:Temporary role, W2 statusStart date: ASAP ~4-5 month engagementCandidates must be located in the U.S. \nROLE SUMMARY\nThe Manager, Data Modeling & Data Science will drive strategic business impact through advanced analytics and predictive modeling, serving as a trusted advisor to clients across multiple vertical portfolios. This role combines hands-on technical excellence with strategy —designing sophisticated analytical solutions, owning quality assurance across all deliverables, and mentoring analysts. The Manager will act as the client's analytical partner, translating complex marketing challenges into data-driven strategies that drive measurable business outcomes.\nEnsure timely delivery of data, analytics, and models to support the client’s data licenses, database marketing initiatives, and campaigns;\nDeveloping and/or editing R code, Python code for model builds, scoring and delivery.\nProvide direction and manage the work processes and output of database marketing analysts;\nParticipate in creating relevant solutions for clients by evaluating client needs for quantitative analysis and in developing methods or processes for implementation;\nLeverage knowledge, and hands on work, of data and statistical modeling techniques to provide suggestions or guidance to teams using tools like Snowflake/SQL/Python/R\nProvide hands on building and optimization of clients’ multi-channel campaigns through model building, campaign scoring, and production using tools like Snowflake/SQL/Python/R.\nPerform 3rd party data vendor evaluations for the data product leveraging qualitative and quantitative methods.\nManage project tasks, timelines and deliverables inclusive of model builds, deployment, campaign production activities, like scoring.\nAct as an advisor in the following techniques: Predictive statistical models, Customer profiling, Segmentation Analysis, Campaign Analysis & Scoring, Data Analysis and Mining,\nCo-presenting modeling findings and campaign results to clients,\nWork independently with minimum supervision, and provide guidance to junior team members;\nundefinedExperience: \nPossess core database marketing knowledge such as understanding of company and client data, relational database concepts, and direct marketing concepts;\n5+ years in quantitative marketing/analytics/data science\nAdvanced Experience with Snowflake, SQL, R, Python, AI tools (Claude) logistic regression, linear regression, XGboost machine learning, clustering;\nAdvanced experience using 3rd party data in combination with 1st party data for modeling, scoring, and campaign analytics;\nAbility to explain/present complicated/advanced analytical methodology and results to non-technical audiences;\nAbility to execute advanced analytic tasks (including but not limited to developing/editing modeling code, modeling, segmentation, DOE, forecasting, etc.) and create meaningful analytical outputs;\nAbility to translate analysis insights into actionable recommendations and strategies for marketers; Experience with applying statistical techniques such as regression, cluster analysis, factor analysis, to solve business problems;\nPossess core analytical competencies such as ability to formulate an analytical problem, QC data and results, summarize key findings/insights, make actionable recommendations, and develop new and innovative analytical solutions to solve challenging business problems;\nRequires a Bachelor’s degree or foreign equivalent in Statistics, Math, Economics or related scientific/quantitative field and at least five (5+) years of experience as a Data Analyst or related occupation. Masters+ preferred.\nThe hourly pay range for this position is $65.79 - $87.77. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA - Remote - ColoradoBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
+      "budget": "USD 65.79 to 87.77/hourly",
+      "score": 3,
       "matched": [
-        "javascript",
-        "problem: website build"
+        "claude",
+        "python",
+        "ai"
       ],
       "queue": "contract",
-      "priority": 7,
+      "priority": 6,
       "reasons": [
-        "website build",
-        "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
@@ -994,10 +711,108 @@
       ],
       "aliases": [],
       "location": "United States",
+      "employment_type": "Temporary",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker?utm_source=api",
+      "expires": "2027-01-13T12:05:01+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
+      "source": "We Work Remotely",
+      "title": "V4C.ai: Databricks QA Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
+      "posted": "2026-11-13T15:58:13+00:00",
+      "body": "Headquarters: United States\nURL: https://jobs.workable.com/company/kb5Wja5n4RGDc2pq5FujAz/jobs-at-v4c.ai\nAbout V4C\nV4C is a pure-play Databricks partner, and in under two years we have earned 850+ Databricks certifications across 325+ customers and been named Databricks' 2026 Partner of the Year (C&SI Emerging).\nAs a Databricks QA Engineer on our data engineering team you will own the quality gate for enterprise data platforms, working directly with customers. You will work on live enterprise data platforms alongside one of the most heavily Databricks-certified delivery teams in the market.\nThe Role\nThis is a QA role for people who understand data engineering, not general software QA pointed at a data project. You will validate Lakehouse pipelines, which means reasoning about row counts, schema drift, late-arriving data, and silent transformation errors no UI will ever surface. Our approach is automation-first: suites in Python and PySpark, running in CI, blocking promotion when they fail. You own release sign-off, which makes you the last person between a customer and bad data in production. \nResponsibilities\nOwn test strategy and release sign-off on engagements, including documented test plans covering scope, risk, and coverage\nBuild and maintain automated test suites in Python and PySpark (pytest), integrated into CI pipelines\nValidate data pipelines end to end: ingestion, Medallion layer transformations, Delta Lake tables, and ELT workflows\nImplement data quality rules as code, including Lakeflow expectations and reusable validation frameworks\nRun regression validation after code changes and maintain CI quality gates that block merge or promotion on failure\nPartner with engineers to identify automation candidates and raise the coverage bar across the practice\n5+ years in QA automation or test engineering, including meaningful time testing data pipelines rather than applications alone\nA data engineering background: you can read a pipeline, reason about a transformation, and write the SQL to verify it\nExpert-level SQL\nExperience with Medallion architecture, Delta Lake, and ELT-based data platforms\nExperience building automated suites that run in CI and gate deployment\nDemonstrable hands-on experience working on Databricks or similar platforms\nPreferences\nHealthcare or life sciences experience preferred but not required\nExisting Databricks certification(s)\nHands-on experience with Unity Catalog, Lakeflow pipelines, or Databricks Asset Bundles\nExperience with Azure DevOps pipelines, or equivalent CI tooling (GitHub Actions, GitLab CI)\nFamiliarity with contract-based data validation standards such as ODCS\nExperience using LLM agents or MCP-connected tooling to run validations, triage failures, or draft defect reports\nConsulting or client-facing background\nPay Rate: $70 – $80 per hour (1099 independent contractor).\nThis is a contract engagement rather than a salaried employee role. Where a rate lands within the range depends on depth of data-pipeline testing experience and automation capability. Open to contractors anywhere in the United States.\nTo apply: https://weworkremotely.com/remote-jobs/v4c-ai-databricks-qa-engineer",
+      "budget": "$70",
+      "score": 6,
+      "matched": [
+        "automation",
+        "agents",
+        "python",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 6,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
+      "source": "Himalayas",
+      "title": "micro1: Life Sciences Research Expert (Python)",
+      "url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python",
+      "posted": "2026-11-13T13:00:10+00:00",
+      "body": "Role Title: Life Sciences Research Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced life sciences researchers with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 5,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "project budget below preferred floor",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
       "employment_type": "Contractor",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/aretum/jobs/senior-web-developer-technical-lead-contingent?utm_source=api",
-      "expires": "2027-01-10T18:23:48+00:00",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/life-sciences-research-expert-python?utm_source=api",
+      "expires": "2026-12-21T19:26:50+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259",
+      "source": "Himalayas",
+      "title": "YO AI Labs: Passport Acceptance Agent  - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259",
+      "posted": "2026-11-14T08:56:08+00:00",
+      "body": "Job Description: Passport Acceptance Agent\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Passport Acceptance Agents to contribute to a project focused on improving the efficiency and accuracy of passport application processes.\nIn this role, you will use your professional knowledge of passport acceptance procedures to help train and evaluate AI systems. You will review application scenarios, provide expert feedback, and share practical insights into identity verification, document authentication, and passport processing requirements.\nNo prior AI experience is required. Your domain expertise is what matters most.Key Responsibilities\nReview passport application materials for completeness, accuracy, and compliance with applicable procedures.\nAnalyze real-world passport acceptance scenarios and provide insights to support AI model development.\nDocument and explain complex identity verification and document authentication procedures.\nEvaluate existing workflows and recommend improvements to increase efficiency, accuracy, and clarity.\nCreate sample documents, responses, and acceptance scenarios to train and validate AI systems.\nCommunicate findings and observations clearly through written feedback and discussions, providing actionable recommendations for system improvement.\nPreferred Qualifications\nExtensive experience as a Passport Acceptance Agent or in a similar professional role.\nStrong written and verbal communication skills, with excellent attention to detail and accuracy.\nIn-depth knowledge of applicable federal and state guidelines for passport processing.\nAbility to explain complex procedures clearly and adapt information for non-expert audiences.\nFamiliarity with digital documentation platforms and online application workflows.\nStrong commitment to confidentiality, data security, and information integrity.\nInterest in contributing professional expertise to innovative projects and collaborative problem-solving.\nOriginally posted on Himalayas",
+      "budget": "USD 20 to 50/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 1,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259?utm_source=api",
+      "expires": "2027-01-13T08:56:07+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -1034,38 +849,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-blockchain-developer",
-      "source": "We Work Remotely",
-      "title": "EdgeQ Technologies Private Limited: Blockchain Developer",
-      "url": "https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-blockchain-developer",
-      "posted": "2026-11-11T17:00:57+00:00",
-      "body": "Headquarters: United States\nBlockchain Developer\nJob Title: Blockchain Developer\nLocation: United States (Remote)\nWork Mode: 100% Remote\nExperience: 2–8 Years\nSalary Range: $100,000 – $175,000 per year (USD)\nEmployment Type: Full-Time\nJob Category: Software Development / Blockchain TechnologyJob Summary\nWe are seeking a talented and experienced Blockchain Developer to join our growing technology team in the United States. The ideal candidate will be responsible for designing, developing, implementing, and maintaining blockchain-based applications, smart contracts, and decentralized solutions.\nThe candidate should have strong programming skills, experience with blockchain platforms, and expertise in smart contract development, decentralized applications (DApps), and Web3 technologies.\nThis position offers a fully remote work opportunity for qualified candidates across the United States.Key Responsibilities\nDesign, develop, and maintain blockchain-based applications and decentralized systems.\nDevelop, test, and deploy smart contracts using Solidity and other blockchain programming languages.\nBuild and maintain decentralized applications (DApps).\nWork with blockchain platforms such as Ethereum, Polygon, Solana, or Hyperledger.\nIntegrate blockchain solutions with existing applications, APIs, and backend systems.\nImplement secure and scalable blockchain architectures.\nPerform smart contract testing, debugging, and security optimization.\nCollaborate with product managers, architects, and engineering teams.\nDevelop Web3 integrations using wallets and blockchain APIs.\nOptimize blockchain transaction performance, scalability, and gas costs.\nConduct code reviews and maintain technical documentation.\nResearch emerging blockchain technologies and industry best practices.Required Skills & Qualifications\n2–8 years of experience in Blockchain Development or related software engineering roles.\nStrong programming knowledge of Solidity, JavaScript, TypeScript, or Python.\nHands-on experience with Ethereum or other blockchain platforms.\nExperience developing and deploying smart contracts.\nUnderstanding of blockchain architecture, consensus mechanisms, and cryptography.\nExperience building decentralized applications (DApps).\nKnowledge of Web3.js, Ethers.js, or similar libraries.\nFamiliarity with REST APIs and backend development.\nUnderstanding of blockchain security and smart contract vulnerabilities.\nExperience with Git and software development best practices.\nStrong analytical, debugging, and problem-solving skills.Preferred Qualifications\nBachelor's or Master's degree in Computer Science, Software Engineering, or a related field.\nExperience with Hyperledger Fabric, Solana, Polygon, or Avalanche.\nKnowledge of DeFi, NFTs, tokenization, and decentralized finance protocols.\nExperience with Hardhat, Truffle, Foundry, or Remix IDE.\nFamiliarity with Layer 1 and Layer 2 blockchain solutions.\nKnowledge of Docker, Kubernetes, and cloud platforms.\nExperience with smart contract auditing and security testing.\nUnderstanding of distributed systems and cryptographic principles.Salary & Benefits\nAnnual Salary: $100,000 – $175,000 USD.\nCompetitive compensation based on experience and technical expertise.\n100% remote work opportunity.\nFlexible working arrangements.\nHealth, dental, and vision insurance.\nPaid time off and holidays.\nRetirement savings benefits, where applicable.\nProfessional development and technical certification support.\nCareer advancement opportunities.Work Location\nUnited States – Fully Remote\nCandidates from eligible locations across the United States are encouraged to apply.\nMust be legally authorized to work in the United States.\nAbility to collaborate with distributed teams across different time zones.How to Apply\nInterested candidates can submit their updated resume along with contact details, relevant Blockchain Development experience, and links to GitHub repositories or previous blockchain projects.\nEqual Opportunity Employer: We welcome qualified candidates from diverse professional backgrounds and encourage applications from eligible candidates across the United States.\nTo apply: https://weworkremotely.com/remote-jobs/edgeq-technologies-private-limited-blockchain-developer",
-      "budget": "$100,000",
-      "score": 3,
-      "matched": [
-        "javascript",
-        "typescript",
-        "python"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
       "source": "Himalayas",
       "title": "micro1: ML Engineer (MSc. or PhD)",
@@ -1097,38 +880,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api",
       "expires": "2026-12-15T19:35:19+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/coding-expert-remote-contract",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: 🌎 Coding Expert, Remote- Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/coding-expert-remote-contract",
-      "posted": "2026-11-11T18:07:50+00:00",
-      "body": "Role Title: Coding Expert\nRole Type: Contract\nLocation: RemoteRequired Skills:\nPython\nJavaScript\nC++\nIn this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work:\nAnalyze, interpret, and debug code snippets and technical documentation across Python, JavaScript, C++, Java, and SQL.\nProduce comprehensive explanations or annotations for code segments, focusing on clarity and accuracy.\nReview, assess, and improve solutions generated by AI relating to software development challenges.\nSimulate real developer workflows by reading, executing, and troubleshooting diverse codebases.\nParticipate in extended, multi-turn chats requiring careful reading and nuanced understanding of technical issues.\nCompare and evaluate multiple long-form responses to complex coding prompts.\nDocument findings and provide actionable feedback for continuous improvement of AI capabilities.\nPreferred Qualifications:\nBachelor’s degree in computer science, software engineering, or a related field, or equivalent hands-on experience as a software developer (1+ year preferred).\nAdvanced proficiency in Python, JavaScript, and C++.\nProven ability to read, run, and debug code in Python, JavaScript, Java, C/C++, and SQL.\nNative or near-native command of written English, with strong attention to detail in both written and verbal communication.\nExperience in careful analysis of long, multi-step technical conversations and documentation.\nPrior experience with annotation, code review, or technical content creation is a strong plus.\nDemonstrated ability to work independently and deliver results remotely.\nOriginally posted on Himalayas",
-      "budget": "USD 20 to 45/hourly",
-      "score": 3,
-      "matched": [
-        "javascript",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": -5,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/coding-expert-remote-contract?utm_source=api",
-      "expires": "2027-01-10T18:07:49+00:00",
       "imported": false,
       "date_basis": "posted"
     }
