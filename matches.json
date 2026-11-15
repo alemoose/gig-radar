@@ -2,6 +2,210 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: AI Trainer (SWE) | Remote - Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
+      "posted": "2026-11-15T15:34:28+00:00",
+      "body": "Job Description\nLocation: Global, fully remote\nJob Type: Contractor\nTime Commitment: 15+ hours per week\nSchedule: Flexible\nWe are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nYou will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills\nSoftware engineering\nAi training\nWhat You’ll Work On\nCreate realistic software engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, tests, and evaluation criteria.\nEvaluate model-generated code and technical deliverables for correctness, robustness, and completeness.\nIdentify issues involving implementation, debugging, dependencies, performance, testing, or reproducibility.\nRequired Qualifications\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nProfessional experience with at least one additional programming language, such as Java, JavaScript, TypeScript, Rust, C++, C#, or Go.\nStrong knowledge of software design, debugging, testing, version control, and dependency management.\nPublic Proof of Skill\nStrong applicants should provide evidence such as:\nSubstantial GitHub or GitLab repositories\nMeaningful open-source contributions\nMaintainer or core-contributor responsibilities\nCodeforces, ICPC, Olympiad, or other programming-competition results\nPublic developer tools, libraries, systems, or technical projects\nTechnical publications, benchmarks, or engineering write-ups\nPreferred Qualifications\nExperience creating AI-training tasks, reference solutions, tests, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nCodeforces rating of approximately 1900 or higher, or strong results in another programming competition.\nExperience with Linux, Docker, CI/CD, command-line tools, or sandboxed environments.\nPrior experience with long-horizon or agentic coding evaluations.\nAvailability to begin immediately.\nApplication Process\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "javascript",
+        "typescript",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 31,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
+      "expires": "2027-01-14T15:34:27+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: 🌍 Software Engineer - Backend, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141",
+      "posted": "2026-11-15T15:32:58+00:00",
+      "body": "Role Title: Software Engineer - Backend\nRole Type: Contract (~15 hrs a week)\nLocation: RemoteOpportunity Snapshot:\nTime per task: 5 hours for trainers and 1.5 hours for reviewers\nEngagement: Project-based — paid per approved task\nCommitment: ~15 hours per week\nLocation: Fully remote\nYou’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript\nYour tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiersRequired Skills:\nPython3\nJAVA\nRust\nAlgorithms\nBasics C++\nTypescript\nBug fixing\nFeature implementation\nCodebase refactoring\nPerformance optimization\nYou’ll create Reinforcement Learning Environments that test a model’s ability to solve real software engineering problems: tracking down subtle bugs, building non-trivial features, refactoring, and optimizing performance. Each task means defining the problem, building a reproducible environment, and writing a reference solution.Scope of Work:\nCreate realistic, challenging coding tasks for frontier AI models, drawn from repositories you know well.\nDesign problems that require real engineering skill — subtle bugs, non-trivial features, meaningful performance work — not lookup or boilerplate.\nBuild a reproducible environment for each task.\nWrite deterministic verifiers that accept correct solutions across different valid implementations, while rejecting incorrect, incomplete, or hard-coded approaches.\nProvide a reference solution showing how the task can be solved.\nFlag tasks that turn out to be ambiguous or unverifiable rather than submitting them.\nPreferred Qualifications:\nSignificant hands-on expertise in at least one of: Python3, Java, Rust, Go, C++, or TypeScript.\nDeep understanding of algorithms, data structures, and software engineering principles.\nProven ability to debug complex systems, resolve bugs, and deliver effective optimizations.\nExperience with large codebase refactoring and legacy system modernization.\nTrack record of delivering high-impact features from conception through delivery.\nStrong documentation and communication skills to articulate technical concepts clearly.\nInterest in AI and its technical challenges — previous AI experience not required.\nCompensation Structure:\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required may vary depending on your experience and workflow.Start Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.How the selection process works:\nApply and complete the screening questions\nComplete the AI interview for this role — it’s how your expertise gets in front of the client\nProfile review\nOnboarding — our Talent Ops team will get you set up\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 100/hourly",
+      "score": 4,
+      "matched": [
+        "typescript",
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141?utm_source=api",
+      "expires": "2027-01-14T15:32:57+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote",
+      "source": "Himalayas",
+      "title": "Way: Customer Support Specialist (Part-Time & Remote)",
+      "url": "https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote",
+      "posted": "2026-11-15T16:05:05+00:00",
+      "body": "ABOUT WAY\nWay is building the AI, data, and infrastructure layer for the experience economy.\nAs artificial intelligence automates labor and people reclaim time, the shift toward spending on experiences over things only accelerates. Way sits at the center of that shift as the platform, intelligence layer, and curated marketplace on which experiences are created, distributed, and sold.\nFounded in 2020 and headquartered in Austin with offices in Paris and San Francisco, Way built the category of experiences in hospitality from the ground up, during a pandemic that had shut the industry down. Leading global travel, retail, lifestyle, and hospitality brands leverage Way, including Hyatt, Hilton, Alaska Airlines, Aspen, Piaget, and countless others.\nWay’s position is layered by design: a proprietary data network built on millions of experiential data points, the system of record for experiential operations, an e-commerce layer embedded directly into partners’ customer journeys, and a marketplace through Partner Exchange, where brands across hospitality, travel, lifestyle, and retail co-create and co-sell experiences with one another. Every brand that joins makes the network more valuable to every brand already on it.\nThat combination of data, workflow, distribution, and network effects is not something that can be vibe-coded into existence. It compounds. It is what positions Way as the durable infrastructure for the experience economy regardless of how the technology landscape evolves.\nWay is backed with $22m in capital from Tiger Global and strategic family offices and angel investors. The company has mid-8 figures of ARR from a global enterprise customer set, with outstanding growth and efficiency metrics.\nWe’re looking for a Customer Support Specialist to join our growing Customer Operations and Support team.\nThis is a frontline customer support role first and foremost. Your primary responsibility will be helping Way’s B2B customers through email and chat in Intercom—answering questions, troubleshooting issues, resolving problems, and making sure customers can successfully use our platform.\nYou’ll also play an important role in helping us build the systems behind that support. You’ll help manage and improve our AI-powered support tools, strengthen our Help Center and internal documentation, improve workflows and processes, and identify recurring customer issues that can be solved at their source.\nThis is a unique opportunity to be a founding member of the new Operations and Support department at Way. That means you’ll have meaningful ownership, close exposure to the business, and the opportunity to make a visible impact on both the customer experience and how our support organization operates.\nWe’re looking for someone who is proactive, self-directed, curious, and resourceful. When the queue is quiet, you’ll be expected to find ways to make the team better. When you encounter a recurring customer question, an unclear process, a gap in our documentation, or an inefficient workflow, you’ll be expected to identify the opportunity and help improve it.\nAs you build expertise in the Way platform, you’ll increasingly be able to diagnose and resolve more complex product, configuration, integration, and technical issues independently, while knowing when and how to involve Product or Engineering.\nThis role is ideal for someone who enjoys both solving customer problems and improving the systems behind those problems—and who wants to help build a scalable support function as the company grows. \nWhat You’ll Do\nServe as the primary point of contact for customer inquiries via chat and email on weekends and key holidays (e.g., July 4th, Thanksgiving, Christmas, etc.)\nSupport customers through our help desk, Intercom, with clear, timely, and empathetic communication\nTroubleshoot product and operational issues, identifying patterns and escalating bugs when needed\nTake ownership of issues from first response through resolution, ensuring nothing falls through the cracks\nWhat You Bring\nStrong customer instinct and a commitment to getting it right\nAbility to think critically and navigate ambiguity without relying on scripts\nSound judgment in prioritizing and managing multiple conversations at once\nClear, confident written communication\nHigh attention to detail and strong organizational skills\nComfort learning and navigating a fast-evolving SaaS platform\nA practical approach to using tools, including AI, to work more efficiently\nReliability, accountability, and pride in your work\nExperience\n2–4+ years in Customer Support or a similar role (SaaS and/or Hospitality experience preferred but not required). \nRequirements:\nReliable internet connection and ability to work remotely and independently\nBased in the continental U.S.\nFluent in English \nWhy Join Way?\nHighly competitive hourly compensation, with opportunities to grow within the company\n100% remote role, with optional access to our Austin, TX or Paris offices\nExciting startup environment in a booming industry and where your work will have immediate impact\nSupportive team environment with ongoing training and guidance\nIf you’re enthusiastic about experiential tourism and enjoy delivering exceptional customer support, we’d love to hear from you. \nOriginally posted on Himalayas",
+      "budget": "$22",
+      "score": 3,
+      "matched": [
+        "workflow",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 27,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Part Time",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote?utm_source=api",
+      "expires": "2027-01-14T16:05:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist",
+      "source": "Himalayas",
+      "title": "Job Mobz: AI Ops and Automation Specialist",
+      "url": "https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist",
+      "posted": "2026-11-15T10:43:40+00:00",
+      "body": "We're looking for a resourceful, technically savvy AI Operations & Automation Specialist to help us streamline and scale our content and digital operations.\nThis person will identify opportunities to automate manual processes across social media, websites, newsletters, podcasts, video, and other digital channels. You'll build and manage AI-powered workflows, tools, and agents that improve efficiency, consistency, and output.Key Responsibilities\nIdentify opportunities to automate repetitive tasks and improve existing workflows.\nBuild, test, and maintain AI-powered tools, agents, and automation systems.\nStreamline content creation, scheduling, publishing, and distribution across digital channels.\nCollaborate with internal teams to understand operational challenges and implement practical solutions.\nMonitor automation performance, troubleshoot issues, and continuously improve processes.\nDevelop scalable systems that increase productivity and reduce manual work.\nHands-on experience building AI automations, workflows, or AI agents.\nFamiliarity with automation platforms such as n8n, Make, Zapier, or similar tools.\nExperience integrating AI tools, APIs, and third-party platforms.\nStrong problem-solving skills and the ability to identify operational inefficiencies.\nUnderstanding of digital content workflows, social media platforms, and marketing operations.\nAbility to independently manage projects from concept through implementation.\nOrganized, proactive, and comfortable working in a fast-paced environment.\nWhat Success Looks Like\nManual, repetitive processes are replaced with reliable automated workflows.\nContent production and distribution become more efficient and consistent.\nTeams spend less time on administrative tasks and more time on high-value work.\nAI tools and agents deliver measurable improvements in productivity and output.\nEmployer.com is a growing technology company focused on simplifying how businesses manage their people, finances, and operations. Through our portfolio of companies, including MainStreet and Bench Accounting, we provide comprehensive back-office solutions spanning bookkeeping, accounting, tax services, HR, payroll, and hiring.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 8,
+      "matched": [
+        "automation",
+        "automate",
+        "agents",
+        "zapier",
+        "n8n",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 27,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist?utm_source=api",
+      "expires": "2027-01-14T10:43:39+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: AI Trainer (ML Engineering) | Remote - Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544",
+      "posted": "2026-11-15T10:32:20+00:00",
+      "body": "Job Description\nLocation: Global, fully remote\nJob Type: Contractor\nTime Commitment: 15+ hours per week\nSchedule: Flexible\nWe are looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nYou will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills\nMl engineering\nAi training\nProgramming skills\nWhat You’ll Work On\nCreate realistic machine learning engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, and evaluation criteria.\nEvaluate model-generated code, experiments, analyses, and technical deliverables.\nIdentify issues involving data leakage, incorrect validation, unstable training, performance, or reproducibility.\nRequired Qualifications\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nHands-on experience using PyTorch, JAX, TensorFlow, scikit-learn, XGBoost, LightGBM, or comparable ML tools.\nPublic Proof of Skill\nStrong applicants should provide evidence such as:\nGitHub repositories or public model implementations\nKaggle, DrivenData, AIcrowd, or similar competition results\nHugging Face models or datasets\nResearch publications or technical reports\nOpen-source ML contributions\nPublic benchmarks, experiments, or technical projects\nPreferred Qualifications\nExperience creating AI-training tasks, reference answers, rubrics, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nKaggle Expert, Master, or Grandmaster status, or strong results in another technical competition.\nPublications or open-source contributions in machine learning.\nPrior experience with long-horizon or agentic AI evaluations.\nAvailability to begin immediately.\nApplication Process\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 21,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544?utm_source=api",
+      "expires": "2027-01-14T10:32:20+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance",
+      "source": "Himalayas",
+      "title": "Vi: Senior UX/UI Designer for Product (Freelance)",
+      "url": "https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance",
+      "posted": "2026-11-15T11:37:46+00:00",
+      "body": "Description\nSenior UX/UI Designer for Product (Freelance)\nVi is the market-leading Enterprise-AI platform for health, serving the world’s largest health organizations - from Fortune 500 health providers to pharma and consumer brands -helping them maximize patient activation, engagement, operational excellence and health outcomes. Vi offers four main product lines: Activate, Engage, Operate and Pulse. Backed by $125M+ in R&D, our powerful platform serves over 190 million members daily - and growing. We are based in New York, Austin, Nashville, and Tel Aviv\nRole Summary\nVi is looking for a senior freelance UX/UI designer to design the agentic dashboard for Vi Operate. Vi already has an established design style guide and look and feel. You will take those standards, extend them, and turn them into complete, production-ready dashboards and product flows. You will work closely with our VP Creative Director and with Vi's product and delivery teams to make sure every design meets product requirements. The role starts as a project-based engagement, with room to grow across Vi's product suite.\nKey Responsibilities\nDesign the agentic dashboards for Vi Operate, from user flows and wireframes to high-fidelity screens and interactive prototypes\nApply Vi's established design style guide consistently across every screen, state and component\nExtend and improve the design system as new capabilities and patterns are needed\nDesign clear interfaces for agentic AI workflows, showing what agents are doing, what needs human review and the results they deliver\nWork with the Creative Director on visual direction, and with product and delivery teams to turn requirements into designs\nPrepare clean, well-organized files and specs for a smooth handoff to engineering\nUse AI design and prototyping tools to move quickly from concept to tested design\nWhat We’re Looking For \nMust have\n4+ years of UX/UI or product design experience, with a portfolio of B2B or enterprise SaaS products\nExperience designing data-heavy dashboards and complex workflows for business users\nAdvanced Figma skills, including components, auto layout, prototyping and design systems\nHands-on experience using AI design and prototyping tools, such as Claude Design, v0 or Figma Make, to build product screens, with a clear understanding of how to set up AI-assisted workflows that keep designs consistent across a product\nAbility to work within an existing design system while improving it\nStrong collaboration with product managers and engineers, and comfort working from requirements\nNice to have\nExperience designing AI or agent-based products\nExperience in healthcare, life sciences or other regulated industries\nFamiliarity with accessibility standards such as WCAG\nExperience prototyping in code or with AI coding tools\nOriginally posted on Himalayas",
+      "budget": "$125",
+      "score": 4,
+      "matched": [
+        "agents",
+        "claude",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 19,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance?utm_source=api",
+      "expires": "2027-01-14T11:37:45+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698",
       "source": "Himalayas",
       "title": "YO AI Labs: Machine Learning Engineer  - Remote",
@@ -17,7 +221,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -31,105 +235,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698?utm_source=api",
       "expires": "2027-01-13T10:48:36+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content",
-      "source": "Himalayas",
-      "title": "Entrepreneur Cooperative: Marketing Manager, Communications & Content",
-      "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content",
-      "posted": "2026-11-14T10:22:53+00:00",
-      "body": "★ PLEASE SUBMIT YOUR CV IN ENGLISH ★\nMarketing Manager, Communications & Content\nLocation: Remote – Mexico\nWork Arrangement: This is a fully remote (telecommute) position.\nEmployment Type: Independent Contractor (ongoing)\nIndustry: Marketing & Advertising\nCompensation: $1,000–$1,300 USD/week\nSchedule: Self-directed; you set your own schedule and methods, with weekly or biweekly updates\nEnglish Proficiency: C1 (Excellent spoken and written English)\nStart Date: November 16, 2026About the RoleA leading independent PR, creative, and digital agency is seeking an experienced marketing and communications professional to support the agency's own brand, content, and visibility on a contract basis. The firm combines earned media, digital marketing, and generative engine optimization (GEO) with the agency's own research and studies, to help brands show up wherever buyers search, scroll, or ask, including in AI search and answer engines. Its communications work is done in house, spanning earned media, content, social, video, performance marketing, and AI-driven visibility.\nThis engagement covers a broad mix of work: PR and communications for the agency's own research and studies, social media, video, press release distribution, agency awards, paid search, and content built for generative AI search. It also includes applying AI automation to make the agency's marketing workflows more efficient.\nYou will deliver on an agreed-upon scope and content calendar while setting your own schedule and methods. This remote role is ideal for a self-directed marketer who is equally comfortable writing a press release, editing a video, and building an automated workflow.Why This Opportunity?\nBroad ownership of the agency's own brand, content, and visibility, not a narrow single-channel brief.\nA mix of PR, social, video, awards, paid search, and AI-search content, plus marketing automation.\nReal autonomy: you set your own schedule and methods, and deliver against an agreed scope and content calendar.\nWhat You'll DoCommunications, PR & Research Visibility\nManage all communications for the agency's own research, studies, and related content.\nLead PR outreach to secure media coverage for that research and those studies.\nWrite, format, and distribute press releases through PR Newswire.\nSocial, Video & Content\nCreate and publish social media content according to the content calendar.\nProduce and edit short-form video for social, blogs, and other channels.\nWrite GEO-friendly (generative engine optimization) content so the agency's research surfaces in AI search and answer engines.\nAwards, Paid Search & Automation\nManage the awards program: identify opportunities, write and submit entries, promote wins, and coordinate trophy orders.\nPlan, manage, and optimize PPC campaigns, with performance and spend reporting.\nBuild and maintain AI-powered automations for content production, distribution, and reporting.\nProvide weekly or biweekly updates on progress and results.\nQualificationsRequired Qualifications\n3+ years of experience in marketing, communications, or PR, ideally with or for an agency.\nStrong writing across press releases, award submissions, social, and long-form content.\nExperience with media pitching and securing coverage.\nHands-on video production and editing (Adobe Premiere Pro, CapCut, Final Cut Pro, or similar).\nHands-on PPC experience (Google Ads, LinkedIn Ads).\nFamiliarity with PR Newswire or other wire services.\nExperience with GEO/AEO and SEO for AI search.\nExperience building marketing automations with AI tools (ChatGPT, Claude, Zapier, Make, or similar).\nSelf-directed and organized, able to manage a broad scope without close day-to-day supervision.\nC1 English (excellent spoken and written English).\nBased in Latin America or North America, and able to work fully remotely.\nPreferred Qualifications\nBachelor's degree in Marketing, Communications, Journalism, or a related field.Candidate Evaluation ConsiderationsTo ensure success in this role, the following factors will be carefully evaluated during the selection process:\nStrong writing across press releases, award submissions, social, and long-form content.\nExperience with media pitching and a track record of securing coverage.\nHands-on video production and editing.\nHands-on PPC experience (Google Ads, LinkedIn Ads).\nFamiliarity with PR Newswire or other wire services.\nWorking knowledge of GEO/AEO and SEO for AI-driven search.\nExperience building marketing automations with AI tools.\nAbility to work in a self-directed way and manage a broad, multi-channel scope without close day-to-day supervision.\nAt least 3 years of experience in marketing, communications, or PR, ideally in an agency setting.\nC1 spoken and written English.\nAvailability to work fully remotely from Latin America or North America.\nHow Success Is Measured\nThe agency's research and studies earn consistent media coverage and stay visible.\nSocial content stays on calendar, and short-form video supports the right channels.\nPress releases are accurate, well formatted, and distributed on time through the wire.\nThe awards program runs smoothly: opportunities are captured, entries are submitted, wins are promoted, and trophy orders are coordinated.\nPPC campaigns improve over time, with clear performance and spend reporting.\nGEO-friendly content helps the agency's research surface in AI search and answer engines.\nMarketing workflows become more efficient as AI-powered automations are built and maintained.\nStakeholders stay informed through clear, timely weekly or biweekly updates, and the agreed scope and content calendar are delivered.\nWhy Join Us\nFully remote opportunity from Latin America or North America.\nCompetitive compensation: $1,000–$1,300 USD/week, depending on experience.\nAn ongoing contract supporting the brand and visibility of a leading independent agency.\nA results-focused culture that values adaptation, impact, and people who want to create what comes next.\nImportant NotesApplications may not be considered if candidates:\nAre not based in Latin America or North America.\nDo not have at least 3 years of experience in marketing, communications, or PR.\nDo not have C1 spoken and written English, or cannot show strong writing across press releases, social, and long-form content.\nDo not have hands-on video production and editing experience, or hands-on PPC experience.\nAre not comfortable working in a self-directed way, without close day-to-day supervision.\nThis is a remote/telecommute position.\nBy applying, you can choose to let Hire Emerald and its technology partners use your de-identified application materials to train AI matching models, as described in our Privacy Policy (). This is optional and does not affect whether we consider your application.\nAl postularse, puede autorizar a Hire Emerald y a sus aliados tecnológicos a usar sus materiales de postulación desidentificados para entrenar modelos de IA de emparejamiento, según nuestra Política de Privacidad (). Esta autorización es voluntaria y no afecta la consideración de su postulación.\nOriginally posted on Himalayas",
-      "budget": "USD 1000 to 1300/weekly",
-      "score": 6,
-      "matched": [
-        "automation",
-        "workflow",
-        "chatgpt",
-        "claude",
-        "zapier",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 22,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S."
-      ],
-      "aliases": [],
-      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content?utm_source=api",
-      "expires": "2027-01-13T10:22:53+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker",
-      "source": "Himalayas",
-      "title": "dentsu international: Business Analyst - Temporary Worker",
-      "url": "https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker",
-      "posted": "2026-11-14T10:36:31+00:00",
-      "body": "Job Description:\nTEMP Role – W2 on Dentsu Payroll Only\n11/16/2026-1/29/2027 - possibility to extend or convert\nLocation: Hybrid or Remote depending on location\nApproximate #Hours/Week:\nTime Zone: EST\nMust be US BasedCOMPANY DESCRIPTION:\nMerkle, a dentsu company, powers the experience economy. For more than 35 years, the company has put people at the heart of its approach to digital business transformation. As the only integrated experience consultancy in the world with a heritage in data science and business performance, Merkle delivers holistic, end-to-end experiences that drive growth, engagement, and loyalty. Merkle's expertise has earned recognition as a \"Leader\" by top industry analyst firms, in categories such as digital transformation and commerce, experience design, engineering and technology integration, digital marketing, data science, CRM and loyalty, and customer data management. With more than 16,000 employees, Merkle operates in 30+ countries throughout the Americas, EMEA, and APAC.    ROLE OVERVIEW:\nWe are looking for a Temporary Business Analyst to lead business analysis activities across enterprise digital experience initiatives within the Adobe Experience Cloud ecosystem.\nIn this role, you will serve as a key connection between client business stakeholders and cross-functional delivery teams, translating business objectives and operational needs into clear, actionable requirements for Adobe-based solutions. You will work across platforms such as Adobe Experience Manager (AEM) Sites, AEM Assets, Edge Delivery Services, Adobe Workfront, and other Adobe Experience Cloud capabilities.\nThis is a client-facing role requiring someone who can independently lead discovery and requirements activities, facilitate complex stakeholder discussions, identify gaps and dependencies, and help shape solutions rather than simply document requests.\nYou will partner closely with client stakeholders, product owners, solution architects, UX teams, developers, QA teams, and delivery leadership throughout the full delivery lifecycle, from discovery and solution definition through implementation, testing, and release.\nThe ideal candidate brings strong Business Analysis fundamentals, significant Agile delivery experience, and hands-on experience working within Adobe Experience Cloud implementations.WHAT YOU’LL DO:\nLead requirements discovery and analysis for Adobe Experience Cloud implementations and enhancement initiatives.\nPlan and facilitate stakeholder interviews, discovery workshops, requirements sessions, and solution-definition discussions.\nTranslate business objectives into capabilities, epics, features, user stories, functional requirements, process flows, business rules, and acceptance criteria.\nIndependently own requirements for significant project workstreams from discovery through implementation.\nPartner with Adobe solution architects and technical teams to evaluate business requirements against platform capabilities and technical constraints.\nHelp stakeholders distinguish between business needs, solution requirements, and implementation preferences.\nIdentify gaps, dependencies, assumptions, risks, and conflicting requirements and drive them toward resolution.\nRecommend practical solutions when business requests conflict with Adobe platform capabilities, established implementation patterns, or project constraints.\nDevelop clear, testable user stories and acceptance criteria that enable development and QA teams to execute effectively.\nOwn backlog quality and requirements readiness for assigned initiatives.\nLead and participate in backlog refinement, sprint planning, sprint reviews, retrospectives, and other Agile delivery ceremonies.\nWork closely with Product Owners to support backlog prioritization and sequencing.\nMaintain requirements traceability from initial business objectives through implementation and validation.\nCoordinate requirements across business, UX, content, development, integrations, analytics, and QA workstreams.\nLead functional support for QA and User Acceptance Testing (UAT), including test scenario review, requirement validation, defect triage, and functional clarification.\nSupport release-readiness activities and validate that delivered functionality addresses the intended business need.\nDocument current-state and future-state processes, workflows, governance models, business rules, and operating procedures.\nCommunicate effectively with both business and technical stakeholders, translating between the two when necessary.REQUIRED QUALIFICATIONS:\n2-3+ years of Business Analysis experience within digital experience, marketing technology, enterprise technology consulting, product delivery, or a related field. \nDemonstrated experience supporting or delivering enterprise solutions within the Adobe Experience Cloud ecosystem.\nHands-on Business Analysis experience with Adobe Experience Manager, specifically AEM Sites and/or AEM Assets.\nExperience gathering and defining requirements for AEM capabilities, workflows, content models, authoring experiences, asset management, or related platform functionality. \nDemonstrated experience independently leading requirements discovery and requirements-management activities. \nStrong experience working within Agile delivery environments, including Scrum-based delivery. \nHands-on experience using Jira and Confluence to manage requirements, user stories, acceptance criteria, documentation, backlog activities, and delivery coordination. \nSignificant experience supporting Quality Assurance and User Acceptance Testing, including requirement validation, test scenario review, defect triage, and functional clarification. \nStrong experience developing epics, features, user stories, functional requirements, business rules, and acceptance criteria. \nExperience facilitating discovery workshops and requirements sessions with business and technical stakeholders. \nExperience supporting backlog refinement, sprint planning, and prioritization activities. \nStrong understanding of the software development lifecycle and how Business Analysis supports discovery, design, development, testing, and release. \nAbility to independently manage a project workstream and drive requirements from ambiguity to an implementable solution. \nAbility to manage multiple priorities in a complex enterprise delivery environment. \nStrong analytical and problem-solving capabilities. \nExcellent written and verbal communication skills. PREFERRED EXPERIENCE:\nExperience with multiple Adobe Experience Cloud capabilities is highly desirable, including: \nAdobe Experience Manager Sites \nAdobe Experience Manager Assets \nAdobe Edge Delivery Services \nAdobe Workfront \nAdobe Content Hub \nAdobe Dynamic Media \nAdobe certifications are a plus. ADDITIONAL INFORMATION:\nAt dentsu, we believe great work happens when we’re connected. Our hybrid way of working combines remote flexibility with regular in-person collaboration to spark ideas and strengthen our teams. Many of our employees who live within commuting distance (90 minutes) from one of our Headquarter or Hub Offices (New York, Chicago, Detroit, Los Angeles) are required to work in the office 2-3 days per week including one Team Day. The minimum number of days may vary by office and role. Dentsu may designate other HQ or Hub offices at any time. Those who do not live near an office may be designated as a remote employee, depending on the role and business needs. Regardless of your work location, we expect you to be flexible to meet the needs of our Company and clients, which may include attendance in an office from time to time.\nThe hourly pay range for this position is $53.74-$70.00. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA – Remote – Texas – Central TimeBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
-      "budget": "USD 53.74 to 70/hourly",
-      "score": 3,
-      "matched": [
-        "problem: API connection"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "API connection",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Temporary",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker?utm_source=api",
-      "expires": "2027-01-13T10:36:31+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide",
-      "source": "Himalayas",
-      "title": "RemoteJobsOne: Software Engineer – Backend – Remote (Worldwide)",
-      "url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide",
-      "posted": "2026-11-12T15:48:40+00:00",
-      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in 55 countries, including United States, United Kingdom, Canada, Germany, India, France, Netherlands, Singapore.\nPay: $30–$100/hr\nJob Type: Contractor (~15 hrs a week)\nLocation: Remote\nSchedule: Flexible, you pick the hours and days (including weekends if desired)\nJob Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nYou'll create realistic, interesting and challenging coding tasks for AI to solve involving feature implementation and bug fixes, and implement deterministic verifiers that accept reasonable valid solutions and reject everything else.What we're looking for\nStrong backend experience in Java, Node.js, Go, Rust, Typescript, Python, C++ or similar\nA track record building scalable services and APIs\nComfort with debugging, performance work and automated testing\nSolid code review instincts\nPreferred Qualifications\nProven experience in backend development, with a track record of delivering high-quality and performant projects.\nDemonstrated success in identifying and resolving software bugs and system bottlenecks.\nExperience with codebase refactoring and implementing complex features in large-scale applications.\nStrong understanding of algorithms, data structures, and foundational computer science concepts.\nExcellent analytical, problem-solving, and technical communication skills.\nA note on the process: our interview and assessment stages are designed to see how you think, so we ask that you complete them without outside assistance. The same applies once you're on the project — the value of the work comes from your own judgment.Process:\nApply to the role, filling out the screening questions\nComplete AI Interview (approx. 15/20 minutes)\nTechnical Assessment (Tentative)\nHiring Manager review\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.How to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
-      "budget": "USD 30 to 100/hourly",
-      "score": 5,
-      "matched": [
-        "typescript",
-        "workflow",
-        "node.js",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States"
-      ],
-      "aliases": [],
-      "location": "Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/software-engineer-backend-remote-worldwide?utm_source=api",
-      "expires": "2027-01-11T15:48:39+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -162,37 +267,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
-      "source": "Himalayas",
-      "title": "YO AI Labs: 在宅ビデオ撮影スタッフ（日本）",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
-      "posted": "2026-11-14T11:43:11+00:00",
-      "body": "Job Description: Frontend / UI Engineer\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Frontend / UI Engineers to create and evaluate challenging coding tasks based on visual references such as screenshots, UI mockups, diagrams, and screen recordings. You will use your frontend development expertise to design tasks with clear requirements, measurable success criteria, and working reference implementations.Key Responsibilities\nDesign multi-step coding tasks based on screenshots, UI mockups, diagrams, and screen recordings of real workflows.\nDefine the code, files, and artifacts involved in each task, along with the expected functionality and behavior.\nEstablish objective success criteria to ensure tasks can be accurately verified and evaluated.\nDevelop working reference implementations demonstrating the expected results.\nReview tasks created by other contributors for technical accuracy, clarity, and verifiability.\nIdentify and flag ambiguous or ungradable tasks rather than submitting unclear requirements.\nRequired Qualifications\nA public GitHub profile demonstrating substantial and verifiable contributions, such as commits, merged pull requests, or maintained repositories. This is essential.\nStrong frontend development experience with React, TypeScript, or similar technologies.\nExperience building and delivering complex user interfaces and interactive applications.\nAbility to read, modify, debug, and validate real application code.\nStrong written English communication skills.\nAbility to explain expected application behavior and provide clear, reproducible verification steps.\nPreferred Qualifications\nExperience with UI development, graphics, SVG, or Canvas.\nProduct or UI design experience combined with hands-on frontend implementation and public code contributions.\nPrevious experience in data labeling, AI evaluation, or rubric-based technical review.\nOriginally posted on Himalayas",
-      "budget": "USD 35 to 100/hourly",
-      "score": 4,
-      "matched": [
-        "typescript",
-        "react",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 18,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502?utm_source=api",
-      "expires": "2027-01-13T11:43:11+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -296,35 +370,67 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd",
+      "id": "himalayas:https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content",
       "source": "Himalayas",
-      "title": "micro1: Aerodynamics Expert (MSc. or PhD)",
-      "url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd",
-      "posted": "2026-11-12T13:00:10+00:00",
-      "body": "Aerodynamics Expert (MSc. or PhD)\nPay: $80–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you can choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing an airfoil, preparing a computational domain and mesh, defining appropriate boundary conditions, running a CFD simulation, calculating lift and drag, and determining whether the resulting flow field is numerically and physically valid.What You’ll Work On\nSolve and validate aerodynamic and fluid-dynamics problems.\nTranslate physical requirements into computational models and solver-ready cases.\nCreate or modify geometries, computational domains, and meshes.\nDefine appropriate initial conditions, boundary conditions, fluid properties, and solver settings.\nRun CFD and aerodynamic-analysis workflows using command-line-accessible tools.\nUse Python to automate preprocessing, simulation execution, parameter sweeps, postprocessing, and validation.\nRequired Qualifications\nAn MS or PhD in Aerospace Engineering, or Mechanical Engineering with an aerodynamics, fluid dynamics, or thermofluids specialization; or\nA BS in Aerospace or Mechanical Engineering plus at least 1–2 years of aero-specific professional or research experience.\nStrong understanding of fluid mechanics and applied aerodynamics.\nExperience formulating and executing CFD or aerodynamic analyses.\nPractical proficiency with Python.\nExperience with at least one engineering tool or library that can be operated through a CLI, scripting interface, configuration files, or programmatic API.\nAbility to select and justify modeling assumptions, boundary conditions, mesh strategies, and solver settings.\nAbility to diagnose non-convergence, unstable solutions, incorrect results, and physically invalid outputs.\nAbility to communicate technical reasoning and engineering trade-offs clearly.\nRelevant tools may include Python,OpenFOAM, SU2, Gmsh, FEniCSx, Elmer, CalculiX, SciPy, or similar programmatic engineering software. Experience with an equivalent CLI-accessible tool is acceptable.\nRelevant Python tools may include NumPy, SciPy, pandas, Matplotlib, Jupyter, solver APIs, mesh-processing libraries, or domain-specific scientific packages. No single library is mandatory.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$80",
-      "score": 4,
+      "title": "Entrepreneur Cooperative: Marketing Manager, Communications & Content",
+      "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content",
+      "posted": "2026-11-14T10:22:53+00:00",
+      "body": "★ PLEASE SUBMIT YOUR CV IN ENGLISH ★\nMarketing Manager, Communications & Content\nLocation: Remote – Mexico\nWork Arrangement: This is a fully remote (telecommute) position.\nEmployment Type: Independent Contractor (ongoing)\nIndustry: Marketing & Advertising\nCompensation: $1,000–$1,300 USD/week\nSchedule: Self-directed; you set your own schedule and methods, with weekly or biweekly updates\nEnglish Proficiency: C1 (Excellent spoken and written English)\nStart Date: November 16, 2026About the RoleA leading independent PR, creative, and digital agency is seeking an experienced marketing and communications professional to support the agency's own brand, content, and visibility on a contract basis. The firm combines earned media, digital marketing, and generative engine optimization (GEO) with the agency's own research and studies, to help brands show up wherever buyers search, scroll, or ask, including in AI search and answer engines. Its communications work is done in house, spanning earned media, content, social, video, performance marketing, and AI-driven visibility.\nThis engagement covers a broad mix of work: PR and communications for the agency's own research and studies, social media, video, press release distribution, agency awards, paid search, and content built for generative AI search. It also includes applying AI automation to make the agency's marketing workflows more efficient.\nYou will deliver on an agreed-upon scope and content calendar while setting your own schedule and methods. This remote role is ideal for a self-directed marketer who is equally comfortable writing a press release, editing a video, and building an automated workflow.Why This Opportunity?\nBroad ownership of the agency's own brand, content, and visibility, not a narrow single-channel brief.\nA mix of PR, social, video, awards, paid search, and AI-search content, plus marketing automation.\nReal autonomy: you set your own schedule and methods, and deliver against an agreed scope and content calendar.\nWhat You'll DoCommunications, PR & Research Visibility\nManage all communications for the agency's own research, studies, and related content.\nLead PR outreach to secure media coverage for that research and those studies.\nWrite, format, and distribute press releases through PR Newswire.\nSocial, Video & Content\nCreate and publish social media content according to the content calendar.\nProduce and edit short-form video for social, blogs, and other channels.\nWrite GEO-friendly (generative engine optimization) content so the agency's research surfaces in AI search and answer engines.\nAwards, Paid Search & Automation\nManage the awards program: identify opportunities, write and submit entries, promote wins, and coordinate trophy orders.\nPlan, manage, and optimize PPC campaigns, with performance and spend reporting.\nBuild and maintain AI-powered automations for content production, distribution, and reporting.\nProvide weekly or biweekly updates on progress and results.\nQualificationsRequired Qualifications\n3+ years of experience in marketing, communications, or PR, ideally with or for an agency.\nStrong writing across press releases, award submissions, social, and long-form content.\nExperience with media pitching and securing coverage.\nHands-on video production and editing (Adobe Premiere Pro, CapCut, Final Cut Pro, or similar).\nHands-on PPC experience (Google Ads, LinkedIn Ads).\nFamiliarity with PR Newswire or other wire services.\nExperience with GEO/AEO and SEO for AI search.\nExperience building marketing automations with AI tools (ChatGPT, Claude, Zapier, Make, or similar).\nSelf-directed and organized, able to manage a broad scope without close day-to-day supervision.\nC1 English (excellent spoken and written English).\nBased in Latin America or North America, and able to work fully remotely.\nPreferred Qualifications\nBachelor's degree in Marketing, Communications, Journalism, or a related field.Candidate Evaluation ConsiderationsTo ensure success in this role, the following factors will be carefully evaluated during the selection process:\nStrong writing across press releases, award submissions, social, and long-form content.\nExperience with media pitching and a track record of securing coverage.\nHands-on video production and editing.\nHands-on PPC experience (Google Ads, LinkedIn Ads).\nFamiliarity with PR Newswire or other wire services.\nWorking knowledge of GEO/AEO and SEO for AI-driven search.\nExperience building marketing automations with AI tools.\nAbility to work in a self-directed way and manage a broad, multi-channel scope without close day-to-day supervision.\nAt least 3 years of experience in marketing, communications, or PR, ideally in an agency setting.\nC1 spoken and written English.\nAvailability to work fully remotely from Latin America or North America.\nHow Success Is Measured\nThe agency's research and studies earn consistent media coverage and stay visible.\nSocial content stays on calendar, and short-form video supports the right channels.\nPress releases are accurate, well formatted, and distributed on time through the wire.\nThe awards program runs smoothly: opportunities are captured, entries are submitted, wins are promoted, and trophy orders are coordinated.\nPPC campaigns improve over time, with clear performance and spend reporting.\nGEO-friendly content helps the agency's research surface in AI search and answer engines.\nMarketing workflows become more efficient as AI-powered automations are built and maintained.\nStakeholders stay informed through clear, timely weekly or biweekly updates, and the agreed scope and content calendar are delivered.\nWhy Join Us\nFully remote opportunity from Latin America or North America.\nCompetitive compensation: $1,000–$1,300 USD/week, depending on experience.\nAn ongoing contract supporting the brand and visibility of a leading independent agency.\nA results-focused culture that values adaptation, impact, and people who want to create what comes next.\nImportant NotesApplications may not be considered if candidates:\nAre not based in Latin America or North America.\nDo not have at least 3 years of experience in marketing, communications, or PR.\nDo not have C1 spoken and written English, or cannot show strong writing across press releases, social, and long-form content.\nDo not have hands-on video production and editing experience, or hands-on PPC experience.\nAre not comfortable working in a self-directed way, without close day-to-day supervision.\nThis is a remote/telecommute position.\nBy applying, you can choose to let Hire Emerald and its technology partners use your de-identified application materials to train AI matching models, as described in our Privacy Policy (). This is optional and does not affect whether we consider your application.\nAl postularse, puede autorizar a Hire Emerald y a sus aliados tecnológicos a usar sus materiales de postulación desidentificados para entrenar modelos de IA de emparejamiento, según nuestra Política de Privacidad (). Esta autorización es voluntaria y no afecta la consideración de su postulación.\nOriginally posted on Himalayas",
+      "budget": "USD 1000 to 1300/weekly",
+      "score": 6,
       "matched": [
-        "automate",
+        "automation",
         "workflow",
-        "python",
+        "chatgpt",
+        "claude",
+        "zapier",
         "ai"
       ],
       "queue": "contract",
-      "priority": 17,
+      "priority": 16,
       "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S."
+      ],
+      "aliases": [],
+      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content?utm_source=api",
+      "expires": "2027-01-13T10:22:53+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker",
+      "source": "Himalayas",
+      "title": "dentsu international: Business Analyst - Temporary Worker",
+      "url": "https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker",
+      "posted": "2026-11-14T10:36:31+00:00",
+      "body": "Job Description:\nTEMP Role – W2 on Dentsu Payroll Only\n11/16/2026-1/29/2027 - possibility to extend or convert\nLocation: Hybrid or Remote depending on location\nApproximate #Hours/Week:\nTime Zone: EST\nMust be US BasedCOMPANY DESCRIPTION:\nMerkle, a dentsu company, powers the experience economy. For more than 35 years, the company has put people at the heart of its approach to digital business transformation. As the only integrated experience consultancy in the world with a heritage in data science and business performance, Merkle delivers holistic, end-to-end experiences that drive growth, engagement, and loyalty. Merkle's expertise has earned recognition as a \"Leader\" by top industry analyst firms, in categories such as digital transformation and commerce, experience design, engineering and technology integration, digital marketing, data science, CRM and loyalty, and customer data management. With more than 16,000 employees, Merkle operates in 30+ countries throughout the Americas, EMEA, and APAC.    ROLE OVERVIEW:\nWe are looking for a Temporary Business Analyst to lead business analysis activities across enterprise digital experience initiatives within the Adobe Experience Cloud ecosystem.\nIn this role, you will serve as a key connection between client business stakeholders and cross-functional delivery teams, translating business objectives and operational needs into clear, actionable requirements for Adobe-based solutions. You will work across platforms such as Adobe Experience Manager (AEM) Sites, AEM Assets, Edge Delivery Services, Adobe Workfront, and other Adobe Experience Cloud capabilities.\nThis is a client-facing role requiring someone who can independently lead discovery and requirements activities, facilitate complex stakeholder discussions, identify gaps and dependencies, and help shape solutions rather than simply document requests.\nYou will partner closely with client stakeholders, product owners, solution architects, UX teams, developers, QA teams, and delivery leadership throughout the full delivery lifecycle, from discovery and solution definition through implementation, testing, and release.\nThe ideal candidate brings strong Business Analysis fundamentals, significant Agile delivery experience, and hands-on experience working within Adobe Experience Cloud implementations.WHAT YOU’LL DO:\nLead requirements discovery and analysis for Adobe Experience Cloud implementations and enhancement initiatives.\nPlan and facilitate stakeholder interviews, discovery workshops, requirements sessions, and solution-definition discussions.\nTranslate business objectives into capabilities, epics, features, user stories, functional requirements, process flows, business rules, and acceptance criteria.\nIndependently own requirements for significant project workstreams from discovery through implementation.\nPartner with Adobe solution architects and technical teams to evaluate business requirements against platform capabilities and technical constraints.\nHelp stakeholders distinguish between business needs, solution requirements, and implementation preferences.\nIdentify gaps, dependencies, assumptions, risks, and conflicting requirements and drive them toward resolution.\nRecommend practical solutions when business requests conflict with Adobe platform capabilities, established implementation patterns, or project constraints.\nDevelop clear, testable user stories and acceptance criteria that enable development and QA teams to execute effectively.\nOwn backlog quality and requirements readiness for assigned initiatives.\nLead and participate in backlog refinement, sprint planning, sprint reviews, retrospectives, and other Agile delivery ceremonies.\nWork closely with Product Owners to support backlog prioritization and sequencing.\nMaintain requirements traceability from initial business objectives through implementation and validation.\nCoordinate requirements across business, UX, content, development, integrations, analytics, and QA workstreams.\nLead functional support for QA and User Acceptance Testing (UAT), including test scenario review, requirement validation, defect triage, and functional clarification.\nSupport release-readiness activities and validate that delivered functionality addresses the intended business need.\nDocument current-state and future-state processes, workflows, governance models, business rules, and operating procedures.\nCommunicate effectively with both business and technical stakeholders, translating between the two when necessary.REQUIRED QUALIFICATIONS:\n2-3+ years of Business Analysis experience within digital experience, marketing technology, enterprise technology consulting, product delivery, or a related field. \nDemonstrated experience supporting or delivering enterprise solutions within the Adobe Experience Cloud ecosystem.\nHands-on Business Analysis experience with Adobe Experience Manager, specifically AEM Sites and/or AEM Assets.\nExperience gathering and defining requirements for AEM capabilities, workflows, content models, authoring experiences, asset management, or related platform functionality. \nDemonstrated experience independently leading requirements discovery and requirements-management activities. \nStrong experience working within Agile delivery environments, including Scrum-based delivery. \nHands-on experience using Jira and Confluence to manage requirements, user stories, acceptance criteria, documentation, backlog activities, and delivery coordination. \nSignificant experience supporting Quality Assurance and User Acceptance Testing, including requirement validation, test scenario review, defect triage, and functional clarification. \nStrong experience developing epics, features, user stories, functional requirements, business rules, and acceptance criteria. \nExperience facilitating discovery workshops and requirements sessions with business and technical stakeholders. \nExperience supporting backlog refinement, sprint planning, and prioritization activities. \nStrong understanding of the software development lifecycle and how Business Analysis supports discovery, design, development, testing, and release. \nAbility to independently manage a project workstream and drive requirements from ambiguity to an implementable solution. \nAbility to manage multiple priorities in a complex enterprise delivery environment. \nStrong analytical and problem-solving capabilities. \nExcellent written and verbal communication skills. PREFERRED EXPERIENCE:\nExperience with multiple Adobe Experience Cloud capabilities is highly desirable, including: \nAdobe Experience Manager Sites \nAdobe Experience Manager Assets \nAdobe Edge Delivery Services \nAdobe Workfront \nAdobe Content Hub \nAdobe Dynamic Media \nAdobe certifications are a plus. ADDITIONAL INFORMATION:\nAt dentsu, we believe great work happens when we’re connected. Our hybrid way of working combines remote flexibility with regular in-person collaboration to spark ideas and strengthen our teams. Many of our employees who live within commuting distance (90 minutes) from one of our Headquarter or Hub Offices (New York, Chicago, Detroit, Los Angeles) are required to work in the office 2-3 days per week including one Team Day. The minimum number of days may vary by office and role. Dentsu may designate other HQ or Hub offices at any time. Those who do not live near an office may be designated as a remote employee, depending on the role and business needs. Regardless of your work location, we expect you to be flexible to meet the needs of our Company and clients, which may include attendance in an office from time to time.\nThe hourly pay range for this position is $53.74-$70.00. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA – Remote – Texas – Central TimeBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
+      "budget": "USD 53.74 to 70/hourly",
+      "score": 3,
+      "matched": [
+        "problem: API connection"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "API connection",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
-        "check eligibility: Worldwide (check timezone)"
+        "check eligibility: United States"
       ],
       "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
+      "location": "United States",
+      "employment_type": "Temporary",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-msc-or-phd?utm_source=api",
-      "expires": "2026-12-15T23:52:43+00:00",
+      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker?utm_source=api",
+      "expires": "2027-01-13T10:36:31+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -457,6 +563,69 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote",
+      "source": "Himalayas",
+      "title": "YO AI Labs: AI Trainer (ML Engineering) - Remote",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote",
+      "posted": "2026-11-14T15:34:13+00:00",
+      "body": "Job Description: Open-Source Software Contributor & Technical Expert\nRole Type: Contractor\nLocation: Global (Fully Remote)\nTime Commitment: 15+ Hours per Week\nSchedule: FlexibleAbout the Role\nWe are seeking exceptional open-source contributors and technical experts to support an AI training project focused on complex, real-world technical workflows.\nIn this role, you will apply your programming and domain expertise to create, solve, review, and validate challenging technical tasks across software engineering, machine learning, science, hardware, and engineering. Your contributions will help improve how advanced AI systems reason, write code, use technical tools, and complete complex, long-term projects.\nPrior AI training experience is not required. We are primarily looking for candidates with strong programming skills and publicly verifiable technical contributions.Key Responsibilities\nCreate realistic technical tasks based on professional, scientific, and engineering workflows.\nBuild reproducible task environments, reference solutions, tests, and objective evaluation criteria.\nReview AI-generated outputs for correctness, completeness, and technical quality.\nDiagnose AI model failures and explain technical errors, limitations, and incorrect approaches.\nDevelop and validate challenging tasks that assess practical problem-solving abilities.\nApply domain expertise to evaluate technical solutions across relevant fields.\nRequired Skills and Qualifications\nStrong programming skills, including practical proficiency in Python.\nMeaningful contributions to open-source software or substantial original public projects.\nDemonstrated expertise in at least one of the following areas:\nSoftware Engineering\nMachine Learning and Data Science\nScientific Computing\nHardware, Embedded Systems, or Electronics\nMechanical, Aerospace, Civil, Chemical, or Electrical Engineering\nDeveloper Tools, Infrastructure, Automation, or Security\nPublic Proof of Technical Expertise\nApplicants must be able to provide publicly verifiable evidence of their technical work, such as:\nMeaningful merged contributions to established repositories.\nMaintainer or core-contributor responsibilities.\nSubstantial original repositories or technical tools.\nContributions to scientific or engineering software.\nPublic code supporting published research.\nContributions involving implementation, debugging, testing, performance optimization, infrastructure, simulation, or data processing.\nNote: Forks, tutorial-only repositories, superficial documentation edits, contribution counts, or AI-generated repositories alone are not considered sufficient evidence of technical expertise.Preferred Qualifications\nExperience designing technical tests, benchmarks, evaluation tasks, or reproducible environments.\nExperience reviewing code or technical contributions from other developers.\nCompetition results, scientific publications, public technical writing, or other evidence of professional expertise.\nPrevious experience contributing to complex technical projects over an extended period.\nApplication Process\nSubmit your application along with public technical profiles and project contributions.\nComplete an AI interview that includes technical and integrity checks.\nUndergo a Hiring Manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 4,
+      "matched": [
+        "automation",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 13,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote?utm_source=api",
+      "expires": "2027-01-13T15:34:12+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
+      "source": "Himalayas",
+      "title": "YO AI Labs: 在宅ビデオ撮影スタッフ（日本）",
+      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
+      "posted": "2026-11-14T11:43:11+00:00",
+      "body": "Job Description: Frontend / UI Engineer\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Frontend / UI Engineers to create and evaluate challenging coding tasks based on visual references such as screenshots, UI mockups, diagrams, and screen recordings. You will use your frontend development expertise to design tasks with clear requirements, measurable success criteria, and working reference implementations.Key Responsibilities\nDesign multi-step coding tasks based on screenshots, UI mockups, diagrams, and screen recordings of real workflows.\nDefine the code, files, and artifacts involved in each task, along with the expected functionality and behavior.\nEstablish objective success criteria to ensure tasks can be accurately verified and evaluated.\nDevelop working reference implementations demonstrating the expected results.\nReview tasks created by other contributors for technical accuracy, clarity, and verifiability.\nIdentify and flag ambiguous or ungradable tasks rather than submitting unclear requirements.\nRequired Qualifications\nA public GitHub profile demonstrating substantial and verifiable contributions, such as commits, merged pull requests, or maintained repositories. This is essential.\nStrong frontend development experience with React, TypeScript, or similar technologies.\nExperience building and delivering complex user interfaces and interactive applications.\nAbility to read, modify, debug, and validate real application code.\nStrong written English communication skills.\nAbility to explain expected application behavior and provide clear, reproducible verification steps.\nPreferred Qualifications\nExperience with UI development, graphics, SVG, or Canvas.\nProduct or UI design experience combined with hands-on frontend implementation and public code contributions.\nPrevious experience in data labeling, AI evaluation, or rubric-based technical review.\nOriginally posted on Himalayas",
+      "budget": "USD 35 to 100/hourly",
+      "score": 4,
+      "matched": [
+        "typescript",
+        "react",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 12,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502?utm_source=api",
+      "expires": "2027-01-13T11:43:11+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
       "source": "Himalayas",
       "title": "YO AI Labs: Computational Chemistry, Structural Biology & Drug Discovery Scientist   - Remot",
@@ -584,20 +753,52 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50495944",
-      "source": "HN Who is hiring",
-      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote",
-      "url": "https://news.ycombinator.com/item?id=50495944",
-      "posted": "2026-11-14T10:50:31+00:00",
-      "body": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote\nSenior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces.\nRecent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities.\nPortfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon2004@gmail.com",
+      "id": "himalayas:https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months",
+      "source": "Himalayas",
+      "title": "Sutherland: Senior Team Manager | Ed Tech | Temporary | 6 Months",
+      "url": "https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months",
+      "posted": "2026-11-15T13:25:38+00:00",
+      "body": "Sutherland is seeking a fully remoteSenior Temporary Team Manager (6 Months) who will oversee one of our Educational Technology programs! \nAs a Senior Team Manager, you will manage a team of 4 Team Managers who oversee an elite brand ambassadors managing complex interactions, including high-net-worth stakeholders, school leadership, and families, our leadership team needs to model and coach to a very high standard.\nWhen supporting and developing Team Managers, we expect the Senior Team Manager to heavily emphasize and coach to the following competencies:\nSophisticated Relationship Management: Moving past script-reading to guide agents on high-touch, professional communication with high-value stakeholders and school executives.\nEmotional Intelligence & Composure: Mentoring agents on handling sensitive, high-emotion, or complex situations with natural empathy, tact, and grace.\nCritical Thinking & Problem-Solving: Guiding agents through intricate policy guidelines to deliver definitive, accurate solutions under pressure.\nMultitasking & Tech-Acumen: Ensuring agents maintain seamless navigation across multiple platforms while speaking confidently with callers, keeping handling times efficient without sacrificing care.\nAttention to Detail & Self-Motivation: Cultivating a culture of ownership where agents take pride in every interaction and adhere strictly to program guidelines.\nRemote Environment & Operational Excellence - maintaining rigorous oversight of remote performance metrics, ensuring adherence to schedules, and supporting a secure, distraction-free culture.\nCollaboration with WFM: As we manage tight pacing, daily commitments, and shrinkage targets (keeping overall shrinkage below 10%), your partnership in driving attendance and adherence is critical.\nOur most successful candidates will have:\nExperience managing Team Leads who oversee support customer service/tech support representatives will be a major plus\nAt least 2 years experience managing a remote team of support customer service representatives in the Educational Technology industry is highly preferred. \nExperience dealing with high-end donations/contributions\nExperience managing a team that handles foundational questions from donors will be ideal - how to donate, general tax inquiries, alongside supporting K-12 public/private school leadership, partners, and participating families.\nAbility to take the lead in making improvements and resolving issues\nStrong verbal and written communication skills; able to communicate in a clear, constructive, and professional manner\nAbility to be customer-oriented in managing communications and issues\nAbility to efficiently manage time and keep track of multiple schedules, meetings, and initiatives\nAbility to be pro-active in developing trust and professional rapport with employees and team members\nAll your information will be kept confidential according to EEO guidelines.EEOC and Veteran Documentation\nDuring employment, employees are treated without regard to race, color, religion, sex, national origin, age, marital or veteran status, medical condition or handicap, or any other legally protected status.\nAt times, government agencies require periodic reports from employers on the sex, ethnicity, handicap, veteran and other protected status of employees. The purpose of this Administrative EEO Record is for statistical analysis only and is used to comply with government record keeping, reporting, and other legal requirements. Periodic reports are made to the government on the following information. The completion of the Administrative EEO record is optional. If you choose to volunteer the requested information, please note that all \nAdministrative EEO Records are kept in a Confidential File and are not part of your Application for Employment or Personnel file.\nPlease note: YOUR COOPERATION IS VOLUNTARY. INCLUSION OR EXCLUSION OF ANY DATA WILL NOT AFFECT ANY EMPLOYMENT DECISION.\nArtificial Intelligence. Automation. Cloud Engineering. Advanced Analytics.\nFor Enterprises, these are key factors of success. For us, they're our core expertise.\nWe work with global iconic brands. We bring them a unique value proposition through market-leading technologies and business process excellence. At the heart of it all is Digital Engineering - the foundation that powers rapid innovation and scalable business transformation.\nWe've created 363 unique and independent inventions, 250 of which are AI-based and rolled up under several patent grants in critical technologies. Leveraging our advanced products and platforms, we drive digital transformation at scale, optimize critical business operations, reinvent experiences, and pioneer new solutions, all provided through a seamless \"as-a-service\" model.\nFor each company, we provide new keys for their businesses, the people they work with, and the customers they serve. With proven strategies and agile execution, we don't just enable change - we engineer digital outcomes.\nSutherlandDigital Outcomes.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "automation",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 8,
+      "reasons": [
+        "posted within 6 hours"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Temporary",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months?utm_source=api",
+      "expires": "2027-01-14T13:25:37+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer",
+      "source": "Himalayas",
+      "title": "Sparq: (Contractor) Senior Lead React Native Engineer",
+      "url": "https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer",
+      "posted": "2026-11-14T20:37:41+00:00",
+      "body": "At Sparq, we help companies solve the right problems—not just build more technology.\nWe’re a modern product engineering partner blending strategy, craftsmanship, and speed to help organizations modernize confidently in the age of AI. From data ecosystems to digital products and AI acceleration, we turn complexity into clarity and ideas into impact.\nIf you’re driven to build what’s next, lead with empathy, and deliver excellence without ego, you’ll feel right at home at Sparq.\nC2C is not available\nMust be authorized to work in the U.S. without sponsorship\nA Day in the Life:\nLead the overall solution architecture and technical design of a React Native mobile application, ensuring seamless integration with the .NET backend, APIs, and Azure cloud services.\nDrive architectural decisions and establish development best practices across React Native, TypeScript, iOS, and Android platforms.\nDesign and oversee secure REST APIs using OpenAPI standards, Azure API Management, and Microsoft Entra ID authentication with MSAL.\nCollaborate with security, IT, and engineering stakeholders to ensure mobile application security, scalability, and alignment with enterprise standards.\nLead technical design discussions, conduct code reviews, and provide architectural guidance to engineers throughout the development lifecycle.\nEvaluate native versus cross-platform solutions through technical validation, including voice capture capabilities and testing on physical iOS and Android devices.\nAssess enterprise mobile application distribution options and recommend approaches that align with business requirements and IT policies.\nProvide technical leadership across mobile development, backend integration, authentication, and Azure OpenAI capabilities to support a reliable, scalable solution.\nWhat it takes:\nConsultative approach and problem solving skills to successfully align digital solutions with long-term business goals of the client\nHands-on experience using AI tools to enhance daily work, or a strong desire to do so, including a willingness to experiment, learn, and champion AI adoption within your role\nClaude Certified Developer or Architect highly preferred; possible opportunity to obtain as a Sparq colleague\nCommitment to understanding and exceeding client expectations\nAbility to perform project oversight and execution of deliverables\nFlexibility to adapt within a high-growth organization\nAbility to lead, mentor and motivate those around them\nHunger for continuous learning and professional development\nIntellectual curiosity to provide creative solutions\nFull understanding of the software development life cycle\nAbility to positively impact fellow colleagues through effective leadership, presentations, coaching, etc. \nDesire to work in a team environment\nGood interpersonal, written and verbal communication skills\nRegardless of your specific role, we seek individuals who are excited to explore, adopt, and evangelize AI tools and methodologies. If you have experience in AI or a proven track record of rapidly learning and mentoring others on emerging tech, you’ll fit right in.\nEqual Employment Opportunity Policy: Sparq is proud to offer equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.\nWe are committed to providing equal employment opportunities and believe in an inclusive workplace. If you require reasonable accommodations to participate in the job application or interview process, please let us know by contacting \nOriginally posted on Himalayas",
       "budget": null,
       "score": 6,
       "matched": [
-        "full-stack",
+        "react native",
         "typescript",
-        "next.js",
-        "node",
-        "saas",
+        "claude",
+        "openai",
         "ai"
       ],
       "queue": "contract",
@@ -605,65 +806,96 @@
       "reasons": [],
       "flags": [
         "budget unknown",
+        "check eligibility: United States",
         "seniority requirement needs review"
       ],
       "aliases": [],
-      "location": "",
-      "employment_type": "",
+      "location": "United States",
+      "employment_type": "Contractor",
       "currency": "",
-      "apply_url": "",
-      "expires": null,
+      "apply_url": "https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer?utm_source=api",
+      "expires": "2027-01-13T20:37:40+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd",
+      "id": "himalayas:https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization",
       "source": "Himalayas",
-      "title": "micro1: Hardware Expert (MSc. or PhD)",
-      "url": "https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd",
-      "posted": "2026-11-12T13:00:10+00:00",
-      "body": "Hardware Expert (MSc. or PhD)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nWe are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We value engineers who can connect first-principles reasoning with practical constraints and produce work that can be independently verified.Scope of Work\nCreate technically rigorous, self-contained hardware engineering problems based on realistic industry or research scenarios.\nDevelop clear reference solutions using engineering calculations, simulations, scripts, experimental reasoning, or other appropriate methods.\nUse tools such as Python, MATLAB, Simulink, SPICE, Julia, C/C++, test automation platforms, or equivalent engineering software to validate results when relevant.\nPreferred Qualifications\nBachelor’s, Master’s, or PhD degree in Electrical Engineering, Mechanical Engineering, Mechatronics, Aerospace Engineering, Systems Engineering, Applied Physics, or a closely related field.\nSignificant professional or research experience in hardware engineering, product development, systems integration, testing, validation, reliability, or failure analysis.\nDemonstrated ownership of a substantial engineering problem—for example, a product or subsystem that reached production, a model validated against physical testing, a test system you developed, or a difficult failure you diagnosed.\nExperience working with Coding Agents is a must\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$60",
-      "score": 5,
+      "title": "KData Inc.: Data Architect – PBM Data Modernization",
+      "url": "https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization",
+      "posted": "2026-11-14T20:26:33+00:00",
+      "body": "This is a remote position.Data Architect – PBM Data Modernization\nLocation: Remote (US Only) Industry:Pharmacy Benefit Management (PBM)Platform:Google Cloud PlatformRole Overview\nWe're looking for a Data Architect to lead data modeling and source-to-target mapping for a Pharmacy Benefit Manager (PBM) modernization program on Google Cloud. The role covers migrating legacy claims and eligibility data, and the IBM Cognos reporting built on it, into a new BigQuery-based enterprise data warehouse. It also ensures the future-state platform meets state-specific Medicaid reporting requirements, starting with the MVP.Key Responsibilities\nDefine the semantic and logical data models for MVP and future-state reporting, covering pharmacy claims, member eligibility, prescriber, pharmacy network, formulary, rebates, and pricing domains.\nOwn mapping execution end to end. Define source-to-target mappings, transformation rules, and business logic from legacy structures to the new warehouse.\nInventory and analyze legacy IBM Cognos (Cognos Explorer / Cognos Analytics) reports, packages, and Framework Manager models. Reverse-engineer embedded business logic and calculations, and rationalize reports for redesign on the future-state platform.\nSet mapping standards, templates, naming conventions, and documentation practices. Direct the Data and Systems Analysts and review their work for quality and consistency.\nLead gap analysis and drive each gap to a decision (build, defer, workaround, or descope) with business, compliance, and technical stakeholders.\nTranslate state Medicaid reporting requirements (encounter data submissions, MCO/PBM transparency reports, spread pricing and pass-through disclosures, T-MSIS-aligned extracts) into data model and mapping specifications.\nDefine data quality rules, reconciliation checkpoints, and lineage so legacy-to-target results, including Cognos report outputs, are traceable and audit-ready.\nWork with data engineers on ingestion and transformation design on GCP, and use Vertex AI and Gemini to speed up mapping, profiling, and documentation.\nRequirements\nQualifications\n10+ years in data architecture or data modeling, with at least 3 years in PBM, pharmacy, or health plan data.\nHands-on experience with NCPDP claim standards, Medicaid and managed care reporting, and legacy migration programs.\nStrong skills in dimensional and semantic modeling, plus advanced SQL.\nExperience with IBM Cognos Analytics / Cognos Explorer, including Framework Manager packages, report specifications, and migrating Cognos reporting to a modern BI platform.\nHands-on experience with Google Cloud data services:\nBigQuery for warehouse design, including partitioning, clustering, and authorized views\nDataflow and Dataproc for transformation pipelines\nCloud Composer (Airflow) for orchestration\n–Cloud Storage for landing zones\nDataform or dbt for SQL-based transformations\nFamiliarity with Dataplex and Data Catalog for metadata, lineage, and data quality, and with Looker (LookML) for building the semantic layer.\nProven experience leading analyst teams and running mapping governance.\nWorking knowledge of HIPAA, CMS regulations, and state-level Medicaid compliance, along with GCP security controls (IAM, VPC Service Controls, CMEK).\nLocation & Work Authorization: Must currently reside in the United States and hold valid US work authorization without sponsorship. \nNice to Have\nExposure to Vertex AI or Gemini in BigQuery for AI-assisted mapping, profiling, and documentation.\nGoogle Cloud Professional Data Engineer or Professional Cloud Architect certification.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
       "matched": [
-        "automation",
-        "workflow",
-        "agents",
-        "python",
+        "gemini",
+        "mvp",
         "ai"
       ],
       "queue": "contract",
       "priority": 7,
       "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
+        "explicit hiring intent"
       ],
       "flags": [
-        "project budget below preferred floor",
-        "check eligibility: Worldwide (check timezone)"
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
       ],
       "aliases": [],
-      "location": "Worldwide (check timezone)",
+      "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/hardware-expert-msc-or-phd?utm_source=api",
-      "expires": "2026-12-16T03:42:04+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization?utm_source=api",
+      "expires": "2027-01-13T20:26:33+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
+      "id": "himalayas:https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr",
       "source": "Himalayas",
-      "title": "dentsu international: Manager, Data Modeling and Data Science - Temporary Worker",
-      "url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
-      "posted": "2026-11-14T12:05:02+00:00",
-      "body": "Job Description:Temporary role, W2 statusStart date: ASAP ~4-5 month engagementCandidates must be located in the U.S. \nROLE SUMMARY\nThe Manager, Data Modeling & Data Science will drive strategic business impact through advanced analytics and predictive modeling, serving as a trusted advisor to clients across multiple vertical portfolios. This role combines hands-on technical excellence with strategy —designing sophisticated analytical solutions, owning quality assurance across all deliverables, and mentoring analysts. The Manager will act as the client's analytical partner, translating complex marketing challenges into data-driven strategies that drive measurable business outcomes.\nEnsure timely delivery of data, analytics, and models to support the client’s data licenses, database marketing initiatives, and campaigns;\nDeveloping and/or editing R code, Python code for model builds, scoring and delivery.\nProvide direction and manage the work processes and output of database marketing analysts;\nParticipate in creating relevant solutions for clients by evaluating client needs for quantitative analysis and in developing methods or processes for implementation;\nLeverage knowledge, and hands on work, of data and statistical modeling techniques to provide suggestions or guidance to teams using tools like Snowflake/SQL/Python/R\nProvide hands on building and optimization of clients’ multi-channel campaigns through model building, campaign scoring, and production using tools like Snowflake/SQL/Python/R.\nPerform 3rd party data vendor evaluations for the data product leveraging qualitative and quantitative methods.\nManage project tasks, timelines and deliverables inclusive of model builds, deployment, campaign production activities, like scoring.\nAct as an advisor in the following techniques: Predictive statistical models, Customer profiling, Segmentation Analysis, Campaign Analysis & Scoring, Data Analysis and Mining,\nCo-presenting modeling findings and campaign results to clients,\nWork independently with minimum supervision, and provide guidance to junior team members;\nundefinedExperience: \nPossess core database marketing knowledge such as understanding of company and client data, relational database concepts, and direct marketing concepts;\n5+ years in quantitative marketing/analytics/data science\nAdvanced Experience with Snowflake, SQL, R, Python, AI tools (Claude) logistic regression, linear regression, XGboost machine learning, clustering;\nAdvanced experience using 3rd party data in combination with 1st party data for modeling, scoring, and campaign analytics;\nAbility to explain/present complicated/advanced analytical methodology and results to non-technical audiences;\nAbility to execute advanced analytic tasks (including but not limited to developing/editing modeling code, modeling, segmentation, DOE, forecasting, etc.) and create meaningful analytical outputs;\nAbility to translate analysis insights into actionable recommendations and strategies for marketers; Experience with applying statistical techniques such as regression, cluster analysis, factor analysis, to solve business problems;\nPossess core analytical competencies such as ability to formulate an analytical problem, QC data and results, summarize key findings/insights, make actionable recommendations, and develop new and innovative analytical solutions to solve challenging business problems;\nRequires a Bachelor’s degree or foreign equivalent in Statistics, Math, Economics or related scientific/quantitative field and at least five (5+) years of experience as a Data Analyst or related occupation. Masters+ preferred.\nThe hourly pay range for this position is $65.79 - $87.77. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA - Remote - ColoradoBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
-      "budget": "USD 65.79 to 87.77/hourly",
+      "title": "RustLabs: Remote AI Education Rater for Students and Recent Grads ($20/hr)",
+      "url": "https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr",
+      "posted": "2026-11-15T01:19:00+00:00",
+      "body": "Do you use Google Gemini to study? We're hiring US students and recent graduates for a remote, 16-week contract helping train AI models to teach and explain things better.\nWhat you'll do\nResearch and fact-check information online\nWork through tricky content and logic problems\nReview AI answers, then find and fix the errors\nWrite clear explanations that help train AI models\nYou need\nTo have used Gemini for at least 18 months, with at least 10 conversations where you used it to learn (studying, understanding concepts, practicing). This is checked, so please don't make a new account for it\nTo be a current student or a recent graduate\nNative or fully fluent US English\nTo live in the US, but not in Texas, Illinois, California, Connecticut, Massachusetts, New Jersey or Vermont\n20 to 40 hours a week, with 4 hours overlapping US Pacific time\nPay and length\n$20 per hour\nFully remote contract, 16 weeks with a possible extension, starts right away\nHow to apply\nClick Apply and fill in our 1-minute form. Shortlisted people send a dated screenshot of their Gemini history and links to 10+ study conversations, then move to onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 20 to 20/hourly",
       "score": 3,
       "matched": [
-        "claude",
-        "python",
+        "gemini",
         "ai"
+      ],
+      "queue": "contract",
+      "priority": 6,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr?utm_source=api",
+      "expires": "2026-12-13T05:51:43+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/fhi-360/jobs/data-engineer",
+      "source": "Himalayas",
+      "title": "FHI 360: Data Engineer",
+      "url": "https://himalayas.app/companies/fhi-360/jobs/data-engineer",
+      "posted": "2026-11-14T17:16:07+00:00",
+      "body": "Position HighlightsPosition Title: Data EngineerFLSA Classification: Exempt\nLocation: Remote; must be based in the United States. Up to 10% domestic travel may be required.\nSalary Range: $103,500 - $143,500 annually, plus benefits. Individual salary offers will be based on experience and qualifications unique to each candidate.\nPosition Type: Grant-funded, limited-term opportunityPosition End Date: June 30, 2027Overview\nThe Data Engineer will play a key role in advancing the CDC Foundation's mission by designing, building, and maintaining data infrastructure for a public health organization. This position supports the Workforce Acceleration Initiative (WAI), a federally funded CDC Foundation program dedicated to helping public health agencies accelerate information system improvements through technology and data expertise.\nWorking within the Chickasaw Nation Department of Health (CNDH), Division of Public Health, the Data Engineer will collaborate in planning and developing solutions for interoperable data generation, storage, processing, and analysis across systems supporting tribal public health operations. The role will partner closely with data content experts, analysts, data scientists, data modelers, data warehouse architects, IT professionals, and other organizational staff to design and implement scalable, sustainable solutions that meet agency needs.\nIn addition to technical responsibilities, the Data Engineer will provide training and mentorship to Division of Public Health staff to support capacity building and promote long-term system sustainability.\nThe Data Engineer will be employed by the CDC Foundation and assigned to the CNDH Division of Public Health. This position is eligible for a fully remote work arrangement for candidates based in the United States.Responsibilities\nDesign, develop, and maintain data systems and pipelines that support the efficient and reliable ingestion, processing, transformation, and storage of data.\nCollect data from multiple sources; cleanse, transform, and validate data to ensure accuracy, consistency, and integrity before loading into data storage platforms and data warehouses.\nOptimize data pipelines, infrastructure, and workflows to improve performance, efficiency, reliability, and scalability.\nMonitor data pipelines and platforms for performance issues, errors, and anomalies, implementing corrective actions as needed.\nImplement and maintain appropriate security controls and data governance practices to protect sensitive and confidential information.\nCollaborate with data scientists, analysts, and business partners to understand data requirements and ensure data infrastructure supports organizational goals and objectives.\nPartner with cross-functional teams to gather requirements and design scalable, sustainable data solutions that meet business and public health needs.\nDevelop, implement, and maintain ETL (Extract, Transform, Load) processes to ensure the accuracy, completeness, and consistency of organizational data.\nDesign and manage data storage solutions, including relational databases, NoSQL databases, and enterprise data warehouses.\nStay current on industry trends, best practices, and emerging technologies in data engineering, incorporating innovative solutions into the organization's data ecosystem.\nProvide technical guidance, mentorship, and support to staff and project team members.\nCommunicate effectively with stakeholders at all organizational levels to gather requirements, provide project updates, and present technical solutions and findings.\nTravel domestically up to 10% as needed to support project and partner engagement activities.\nQualifications\nBachelor's degree in Computer Science, Information Technology, Data Science, or a related field required.\nMinimum of five (5) years of relevant professional experience in data engineering, data architecture, or a related field.\nProficiency in programming languages commonly used in data engineering, including Python, R, Java, Scala, and SQL.\nDemonstrated ability to develop scalable data automation solutions within established frameworks rather than relying on one-time scripting approaches.\nExperience with big data technologies and frameworks, such as Hadoop, Spark, Kafka, and Flink.\nStrong knowledge of database systems, including relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra).\nExperience working with large-scale or national datasets; experience with Epic Electronic Health Record (EHR) systems preferred.\nExperience using data visualization tools, including Power BI.\nKnowledge of software engineering best practices, including source control, automated testing, continuous integration and deployment (CI/CD), code review, and change management.\nStrong understanding of data warehousing concepts, methodologies, and technologies.\nExperience working with cloud computing platforms and cloud-native data solutions.\nExpertise in data modeling, ETL development, data integration, and data lifecycle management.\nFamiliarity with Agile development methodologies, software design patterns, and modern development best practices.\nStrong analytical thinking and problem-solving abilities.\nExcellent verbal and written communication skills, with the ability to clearly communicate technical concepts to non-technical stakeholders.\nAbility to adapt to evolving priorities, deadlines, and project requirements.\nOutstanding interpersonal and teamwork skills, with a demonstrated ability to build productive relationships with colleagues, partners, and stakeholders.\nExperience working with tribal nations and tribal data sovereignty principles preferred.\nExperience collaborating in remote and virtual work environments with geographically dispersed teams.\nProficiency in Microsoft Office Suite, including Word, Excel, PowerPoint, and Outlook.\nOther duties as assigned.\nSpecial Notes\nThis role is involved in a dynamic public health program. As such, roles and responsibilities are subject to change as situations evolve. Roles and responsibilities listed above may be expanded upon or updated to match priorities and needs, once written approval is received by the CDC Foundation to best support the public health programming.\nAll qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, national origin, age, mental or physical disabilities, veteran status, and all other characteristics protected by law. We comply with all applicable laws, including E.O. 11246 and the Vietnam Era Readjustment Assistance Act of 1974, governing employment practices and do not discriminate on the basis of any unlawful criteria in accordance with 41 C.F.R. §§ 60-300.5(a)(12) and 60-741.5(a)(7). As a federal government contractor, we take affirmative action on behalf of protected veterans.\nThe CDC Foundation is a smoke-free environmentRelocation expenses are not includedAbout the CDC Foundation\nThe CDC Foundation is an independent nonprofit authorized by Congress to mobilize philanthropic partners to support the public health system, including the U.S. Centers for Disease Control and Prevention (CDC), in preventing and responding to threats to health. In this role, we are focused on one priority: building catalytic, flexible and impactful partnerships—with corporations, philanthropies, individuals and organizations—to help improve the health and lives of people in all communities, everywhere. Visit www.cdcfoundation.org for more information\nOriginally posted on Himalayas",
+      "budget": "USD 103500 to 143500/annual",
+      "score": 3,
+      "matched": [
+        "automation",
+        "postgresql",
+        "python"
       ],
       "queue": "contract",
       "priority": 6,
@@ -676,10 +908,10 @@
       ],
       "aliases": [],
       "location": "United States",
-      "employment_type": "Temporary",
+      "employment_type": "Contractor",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker?utm_source=api",
-      "expires": "2027-01-13T12:05:01+00:00",
+      "apply_url": "https://himalayas.app/companies/fhi-360/jobs/data-engineer?utm_source=api",
+      "expires": "2027-01-13T17:16:07+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -751,6 +983,39 @@
       "date_basis": "posted"
     },
     {
+      "id": "hn:50495944",
+      "source": "HN Who is hiring",
+      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote",
+      "url": "https://news.ycombinator.com/item?id=50495944",
+      "posted": "2026-11-14T10:50:31+00:00",
+      "body": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote\nSenior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces.\nRecent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities.\nPortfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon2004@gmail.com",
+      "budget": null,
+      "score": 6,
+      "matched": [
+        "full-stack",
+        "typescript",
+        "next.js",
+        "node",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 2,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
       "source": "Himalayas",
       "title": "Homestead Studio: Retention Specialist",
@@ -784,34 +1049,34 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/gmail-google-calendar-ai-assistant-evaluator-remote-us",
+      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
       "source": "Himalayas",
-      "title": "RemoteJobsOne: Gmail & Google Calendar AI Assistant Evaluator – Remote (US)",
-      "url": "https://himalayas.app/companies/remotejobsone/jobs/gmail-google-calendar-ai-assistant-evaluator-remote-us",
-      "posted": "2026-11-12T15:35:25+00:00",
-      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in United States.\nPay: $15–$30/hr\nRole Title: Gmail & Google Calendar AI Assistant Evaluator\nRole Type: Contractor, Remote\nLocation: United States only\nWe are engaging Gmail & Google Calendar AI Assistant Evaluators to collaborate on a customer-driven project enhancing AI assistant quality through real-world task evaluation. In this role, you'll use your everyday experience managing your digital life — email, calendars, bookings, and coordination — to help train and evaluate next-generation AI assistants. Your work will shape how AI models handle the real tasks people delegate every day.Key Responsibilities:\nComplete realistic, everyday digital tasks (emailing, scheduling, booking, coordinating) using AI assistant tools under standardized, repeatable conditions.\nGive an AI assistant clear instructions for real-world tasks, then carefully review and verify its work for accuracy and completeness.\nApply detailed grading guidelines to evaluate, rank, and annotate assistant responses, providing structured feedback that improves model performance.\nTest scenarios involving email threads, calendar invites, online bookings, and multi-person coordination, ensuring coverage of diverse situations and edge cases.\nUtilize AI training tools and platforms to record findings and submit evaluation data in alignment with project standards and milestones.\nCollaborate with project trainers and contributors to resolve ambiguities, refine guidelines, and ensure evaluation consistency across the team.\nParticipate in ongoing quality reviews, incorporating feedback to maintain rigorous evaluation standards.\nRequired Skills and Qualifications:\nAre based in the US, have an iPhone with iMessage, and have a Facebook or Instagram account.\nDaily, hands-on use of Gmail and Google Calendar to run your own life: sending emails, accepting invites, scheduling, and rearranging plans.\nRegular experience coordinating with others over email or text — setting up meetups, following up on threads, or confirming shared plans and payments.\nComfort booking things online independently, such as restaurants, appointments, travel, or deliveries.\nExperience using AI tools for real, practical tasks, with comfort giving an AI assistant instructions and checking its work.\nExceptional attention to detail and accuracy when reviewing AI-generated output.\nStrong written communication skills for clear reporting and timely updates on progress and challenges.\nDemonstrated time management and self-organization for independent, remote project participation.\nPreferred Qualifications:\nPrior experience with AI evaluation, data labeling, user testing, or similar feedback-driven projects.\nFamiliarity with prompt writing and a practical understanding of AI assistant behaviors and limitations.\nExperience grading or reviewing AI outputs for accuracy, helpfulness, and safety.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
-      "budget": "USD 15 to 30/hourly",
+      "title": "dentsu international: Manager, Data Modeling and Data Science - Temporary Worker",
+      "url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
+      "posted": "2026-11-14T12:05:02+00:00",
+      "body": "Job Description:Temporary role, W2 statusStart date: ASAP ~4-5 month engagementCandidates must be located in the U.S. \nROLE SUMMARY\nThe Manager, Data Modeling & Data Science will drive strategic business impact through advanced analytics and predictive modeling, serving as a trusted advisor to clients across multiple vertical portfolios. This role combines hands-on technical excellence with strategy —designing sophisticated analytical solutions, owning quality assurance across all deliverables, and mentoring analysts. The Manager will act as the client's analytical partner, translating complex marketing challenges into data-driven strategies that drive measurable business outcomes.\nEnsure timely delivery of data, analytics, and models to support the client’s data licenses, database marketing initiatives, and campaigns;\nDeveloping and/or editing R code, Python code for model builds, scoring and delivery.\nProvide direction and manage the work processes and output of database marketing analysts;\nParticipate in creating relevant solutions for clients by evaluating client needs for quantitative analysis and in developing methods or processes for implementation;\nLeverage knowledge, and hands on work, of data and statistical modeling techniques to provide suggestions or guidance to teams using tools like Snowflake/SQL/Python/R\nProvide hands on building and optimization of clients’ multi-channel campaigns through model building, campaign scoring, and production using tools like Snowflake/SQL/Python/R.\nPerform 3rd party data vendor evaluations for the data product leveraging qualitative and quantitative methods.\nManage project tasks, timelines and deliverables inclusive of model builds, deployment, campaign production activities, like scoring.\nAct as an advisor in the following techniques: Predictive statistical models, Customer profiling, Segmentation Analysis, Campaign Analysis & Scoring, Data Analysis and Mining,\nCo-presenting modeling findings and campaign results to clients,\nWork independently with minimum supervision, and provide guidance to junior team members;\nundefinedExperience: \nPossess core database marketing knowledge such as understanding of company and client data, relational database concepts, and direct marketing concepts;\n5+ years in quantitative marketing/analytics/data science\nAdvanced Experience with Snowflake, SQL, R, Python, AI tools (Claude) logistic regression, linear regression, XGboost machine learning, clustering;\nAdvanced experience using 3rd party data in combination with 1st party data for modeling, scoring, and campaign analytics;\nAbility to explain/present complicated/advanced analytical methodology and results to non-technical audiences;\nAbility to execute advanced analytic tasks (including but not limited to developing/editing modeling code, modeling, segmentation, DOE, forecasting, etc.) and create meaningful analytical outputs;\nAbility to translate analysis insights into actionable recommendations and strategies for marketers; Experience with applying statistical techniques such as regression, cluster analysis, factor analysis, to solve business problems;\nPossess core analytical competencies such as ability to formulate an analytical problem, QC data and results, summarize key findings/insights, make actionable recommendations, and develop new and innovative analytical solutions to solve challenging business problems;\nRequires a Bachelor’s degree or foreign equivalent in Statistics, Math, Economics or related scientific/quantitative field and at least five (5+) years of experience as a Data Analyst or related occupation. Masters+ preferred.\nThe hourly pay range for this position is $65.79 - $87.77. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA - Remote - ColoradoBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
+      "budget": "USD 65.79 to 87.77/hourly",
       "score": 3,
       "matched": [
-        "prompt",
+        "claude",
+        "python",
         "ai"
       ],
       "queue": "contract",
       "priority": 0,
       "reasons": [
-        "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
       "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
+        "check eligibility: United States",
+        "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
-      "employment_type": "Contractor",
+      "employment_type": "Temporary",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/gmail-google-calendar-ai-assistant-evaluator-remote-us?utm_source=api",
-      "expires": "2027-01-11T15:35:24+00:00",
+      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker?utm_source=api",
+      "expires": "2027-01-13T12:05:01+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -843,41 +1108,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259?utm_source=api",
       "expires": "2027-01-13T08:56:07+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
-      "source": "Himalayas",
-      "title": "micro1: ML Engineer (MSc. or PhD)",
-      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd",
-      "posted": "2026-11-12T13:00:10+00:00",
-      "body": "Senior ML Engineer (MSc. or PhD)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA master’s degree or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$60",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": -5,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "project budget below preferred floor",
-        "check eligibility: Worldwide (check timezone)",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-msc-or-phd?utm_source=api",
-      "expires": "2026-12-15T19:35:19+00:00",
       "imported": false,
       "date_basis": "posted"
     }
