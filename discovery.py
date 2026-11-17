@@ -13,6 +13,7 @@ PROBLEMS = {
     "lead intake": r"\b(?:lead|form)\b.{0,60}\b(?:intake|routing|automation|spreadsheet|crm|notification)\b",
     "document assistant": r"\b(?:chatbot|assistant|chat bot)\b.{0,90}\b(?:documents|docs|pdf|knowledge base|faq)\b",
     "website repair": r"\b(?:fix|repair|debug|finish)\b.{0,60}\b(?:website|web site|web app|app|mvp|chatbot|bot|booking|payment|integration)\b",
+    "app build": r"\b(?:build|create|develop|make|code)\b.{0,45}\b(?:mobile app|ios app|android app|an app|my app|our app|the app|mvp|prototype|saas)\b",
     "website build": r"\b(?:build|create|develop|redesign)\b.{0,55}\b(?:website|landing page|booking system|dashboard|web app)\b",
     "data collection": r"\b(?:collect|extract|scrape|scraping)\b.{0,60}\b(?:data|prices|listings|website|directory|product)\b",
     "workflow repair": r"\b(?:fix|build|set up|setup|automate)\b.{0,60}\b(?:workflow|zapier|n8n|make\.com|email automation)\b",
@@ -22,6 +23,10 @@ SELLER = re.compile(r"^\s*(?:\[\s*(?:for\s*hire|offer)\s*\]|seeking work\b)|\b(?
 CONTRACT = re.compile(r"\b(?:contract(?:or)?|freelance|part[- ]time|temporary)\b", re.I)
 FULL_TIME = re.compile(r"\bfull[-_ ]time\b", re.I)
 NEGATED_CONTRACT = re.compile(r"\b(?:no|not (?:a|an|accepting|offering)|without)\s+(?:freelanc\w*|contract(?:or)?s?|part[- ]time)\b|\b(?:contractors?|freelancers?)\s+(?:are\s+)?not\s+(?:accepted|allowed|eligible)\b", re.I)
+# Equity / rev-share asks with no sign of cash are not paid work.
+EQUITY = re.compile(r"\b(?:equity|rev(?:enue)?[- ]share|profit[- ]share|co-?founder|deferred (?:pay|payment|compensation)|paid (?:after|once|when) (?:launch|we launch|funded|we raise|we get funding)|no upfront|unpaid)\b", re.I)
+CASH = re.compile(r"[$£€]\s?\d|\busd\b|\b(?:paid (?:hourly|per|project|gig|position|role|contract|work)|hourly rate|fixed (?:price|budget|fee)|budget (?:is|of|around|:)|will pay|we pay|i'?ll pay|i will pay|paying|stipend|cash)\b", re.I)
+BIG_SCOPE = re.compile(r"\b(?:clone|(?:like|similar to|version of) (?:uber|lyft|airbnb|doordash|instacart|instagram|tiktok|facebook|amazon|netflix|spotify|whatsapp|tinder|snapchat))\b", re.I)
 CLOSED = re.compile(r"\[\s*(?:closed|filled|hired)\s*\]|\b(?:position (?:has been |is )?filled|no longer (?:hiring|accepting applications))\b", re.I)
 
 
@@ -65,6 +70,9 @@ def classify(gig, cfg: dict, now: datetime | None = None) -> bool:
     structured = gig.employment_type.lower().replace("_", " ")
     if (re.search(r"\bfull[- ]time only\b", text, re.I) or structured in ("full time", "full-time", "intern", "volunteer")
             or (FULL_TIME.search(text) and not CONTRACT.search(NEGATED_CONTRACT.sub("", text)))):
+        return False
+    if ((gig.source.startswith("r/") or gig.source.startswith("HN")) and not gig.budget
+            and EQUITY.search(text) and not CASH.search(text)):
         return False
     buyer = bool(BUYER.search(text)) or gig.imported
     if gig.imported:
@@ -113,6 +121,11 @@ def classify(gig, cfg: dict, now: datetime | None = None) -> bool:
             elif known_usd and not ambiguous and not hourly and amount < cfg.get("min_project_usd", 75):
                 gig.flags.append("project budget below preferred floor")
                 gig.priority -= 12
+            # Cheap fixed-price work is still worth taking if the scope is pinned down.
+            if not hourly and not ambiguous and amount < cfg.get("tight_scope_project_usd", 1500):
+                gig.flags.append("low budget: lock scope in writing, 50% upfront")
+    if BIG_SCOPE.search(text):
+        gig.flags.append("big-app scope: quote a stripped-down MVP")
     if gig.budget and "$" in gig.budget and not gig.currency and "USD" not in gig.budget.upper():
         gig.flags.append("dollar currency unverified")
     if gig.location:

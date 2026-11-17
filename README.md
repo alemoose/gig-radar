@@ -20,13 +20,25 @@ Reddit rotates through r/forhire, r/slavelabour, r/hiring,
 r/freelance_forhire, r/jobbit and r/HireaProgrammer. The extra community request
 reduces crowding in the combined 100-post feed. Four rotating searches cover
 spreadsheet/workflow automation, scrapers/bots, APIs/chatbots and app/site repairs.
-The default makes one request per scan, rotating between the three feed types.
-On a 20-minute schedule, the combined feed is checked hourly, all six individual
-communities over six hours, and all four searches over four hours. Delayed runs
-can skip slots. This is bounded coverage, not an exhaustive Reddit crawl. The
-live test rate-limited a second back-to-back request, so that is not the default.
-`max_requests_per_run` can be raised to 3 on a host that tolerates it; extra requests
-are spaced at least three seconds apart and stop on a request error. HTTP 429s
+
+Founder communities (r/startups, r/SaaS, r/Entrepreneur, r/smallbusiness,
+r/cofounder, r/nocode) are searched for people wanting a developer to build their
+app or MVP. They are mostly discussion, so a post from them is only kept when it
+reads like a build request ("looking for a developer", "build my app", "who can
+build"). Equity-only, rev-share and "paid after launch" asks with no sign of cash
+are dropped everywhere on Reddit and HN.
+
+Cheap fixed-price work is kept, not hidden. A fixed budget under $1,500
+(`tight_scope_project_usd`) gets a "low budget: lock scope in writing, 50% upfront"
+flag, and "X clone" or "like Uber" requests get a "big-app scope" flag.
+
+The default makes three requests per scan, spaced five seconds apart, rotating
+through the combined feed, one community, one hiring search and one founder search.
+On a 20-minute schedule every community is checked within eight hours and every
+search within about five. Delayed runs can skip slots. This is bounded coverage,
+not an exhaustive Reddit crawl. An earlier live test rate-limited a quick second
+request; if that recurs, the scan stops Reddit at the first error and reports it,
+and `max_requests_per_run` can be set back to 1. HTTP 429s
 are not immediately retried. Blocks are reported, not bypassed.
 
 Himalayas is a secondary contract source, not a source of instant freelance gigs.

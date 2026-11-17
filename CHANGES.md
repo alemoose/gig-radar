@@ -1,3 +1,15 @@
+# Changes prepared November 17, 2026
+
+## Founder leads on Reddit
+
+- Searches r/startups, r/SaaS, r/Entrepreneur, r/smallbusiness, r/cofounder and
+  r/nocode for people wanting an app or MVP built; discussion posts are dropped.
+- Drops equity-only, rev-share and deferred-pay asks that show no cash.
+- Keeps cheap fixed-price gigs but flags them ("lock scope in writing, 50% upfront")
+  and flags "clone"/"like Uber" requests as big-app scope.
+- Reddit now makes three spaced requests per scan instead of one.
+- 52 offline tests pass. Live Reddit search behaviour is checked by the next scheduled scan.
+
 # Changes prepared November 6, 2026
 
 Based on alemoose/gig-radar commit ed539d53c920b0f9f683a99af4be52653765b883.
