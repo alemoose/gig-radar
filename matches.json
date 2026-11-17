@@ -2,136 +2,6 @@
   "schema_version": 1,
   "gigs": [
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085",
-      "source": "Himalayas",
-      "title": "micro1: AI Agent Evaluator",
-      "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085",
-      "posted": "2026-11-16T16:21:13+00:00",
-      "body": "Role Title: AI Agent EvaluatorRole Type: Contractor\nLocation: Remote — U.S BasedOpportunity Snapshot\nPay: $25-45/hour\nTime per task: ~1.5 hours per run (evidence and scoring included)\nOnboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking.\nYou’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record\nYour tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role\nAI agents are starting to handle real-life errands: paying bills, booking trips, doing the groceries. We want to know how well they actually do it, from the point of view of a real user. That’s you.\nYou’ll test two AI agents side by side, using your own accounts on your phone, and tell us what worked, what didn’t, and how it felt.What you’ll do\nRun real-life scenarios: bills, returns, email follow-ups, bookings, shopping, groceries, travel, family logistics, outings, and forms\nApprove or stop the agent at key steps\nScreen record every attempt\nScore each run on completion, quality, control issues, satisfaction, and time\nShare clear written feedback on the agent experience\nWho we’re looking for\nBased in the U.S, with a bachelor’s degree.\nSomeone who already uses AI in daily life\n2-3 years of experience, preferably in engineering, business management, or office/operations\nDetail-oriented, great at following instructions and documenting each step\nClear written communication\nGeneralists welcome, domain experts preferred\nNo coding or AI background needed\nWhy you’ll like it\nGet paid to use the AI tools you already use\nWork entirely from your phone, on your schedule\nHave a direct say in how next-generation AI agents get built and improved\nHow the selection process works\nApply\nComplete the screening questions\nInterview: 15-30 minutes max\nProfile review: if everything looks good, we present you to the client\nOnboarding: our Talent Ops team will contact you to get you started\nOriginally posted on Himalayas",
-      "budget": "USD 25 to 45/hourly",
-      "score": 4,
-      "matched": [
-        "ai agent",
-        "agents",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085?utm_source=api",
-      "expires": "2027-01-15T16:21:13+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning",
-      "source": "Himalayas",
-      "title": "micro1: Applied Scientists — Machine Learning",
-      "url": "https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning",
-      "posted": "2026-11-16T16:20:51+00:00",
-      "body": "Applied Scientists — Machine Learning \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BS in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning?utm_source=api",
-      "expires": "2027-01-15T16:20:51+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ai-agent-tester",
-      "source": "Himalayas",
-      "title": "micro1: AI Agent Tester",
-      "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester",
-      "posted": "2026-11-16T16:20:47+00:00",
-      "body": "Role Title: AI Agent Tester Role Type: Contractor\nLocation: Remote — EuropeOpportunity Snapshot\nPay: $25-45/hour\nTime per task: ~1.5 hours per run (evidence and scoring included)\nOnboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking.\nYou’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record\nYour tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role\nAI agents are starting to handle real-life errands: paying bills, booking trips, doing the groceries. We want to know how well they actually do it, from the point of view of a real user. That’s you.\nYou’ll test two AI agents side by side, using your own accounts on your phone, and tell us what worked, what didn’t, and how it felt.What you’ll do\nRun real-life scenarios: bills, returns, email follow-ups, bookings, shopping, groceries, travel, family logistics, outings, and forms\nApprove or stop the agent at key steps\nScreen record every attempt\nScore each run on completion, quality, control issues, satisfaction, and time\nShare clear written feedback on the agent experience\nWho we’re looking for\nBased in Europe, with a bachelor’s degree or local equivalent.\nSomeone who already uses AI in daily life\n2-3 years of experience, preferably in engineering, business management, or office/operations\nDetail-oriented, great at following instructions and documenting each step\nClear written communication\nGeneralists welcome, domain experts preferred\nNo coding or AI background needed\nWhy you’ll like it\nGet paid to use the AI tools you already use\nWork entirely from your phone, on your schedule\nHave a direct say in how next-generation AI agents get built and improved\nHow the selection process works\nApply\nComplete the screening questions\nInterview: 15-30 minutes max\nProfile review: if everything looks good, we present you to the client\nOnboarding: our Talent Ops team will contact you to get you started\nOriginally posted on Himalayas",
-      "budget": "USD 25 to 45/hourly",
-      "score": 4,
-      "matched": [
-        "ai agent",
-        "agents",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
-      "expires": "2027-01-15T16:20:47+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/machine-learning-researcher",
-      "source": "Himalayas",
-      "title": "micro1: Machine Learning Researcher",
-      "url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher",
-      "posted": "2026-11-16T16:20:47+00:00",
-      "body": "Machine Learning Researcher \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BS in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api",
-      "expires": "2027-01-15T16:20:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist",
       "source": "Himalayas",
       "title": "Job Mobz: AI Ops and Automation Specialist",
@@ -167,43 +37,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "source": "We Work Remotely",
-      "title": "Sanctuary Computer: Head of Technology",
-      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "posted": "2026-11-16T15:09:29+00:00",
-      "body": "Headquarters: New York City\nURL: https://sanctuary.computer\nWe are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.\nOriginal job posting link\nAbout garden3d\nWe are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.\nOur client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian.\nWe’re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space.\nWe think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.\nSanctuary Computer - Development\nAt Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson.\nOur projects range from design-forward websites, to robust web apps, to native mobile development.\nXXIX - Design\nWhen we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be.\nWe’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility.\nIndex - Community\nIndex is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools.\nWe nurture trust within the creative community through generosity and abundance of ideas and care.\ngarden3d TK — Media\nAt garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture.\nWe aim to monetize this outlet, publish books, produce screenplays, and release music.\nPlus, our partner organizations\nLightphone\nMill\nIngredientAI\n⛰️ The Head of Technology Role\nThe garden3d Head of Technology has one mandate: everything we build works, holds up in production, and gets built the smartest way available to us. We are a house of brands - Sanctuary Computer (development), XXIX (design), Index Space (community), USB Club (digital community), and the garden3d umbrella itself - and a lot of what all of them ship runs on software we wrote. Working in close partnership with our founder & president Hugh Francis, this person sets the engineering standard, and builds the culture that holds it.\nYou can be based anywhere. A lot of our people are in New York and there's some gravity here, but we already work across timezones and we would happily hire in Europe, Singapore, Chicago, or wherever you are. If you're the right person, we want to hear from you.\nThis role works with studio leads, developers, designers, project managers and clients across every garden3d vertical.\nThis person can move between a Rails migration, a Next.js app, a firmware release plan and an agent loop in the same week, and raise the bar on each of them.\nThey span all of garden3d, but their home base is Sanctuary Computer, where roughly 70% of their time goes. Our development studio is where the engineering standard gets set, and where it either holds or slips: architecture, code review, estimation, and the hardest technical calls on our biggest projects. The other 30% goes to garden3d's broader technology story: how we ship product for USB Club, build with agents across the collective, which tools and platforms we bet on, and what we build for ourselves.\nThey are also how we get better people. Our work is only as good as the engineers making it, so this person hunts for exceptional talent, sells them on us, and sets them up to do the best work of their careers. The ideal candidate looks at a worker-owned collective with four studios, an open P&L and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees an engineering practice they can propel among the best in the world.\nResponsibilities & Mandates\n️ Systems that hold up\nWe build web apps, native apps, data pipelines, content platforms and connected devices for clients who can't afford for them to fall over. This person has engineered complex systems for a long time, and it shows in the architecture they draw before a line is written. They own the technical blueprint on our most important projects, and they make the hard calls on the rest: what to build, what to buy, and what to leave out.\nAll in on agentic development\nThe way software gets built changed, and we intend to be ahead of it. This person is already deep in it: loop engineering, agents running against evals, agents that open their own PRs, and the guardrails that make all of that trustworthy. They make agentic development the default way Sanctuary Computer works, and they can tell the difference between a demo and a system a team can rely on.\nPractical engineering\nWe strongly prefer convention over configuration, boring technology, and platforms that let a small team ship a lot. TypeScript is the default language, Rails and Phoenix handle what they're best at, and we'd rather deploy to a platform like Render or Heroku than run our own infrastructure. This person practices value engineering: the simplest thing that works, built well, at a cost the client is glad to pay.\nCode quality at Sanctuary Computer\nSanctuary Computer is where our engineering standard lives, so this is where most of their energy goes. They set what good code review looks like, keep our senior developers sharp on architecture and quality, and make sure that bar holds without slowing the team down.\nHiring and empowering the very best\nThey are a magnet for exceptional engineers. They know where to find them, how to convince them, and how to give them enough room to do their best work while still holding them to the standard. People who work for this person should get visibly better, and should say so.\nEstimation, scoping and delivery\nThey make sure our teams can reliably estimate and story point the work ahead, and that we deliver at a pace that meets the dates we promised and protects our margins. When an estimate is wrong, they find out why and fix the process.\nThe technical voice in new business\nOur clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This person joins new business calls as the trusted technical consultant, scopes the work, writes the technical side of proposals, and can explain a hard tradeoff to a client's CTO and their CEO in the same meeting.\nHardware sense\nWe're the software team behind The Light Phone and Mill, so a good share of our work touches devices. This person doesn't need to be a firmware engineer, but they understand how hardware works, where it constrains the software, and how to plan a project that spans both.\nThe garden3d technology story\nAcross the collective, they decide which tools and platforms we bet on, how every studio uses agents, and which internal tools are worth turning into products. When someone at garden3d asks \"how should we build this?\", this person has the answer, or knows who does.\nCulture\nThey model garden3d's values of partnership, curiosity, and accountability. The engineers they lead do the best work of their careers here, because the feedback is honest, the recognition is earned, and the craft rubs off\n Special Projects\nIn addition to day to day responsibilities, here’s an idea of some of the projects this role may spearhead or support in coming years →\nMaking agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts\nSetting the shared technical conventions every garden3d studio builds from\nLanding the kind of flagship engineering engagement that changes what people think we do\nHiring the next generation of the engineering team, across every garden3d studio\nTurning the internal tools and agents we build for ourselves into products\nPartnering with the Head of Design so our own studio websites are as well engineered as they are designed\nQualifications\nThis is a great opportunity for someone looking to make a significant impact in a growing, dynamic company. Based on the responsibilities of this role, we think the right candidate has the following experience and skills:\n Must have:\n12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company\nDeep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products\nA true technology generalist, comfortable across frontend, backend, data, infrastructure and native\nA strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure\nAll in on agentic development: loop engineering, evals, and agents doing real work in a real codebase\nFluency across most of our stack: React, Next.js, Ruby on Rails, Elixir & Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it\nExperience as the technical lead in winning work: scoping, estimating and pitching to clients\nA track record of hiring exceptional engineers, and of people who got measurably better working for them\nHands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)\n Nice-to-have:\nA sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products\nExperience in a client services environment (a consultancy, agency or studio)\nExperience in a Sales Engineer or Solutions Architect role\nOpen source projects they've started or maintained\nExperience fostering close collaboration between design and engineering teams\nExperience inside a worker-owned, open-book, or otherwise unusual company\nA network in the engineering community: the meetups, the conferences, the people worth hiring\nInterests in design, art, music, food or fashion. We find these people have a well rounded sense of quality\nWho you are\nThe person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team.\nHow we interview\nAfter you submit your application, a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests.\nFrom there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business.\nFor qualified candidates, the process wraps with a reference call, and an offer to follow.\nCompensation\nThis is a permanent leadership role. If this individual exceeds expectations in their first four months, we'll shape the permanent role together, with scope and compensation that grow as the studios and their revenue do. After a period of proven success (12 - 24 months), they become eligible to join our worker ownership program.\nWe start with a 4-month fraction trial contract, paid hourly between $110 - $175 p/hr pending seniority & experience. In the first few weeks of the trial, this individual will propose their own goals to define success in their trial, and present them to our leadership team for approval.\nAt garden3d, we believe that those who shoulder the most responsibility and create the greatest impact should be paid accordingly. This role greatly favors autonomous, competent & ambitious operators.\n‍ How we work:\nWe believe that there’s a better balance between the poles of freelancing & full time, and for that reason we work differently to most shops:\nTransparency & Ownership: We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.\n150% Carbon Negative: Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. We have been certified climate neutral since 2021.\nStrong Morals: Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).\nAsync & Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.\nRemote Friendly: Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.\nIdeas & Products: In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?\n→ Read more on our Substack, over here.\n How to apply\nWe’re excited to hear from you! ❤\nKindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.\nOur team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! :)\nTo apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "budget": "$110 - $175",
-      "score": 7,
-      "matched": [
-        "typescript",
-        "postgres",
-        "workflow",
-        "next.js",
-        "agents",
-        "stripe",
-        "react"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
       "source": "Himalayas",
       "title": "Xperteez Technology: AI Trainer (SWE) | Remote - Contract",
@@ -233,6 +66,136 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
       "expires": "2027-01-14T15:34:27+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085",
+      "source": "Himalayas",
+      "title": "micro1: AI Agent Evaluator",
+      "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085",
+      "posted": "2026-11-16T16:21:13+00:00",
+      "body": "Role Title: AI Agent EvaluatorRole Type: Contractor\nLocation: Remote — U.S BasedOpportunity Snapshot\nPay: $25-45/hour\nTime per task: ~1.5 hours per run (evidence and scoring included)\nOnboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking.\nYou’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record\nYour tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role\nAI agents are starting to handle real-life errands: paying bills, booking trips, doing the groceries. We want to know how well they actually do it, from the point of view of a real user. That’s you.\nYou’ll test two AI agents side by side, using your own accounts on your phone, and tell us what worked, what didn’t, and how it felt.What you’ll do\nRun real-life scenarios: bills, returns, email follow-ups, bookings, shopping, groceries, travel, family logistics, outings, and forms\nApprove or stop the agent at key steps\nScreen record every attempt\nScore each run on completion, quality, control issues, satisfaction, and time\nShare clear written feedback on the agent experience\nWho we’re looking for\nBased in the U.S, with a bachelor’s degree.\nSomeone who already uses AI in daily life\n2-3 years of experience, preferably in engineering, business management, or office/operations\nDetail-oriented, great at following instructions and documenting each step\nClear written communication\nGeneralists welcome, domain experts preferred\nNo coding or AI background needed\nWhy you’ll like it\nGet paid to use the AI tools you already use\nWork entirely from your phone, on your schedule\nHave a direct say in how next-generation AI agents get built and improved\nHow the selection process works\nApply\nComplete the screening questions\nInterview: 15-30 minutes max\nProfile review: if everything looks good, we present you to the client\nOnboarding: our Talent Ops team will contact you to get you started\nOriginally posted on Himalayas",
+      "budget": "USD 25 to 45/hourly",
+      "score": 4,
+      "matched": [
+        "ai agent",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085?utm_source=api",
+      "expires": "2027-01-15T16:21:13+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning",
+      "source": "Himalayas",
+      "title": "micro1: Applied Scientists — Machine Learning",
+      "url": "https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning",
+      "posted": "2026-11-16T16:20:51+00:00",
+      "body": "Applied Scientists — Machine Learning \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BS in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning?utm_source=api",
+      "expires": "2027-01-15T16:20:51+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ai-agent-tester",
+      "source": "Himalayas",
+      "title": "micro1: AI Agent Tester",
+      "url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester",
+      "posted": "2026-11-16T16:20:47+00:00",
+      "body": "Role Title: AI Agent Tester Role Type: Contractor\nLocation: Remote — EuropeOpportunity Snapshot\nPay: $25-45/hour\nTime per task: ~1.5 hours per run (evidence and scoring included)\nOnboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking.\nYou’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record\nYour tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role\nAI agents are starting to handle real-life errands: paying bills, booking trips, doing the groceries. We want to know how well they actually do it, from the point of view of a real user. That’s you.\nYou’ll test two AI agents side by side, using your own accounts on your phone, and tell us what worked, what didn’t, and how it felt.What you’ll do\nRun real-life scenarios: bills, returns, email follow-ups, bookings, shopping, groceries, travel, family logistics, outings, and forms\nApprove or stop the agent at key steps\nScreen record every attempt\nScore each run on completion, quality, control issues, satisfaction, and time\nShare clear written feedback on the agent experience\nWho we’re looking for\nBased in Europe, with a bachelor’s degree or local equivalent.\nSomeone who already uses AI in daily life\n2-3 years of experience, preferably in engineering, business management, or office/operations\nDetail-oriented, great at following instructions and documenting each step\nClear written communication\nGeneralists welcome, domain experts preferred\nNo coding or AI background needed\nWhy you’ll like it\nGet paid to use the AI tools you already use\nWork entirely from your phone, on your schedule\nHave a direct say in how next-generation AI agents get built and improved\nHow the selection process works\nApply\nComplete the screening questions\nInterview: 15-30 minutes max\nProfile review: if everything looks good, we present you to the client\nOnboarding: our Talent Ops team will contact you to get you started\nOriginally posted on Himalayas",
+      "budget": "USD 25 to 45/hourly",
+      "score": 4,
+      "matched": [
+        "ai agent",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/ai-agent-tester?utm_source=api",
+      "expires": "2027-01-15T16:20:47+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/machine-learning-researcher",
+      "source": "Himalayas",
+      "title": "micro1: Machine Learning Researcher",
+      "url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher",
+      "posted": "2026-11-16T16:20:47+00:00",
+      "body": "Machine Learning Researcher \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.\nThis is a very coding heavy role. Candidates but have experience using coding agents with python in their workflow.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BS in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api",
+      "expires": "2027-01-15T16:20:46+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -290,6 +253,7 @@
         "budget stated, verify scope and currency"
       ],
       "flags": [
+        "low budget: lock scope in writing, 50% upfront",
         "dollar currency unverified",
         "check eligibility: United States"
       ],
@@ -334,6 +298,44 @@
       "date_basis": "posted"
     },
     {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+      "source": "We Work Remotely",
+      "title": "Sanctuary Computer: Head of Technology",
+      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+      "posted": "2026-11-16T15:09:29+00:00",
+      "body": "Headquarters: New York City\nURL: https://sanctuary.computer\nWe are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.\nOriginal job posting link\nAbout garden3d\nWe are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.\nOur client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian.\nWe’re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space.\nWe think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.\nSanctuary Computer - Development\nAt Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson.\nOur projects range from design-forward websites, to robust web apps, to native mobile development.\nXXIX - Design\nWhen we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be.\nWe’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility.\nIndex - Community\nIndex is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools.\nWe nurture trust within the creative community through generosity and abundance of ideas and care.\ngarden3d TK — Media\nAt garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture.\nWe aim to monetize this outlet, publish books, produce screenplays, and release music.\nPlus, our partner organizations\nLightphone\nMill\nIngredientAI\n⛰️ The Head of Technology Role\nThe garden3d Head of Technology has one mandate: everything we build works, holds up in production, and gets built the smartest way available to us. We are a house of brands - Sanctuary Computer (development), XXIX (design), Index Space (community), USB Club (digital community), and the garden3d umbrella itself - and a lot of what all of them ship runs on software we wrote. Working in close partnership with our founder & president Hugh Francis, this person sets the engineering standard, and builds the culture that holds it.\nYou can be based anywhere. A lot of our people are in New York and there's some gravity here, but we already work across timezones and we would happily hire in Europe, Singapore, Chicago, or wherever you are. If you're the right person, we want to hear from you.\nThis role works with studio leads, developers, designers, project managers and clients across every garden3d vertical.\nThis person can move between a Rails migration, a Next.js app, a firmware release plan and an agent loop in the same week, and raise the bar on each of them.\nThey span all of garden3d, but their home base is Sanctuary Computer, where roughly 70% of their time goes. Our development studio is where the engineering standard gets set, and where it either holds or slips: architecture, code review, estimation, and the hardest technical calls on our biggest projects. The other 30% goes to garden3d's broader technology story: how we ship product for USB Club, build with agents across the collective, which tools and platforms we bet on, and what we build for ourselves.\nThey are also how we get better people. Our work is only as good as the engineers making it, so this person hunts for exceptional talent, sells them on us, and sets them up to do the best work of their careers. The ideal candidate looks at a worker-owned collective with four studios, an open P&L and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees an engineering practice they can propel among the best in the world.\nResponsibilities & Mandates\n️ Systems that hold up\nWe build web apps, native apps, data pipelines, content platforms and connected devices for clients who can't afford for them to fall over. This person has engineered complex systems for a long time, and it shows in the architecture they draw before a line is written. They own the technical blueprint on our most important projects, and they make the hard calls on the rest: what to build, what to buy, and what to leave out.\nAll in on agentic development\nThe way software gets built changed, and we intend to be ahead of it. This person is already deep in it: loop engineering, agents running against evals, agents that open their own PRs, and the guardrails that make all of that trustworthy. They make agentic development the default way Sanctuary Computer works, and they can tell the difference between a demo and a system a team can rely on.\nPractical engineering\nWe strongly prefer convention over configuration, boring technology, and platforms that let a small team ship a lot. TypeScript is the default language, Rails and Phoenix handle what they're best at, and we'd rather deploy to a platform like Render or Heroku than run our own infrastructure. This person practices value engineering: the simplest thing that works, built well, at a cost the client is glad to pay.\nCode quality at Sanctuary Computer\nSanctuary Computer is where our engineering standard lives, so this is where most of their energy goes. They set what good code review looks like, keep our senior developers sharp on architecture and quality, and make sure that bar holds without slowing the team down.\nHiring and empowering the very best\nThey are a magnet for exceptional engineers. They know where to find them, how to convince them, and how to give them enough room to do their best work while still holding them to the standard. People who work for this person should get visibly better, and should say so.\nEstimation, scoping and delivery\nThey make sure our teams can reliably estimate and story point the work ahead, and that we deliver at a pace that meets the dates we promised and protects our margins. When an estimate is wrong, they find out why and fix the process.\nThe technical voice in new business\nOur clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This person joins new business calls as the trusted technical consultant, scopes the work, writes the technical side of proposals, and can explain a hard tradeoff to a client's CTO and their CEO in the same meeting.\nHardware sense\nWe're the software team behind The Light Phone and Mill, so a good share of our work touches devices. This person doesn't need to be a firmware engineer, but they understand how hardware works, where it constrains the software, and how to plan a project that spans both.\nThe garden3d technology story\nAcross the collective, they decide which tools and platforms we bet on, how every studio uses agents, and which internal tools are worth turning into products. When someone at garden3d asks \"how should we build this?\", this person has the answer, or knows who does.\nCulture\nThey model garden3d's values of partnership, curiosity, and accountability. The engineers they lead do the best work of their careers here, because the feedback is honest, the recognition is earned, and the craft rubs off\n Special Projects\nIn addition to day to day responsibilities, here’s an idea of some of the projects this role may spearhead or support in coming years →\nMaking agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts\nSetting the shared technical conventions every garden3d studio builds from\nLanding the kind of flagship engineering engagement that changes what people think we do\nHiring the next generation of the engineering team, across every garden3d studio\nTurning the internal tools and agents we build for ourselves into products\nPartnering with the Head of Design so our own studio websites are as well engineered as they are designed\nQualifications\nThis is a great opportunity for someone looking to make a significant impact in a growing, dynamic company. Based on the responsibilities of this role, we think the right candidate has the following experience and skills:\n Must have:\n12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company\nDeep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products\nA true technology generalist, comfortable across frontend, backend, data, infrastructure and native\nA strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure\nAll in on agentic development: loop engineering, evals, and agents doing real work in a real codebase\nFluency across most of our stack: React, Next.js, Ruby on Rails, Elixir & Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it\nExperience as the technical lead in winning work: scoping, estimating and pitching to clients\nA track record of hiring exceptional engineers, and of people who got measurably better working for them\nHands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)\n Nice-to-have:\nA sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products\nExperience in a client services environment (a consultancy, agency or studio)\nExperience in a Sales Engineer or Solutions Architect role\nOpen source projects they've started or maintained\nExperience fostering close collaboration between design and engineering teams\nExperience inside a worker-owned, open-book, or otherwise unusual company\nA network in the engineering community: the meetups, the conferences, the people worth hiring\nInterests in design, art, music, food or fashion. We find these people have a well rounded sense of quality\nWho you are\nThe person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team.\nHow we interview\nAfter you submit your application, a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests.\nFrom there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business.\nFor qualified candidates, the process wraps with a reference call, and an offer to follow.\nCompensation\nThis is a permanent leadership role. If this individual exceeds expectations in their first four months, we'll shape the permanent role together, with scope and compensation that grow as the studios and their revenue do. After a period of proven success (12 - 24 months), they become eligible to join our worker ownership program.\nWe start with a 4-month fraction trial contract, paid hourly between $110 - $175 p/hr pending seniority & experience. In the first few weeks of the trial, this individual will propose their own goals to define success in their trial, and present them to our leadership team for approval.\nAt garden3d, we believe that those who shoulder the most responsibility and create the greatest impact should be paid accordingly. This role greatly favors autonomous, competent & ambitious operators.\n‍ How we work:\nWe believe that there’s a better balance between the poles of freelancing & full time, and for that reason we work differently to most shops:\nTransparency & Ownership: We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.\n150% Carbon Negative: Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. We have been certified climate neutral since 2021.\nStrong Morals: Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).\nAsync & Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.\nRemote Friendly: Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.\nIdeas & Products: In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?\n→ Read more on our Substack, over here.\n How to apply\nWe’re excited to hear from you! ❤\nKindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.\nOur team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! :)\nTo apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+      "budget": "$110 - $175",
+      "score": 7,
+      "matched": [
+        "typescript",
+        "postgres",
+        "workflow",
+        "next.js",
+        "agents",
+        "stripe",
+        "react"
+      ],
+      "queue": "contract",
+      "priority": 13,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "low budget: lock scope in writing, 50% upfront",
+        "dollar currency unverified",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
       "source": "Himalayas",
       "title": "Forager: Sales Development Representative (Phone-First)",
@@ -362,101 +364,6 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first?utm_source=api",
       "expires": "2027-01-15T09:01:53+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: AI Trainer (ML Engineering) - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote",
-      "posted": "2026-11-14T15:34:13+00:00",
-      "body": "Job Description: Open-Source Software Contributor & Technical Expert\nRole Type: Contractor\nLocation: Global (Fully Remote)\nTime Commitment: 15+ Hours per Week\nSchedule: FlexibleAbout the Role\nWe are seeking exceptional open-source contributors and technical experts to support an AI training project focused on complex, real-world technical workflows.\nIn this role, you will apply your programming and domain expertise to create, solve, review, and validate challenging technical tasks across software engineering, machine learning, science, hardware, and engineering. Your contributions will help improve how advanced AI systems reason, write code, use technical tools, and complete complex, long-term projects.\nPrior AI training experience is not required. We are primarily looking for candidates with strong programming skills and publicly verifiable technical contributions.Key Responsibilities\nCreate realistic technical tasks based on professional, scientific, and engineering workflows.\nBuild reproducible task environments, reference solutions, tests, and objective evaluation criteria.\nReview AI-generated outputs for correctness, completeness, and technical quality.\nDiagnose AI model failures and explain technical errors, limitations, and incorrect approaches.\nDevelop and validate challenging tasks that assess practical problem-solving abilities.\nApply domain expertise to evaluate technical solutions across relevant fields.\nRequired Skills and Qualifications\nStrong programming skills, including practical proficiency in Python.\nMeaningful contributions to open-source software or substantial original public projects.\nDemonstrated expertise in at least one of the following areas:\nSoftware Engineering\nMachine Learning and Data Science\nScientific Computing\nHardware, Embedded Systems, or Electronics\nMechanical, Aerospace, Civil, Chemical, or Electrical Engineering\nDeveloper Tools, Infrastructure, Automation, or Security\nPublic Proof of Technical Expertise\nApplicants must be able to provide publicly verifiable evidence of their technical work, such as:\nMeaningful merged contributions to established repositories.\nMaintainer or core-contributor responsibilities.\nSubstantial original repositories or technical tools.\nContributions to scientific or engineering software.\nPublic code supporting published research.\nContributions involving implementation, debugging, testing, performance optimization, infrastructure, simulation, or data processing.\nNote: Forks, tutorial-only repositories, superficial documentation edits, contribution counts, or AI-generated repositories alone are not considered sufficient evidence of technical expertise.Preferred Qualifications\nExperience designing technical tests, benchmarks, evaluation tasks, or reproducible environments.\nExperience reviewing code or technical contributions from other developers.\nCompetition results, scientific publications, public technical writing, or other evidence of professional expertise.\nPrevious experience contributing to complex technical projects over an extended period.\nApplication Process\nSubmit your application along with public technical profiles and project contributions.\nComplete an AI interview that includes technical and integrity checks.\nUndergo a Hiring Manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "automation",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 13,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote?utm_source=api",
-      "expires": "2027-01-13T15:34:12+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer",
-      "source": "We Work Remotely",
-      "title": "D2B: Technical Support Engineer",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer",
-      "posted": "2026-11-14T17:00:56+00:00",
-      "body": "Headquarters: South Africa\nURL: https://jobs.workable.com/company/dcaVtKQqXr9FwBNppNCBH9/jobs-at-d2b\nPosition: Technical Support Engineer\nSalary: 25,000 ZAR to 32,000 ZAR \nWorking Hours: Aligned with UK Business Hours\nWork Type: Independent Contractor\nABOUT THE COMPANY: \nOur company isn't just scaling; we're redefining human risk and secure behaviour management in cybersecurity. Trusted by leading global enterprises including Vodafone, Merck, Arriva, and Hershey, we reduce human cyber risk through AI-driven automation, with Agentic AI expanding our capabilities even further.\nIn this company, support is where the product meets reality. Every ticket represents a customer telling us something true about the platform—and every issue is either something we repeatedly answer, or a problem we solve once and eliminate at the source. We view support as an integral extension of product engineering, not a downstream cost centre.\nROLE OVERVIEW:\nWe are seeking a high-calibre Technical Support Engineer to take full ownership of our tier-2/tier-3 technical customer support function. This is a technical, investigative engagement—not a script-reading helpdesk.\nOperating as an independent contractor based in South Africa, you will manage customer issues end to end: diagnosing logs and error records, reproducing complex platform issues in dedicated test tenants, handing fully documented, reproduction-ready defect packages to the Product Lead, and actively closing the loop by removing recurring root causes from our product, documentation, or onboarding flows.\nYou will inherit a high-discipline, high-efficiency operational setup powered by modern observability, AI acceleration, and proactive tenant-level monitoring.\nRESPONSIBILITIES:End-to-End Case Resolution\nManage the inbound queue via Intercom, triaging by severity and business impact, meeting strict SLAs, and proactively setting clear expectations for next updates.\nConduct deep diagnostic investigations before reaching out to customers: analyze error/event records, audit logs, browser console outputs, network traces, API request/response payloads, mail flow, and multi-tenant configurations.\nReproduce issues in staging/test tenants. If an issue is elusive, correlate system data across tenant IDs, timestamps, and user telemetry to isolate the failure state.\nPackage and escalate verified defects directly to the Product Lead. Every escalation must contain reproduction steps, tenant/user IDs, UTC timestamps, relevant log excerpts, and ruled-out variables to allow immediate engineering action without rework.\nMaintain complete ownership of the customer communication loop during escalation cycles, verifying hotfixes against your original reproduction steps prior to closing cases.\nMonitor proactive health alerts across tenant accounts (e.g., in Sentry), identifying failures before customers do and initiating contact with pre-empted fixes.\nTrack bi-weekly release cycles: review release notes on deployment day, validate altered functionality in sandbox environments, and resolve pending customer cases impacted by updates.Root-Cause Elimination & Product Evolution\nClassify every resolved ticket by verified root cause: product defect, documentation gap, UX friction, environmental configuration, feature limitation, or edge-case anomaly.\nConduct root-cause analysis on repeating issue categories to identify architectural, operational, or instructional fixes.\nDirectly author and maintain Help Centre articles, implementation guides, and troubleshooting documentation to drive customer self-service.\nSurface UX friction points to the Product Lead backed by empirical evidence (user journeys, reproduction paths, screenshots, and aggregate impact metrics).\nReport on support metrics using empirical data: ticket volumes categorized by cause, trend trajectories, and high-impact preventative targets.\nLeverage approved AI acceleration tools (e.g., Claude, ChatGPT, Cursor) responsibly to speed up technical research, verifying all outputs against source data prior to customer transmission.\n3+ years of technical support, application support, product support, or customer-facing engineering experience dedicated to a multi-tenant B2B SaaS platform.\nProven track record supporting technical B2B enterprise buyers, such as CISOs, IT Directors, SOC teams, security engineers, or system administrators.\nDemonstrated competency diagnosing multi-tenant architectures, recognizing tenant-specific misconfigurations versus global system incidents.\nStrong working knowledge of web technologies: browser developer tools, HTTP status codes, REST APIs, JSON payloads, and log analysis.\nDemonstrated history of systemic root-cause resolution (e.g., authored documentation that deflected ticket volume, initiated a UX change, or caught critical bugs).\nHands-on experience with modern support and service platforms (Intercom preferred; or Zendesk, Freshdesk, HubSpot Service Hub, Front).\nFlawless written and verbal English communication skills, with the ability to convey technical diagnostics plainly and confidently under pressure.\nProven self-directed problem-solving ability, with an aptitude for learning complex platform capabilities directly from architecture docs.\nFully equipped home office environment in South Africa, including high-speed fibre internet, dedicated backup power (UPS/inverter) for load-shedding resilience, and quality AV peripherals.\nPREFERRED:\nDomain exposure to cybersecurity, secure email gateways, or human risk management platforms (e.g., KnowBe4, Proofpoint, Mimecast, Hoxhunt, Abnormal).\nWorking familiarity with enterprise mail flow systems: Microsoft 365 / Google Workspace administration, including SPF, DKIM, and DMARC record handling.\nFamiliarity with identity architecture and directory integrations: SSO, SAML, OIDC, SCIM, Active Directory, or Entra ID (Azure AD).\nPractical ability to write and execute read-only SQL queries.\nExposure to modern web/cloud stacks (e.g., Cloudflare, Nuxt, Vue, PostgreSQL, Sentry).\nWorking knowledge of enterprise compliance standards (ISO 27001, SOC 2, UK GDPR) in a data-handling capacity.\nActive Intercom certification (or commitment to achieve certification within 90 days of engagement).\nWhat You’ll Bring:\nInvestigation-First Mindset: A refusal to guess or relay unverified theories. You look at logs, inspect configurations, reproduce the scenario, and present verified data.\nCustomer Empathy Without the Runaround: You never send the customer a boilerplate troubleshooting checklist for information you could pull from internal logs yourself.\nAccountability & Integrity: You set expectations accurately (e.g., \"I am investigating this log sequence and will update you by 14:00\"), communicate transparently, and follow through predictably.\nCalm, Consultative Demeanor: Composure and clarity when de-escalating frustrated enterprise customers.\nProduct-Minded Curiosity: An instinct to treat every resolved ticket as product feedback, asking why the problem existed and advocating for fixes that eliminate the issue permanently.\nTo apply: https://weworkremotely.com/remote-jobs/d2b-technical-support-engineer",
-      "budget": null,
-      "score": 6,
-      "matched": [
-        "automation",
-        "postgresql",
-        "chatgpt",
-        "claude",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [],
-      "flags": [
-        "budget unknown"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
-      "source": "Himalayas",
-      "title": "YO AI Labs: 在宅ビデオ撮影スタッフ（日本）",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502",
-      "posted": "2026-11-14T11:43:11+00:00",
-      "body": "Job Description: Frontend / UI Engineer\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Frontend / UI Engineers to create and evaluate challenging coding tasks based on visual references such as screenshots, UI mockups, diagrams, and screen recordings. You will use your frontend development expertise to design tasks with clear requirements, measurable success criteria, and working reference implementations.Key Responsibilities\nDesign multi-step coding tasks based on screenshots, UI mockups, diagrams, and screen recordings of real workflows.\nDefine the code, files, and artifacts involved in each task, along with the expected functionality and behavior.\nEstablish objective success criteria to ensure tasks can be accurately verified and evaluated.\nDevelop working reference implementations demonstrating the expected results.\nReview tasks created by other contributors for technical accuracy, clarity, and verifiability.\nIdentify and flag ambiguous or ungradable tasks rather than submitting unclear requirements.\nRequired Qualifications\nA public GitHub profile demonstrating substantial and verifiable contributions, such as commits, merged pull requests, or maintained repositories. This is essential.\nStrong frontend development experience with React, TypeScript, or similar technologies.\nExperience building and delivering complex user interfaces and interactive applications.\nAbility to read, modify, debug, and validate real application code.\nStrong written English communication skills.\nAbility to explain expected application behavior and provide clear, reproducible verification steps.\nPreferred Qualifications\nExperience with UI development, graphics, SVG, or Canvas.\nProduct or UI design experience combined with hands-on frontend implementation and public code contributions.\nPrevious experience in data labeling, AI evaluation, or rubric-based technical review.\nOriginally posted on Himalayas",
-      "budget": "USD 35 to 100/hourly",
-      "score": 4,
-      "matched": [
-        "typescript",
-        "react",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 12,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/706519502?utm_source=api",
-      "expires": "2027-01-13T11:43:11+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -553,6 +460,7 @@
         "budget stated, verify scope and currency"
       ],
       "flags": [
+        "low budget: lock scope in writing, 50% upfront",
         "dollar currency unverified",
         "check eligibility: United States",
         "seniority requirement needs review"
@@ -563,39 +471,6 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance?utm_source=api",
       "expires": "2027-01-14T11:37:45+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage",
-      "source": "Himalayas",
-      "title": "University of Virginia: Darden Research Assistant in Healthcare Data Management [Student Wage]",
-      "url": "https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage",
-      "posted": "2026-11-16T11:38:22+00:00",
-      "body": "Dr. Elena Loutskina is looking for a data scientist/data analyst with a genuine interest in the healthcare research and analytics. \nThe main role is to conduct exploratory data analysis using Virginia’s All-Payer Claims Database (APCD). The APCD brings together medical claims, pharmacy claims, and enrollment data from Medicare, Medicaid, and many commercial health plans in Virginia. This dataset provides a valuable resource for studying healthcare use, spending, and coverage across the state.\nPrimary Responsibilities:Responsibilities may include:\nCleaning and organizing data. \nConducting exploratory analyses and identifying patterns.\nPreparing tables and visualizations to support research.\nSkills and Abilities:  \nStrong attention to detail. \nStrong analytical skills.\nAble to work independently while balancing multiple projects.  \nWilling to attack a problem from different angles when the first approach does not work.\nproficient in Python, SQL, and AI coding tools such as Codex or Claude Code.\nPositions are open to students in business, accounting, economics, social sciences, humanities, data science, statistics, mathematics, or other disciplines with strong analytical skills.  Preference will be given to students pursuing a graduate degree and who demonstrate an interest in healthcare research.\nHourly pay rate depends on level of education. Students pursing a:  \n4-year degree: $17/hour  \nMA Degree: $22/hour  \nPh.D. Degree (post-MA phase): $25/hour  \nPosition is remote, but student must physically reside in the United States. This position is ONLY open to UVA students.\nPlease include a resume and cover letter with your application.\nMINIMUM REQUIREMENTS:\nResume and Cover Letter required.\nEducation: Current UVA studentExperience: NoneLicensure: None\nThe University of Virginia is an equal opportunity employer. All interested persons are encouraged to apply, including veterans and individuals with disabilities. Learn more about UVA’s commitment to non-discrimination and equal opportunity employment.\nOriginally posted on Himalayas",
-      "budget": "USD 17 to 25/hourly",
-      "score": 3,
-      "matched": [
-        "claude",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 6,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Part Time",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage?utm_source=api",
-      "expires": "2027-01-15T11:38:22+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -699,6 +574,39 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage",
+      "source": "Himalayas",
+      "title": "University of Virginia: Darden Research Assistant in Healthcare Data Management [Student Wage]",
+      "url": "https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage",
+      "posted": "2026-11-16T11:38:22+00:00",
+      "body": "Dr. Elena Loutskina is looking for a data scientist/data analyst with a genuine interest in the healthcare research and analytics. \nThe main role is to conduct exploratory data analysis using Virginia’s All-Payer Claims Database (APCD). The APCD brings together medical claims, pharmacy claims, and enrollment data from Medicare, Medicaid, and many commercial health plans in Virginia. This dataset provides a valuable resource for studying healthcare use, spending, and coverage across the state.\nPrimary Responsibilities:Responsibilities may include:\nCleaning and organizing data. \nConducting exploratory analyses and identifying patterns.\nPreparing tables and visualizations to support research.\nSkills and Abilities:  \nStrong attention to detail. \nStrong analytical skills.\nAble to work independently while balancing multiple projects.  \nWilling to attack a problem from different angles when the first approach does not work.\nproficient in Python, SQL, and AI coding tools such as Codex or Claude Code.\nPositions are open to students in business, accounting, economics, social sciences, humanities, data science, statistics, mathematics, or other disciplines with strong analytical skills.  Preference will be given to students pursuing a graduate degree and who demonstrate an interest in healthcare research.\nHourly pay rate depends on level of education. Students pursing a:  \n4-year degree: $17/hour  \nMA Degree: $22/hour  \nPh.D. Degree (post-MA phase): $25/hour  \nPosition is remote, but student must physically reside in the United States. This position is ONLY open to UVA students.\nPlease include a resume and cover letter with your application.\nMINIMUM REQUIREMENTS:\nResume and Cover Letter required.\nEducation: Current UVA studentExperience: NoneLicensure: None\nThe University of Virginia is an equal opportunity employer. All interested persons are encouraged to apply, including veterans and individuals with disabilities. Learn more about UVA’s commitment to non-discrimination and equal opportunity employment.\nOriginally posted on Himalayas",
+      "budget": "USD 17 to 25/hourly",
+      "score": 3,
+      "matched": [
+        "claude",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 0,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Part Time",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage?utm_source=api",
+      "expires": "2027-01-15T11:38:22+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr",
       "source": "Himalayas",
       "title": "RustLabs: Remote AI Education Rater for Students and Recent Grads ($20/hr)",
@@ -759,38 +667,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/fhi-360/jobs/data-engineer?utm_source=api",
       "expires": "2027-01-13T17:16:07+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
-      "source": "Himalayas",
-      "title": "dentsu international: Manager, Data Modeling and Data Science - Temporary Worker",
-      "url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker",
-      "posted": "2026-11-14T12:05:02+00:00",
-      "body": "Job Description:Temporary role, W2 statusStart date: ASAP ~4-5 month engagementCandidates must be located in the U.S. \nROLE SUMMARY\nThe Manager, Data Modeling & Data Science will drive strategic business impact through advanced analytics and predictive modeling, serving as a trusted advisor to clients across multiple vertical portfolios. This role combines hands-on technical excellence with strategy —designing sophisticated analytical solutions, owning quality assurance across all deliverables, and mentoring analysts. The Manager will act as the client's analytical partner, translating complex marketing challenges into data-driven strategies that drive measurable business outcomes.\nEnsure timely delivery of data, analytics, and models to support the client’s data licenses, database marketing initiatives, and campaigns;\nDeveloping and/or editing R code, Python code for model builds, scoring and delivery.\nProvide direction and manage the work processes and output of database marketing analysts;\nParticipate in creating relevant solutions for clients by evaluating client needs for quantitative analysis and in developing methods or processes for implementation;\nLeverage knowledge, and hands on work, of data and statistical modeling techniques to provide suggestions or guidance to teams using tools like Snowflake/SQL/Python/R\nProvide hands on building and optimization of clients’ multi-channel campaigns through model building, campaign scoring, and production using tools like Snowflake/SQL/Python/R.\nPerform 3rd party data vendor evaluations for the data product leveraging qualitative and quantitative methods.\nManage project tasks, timelines and deliverables inclusive of model builds, deployment, campaign production activities, like scoring.\nAct as an advisor in the following techniques: Predictive statistical models, Customer profiling, Segmentation Analysis, Campaign Analysis & Scoring, Data Analysis and Mining,\nCo-presenting modeling findings and campaign results to clients,\nWork independently with minimum supervision, and provide guidance to junior team members;\nundefinedExperience: \nPossess core database marketing knowledge such as understanding of company and client data, relational database concepts, and direct marketing concepts;\n5+ years in quantitative marketing/analytics/data science\nAdvanced Experience with Snowflake, SQL, R, Python, AI tools (Claude) logistic regression, linear regression, XGboost machine learning, clustering;\nAdvanced experience using 3rd party data in combination with 1st party data for modeling, scoring, and campaign analytics;\nAbility to explain/present complicated/advanced analytical methodology and results to non-technical audiences;\nAbility to execute advanced analytic tasks (including but not limited to developing/editing modeling code, modeling, segmentation, DOE, forecasting, etc.) and create meaningful analytical outputs;\nAbility to translate analysis insights into actionable recommendations and strategies for marketers; Experience with applying statistical techniques such as regression, cluster analysis, factor analysis, to solve business problems;\nPossess core analytical competencies such as ability to formulate an analytical problem, QC data and results, summarize key findings/insights, make actionable recommendations, and develop new and innovative analytical solutions to solve challenging business problems;\nRequires a Bachelor’s degree or foreign equivalent in Statistics, Math, Economics or related scientific/quantitative field and at least five (5+) years of experience as a Data Analyst or related occupation. Masters+ preferred.\nThe hourly pay range for this position is $65.79 - $87.77. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA - Remote - ColoradoBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
-      "budget": "USD 65.79 to 87.77/hourly",
-      "score": 3,
-      "matched": [
-        "claude",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Temporary",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/manager-data-modeling-and-data-science-temporary-worker?utm_source=api",
-      "expires": "2027-01-13T12:05:01+00:00",
       "imported": false,
       "date_basis": "posted"
     },
