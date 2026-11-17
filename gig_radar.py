@@ -104,9 +104,10 @@ DEFAULT_CONFIG: dict = {
             "enabled": True,
             # subreddit -> title must contain one of these tags (lowercase). [] = no tag needed.
             "rotate_subreddit": True,
-            # Reddit rate-limited a quick second request once; requests are spaced out
-            # and stop at the first error, so a block only costs the rest of that scan.
-            "max_requests_per_run": 3,
+            # Reddit answers GitHub's runners with 403/404/429 when hit more than once
+            # in quick succession (Nov 17, 2026), so one rotating request per scan.
+            # Scans are triggered every 15 minutes, so each feed still comes round.
+            "max_requests_per_run": 1,
             # Reddit's search.rss returned HTTP 404 from GitHub's runners (Nov 17, 2026),
             # so searches are off by default. Add queries here to try them again.
             "search_queries": [],

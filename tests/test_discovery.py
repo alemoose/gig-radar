@@ -105,7 +105,7 @@ class DiscoveryTests(unittest.TestCase):
             for tick in range(18):
                 with mock.patch.object(gr.time, "time", return_value=tick * 1200):
                     gr.fetch_reddit(cfg)
-        self.assertEqual(len(urls), 18 * 3)
+        self.assertEqual(len(urls), 18)
         self.assertFalse(any("/search.rss?" in u for u in urls))
         for sub in list(cfg["subreddits"]) + cfg["founder_subreddits"]:
             self.assertIn(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100", urls)
@@ -114,7 +114,7 @@ class DiscoveryTests(unittest.TestCase):
         empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
         with mock.patch.object(gr, "http_get", side_effect=[gr.SourceError("HTTP 404"), empty, empty]) as get, \
              mock.patch.object(gr.time, "sleep"):
-            result = gr.fetch_reddit(self.cfg["sources"]["reddit"])
+            result = gr.fetch_reddit({**self.cfg["sources"]["reddit"], "max_requests_per_run": 3})
         self.assertEqual(get.call_count, 3)
         self.assertIn("HTTP 404", result.warnings[0])
 

@@ -30,8 +30,9 @@ Cheap fixed-price work is kept, not hidden. A fixed budget under $1,500
 (`tight_scope_project_usd`) gets a "low budget: lock scope in writing, 50% upfront"
 flag, and "X clone" or "like Uber" requests get a "big-app scope" flag.
 
-Each scan makes three requests, five seconds apart: the combined feed, one hiring
-community and one founder community. Reddit's search.rss returned HTTP 404 from
+Each scan makes one request, rotating through the combined feed, one hiring
+community and one founder community. Three spaced requests per scan drew 404s and
+429s from GitHub's runners, so `max_requests_per_run` defaults to 1. Reddit's search.rss returned HTTP 404 from
 GitHub's runners on November 17, 2026, so `search_queries` is empty by default.
 A 404 skips only that feed; a 403 or 429 stops Reddit for the rest of the scan and
 is reported. This is bounded coverage, not an exhaustive Reddit crawl. HTTP 429s
