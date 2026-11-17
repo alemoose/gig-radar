@@ -63,5 +63,11 @@ jobs:
           fi
           git add seen.json matches.md matches.json
           git commit -m "gig-radar: update matches $(date -u +%H:%M)"
-          git push
+          # main can move during a scan (a merge, or another trigger); rebase and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+          echo "Could not push after 3 attempts"; exit 1
 
