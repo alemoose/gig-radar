@@ -1,75 +1,50 @@
 # Gig radar
 
-Updated 2026-11-16 18:53 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-17 11:07 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
 - [micro1: AI Agent Evaluator](https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085)  
   Himalayas | posted Nov 16 16:21 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: AI Agent EvaluatorRole Type: Contractor Location: Remote — U.S BasedOpportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Onboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking. You’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record Your tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role AI agents are starting to h...
 - [micro1: Applied Scientists — Machine Learning](https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning)  
   Himalayas | posted Nov 16 16:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Applied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing o...
 - [micro1: AI Agent Tester](https://himalayas.app/companies/micro1/jobs/ai-agent-tester)  
   Himalayas | posted Nov 16 16:20 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: AI Agent Tester Role Type: Contractor Location: Remote — EuropeOpportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Onboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking. You’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record Your tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role AI agents are starting to handle...
 - [micro1: Machine Learning Researcher](https://himalayas.app/companies/micro1/jobs/machine-learning-researcher)  
   Himalayas | posted Nov 16 16:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyin...
-- [Sanctuary Computer: Head of Technology](https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1)  
-  We Work Remotely | posted Nov 16 15:09 UTC | score 7 | **$110 - $175** | typescript, postgres, workflow, next.js, agents, stripe
-  Fit: 25 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma,...
 - [Job Mobz: AI Ops and Automation Specialist](https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist)  
   Himalayas | posted Nov 15 10:43 UTC | score 8 | automation, automate, agents, zapier, n8n, ai
   Fit: 21 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > We're looking for a resourceful, technically savvy AI Operations & Automation Specialist to help us streamline and scale our content and digital operations. This person will identify opportunities to automate manual processes across social media, websites, newsletters, podcasts, video, and other digital channels. You'll build and manage AI-powered workflows, tools, and agents that improve efficiency, consistency, and output.Key Responsibilities Identify opportunities to automate repetitive tasks and improve existing workflows. Build, test, and maintain AI-powered tools, agents, and automati...
-- [Forager: Sales Development Representative (Phone-First)](https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first)  
-  Himalayas | posted Nov 16 09:01 UTC | score 4 | ai, problem: lead intake
-  Fit: 19 | lead intake; explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > About the Company Forager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role This is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does...
+- [Sanctuary Computer: Head of Technology](https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1)  
+  We Work Remotely | posted Nov 16 15:09 UTC | score 7 | **$110 - $175** | typescript, postgres, workflow, next.js, agents, stripe
+  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma,...
 - [Xperteez Technology: AI Trainer (SWE) | Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817)  
   Himalayas | posted Nov 15 15:34 UTC | score 5 | **USD 60 to 120/hourly** | javascript, typescript, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills So...
-- [YO AI Labs: Machine Learning Engineer  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698)  
-  Himalayas | posted Nov 14 10:48 UTC | score 5 | **USD 50 to 150/hourly** | workflow, agents, python, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Job Description: Junior Machine Learning Engineer Location: Global, Fully Remote Job Type: Contractor Time Commitment: Approximately 15 hours per week Schedule: Flexible – choose your preferred working days and hours, including weekends.About the Role We are seeking skilled Machine Learning Engineers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, performance optimization, and Python-based engineering. This is a highly technical, coding-intensive role. You will create, solve, review, and validate challenging machine...
-- [TachyonShift: Senior Forward Deployed AI Engineer](https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer)  
-  Himalayas | posted Nov 16 08:41 UTC | score 8 | automation, typescript, workflow, agents, python, llm
-  Fit: 17 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
 - [Xperteez Technology: 🌍 Software Engineer - Backend, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141)  
   Himalayas | posted Nov 15 15:32 UTC | score 4 | **USD 50 to 100/hourly** | typescript, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: Software Engineer - Backend Role Type: Contract (~15 hrs a week) Location: RemoteOpportunity Snapshot: Time per task: 5 hours for trainers and 1.5 hours for reviewers Engagement: Project-based — paid per approved task Commitment: ~15 hours per week Location: Fully remote You’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript Your tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiersRequired Skills: Python3 JAVA Rust Algorithms Basics C++ Typescript Bug fixing Feature implementation Cod...
-- [Xperteez Technology: Software Engineer - Open Source Contributions, Remote](https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-open-source-contributions-remote)  
-  Himalayas | posted Nov 14 07:31 UTC | score 4 | **USD 50 to 100/hourly** | typescript, workflow, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: Software Engineer - Open Source Contributions Role Type: Contract Location: RemoteRequired Skills Python3 Java Rust Algorithms Basics c++ Typescript Bug fixing Feature implementation Codebase refactoring Performance optimization In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work Develop, implement, and refine new features within existing open source codebases...
-- [Entrepreneur Cooperative: Marketing Manager, Communications & Content](https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content)  
-  Himalayas | posted Nov 14 10:22 UTC | score 6 | **USD 1000 to 1300/weekly** | automation, workflow, chatgpt, claude, zapier, ai
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
-  > ★ PLEASE SUBMIT YOUR CV IN ENGLISH ★ Marketing Manager, Communications & Content Location: Remote – Mexico Work Arrangement: This is a fully remote (telecommute) position. Employment Type: Independent Contractor (ongoing) Industry: Marketing & Advertising Compensation: $1,000–$1,300 USD/week Schedule: Self-directed; you set your own schedule and methods, with weekly or biweekly updates English Proficiency: C1 (Excellent spoken and written English) Start Date: November 16, 2026About the RoleA leading independent PR, creative, and digital agency is seeking an experienced marketing and communi...
 - [Way: Customer Support Specialist (Part-Time & Remote)](https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote)  
   Himalayas | posted Nov 15 16:05 UTC | score 3 | **$22** | workflow, saas, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -80,21 +55,11 @@ Updated 2026-11-16 18:53 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skill...
-- [dentsu international: Business Analyst - Temporary Worker](https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker)  
-  Himalayas | posted Nov 14 10:36 UTC | score 3 | **USD 53.74 to 70/hourly** | problem: API connection
-  Fit: 15 | API connection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Job Description: TEMP Role – W2 on Dentsu Payroll Only 11/16/2026-1/29/2027 - possibility to extend or convert Location: Hybrid or Remote depending on location Approximate #Hours/Week: Time Zone: EST Must be US BasedCOMPANY DESCRIPTION: Merkle, a dentsu company, powers the experience economy. For more than 35 years, the company has put people at the heart of its approach to digital business transformation. As the only integrated experience consultancy in the world with a heritage in data science and business performance, Merkle delivers holistic, end-to-end experiences that drive growth, en...
-- [Punchcut: Design Engineer- Contract (Mid-level)](https://himalayas.app/companies/punchcut/jobs/design-engineer-contract-mid-level)  
-  Himalayas | posted Nov 14 09:30 UTC | score 3 | **USD 60 to 90/hourly** | typescript, react, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Punchcut is looking for a designer who codes, or a developer who designs, to join us on a contract basis. You should have a strong understanding of user-centered design and be comfortable working independently and in collaboration with other designers. You are passionate about data-integrated front-end prototypes or prototyping interactive experiences in emerging user interface paradigms and technologies such as generative AI, spatial computing, AI, VR/AR/MR, automotive, and voice. You feel comfortable hacking and prototyping in a fast-paced, collaborative, creative design studio environmen...
-- [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
-  Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
-  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solu...
+- [Forager: Sales Development Representative (Phone-First)](https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first)  
+  Himalayas | posted Nov 16 09:01 UTC | score 4 | ai, problem: lead intake
+  Fit: 13 | lead intake; explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > About the Company Forager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role This is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does...
 - [YO AI Labs: AI Trainer (ML Engineering) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/ai-trainer-ml-engineering-remote)  
   Himalayas | posted Nov 14 15:34 UTC | score 4 | automation, python, ai
   Fit: 13 | explicit hiring intent
@@ -110,26 +75,16 @@ Updated 2026-11-16 18:53 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Frontend / UI Engineer Role Type: Contractor Location: RemoteAbout the Role We are seeking experienced Frontend / UI Engineers to create and evaluate challenging coding tasks based on visual references such as screenshots, UI mockups, diagrams, and screen recordings. You will use your frontend development expertise to design tasks with clear requirements, measurable success criteria, and working reference implementations.Key Responsibilities Design multi-step coding tasks based on screenshots, UI mockups, diagrams, and screen recordings of real workflows. Define the code, f...
-- [YO AI Labs: Computational Chemistry, Structural Biology & Drug Discovery Scientist   - Remot](https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot)  
-  Himalayas | posted Nov 14 09:28 UTC | score 4 | **USD 50 to 90/hourly** | workflow, python, ai
-  Fit: 12 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Job Description: Clinical, Microbiome & Translational Research Scientist (PhD) Role Type: Contractor Location: Remote (Worldwide)About the Role We are seeking PhD-level experts in clinical research, microbiome science, and translational bioinformatics to contribute their scientific expertise to the development and evaluation of next-generation AI systems. In this role, you will create advanced scientific problems, evaluate AI-generated responses, and assess the accuracy, rigor, and depth of scientific reasoning. Your contributions will help ensure that AI systems deliver reliable, evidence-...
-- [PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus](https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus)  
-  Himalayas | posted Nov 16 05:59 UTC | score 3 | **USD 70000 to 80000/annual** | workflow, saas, ai
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
-- [Padmore Global Connections LLC: System Administrator Automation](https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation)  
-  Himalayas | posted Nov 14 09:49 UTC | score 3 | automation, automate
+- [TachyonShift: Senior Forward Deployed AI Engineer](https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer)  
+  Himalayas | posted Nov 16 08:41 UTC | score 8 | automation, typescript, workflow, agents, python, llm
   Fit: 11 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Title/Role: GA DHS System Administrator Automation (756594) ﻿Worksite Address: 47 Trinity Ave SW. Atlanta, GA 30334 ﻿Agency Interview Type: Web Cam Interview Only ﻿Work Arrangement: Remote ﻿Engagement Type: Contract ﻿NOTE: All applications with PDF Format resumes will be automaticaly rejected. Only Word format resumes will be considered.﻿ Short Description: The Georgia Department of Human Services (DHS), Office of Information Technology is seeking candidates for the temporary contractor position of System Administrator Automation in Atlanta, Georgia. Complete Description:We are looking for...
-- [YO AI Labs: Bioinformatics Scientist - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote)  
-  Himalayas | posted Nov 14 08:20 UTC | score 3 | **USD 50 to 90/hourly** | python, ai
-  Fit: 10 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Job Description: Bioinformatics Scientist Role Type: Contractor Location: RemoteAbout the Role We are seeking experienced Bioinformatics Scientists to contribute their specialized expertise to an innovative project focused on advancing AI systems. In this role, you will apply your knowledge of bioinformatics, computational biology, and medicinal chemistry to analyze complex scientific datasets, support AI model development, and evaluate AI-generated outputs. Your contributions will help improve the accuracy, reliability, and scientific reasoning capabilities of next-generation AI systems. P...
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
+- [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
+  Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solu...
 - [Vi: Senior UX/UI Designer for Product (Freelance)](https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance)  
   Himalayas | posted Nov 15 11:37 UTC | score 4 | **$125** | agents, claude, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -140,26 +95,21 @@ Updated 2026-11-16 18:53 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | explicit hiring intent; budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Dr. Elena Loutskina is looking for a data scientist/data analyst with a genuine interest in the healthcare research and analytics. The main role is to conduct exploratory data analysis using Virginia’s All-Payer Claims Database (APCD). The APCD brings together medical claims, pharmacy claims, and enrollment data from Medicare, Medicaid, and many commercial health plans in Virginia. This dataset provides a valuable resource for studying healthcare use, spending, and coverage across the state. Primary Responsibilities:Responsibilities may include: Cleaning and organizing data. Conducting expl...
+- [PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus](https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus)  
+  Himalayas | posted Nov 16 05:59 UTC | score 3 | **USD 70000 to 80000/annual** | workflow, saas, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
 - [Sparq: (Contractor) Senior Lead React Native Engineer](https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer)  
   Himalayas | posted Nov 14 20:37 UTC | score 6 | react native, typescript, claude, openai, ai
   Fit: 2 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > At Sparq, we help companies solve the right problems—not just build more technology. We’re a modern product engineering partner blending strategy, craftsmanship, and speed to help organizations modernize confidently in the age of AI. From data ecosystems to digital products and AI acceleration, we turn complexity into clarity and ideas into impact. If you’re driven to build what’s next, lead with empathy, and deliver excellence without ego, you’ll feel right at home at Sparq. C2C is not available Must be authorized to work in the U.S. without sponsorship A Day in the Life: Lead the overall...
-- [SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote](https://news.ycombinator.com/item?id=50495944)  
-  HN Who is hiring | posted Nov 14 10:50 UTC | score 6 | full-stack, typescript, next.js, node, saas, ai
-  Fit: 2 | 
-  Check: budget unknown; seniority requirement needs review
-  > SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote Senior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces. Recent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities. Portfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordrago...
 - [KData Inc.: Data Architect – PBM Data Modernization](https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization)  
   Himalayas | posted Nov 14 20:26 UTC | score 3 | gemini, mvp, ai
   Fit: 1 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > This is a remote position.Data Architect – PBM Data Modernization Location: Remote (US Only) Industry:Pharmacy Benefit Management (PBM)Platform:Google Cloud PlatformRole Overview We're looking for a Data Architect to lead data modeling and source-to-target mapping for a Pharmacy Benefit Manager (PBM) modernization program on Google Cloud. The role covers migrating legacy claims and eligibility data, and the IBM Cognos reporting built on it, into a new BigQuery-based enterprise data warehouse. It also ensures the future-state platform meets state-specific Medicaid reporting requirements, sta...
-- [Homestead Studio: Retention Specialist](https://himalayas.app/companies/homestead-studio/jobs/retention-specialist)  
-  Himalayas | posted Nov 14 08:17 UTC | score 3 | automation, chatgpt, ai
-  Fit: 1 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Homestead Studio We are an email marketing agency specializing in growing eCommerce brands by creating exciting, engaging, and personalized messaging across email and SMS channels. Our expertise in email and SMS marketing allows our clients to cultivate relationships with potential customers and build lasting relationships with current customers to create lifetime value. About the role We're hiring a Retention Specialist to own the day-to-day execution and project management of email and SMS programs across a portfolio of e-commerce clients. You'll work in lockstep with the Retention Strate...
 - [RustLabs: Remote AI Education Rater for Students and Recent Grads ($20/hr)](https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr)  
   Himalayas | posted Nov 15 01:19 UTC | score 3 | **USD 20 to 20/hourly** | gemini, ai
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
@@ -180,8 +130,3 @@ Updated 2026-11-16 18:53 UTC. Projects first, ranked by fit and freshness.
   Fit: -4 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Sutherland is seeking a fully remoteSenior Temporary Team Manager (6 Months) who will oversee one of our Educational Technology programs! As a Senior Team Manager, you will manage a team of 4 Team Managers who oversee an elite brand ambassadors managing complex interactions, including high-net-worth stakeholders, school leadership, and families, our leadership team needs to model and coach to a very high standard. When supporting and developing Team Managers, we expect the Senior Team Manager to heavily emphasize and coach to the following competencies: Sophisticated Relationship Management...
-- [YO AI Labs: Passport Acceptance Agent  - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259)  
-  Himalayas | posted Nov 14 08:56 UTC | score 3 | **USD 20 to 50/hourly** | agents, ai
-  Fit: -5 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > Job Description: Passport Acceptance Agent Role Type: Contractor Location: RemoteAbout the Role We are seeking experienced Passport Acceptance Agents to contribute to a project focused on improving the efficiency and accuracy of passport application processes. In this role, you will use your professional knowledge of passport acceptance procedures to help train and evaluate AI systems. You will review application scenarios, provide expert feedback, and share practical insights into identity verification, document authentication, and passport processing requirements. No prior AI experience i...

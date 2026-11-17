@@ -16,9 +16,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -50,9 +49,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -83,9 +81,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -117,9 +114,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -132,44 +128,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api",
       "expires": "2027-01-15T16:20:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "source": "We Work Remotely",
-      "title": "Sanctuary Computer: Head of Technology",
-      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "posted": "2026-11-16T15:09:29+00:00",
-      "body": "Headquarters: New York City\nURL: https://sanctuary.computer\nWe are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.\nOriginal job posting link\nAbout garden3d\nWe are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.\nOur client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian.\nWe’re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space.\nWe think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.\nSanctuary Computer - Development\nAt Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson.\nOur projects range from design-forward websites, to robust web apps, to native mobile development.\nXXIX - Design\nWhen we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be.\nWe’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility.\nIndex - Community\nIndex is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools.\nWe nurture trust within the creative community through generosity and abundance of ideas and care.\ngarden3d TK — Media\nAt garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture.\nWe aim to monetize this outlet, publish books, produce screenplays, and release music.\nPlus, our partner organizations\nLightphone\nMill\nIngredientAI\n⛰️ The Head of Technology Role\nThe garden3d Head of Technology has one mandate: everything we build works, holds up in production, and gets built the smartest way available to us. We are a house of brands - Sanctuary Computer (development), XXIX (design), Index Space (community), USB Club (digital community), and the garden3d umbrella itself - and a lot of what all of them ship runs on software we wrote. Working in close partnership with our founder & president Hugh Francis, this person sets the engineering standard, and builds the culture that holds it.\nYou can be based anywhere. A lot of our people are in New York and there's some gravity here, but we already work across timezones and we would happily hire in Europe, Singapore, Chicago, or wherever you are. If you're the right person, we want to hear from you.\nThis role works with studio leads, developers, designers, project managers and clients across every garden3d vertical.\nThis person can move between a Rails migration, a Next.js app, a firmware release plan and an agent loop in the same week, and raise the bar on each of them.\nThey span all of garden3d, but their home base is Sanctuary Computer, where roughly 70% of their time goes. Our development studio is where the engineering standard gets set, and where it either holds or slips: architecture, code review, estimation, and the hardest technical calls on our biggest projects. The other 30% goes to garden3d's broader technology story: how we ship product for USB Club, build with agents across the collective, which tools and platforms we bet on, and what we build for ourselves.\nThey are also how we get better people. Our work is only as good as the engineers making it, so this person hunts for exceptional talent, sells them on us, and sets them up to do the best work of their careers. The ideal candidate looks at a worker-owned collective with four studios, an open P&L and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees an engineering practice they can propel among the best in the world.\nResponsibilities & Mandates\n️ Systems that hold up\nWe build web apps, native apps, data pipelines, content platforms and connected devices for clients who can't afford for them to fall over. This person has engineered complex systems for a long time, and it shows in the architecture they draw before a line is written. They own the technical blueprint on our most important projects, and they make the hard calls on the rest: what to build, what to buy, and what to leave out.\nAll in on agentic development\nThe way software gets built changed, and we intend to be ahead of it. This person is already deep in it: loop engineering, agents running against evals, agents that open their own PRs, and the guardrails that make all of that trustworthy. They make agentic development the default way Sanctuary Computer works, and they can tell the difference between a demo and a system a team can rely on.\nPractical engineering\nWe strongly prefer convention over configuration, boring technology, and platforms that let a small team ship a lot. TypeScript is the default language, Rails and Phoenix handle what they're best at, and we'd rather deploy to a platform like Render or Heroku than run our own infrastructure. This person practices value engineering: the simplest thing that works, built well, at a cost the client is glad to pay.\nCode quality at Sanctuary Computer\nSanctuary Computer is where our engineering standard lives, so this is where most of their energy goes. They set what good code review looks like, keep our senior developers sharp on architecture and quality, and make sure that bar holds without slowing the team down.\nHiring and empowering the very best\nThey are a magnet for exceptional engineers. They know where to find them, how to convince them, and how to give them enough room to do their best work while still holding them to the standard. People who work for this person should get visibly better, and should say so.\nEstimation, scoping and delivery\nThey make sure our teams can reliably estimate and story point the work ahead, and that we deliver at a pace that meets the dates we promised and protects our margins. When an estimate is wrong, they find out why and fix the process.\nThe technical voice in new business\nOur clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This person joins new business calls as the trusted technical consultant, scopes the work, writes the technical side of proposals, and can explain a hard tradeoff to a client's CTO and their CEO in the same meeting.\nHardware sense\nWe're the software team behind The Light Phone and Mill, so a good share of our work touches devices. This person doesn't need to be a firmware engineer, but they understand how hardware works, where it constrains the software, and how to plan a project that spans both.\nThe garden3d technology story\nAcross the collective, they decide which tools and platforms we bet on, how every studio uses agents, and which internal tools are worth turning into products. When someone at garden3d asks \"how should we build this?\", this person has the answer, or knows who does.\nCulture\nThey model garden3d's values of partnership, curiosity, and accountability. The engineers they lead do the best work of their careers here, because the feedback is honest, the recognition is earned, and the craft rubs off\n Special Projects\nIn addition to day to day responsibilities, here’s an idea of some of the projects this role may spearhead or support in coming years →\nMaking agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts\nSetting the shared technical conventions every garden3d studio builds from\nLanding the kind of flagship engineering engagement that changes what people think we do\nHiring the next generation of the engineering team, across every garden3d studio\nTurning the internal tools and agents we build for ourselves into products\nPartnering with the Head of Design so our own studio websites are as well engineered as they are designed\nQualifications\nThis is a great opportunity for someone looking to make a significant impact in a growing, dynamic company. Based on the responsibilities of this role, we think the right candidate has the following experience and skills:\n Must have:\n12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company\nDeep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products\nA true technology generalist, comfortable across frontend, backend, data, infrastructure and native\nA strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure\nAll in on agentic development: loop engineering, evals, and agents doing real work in a real codebase\nFluency across most of our stack: React, Next.js, Ruby on Rails, Elixir & Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it\nExperience as the technical lead in winning work: scoping, estimating and pitching to clients\nA track record of hiring exceptional engineers, and of people who got measurably better working for them\nHands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)\n Nice-to-have:\nA sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products\nExperience in a client services environment (a consultancy, agency or studio)\nExperience in a Sales Engineer or Solutions Architect role\nOpen source projects they've started or maintained\nExperience fostering close collaboration between design and engineering teams\nExperience inside a worker-owned, open-book, or otherwise unusual company\nA network in the engineering community: the meetups, the conferences, the people worth hiring\nInterests in design, art, music, food or fashion. We find these people have a well rounded sense of quality\nWho you are\nThe person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team.\nHow we interview\nAfter you submit your application, a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests.\nFrom there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business.\nFor qualified candidates, the process wraps with a reference call, and an offer to follow.\nCompensation\nThis is a permanent leadership role. If this individual exceeds expectations in their first four months, we'll shape the permanent role together, with scope and compensation that grow as the studios and their revenue do. After a period of proven success (12 - 24 months), they become eligible to join our worker ownership program.\nWe start with a 4-month fraction trial contract, paid hourly between $110 - $175 p/hr pending seniority & experience. In the first few weeks of the trial, this individual will propose their own goals to define success in their trial, and present them to our leadership team for approval.\nAt garden3d, we believe that those who shoulder the most responsibility and create the greatest impact should be paid accordingly. This role greatly favors autonomous, competent & ambitious operators.\n‍ How we work:\nWe believe that there’s a better balance between the poles of freelancing & full time, and for that reason we work differently to most shops:\nTransparency & Ownership: We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.\n150% Carbon Negative: Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. We have been certified climate neutral since 2021.\nStrong Morals: Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).\nAsync & Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.\nRemote Friendly: Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.\nIdeas & Products: In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?\n→ Read more on our Substack, over here.\n How to apply\nWe’re excited to hear from you! ❤\nKindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.\nOur team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! :)\nTo apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
-      "budget": "$110 - $175",
-      "score": 7,
-      "matched": [
-        "typescript",
-        "postgres",
-        "workflow",
-        "next.js",
-        "agents",
-        "stripe",
-        "react"
-      ],
-      "queue": "contract",
-      "priority": 25,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "dollar currency unverified",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -209,34 +167,39 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
-      "source": "Himalayas",
-      "title": "Forager: Sales Development Representative (Phone-First)",
-      "url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
-      "posted": "2026-11-16T09:01:54+00:00",
-      "body": "About the Company\nForager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role\nThis is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does the part a machine cannot: get prospects on the phone, qualify them properly, and hand our closers meetings that turn into real opportunities. You will work directly with the CEO, Head of Growth, GTM agency, and our commercial Account Executive (AE). Why join\nSell a product with a real edge: we’re the #1 mobile and personal email provider on Clay \n• Shoulder-to-shoulder training from our current SDR, plus regular coaching using call recordings\n• Learn one of the most advanced AI-driven outbound setups in the industry\nWhat you will do\nRespond quickly to inbound leads (demo requests from our website, data requests from marketplaces, and partner and referral introductions). Speed-to-lead is one of your key metrics \n• Run qualification calls with inbound and outbound leads: use case, data need and volume, budget, buying process and timeline. Route each lead to the right closer, or to self-service when that is the better fit.\n• Cold call the accounts our signal engine flags each sprint (our Tier 1 and Tier 2 target accounts), and book qualification calls and demos from those conversations.\n• Book meetings that closers accept. A demo counts as \"Demo Accepted\" when the AE has reviewed your call notes and agreed the opportunity is qualified. Demo Accepted is your core metric and drives your variable pay.\n• Bring what you learn back to the sprint review with Growth and Sales: which objections come up, which messaging lands, which signals convert.\n• Keep HubSpot accurate on every lead you touch. AI drafts the notes, enrichment and follow-ups; you confirm the facts and the next step. \nWhat you will NOT spend your time on\nWriting and sending email or LinkedIn sequences. These are automated and owned by the Growth team; you see the replies, not the sends.\n• Building lists or researching accounts. The signal engine and AI do this before a name reaches your call list.\n• Manual CRM data entry, call notes and meeting prep. AI drafts these; you check them.\nTools and systems\nHubSpot: CRM, lead routing, deal stages and the Demo Accepted gate \n• Parallel dialer for outbound calling\nAutomated email and LinkedIn software with sequences whose replies land with you\n• Call recording software, used for coaching and for AI call notes\n• AI assistants for account research, call summaries, CRM updates and follow-up drafts\nRequirementsMust-haves:\nPrevious experience in a phone-heavy B2B SDR, BDR or inside sales role, ideally 2+ years\n• A cold-calling track record you can show: daily dial and connect volumes, meetings booked, and opportunities your sales team accepted that started with your cold call \n• Strong qualification skills: you know how to uncover need, budget and decision process, and you never leave a call without a next step \n• Clear, confident spoken English and comfort with technical buyers (product, data and engineering leaders)\n• Comfortable learning technical products quickly; you’ll explain enrichment APIs and data feeds to technical buyers \n• Self-managed and comfortable working in a fully remote team.\nNice-to-haves:\nYou have sold B2B data, sales technology, recruiting technology or developer and data infrastructure\n• You have experience with a parallel dialer, and HubSpot\n• You have worked marketplace or partner-sourced leads\nBenefits• Full-time contractor role\nFully remote. Any location, with a daily calling window of at least four hours between 9am and 6pm US Eastern.\n• Base pay plus variable, split roughly 70/30. Variable is paid on Demo Accepted meetings, not on meetings booked\n• Untracked PTO: take the time off you need, with no accrual to count. We trust you to get the job done \nSound like you? Apply with your CV and a 2-minute audio or video recording about a cold call you made that turned into an opportunity your sales team accepted: what you said, the objection you hit, how you knew it was worth a meeting, and what happened after the handoff . We review every application, and our recruiter will be in touch within a few days to walk you through next steps!\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
+      "id": "wwr:https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+      "source": "We Work Remotely",
+      "title": "Sanctuary Computer: Head of Technology",
+      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+      "posted": "2026-11-16T15:09:29+00:00",
+      "body": "Headquarters: New York City\nURL: https://sanctuary.computer\nWe are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code.\nOriginal job posting link\nAbout garden3d\nWe are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions.\nOur client roster includes Google, Stripe, Figma, Hinge, Black Socialists in America, ACLU, Pratt, Parsons, Mozilla, The Nobel Prize, MIT, Gnosis, Etsy & Gagosian.\nWe’re the software team behind innovative products like The Light Phone & Mill, and we operate a global, decentralized community space collective called Index Space.\nWe think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs.\nSanctuary Computer - Development\nAt Sanctuary Computer we’re building a different type of technology shop – one that prioritizes close collaboration between the client and the craftsperson.\nOur projects range from design-forward websites, to robust web apps, to native mobile development.\nXXIX - Design\nWhen we started XXIX in 2013, we set out to create a different kind of design studio and we’ve thrived because we continually ask what a creative practice can be.\nWe’re building a radically different kind of organization that values autonomy, growth, transparency, and shared responsibility.\nIndex - Community\nIndex is network of physical spaces all around the world, Index provides space for the exchange of knowledge and tools.\nWe nurture trust within the creative community through generosity and abundance of ideas and care.\ngarden3d TK — Media\nAt garden3d, we’re in the early stages of building an experimental media company exploring emerging themes related to the evolving landscape of technology, design and culture.\nWe aim to monetize this outlet, publish books, produce screenplays, and release music.\nPlus, our partner organizations\nLightphone\nMill\nIngredientAI\n⛰️ The Head of Technology Role\nThe garden3d Head of Technology has one mandate: everything we build works, holds up in production, and gets built the smartest way available to us. We are a house of brands - Sanctuary Computer (development), XXIX (design), Index Space (community), USB Club (digital community), and the garden3d umbrella itself - and a lot of what all of them ship runs on software we wrote. Working in close partnership with our founder & president Hugh Francis, this person sets the engineering standard, and builds the culture that holds it.\nYou can be based anywhere. A lot of our people are in New York and there's some gravity here, but we already work across timezones and we would happily hire in Europe, Singapore, Chicago, or wherever you are. If you're the right person, we want to hear from you.\nThis role works with studio leads, developers, designers, project managers and clients across every garden3d vertical.\nThis person can move between a Rails migration, a Next.js app, a firmware release plan and an agent loop in the same week, and raise the bar on each of them.\nThey span all of garden3d, but their home base is Sanctuary Computer, where roughly 70% of their time goes. Our development studio is where the engineering standard gets set, and where it either holds or slips: architecture, code review, estimation, and the hardest technical calls on our biggest projects. The other 30% goes to garden3d's broader technology story: how we ship product for USB Club, build with agents across the collective, which tools and platforms we bet on, and what we build for ourselves.\nThey are also how we get better people. Our work is only as good as the engineers making it, so this person hunts for exceptional talent, sells them on us, and sets them up to do the best work of their careers. The ideal candidate looks at a worker-owned collective with four studios, an open P&L and clients like Google, Stripe, Brooklyn Museum and The Nobel Prize, and sees an engineering practice they can propel among the best in the world.\nResponsibilities & Mandates\n️ Systems that hold up\nWe build web apps, native apps, data pipelines, content platforms and connected devices for clients who can't afford for them to fall over. This person has engineered complex systems for a long time, and it shows in the architecture they draw before a line is written. They own the technical blueprint on our most important projects, and they make the hard calls on the rest: what to build, what to buy, and what to leave out.\nAll in on agentic development\nThe way software gets built changed, and we intend to be ahead of it. This person is already deep in it: loop engineering, agents running against evals, agents that open their own PRs, and the guardrails that make all of that trustworthy. They make agentic development the default way Sanctuary Computer works, and they can tell the difference between a demo and a system a team can rely on.\nPractical engineering\nWe strongly prefer convention over configuration, boring technology, and platforms that let a small team ship a lot. TypeScript is the default language, Rails and Phoenix handle what they're best at, and we'd rather deploy to a platform like Render or Heroku than run our own infrastructure. This person practices value engineering: the simplest thing that works, built well, at a cost the client is glad to pay.\nCode quality at Sanctuary Computer\nSanctuary Computer is where our engineering standard lives, so this is where most of their energy goes. They set what good code review looks like, keep our senior developers sharp on architecture and quality, and make sure that bar holds without slowing the team down.\nHiring and empowering the very best\nThey are a magnet for exceptional engineers. They know where to find them, how to convince them, and how to give them enough room to do their best work while still holding them to the standard. People who work for this person should get visibly better, and should say so.\nEstimation, scoping and delivery\nThey make sure our teams can reliably estimate and story point the work ahead, and that we deliver at a pace that meets the dates we promised and protects our margins. When an estimate is wrong, they find out why and fix the process.\nThe technical voice in new business\nOur clients include Google, Stripe, Figma, Mozilla and The Nobel Prize. This person joins new business calls as the trusted technical consultant, scopes the work, writes the technical side of proposals, and can explain a hard tradeoff to a client's CTO and their CEO in the same meeting.\nHardware sense\nWe're the software team behind The Light Phone and Mill, so a good share of our work touches devices. This person doesn't need to be a firmware engineer, but they understand how hardware works, where it constrains the software, and how to plan a project that spans both.\nThe garden3d technology story\nAcross the collective, they decide which tools and platforms we bet on, how every studio uses agents, and which internal tools are worth turning into products. When someone at garden3d asks \"how should we build this?\", this person has the answer, or knows who does.\nCulture\nThey model garden3d's values of partnership, curiosity, and accountability. The engineers they lead do the best work of their careers here, because the feedback is honest, the recognition is earned, and the craft rubs off\n Special Projects\nIn addition to day to day responsibilities, here’s an idea of some of the projects this role may spearhead or support in coming years →\nMaking agentic development the default way Sanctuary Computer builds, with loops and evals the whole team trusts\nSetting the shared technical conventions every garden3d studio builds from\nLanding the kind of flagship engineering engagement that changes what people think we do\nHiring the next generation of the engineering team, across every garden3d studio\nTurning the internal tools and agents we build for ourselves into products\nPartnering with the Head of Design so our own studio websites are as well engineered as they are designed\nQualifications\nThis is a great opportunity for someone looking to make a significant impact in a growing, dynamic company. Based on the responsibilities of this role, we think the right candidate has the following experience and skills:\n Must have:\n12+ years building software, at least three of them leading engineers inside a studio, agency, startup or founder-led company\nDeep experience engineering complex systems, shipped and run in production: distributed services, data pipelines, multi-platform products\nA true technology generalist, comfortable across frontend, backend, data, infrastructure and native\nA strong preference for practical engineering: convention over configuration, boring technology, and platforms as a service over bespoke infrastructure\nAll in on agentic development: loop engineering, evals, and agents doing real work in a real codebase\nFluency across most of our stack: React, Next.js, Ruby on Rails, Elixir & Phoenix, Sanity, Postgres, Redis. You won't use all of it every week, but you should be able to review any of it\nExperience as the technical lead in winning work: scoping, estimating and pitching to clients\nA track record of hiring exceptional engineers, and of people who got measurably better working for them\nHands-on. This person can still write the code, not only review it (and will get on the tools when the need arises)\n Nice-to-have:\nA sense of how hardware works: firmware, embedded systems, IoT, and shipping software for physical products\nExperience in a client services environment (a consultancy, agency or studio)\nExperience in a Sales Engineer or Solutions Architect role\nOpen source projects they've started or maintained\nExperience fostering close collaboration between design and engineering teams\nExperience inside a worker-owned, open-book, or otherwise unusual company\nA network in the engineering community: the meetups, the conferences, the people worth hiring\nInterests in design, art, music, food or fashion. We find these people have a well rounded sense of quality\nWho you are\nThe person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team.\nHow we interview\nAfter you submit your application, a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests.\nFrom there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business.\nFor qualified candidates, the process wraps with a reference call, and an offer to follow.\nCompensation\nThis is a permanent leadership role. If this individual exceeds expectations in their first four months, we'll shape the permanent role together, with scope and compensation that grow as the studios and their revenue do. After a period of proven success (12 - 24 months), they become eligible to join our worker ownership program.\nWe start with a 4-month fraction trial contract, paid hourly between $110 - $175 p/hr pending seniority & experience. In the first few weeks of the trial, this individual will propose their own goals to define success in their trial, and present them to our leadership team for approval.\nAt garden3d, we believe that those who shoulder the most responsibility and create the greatest impact should be paid accordingly. This role greatly favors autonomous, competent & ambitious operators.\n‍ How we work:\nWe believe that there’s a better balance between the poles of freelancing & full time, and for that reason we work differently to most shops:\nTransparency & Ownership: We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community.\n150% Carbon Negative: Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same. We have been certified climate neutral since 2021.\nStrong Morals: Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative).\nAsync & Decentralized: We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time.\nRemote Friendly: Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process.\nIdeas & Products: In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio?\n→ Read more on our Substack, over here.\n How to apply\nWe’re excited to hear from you! ❤\nKindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process.\nOur team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! :)\nTo apply: https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1",
+      "budget": "$110 - $175",
+      "score": 7,
       "matched": [
-        "ai",
-        "problem: lead intake"
+        "typescript",
+        "postgres",
+        "workflow",
+        "next.js",
+        "agents",
+        "stripe",
+        "react"
       ],
       "queue": "contract",
       "priority": 19,
       "reasons": [
-        "lead intake",
-        "explicit hiring intent"
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
       ],
       "flags": [
-        "budget unknown",
-        "check eligibility: United States"
+        "dollar currency unverified",
+        "seniority requirement needs review"
       ],
       "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
+      "location": "",
+      "employment_type": "",
       "currency": "",
-      "apply_url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first?utm_source=api",
-      "expires": "2027-01-15T09:01:53+00:00",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -274,76 +237,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Machine Learning Engineer  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698",
-      "posted": "2026-11-14T10:48:37+00:00",
-      "body": "Job Description: Junior Machine Learning Engineer\nLocation: Global, Fully Remote\nJob Type: Contractor\nTime Commitment: Approximately 15 hours per week\nSchedule: Flexible – choose your preferred working days and hours, including weekends.About the Role\nWe are seeking skilled Machine Learning Engineers to contribute to an AI training project focused on model development, training and inference systems, numerical computing, performance optimization, and Python-based engineering.\nThis is a highly technical, coding-intensive role. You will create, solve, review, and validate challenging machine learning engineering tasks. Projects may involve implementing or modifying models, building reproducible training and inference workflows, optimizing memory usage and throughput, debugging numerical or system-level issues, and validating solutions against objective correctness and performance requirements.\nCandidates must have practical experience using coding agents as part of their Python development workflow.Key Responsibilities\nDevelop and validate machine learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical computing methods.\nBuild reproducible workflows using Python and command-line tools.\nDebug and resolve numerical, performance, and system-level engineering issues.\nOptimize model performance, memory usage, and computational efficiency.\nReview and validate machine learning implementations against defined technical requirements.\nRequired Qualifications\nBachelor's degree in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative field.\nStrong professional or research experience in machine learning.\nAdvanced practical proficiency in Python programming.\nHands-on experience using coding agents within Python development workflows.\nAbility to independently develop, debug, and validate complex technical solutions.\nExperience with equivalent tools may also be considered when supported by directly relevant technical expertise.Preferred Background\nExperience at an established technology company, AI laboratory, research organization, or recognized engineering environment.\nExceptional open-source contributions or academic research experience.\nPractical experience with model training, inference optimization, numerical computing, and machine learning infrastructure.\nSelection Process\nSubmit an application and complete the screening questions.\nComplete an AI interview lasting approximately 30 minutes.\nProceed through the hiring manager review.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 150/hourly",
-      "score": 5,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-engineer-remote-9138504698?utm_source=api",
-      "expires": "2027-01-13T10:48:36+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer",
-      "source": "Himalayas",
-      "title": "TachyonShift: Senior Forward Deployed AI Engineer",
-      "url": "https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer",
-      "posted": "2026-11-16T08:41:22+00:00",
-      "body": "About TachyonShift\nTachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week.\nThe role\nBuild things that run in production. Lead the work that puts a governed, working AI system in front of a customer in weeks.\nA forward deployed engineer works inside the customer's business. You sit with the people who do the work, learn the process and the data, and build the system that replaces the manual steps. As a senior engineer you are the named engineer on the engagement: the customer's technical point of contact, the person who writes the plan, leads the build, and answers for the result after launch.\nWhat you will do\nWork backwards with the customer: write the announcement, the success metrics, and the hard questions before the first line of code\nDesign and build production AI systems on the customer's real data: retrieval, multi-step agents, workflow automation, integrations, and the code that makes them dependable\nChoose the right model for each step, from any provider, and keep the system model-neutral so a model swap is a configuration change\nWrite evaluation tests before launch and design the human verification and audit trail for every output where an error costs money\nDemo working software to the customer every week and change course on what you learn\nOperate what you ship under the operating agreement: monitoring, incident response, runbooks, and a monthly results review\nMentor engineers and set the technical bar on your engagement\nWhat success looks like in your first 90 days\nLead an engagement from working-backwards document to a working version on real data, demoed weekly\nShip evaluation tests and a monitoring plan with the first release\nLeave runbooks that let another engineer or the customer operate the system\nRaise one improvement to how the team scopes, builds, or verifies AI systems\nWhat you bring\nEight or more years building and running production software, including hands-on delivery of LLM-based systems\nStrong Python or TypeScript, and sound judgment on data models, APIs, and cloud architecture\nExperience integrating with enterprise systems such as CRM, ERP, ticketing, identity, or a data warehouse\nComfort working directly with customer teams, executives included, and saying plainly what will and will not work\nA record of owning a system after launch, not only building it\nThe habit of telling the customer what you know, what you do not know, and what it will cost\nHelpful, not required\nExperience with agent frameworks, fine-tuning, or evaluation tooling\nWork in finance, professional services, or the public sector, where audit requirements are real\nExperience with AWS, Azure, or GCP at the platform level\nHow we work together\nCustomer Value First: we measure success by the customer's outcome, not by features shipped.\nFull Ownership Mindset: we own problems end to end and fix what needs fixing, whoever's job it is.\nResults Drive Recognition: we recognize contribution, capability and results.\nIntegrity: we do the right thing even when nobody is looking.\nRespect for Every Person: we treat everyone with dignity and listen first, whether they are a customer, a colleague or a candidate.\nWorking here\nRemote across the United States. Small teams led by senior people, on customers' real data and systems. You see what your work does.\nHow we hire\nWe hire on demonstrated ability. Apply on this page and tell us about work you are proud of, such as a system you built, a problem you solved or a decision you owned. Expect a short screen, a conversation with a senior member of the team, a review of work you have done, and a final conversation. Apply on this page only. We never ask for payment, bank details or government ID during hiring.\nEqual Opportunity\nTachyonShift is an equal opportunity employer. We hire, assign and promote on demonstrated capability and results, and we do not discriminate on any basis protected by law.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 8,
-      "matched": [
-        "automation",
-        "typescript",
-        "workflow",
-        "agents",
-        "python",
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 17,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer?utm_source=api",
-      "expires": "2027-01-15T08:41:21+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141",
       "source": "Himalayas",
       "title": "Xperteez Technology: 🌍 Software Engineer - Backend, Remote- Contract",
@@ -373,73 +266,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141?utm_source=api",
       "expires": "2027-01-14T15:32:57+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-open-source-contributions-remote",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: Software Engineer - Open Source Contributions, Remote",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-open-source-contributions-remote",
-      "posted": "2026-11-14T07:31:33+00:00",
-      "body": "Role Title: Software Engineer - Open Source Contributions\nRole Type: Contract\nLocation: RemoteRequired Skills\nPython3\nJava\nRust\nAlgorithms\nBasics c++\nTypescript\nBug fixing\nFeature implementation\nCodebase refactoring\nPerformance optimization\nIn this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work\nDevelop, implement, and refine new features within existing open source codebases using Python3, Java, Rust, C++, and Typescript.\nAnalyze and resolve complex bugs, ensuring robust and maintainable solutions that align with project standards.\nRefactor and optimize legacy code to enhance performance, readability, and scalability.\nContribute to code validation processes, focusing on accuracy, output consistency, and best coding practices.\nUtilize advanced algorithms and competitive programming techniques to conceptualize and deliver efficient solutions for intricate problems.\nCollaborate remotely with other contributors to review proposed changes and maintain project documentation.\nDeliver clear, concise technical write-ups to articulate solution design and implementation details.\nPreferred Qualifications\nExpert-level proficiency in at least two of the following: Python, C++, Java, Rust, Typescript, Go, or C#.\nExtensive experience in open source contributions, particularly in feature development, bug fixing, and codebase refactoring.\nDemonstrated expertise in competitive programming and complex coding problem analysis.\nStrong analytical skills to interpret multifaceted problem constraints and identify multiple solution pathways.\nExceptional written and verbal communication skills for clear, precise technical documentation and peer collaboration.\nMeticulous attention to detail in code review, validation, and maintenance.\nComfort working independently in a remote, collaborative environment with a commitment to producing high-quality, well-documented code under project deadlines.\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 100/hourly",
-      "score": 4,
-      "matched": [
-        "typescript",
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 17,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-open-source-contributions-remote?utm_source=api",
-      "expires": "2027-01-13T07:31:32+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content",
-      "source": "Himalayas",
-      "title": "Entrepreneur Cooperative: Marketing Manager, Communications & Content",
-      "url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content",
-      "posted": "2026-11-14T10:22:53+00:00",
-      "body": "★ PLEASE SUBMIT YOUR CV IN ENGLISH ★\nMarketing Manager, Communications & Content\nLocation: Remote – Mexico\nWork Arrangement: This is a fully remote (telecommute) position.\nEmployment Type: Independent Contractor (ongoing)\nIndustry: Marketing & Advertising\nCompensation: $1,000–$1,300 USD/week\nSchedule: Self-directed; you set your own schedule and methods, with weekly or biweekly updates\nEnglish Proficiency: C1 (Excellent spoken and written English)\nStart Date: November 16, 2026About the RoleA leading independent PR, creative, and digital agency is seeking an experienced marketing and communications professional to support the agency's own brand, content, and visibility on a contract basis. The firm combines earned media, digital marketing, and generative engine optimization (GEO) with the agency's own research and studies, to help brands show up wherever buyers search, scroll, or ask, including in AI search and answer engines. Its communications work is done in house, spanning earned media, content, social, video, performance marketing, and AI-driven visibility.\nThis engagement covers a broad mix of work: PR and communications for the agency's own research and studies, social media, video, press release distribution, agency awards, paid search, and content built for generative AI search. It also includes applying AI automation to make the agency's marketing workflows more efficient.\nYou will deliver on an agreed-upon scope and content calendar while setting your own schedule and methods. This remote role is ideal for a self-directed marketer who is equally comfortable writing a press release, editing a video, and building an automated workflow.Why This Opportunity?\nBroad ownership of the agency's own brand, content, and visibility, not a narrow single-channel brief.\nA mix of PR, social, video, awards, paid search, and AI-search content, plus marketing automation.\nReal autonomy: you set your own schedule and methods, and deliver against an agreed scope and content calendar.\nWhat You'll DoCommunications, PR & Research Visibility\nManage all communications for the agency's own research, studies, and related content.\nLead PR outreach to secure media coverage for that research and those studies.\nWrite, format, and distribute press releases through PR Newswire.\nSocial, Video & Content\nCreate and publish social media content according to the content calendar.\nProduce and edit short-form video for social, blogs, and other channels.\nWrite GEO-friendly (generative engine optimization) content so the agency's research surfaces in AI search and answer engines.\nAwards, Paid Search & Automation\nManage the awards program: identify opportunities, write and submit entries, promote wins, and coordinate trophy orders.\nPlan, manage, and optimize PPC campaigns, with performance and spend reporting.\nBuild and maintain AI-powered automations for content production, distribution, and reporting.\nProvide weekly or biweekly updates on progress and results.\nQualificationsRequired Qualifications\n3+ years of experience in marketing, communications, or PR, ideally with or for an agency.\nStrong writing across press releases, award submissions, social, and long-form content.\nExperience with media pitching and securing coverage.\nHands-on video production and editing (Adobe Premiere Pro, CapCut, Final Cut Pro, or similar).\nHands-on PPC experience (Google Ads, LinkedIn Ads).\nFamiliarity with PR Newswire or other wire services.\nExperience with GEO/AEO and SEO for AI search.\nExperience building marketing automations with AI tools (ChatGPT, Claude, Zapier, Make, or similar).\nSelf-directed and organized, able to manage a broad scope without close day-to-day supervision.\nC1 English (excellent spoken and written English).\nBased in Latin America or North America, and able to work fully remotely.\nPreferred Qualifications\nBachelor's degree in Marketing, Communications, Journalism, or a related field.Candidate Evaluation ConsiderationsTo ensure success in this role, the following factors will be carefully evaluated during the selection process:\nStrong writing across press releases, award submissions, social, and long-form content.\nExperience with media pitching and a track record of securing coverage.\nHands-on video production and editing.\nHands-on PPC experience (Google Ads, LinkedIn Ads).\nFamiliarity with PR Newswire or other wire services.\nWorking knowledge of GEO/AEO and SEO for AI-driven search.\nExperience building marketing automations with AI tools.\nAbility to work in a self-directed way and manage a broad, multi-channel scope without close day-to-day supervision.\nAt least 3 years of experience in marketing, communications, or PR, ideally in an agency setting.\nC1 spoken and written English.\nAvailability to work fully remotely from Latin America or North America.\nHow Success Is Measured\nThe agency's research and studies earn consistent media coverage and stay visible.\nSocial content stays on calendar, and short-form video supports the right channels.\nPress releases are accurate, well formatted, and distributed on time through the wire.\nThe awards program runs smoothly: opportunities are captured, entries are submitted, wins are promoted, and trophy orders are coordinated.\nPPC campaigns improve over time, with clear performance and spend reporting.\nGEO-friendly content helps the agency's research surface in AI search and answer engines.\nMarketing workflows become more efficient as AI-powered automations are built and maintained.\nStakeholders stay informed through clear, timely weekly or biweekly updates, and the agreed scope and content calendar are delivered.\nWhy Join Us\nFully remote opportunity from Latin America or North America.\nCompetitive compensation: $1,000–$1,300 USD/week, depending on experience.\nAn ongoing contract supporting the brand and visibility of a leading independent agency.\nA results-focused culture that values adaptation, impact, and people who want to create what comes next.\nImportant NotesApplications may not be considered if candidates:\nAre not based in Latin America or North America.\nDo not have at least 3 years of experience in marketing, communications, or PR.\nDo not have C1 spoken and written English, or cannot show strong writing across press releases, social, and long-form content.\nDo not have hands-on video production and editing experience, or hands-on PPC experience.\nAre not comfortable working in a self-directed way, without close day-to-day supervision.\nThis is a remote/telecommute position.\nBy applying, you can choose to let Hire Emerald and its technology partners use your de-identified application materials to train AI matching models, as described in our Privacy Policy (). This is optional and does not affect whether we consider your application.\nAl postularse, puede autorizar a Hire Emerald y a sus aliados tecnológicos a usar sus materiales de postulación desidentificados para entrenar modelos de IA de emparejamiento, según nuestra Política de Privacidad (). Esta autorización es voluntaria y no afecta la consideración de su postulación.\nOriginally posted on Himalayas",
-      "budget": "USD 1000 to 1300/weekly",
-      "score": 6,
-      "matched": [
-        "automation",
-        "workflow",
-        "chatgpt",
-        "claude",
-        "zapier",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 16,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S."
-      ],
-      "aliases": [],
-      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), South Georgia and the South Sandwich Islands, Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/entrepreneur-cooperative/jobs/marketing-manager-communications-content?utm_source=api",
-      "expires": "2027-01-13T10:22:53+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -508,99 +334,34 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker",
+      "id": "himalayas:https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
       "source": "Himalayas",
-      "title": "dentsu international: Business Analyst - Temporary Worker",
-      "url": "https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker",
-      "posted": "2026-11-14T10:36:31+00:00",
-      "body": "Job Description:\nTEMP Role – W2 on Dentsu Payroll Only\n11/16/2026-1/29/2027 - possibility to extend or convert\nLocation: Hybrid or Remote depending on location\nApproximate #Hours/Week:\nTime Zone: EST\nMust be US BasedCOMPANY DESCRIPTION:\nMerkle, a dentsu company, powers the experience economy. For more than 35 years, the company has put people at the heart of its approach to digital business transformation. As the only integrated experience consultancy in the world with a heritage in data science and business performance, Merkle delivers holistic, end-to-end experiences that drive growth, engagement, and loyalty. Merkle's expertise has earned recognition as a \"Leader\" by top industry analyst firms, in categories such as digital transformation and commerce, experience design, engineering and technology integration, digital marketing, data science, CRM and loyalty, and customer data management. With more than 16,000 employees, Merkle operates in 30+ countries throughout the Americas, EMEA, and APAC.    ROLE OVERVIEW:\nWe are looking for a Temporary Business Analyst to lead business analysis activities across enterprise digital experience initiatives within the Adobe Experience Cloud ecosystem.\nIn this role, you will serve as a key connection between client business stakeholders and cross-functional delivery teams, translating business objectives and operational needs into clear, actionable requirements for Adobe-based solutions. You will work across platforms such as Adobe Experience Manager (AEM) Sites, AEM Assets, Edge Delivery Services, Adobe Workfront, and other Adobe Experience Cloud capabilities.\nThis is a client-facing role requiring someone who can independently lead discovery and requirements activities, facilitate complex stakeholder discussions, identify gaps and dependencies, and help shape solutions rather than simply document requests.\nYou will partner closely with client stakeholders, product owners, solution architects, UX teams, developers, QA teams, and delivery leadership throughout the full delivery lifecycle, from discovery and solution definition through implementation, testing, and release.\nThe ideal candidate brings strong Business Analysis fundamentals, significant Agile delivery experience, and hands-on experience working within Adobe Experience Cloud implementations.WHAT YOU’LL DO:\nLead requirements discovery and analysis for Adobe Experience Cloud implementations and enhancement initiatives.\nPlan and facilitate stakeholder interviews, discovery workshops, requirements sessions, and solution-definition discussions.\nTranslate business objectives into capabilities, epics, features, user stories, functional requirements, process flows, business rules, and acceptance criteria.\nIndependently own requirements for significant project workstreams from discovery through implementation.\nPartner with Adobe solution architects and technical teams to evaluate business requirements against platform capabilities and technical constraints.\nHelp stakeholders distinguish between business needs, solution requirements, and implementation preferences.\nIdentify gaps, dependencies, assumptions, risks, and conflicting requirements and drive them toward resolution.\nRecommend practical solutions when business requests conflict with Adobe platform capabilities, established implementation patterns, or project constraints.\nDevelop clear, testable user stories and acceptance criteria that enable development and QA teams to execute effectively.\nOwn backlog quality and requirements readiness for assigned initiatives.\nLead and participate in backlog refinement, sprint planning, sprint reviews, retrospectives, and other Agile delivery ceremonies.\nWork closely with Product Owners to support backlog prioritization and sequencing.\nMaintain requirements traceability from initial business objectives through implementation and validation.\nCoordinate requirements across business, UX, content, development, integrations, analytics, and QA workstreams.\nLead functional support for QA and User Acceptance Testing (UAT), including test scenario review, requirement validation, defect triage, and functional clarification.\nSupport release-readiness activities and validate that delivered functionality addresses the intended business need.\nDocument current-state and future-state processes, workflows, governance models, business rules, and operating procedures.\nCommunicate effectively with both business and technical stakeholders, translating between the two when necessary.REQUIRED QUALIFICATIONS:\n2-3+ years of Business Analysis experience within digital experience, marketing technology, enterprise technology consulting, product delivery, or a related field. \nDemonstrated experience supporting or delivering enterprise solutions within the Adobe Experience Cloud ecosystem.\nHands-on Business Analysis experience with Adobe Experience Manager, specifically AEM Sites and/or AEM Assets.\nExperience gathering and defining requirements for AEM capabilities, workflows, content models, authoring experiences, asset management, or related platform functionality. \nDemonstrated experience independently leading requirements discovery and requirements-management activities. \nStrong experience working within Agile delivery environments, including Scrum-based delivery. \nHands-on experience using Jira and Confluence to manage requirements, user stories, acceptance criteria, documentation, backlog activities, and delivery coordination. \nSignificant experience supporting Quality Assurance and User Acceptance Testing, including requirement validation, test scenario review, defect triage, and functional clarification. \nStrong experience developing epics, features, user stories, functional requirements, business rules, and acceptance criteria. \nExperience facilitating discovery workshops and requirements sessions with business and technical stakeholders. \nExperience supporting backlog refinement, sprint planning, and prioritization activities. \nStrong understanding of the software development lifecycle and how Business Analysis supports discovery, design, development, testing, and release. \nAbility to independently manage a project workstream and drive requirements from ambiguity to an implementable solution. \nAbility to manage multiple priorities in a complex enterprise delivery environment. \nStrong analytical and problem-solving capabilities. \nExcellent written and verbal communication skills. PREFERRED EXPERIENCE:\nExperience with multiple Adobe Experience Cloud capabilities is highly desirable, including: \nAdobe Experience Manager Sites \nAdobe Experience Manager Assets \nAdobe Edge Delivery Services \nAdobe Workfront \nAdobe Content Hub \nAdobe Dynamic Media \nAdobe certifications are a plus. ADDITIONAL INFORMATION:\nAt dentsu, we believe great work happens when we’re connected. Our hybrid way of working combines remote flexibility with regular in-person collaboration to spark ideas and strengthen our teams. Many of our employees who live within commuting distance (90 minutes) from one of our Headquarter or Hub Offices (New York, Chicago, Detroit, Los Angeles) are required to work in the office 2-3 days per week including one Team Day. The minimum number of days may vary by office and role. Dentsu may designate other HQ or Hub offices at any time. Those who do not live near an office may be designated as a remote employee, depending on the role and business needs. Regardless of your work location, we expect you to be flexible to meet the needs of our Company and clients, which may include attendance in an office from time to time.\nThe hourly pay range for this position is $53.74-$70.00. The hourly pay rate for the successful candidate is based on a variety of factors, including relevant experience, knowledge, skills, and other factors permitted by law. Temporary employees are eligible for paid holidays in accordance with dentsu policy, as well as safe and sick time. This position is not eligible for any other benefits or other compensation. \nTo begin the application process, please click on the “Apply” button at the top of this job posting. Applications will be reviewed on an ongoing basis, and qualified candidates will be contacted for next steps. Location:USA – Remote – Texas – Central TimeBrand:MerkleTime Type:Full timeContract Type:Temporary\nDentsu is committed to providing equal employment opportunities to all applicants and employees. We do this without regard to race, color, national origin, sex , sexual orientation, gender identity, age, pregnancy, childbirth or related medical conditions, ancestry, physical or mental disability, marital status, political affiliation, religious practices and observances, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law.\nDentsu is committed to providing reasonable accommodation to, among others, individuals with disabilities and disabled veterans. If you need an accommodation because of a disability to search and apply for a career opportunity with us, please send an e-mail to  by clicking on the link to let us  know the nature of your accommodation request and your contact information. We are here to support you. \nOriginally posted on Himalayas",
-      "budget": "USD 53.74 to 70/hourly",
-      "score": 3,
-      "matched": [
-        "problem: API connection"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "API connection",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Temporary",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/dentsu-international/jobs/business-analyst-temporary-worker?utm_source=api",
-      "expires": "2027-01-13T10:36:31+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/punchcut/jobs/design-engineer-contract-mid-level",
-      "source": "Himalayas",
-      "title": "Punchcut: Design Engineer- Contract (Mid-level)",
-      "url": "https://himalayas.app/companies/punchcut/jobs/design-engineer-contract-mid-level",
-      "posted": "2026-11-14T09:30:35+00:00",
-      "body": "Punchcut is looking for a designer who codes, or a developer who designs, to join us on a contract basis. You should have a strong understanding of user-centered design and be comfortable working independently and in collaboration with other designers. You are passionate about data-integrated front-end prototypes or prototyping interactive experiences in emerging user interface paradigms and technologies such as generative AI, spatial computing, AI, VR/AR/MR, automotive, and voice. You feel comfortable hacking and prototyping in a fast-paced, collaborative, creative design studio environment. RESPONSIBILITIES\nConceptualize and rapidly prototype distinctive digital experiences\nSupport with the creation, evaluation, and execution of new tools, workflows, and frameworks for designing with emerging technology\nDeliver distinctive, cutting-edge experiences for our clients, their customers, and the general public\nWork with teams across multiple offices, collaborating with multiple disciplines\nConstantly over-deliver, surprise and amaze collaborators and clients alike\nCollaborate daily with a team of designers, technologists, and creative team members\nCreate conceptual diagrams, use cases, and storyboards\n QUALIFICATIONS\nAbility to rapidly develop proof-of-concept demos to solve design problems and validate novel interactions across platforms\nAbility to craft high-fidelity interactive prototypes following project timeline\nYou’re a delight to work with on a team, but you’re comfortable working alone through most design and development puzzles\nStrong interpersonal, communication, and problem-solving skills\nSense of humor and positive, flexible attitude\nBONUS\nExperience working with generative AI APIs\nExperience coding in Unity and prototyping XR experiences \nExperience building Figma plugins, coding in Xcode for visionOS, prototyping in ProtoPie. \nEnable Punchcut, its people, and its clients to understand emerging technology and how to unlock its potential in new and innovative ways\nExperience designing and developing for design systems\nExperience using React to build components for websites, preferably using React hooks\nExperience coding CSS transitions and CSS keyframe animations \nBONUS [recommended/updated]\nProficiency in TypeScript, React (including hooks), and other modern web technologies like WebSockets, WebRTC, and WebGL\nExperience working with generative AI APIs\nExperience designing and developing for scalable design systems and component libraries\nExperience coding in Unity and prototyping XR experiences \nExperience with native development for Apple (SwiftUI) and Android (Jetpack Compose) devices. \nEnable Punchcut, its people, and its clients to understand emerging technology and how to unlock its potential in new and innovative ways\nExperience designing and developing for design systems and component libraries\nWHY PUNCHCUT?\nPunchcut is a human interface design and innovation company. For over twenty years we've worked with the world's top companies to envision, design and launch connected products and services that engage customers and transform businesses. We believe strongly in approaching these design challenges from many different perspectives so we might find the most important, innovative, and universal solutions.\nOur team is building a company that is diverse, equal, and inclusive – one where everyone feels valued and free to be their authentic selves. At Punchcut we embrace differences and all of the amazing, unique characteristics that make us human.\nPunchcut designers are located across many time zones. We offer a virtual first, flexible work schedule and take pride in providing a balanced work environment. Full time employees receive medical, dental, life, and disability insurance as well as paid and sabbatical time off. Additional benefits include a 401k plan as well as allowances for technology, home office set up, professional development and wellness.\nCultivating a diverse, thriving, dispersed work environment is never done. We’re growing our network of people and programs to help us realize this vision. Join us in designing for the future we all want to see.\nPunchcut is an Equal Opportunity Employer Salary: 60-90 hour\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 90/hourly",
-      "score": 3,
-      "matched": [
-        "typescript",
-        "react",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/punchcut/jobs/design-engineer-contract-mid-level?utm_source=api",
-      "expires": "2027-01-13T09:30:34+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
-      "source": "Himalayas",
-      "title": "Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)",
-      "url": "https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
-      "posted": "2026-11-16T08:59:54+00:00",
-      "body": "We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solutions empower customers with lasting change capability through a unique blend of training, advisory services, digital tools and ongoing support.RequirementsWhat you will do \nDevelop clear, differentiated positioning, messaging and value propositions for Prosci's products and solutions, turning capabilities into customer benefits, proof points and market-facing stories\nConnect individual and enterprise offerings to Prosci's broader portfolio narrative, so customers understand how our solutions work together\nBuild and maintain messaging frameworks, core narratives and reusable materials for consistent communication across Marketing, Sales and Delivery\nPlan and coordinate marketing activity for new and existing offerings, including launches, ongoing activation and optimization\nCreate product-focused messaging and content for email campaigns, landing pages and other touchpoints across the customer journey\nDevelop and maintain core Sales and BDR enablement materials, including presentations, one-pagers, talk tracks and customer-facing resources\nSet up feedback loops with Marketing, Product and Sales to understand customer needs, objections and market response, and use them to sharpen messaging\nUse customer feedback, research, performance data and frontline insight to inform product marketing decisions, and test and optimize messaging and offers\nWhat you bring \n5 to 7 years of product marketing experience, ideally in a multi-product B2B, SaaS, professional services, learning or subscription environment\nA proven track record of product launches and go-to-market execution\nStrong positioning and messaging skills, and a natural storyteller who can make complex offerings clear\nStrong sales enablement experience\nExperience supporting integrated campaigns with content, design and channel teams\nA strong analytical mindset and comfort using performance data to improve messaging and execution\nExcellent project management and cross-functional coordination skills\nProficiency with AI-powered tools to support content creation and workflow efficiency\nBachelor's degree in Marketing, Business or a related field, or equivalent experience\nNice to have \nPortfolio or multi-product positioning experience\nFamiliarity with subscription or lifecycle marketing\nExperience with HubSpot or similar marketing automation platforms\nKnowledge of product-led growth, pricing and monetization strategy\nBackground in customer research or user experience principles\nExperience in change management, professional services, learning or adjacent categories\nHow you will work with other teams \nYou will sit within the Brand team and work closely with Global Marketing, Growth Marketing, Product, Sales, Delivery and Operations. Product teams share portfolio and roadmap priorities, Sales and Delivery bring frontline customer insight, and Marketing teams align your work with integrated campaigns and channel plans. You will connect these perspectives into clear, consistent go-to-market messaging.Your first 90 days \nFirst 30 days: learn Prosci's portfolio, customers and current messaging, and build relationships across Marketing, Product, Sales and Delivery\nBy 60 days: lead positioning and messaging work across the portfolio and support go-to-market activation for ADKAR for AI\nBy 90 days: have core messaging frameworks and sales enablement materials in place, and own ongoing Membership marketing activity\nWork Location: Remote within the US.\nCompensation: $80,000 - $100,000 USD is the projected range of annual base salary for this role depending on the candidate's overall qualifications and experience. This role is eligible for inclusion in our bonus program.\nBenefits: Through our experience and strategic focus on the people side of change, we know that by taking care of our people, we are taking care of our business. In addition to the compensation detailed above, we offer comprehensive wellness benefits, including generous flexible paid time off, holidays and volunteer time, medical, dental, vision, long-term and short-term disability programs, life insurance, pet insurance, 401k with company matching, and access to LinkedIn Learning. Our “mostly virtual” culture is vibrant with many opportunities to collaborate with colleagues from around the world, get involved in employee-led interest and resource groups, and to meet up with team members at in-person local or market-wide events. \nWe hope you're interested in making a difference with us. Even if you don't feel that you meet every requirement listed in this job description, we still encourage you to apply. Prosci is an equal opportunity employer that is committed to inclusion and diversity. Employment opportunities at Prosci are available to all applicants, without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. You can learn more about our efforts to build a more inclusive, equitable and diverse organization: .\nIf you require assistance due to a disability applying for open positions, please submit a request to: .\nOriginally posted on Himalayas",
-      "budget": "USD 80000 to 100000/annual",
+      "title": "Forager: Sales Development Representative (Phone-First)",
+      "url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
+      "posted": "2026-11-16T09:01:54+00:00",
+      "body": "About the Company\nForager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role\nThis is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does the part a machine cannot: get prospects on the phone, qualify them properly, and hand our closers meetings that turn into real opportunities. You will work directly with the CEO, Head of Growth, GTM agency, and our commercial Account Executive (AE). Why join\nSell a product with a real edge: we’re the #1 mobile and personal email provider on Clay \n• Shoulder-to-shoulder training from our current SDR, plus regular coaching using call recordings\n• Learn one of the most advanced AI-driven outbound setups in the industry\nWhat you will do\nRespond quickly to inbound leads (demo requests from our website, data requests from marketplaces, and partner and referral introductions). Speed-to-lead is one of your key metrics \n• Run qualification calls with inbound and outbound leads: use case, data need and volume, budget, buying process and timeline. Route each lead to the right closer, or to self-service when that is the better fit.\n• Cold call the accounts our signal engine flags each sprint (our Tier 1 and Tier 2 target accounts), and book qualification calls and demos from those conversations.\n• Book meetings that closers accept. A demo counts as \"Demo Accepted\" when the AE has reviewed your call notes and agreed the opportunity is qualified. Demo Accepted is your core metric and drives your variable pay.\n• Bring what you learn back to the sprint review with Growth and Sales: which objections come up, which messaging lands, which signals convert.\n• Keep HubSpot accurate on every lead you touch. AI drafts the notes, enrichment and follow-ups; you confirm the facts and the next step. \nWhat you will NOT spend your time on\nWriting and sending email or LinkedIn sequences. These are automated and owned by the Growth team; you see the replies, not the sends.\n• Building lists or researching accounts. The signal engine and AI do this before a name reaches your call list.\n• Manual CRM data entry, call notes and meeting prep. AI drafts these; you check them.\nTools and systems\nHubSpot: CRM, lead routing, deal stages and the Demo Accepted gate \n• Parallel dialer for outbound calling\nAutomated email and LinkedIn software with sequences whose replies land with you\n• Call recording software, used for coaching and for AI call notes\n• AI assistants for account research, call summaries, CRM updates and follow-up drafts\nRequirementsMust-haves:\nPrevious experience in a phone-heavy B2B SDR, BDR or inside sales role, ideally 2+ years\n• A cold-calling track record you can show: daily dial and connect volumes, meetings booked, and opportunities your sales team accepted that started with your cold call \n• Strong qualification skills: you know how to uncover need, budget and decision process, and you never leave a call without a next step \n• Clear, confident spoken English and comfort with technical buyers (product, data and engineering leaders)\n• Comfortable learning technical products quickly; you’ll explain enrichment APIs and data feeds to technical buyers \n• Self-managed and comfortable working in a fully remote team.\nNice-to-haves:\nYou have sold B2B data, sales technology, recruiting technology or developer and data infrastructure\n• You have experience with a parallel dialer, and HubSpot\n• You have worked marketplace or partner-sourced leads\nBenefits• Full-time contractor role\nFully remote. Any location, with a daily calling window of at least four hours between 9am and 6pm US Eastern.\n• Base pay plus variable, split roughly 70/30. Variable is paid on Demo Accepted meetings, not on meetings booked\n• Untracked PTO: take the time off you need, with no accrual to count. We trust you to get the job done \nSound like you? Apply with your CV and a 2-minute audio or video recording about a cold call you made that turned into an opportunity your sales team accepted: what you said, the objection you hit, how you knew it was worth a meeting, and what happened after the handoff . We review every application, and our recruiter will be in touch within a few days to walk you through next steps!\nOriginally posted on Himalayas",
+      "budget": null,
       "score": 4,
       "matched": [
-        "automation",
-        "workflow",
-        "saas",
-        "ai"
+        "ai",
+        "problem: lead intake"
       ],
       "queue": "contract",
       "priority": 13,
       "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
+        "lead intake",
+        "explicit hiring intent"
       ],
       "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
+        "budget unknown",
+        "check eligibility: United States"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover?utm_source=api",
-      "expires": "2027-01-15T08:59:54+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first?utm_source=api",
+      "expires": "2027-01-15T09:01:53+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -700,52 +461,59 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
+      "id": "himalayas:https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer",
       "source": "Himalayas",
-      "title": "YO AI Labs: Computational Chemistry, Structural Biology & Drug Discovery Scientist   - Remot",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot",
-      "posted": "2026-11-14T09:28:09+00:00",
-      "body": "Job Description: Clinical, Microbiome & Translational Research Scientist (PhD)\nRole Type: Contractor\nLocation: Remote (Worldwide)About the Role\nWe are seeking PhD-level experts in clinical research, microbiome science, and translational bioinformatics to contribute their scientific expertise to the development and evaluation of next-generation AI systems.\nIn this role, you will create advanced scientific problems, evaluate AI-generated responses, and assess the accuracy, rigor, and depth of scientific reasoning. Your contributions will help ensure that AI systems deliver reliable, evidence-based insights across microbiome research, clinical bioinformatics, and translational life sciences.Key Responsibilities\nDesign and develop challenging, expert-level scientific problems in microbiome research, metagenomics, clinical bioinformatics, and related life sciences, with clear and verifiable solutions.\nReview and evaluate AI-generated outputs for scientific accuracy, methodological rigor, and depth of reasoning.\nIdentify subtle scientific errors, unsupported conclusions, and methodological limitations.\nDevelop detailed evaluation rubrics and reference answers grounded in primary literature and established research methodologies.\nApply domain expertise in areas such as 16S and shotgun metagenomics, virome and host-microbiome analysis, biomarker discovery, clinical genomics, and omics-driven precision medicine.\nProvide clear, detailed written explanations of scientific reasoning to support expert review and validation.\nMaintain high-quality standards through iterative feedback, revisions, and peer review.\nRequired Qualifications\nPhD in Microbiology, Bioinformatics, Computational Biology, Biomedical Sciences, Immunology, Epidemiology, or a closely related field.\nHands-on research experience in an academic or industry laboratory. Wet lab experience is an advantage.\nProfessional written and spoken English proficiency (C1 level or higher).\nPreferred Skills and Qualifications\nPostdoctoral or industry research experience in microbiome, clinical, or translational research.\nPeer-reviewed publications, preferably as a first author in relevant scientific journals.\nExperience with microbiome analysis tools such as QIIME2, Kraken2, MetaPhlAn, HUMAnN, MAG assembly and binning, or virome analysis tools.\nClinical and translational research experience involving TCGA, UK Biobank, biomarker discovery, survival analysis, electronic health record (EHR) and omics integration, or oncology and immunology genomics.\nStrong knowledge of statistics and machine learning methods for high-dimensional biological data.\nProgramming proficiency in Python and/or R, with familiarity with Bash and workflow management tools.\nExperience reviewing, benchmarking, or developing scientific content.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 90/hourly",
-      "score": 4,
+      "title": "TachyonShift: Senior Forward Deployed AI Engineer",
+      "url": "https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer",
+      "posted": "2026-11-16T08:41:22+00:00",
+      "body": "About TachyonShift\nTachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week.\nThe role\nBuild things that run in production. Lead the work that puts a governed, working AI system in front of a customer in weeks.\nA forward deployed engineer works inside the customer's business. You sit with the people who do the work, learn the process and the data, and build the system that replaces the manual steps. As a senior engineer you are the named engineer on the engagement: the customer's technical point of contact, the person who writes the plan, leads the build, and answers for the result after launch.\nWhat you will do\nWork backwards with the customer: write the announcement, the success metrics, and the hard questions before the first line of code\nDesign and build production AI systems on the customer's real data: retrieval, multi-step agents, workflow automation, integrations, and the code that makes them dependable\nChoose the right model for each step, from any provider, and keep the system model-neutral so a model swap is a configuration change\nWrite evaluation tests before launch and design the human verification and audit trail for every output where an error costs money\nDemo working software to the customer every week and change course on what you learn\nOperate what you ship under the operating agreement: monitoring, incident response, runbooks, and a monthly results review\nMentor engineers and set the technical bar on your engagement\nWhat success looks like in your first 90 days\nLead an engagement from working-backwards document to a working version on real data, demoed weekly\nShip evaluation tests and a monitoring plan with the first release\nLeave runbooks that let another engineer or the customer operate the system\nRaise one improvement to how the team scopes, builds, or verifies AI systems\nWhat you bring\nEight or more years building and running production software, including hands-on delivery of LLM-based systems\nStrong Python or TypeScript, and sound judgment on data models, APIs, and cloud architecture\nExperience integrating with enterprise systems such as CRM, ERP, ticketing, identity, or a data warehouse\nComfort working directly with customer teams, executives included, and saying plainly what will and will not work\nA record of owning a system after launch, not only building it\nThe habit of telling the customer what you know, what you do not know, and what it will cost\nHelpful, not required\nExperience with agent frameworks, fine-tuning, or evaluation tooling\nWork in finance, professional services, or the public sector, where audit requirements are real\nExperience with AWS, Azure, or GCP at the platform level\nHow we work together\nCustomer Value First: we measure success by the customer's outcome, not by features shipped.\nFull Ownership Mindset: we own problems end to end and fix what needs fixing, whoever's job it is.\nResults Drive Recognition: we recognize contribution, capability and results.\nIntegrity: we do the right thing even when nobody is looking.\nRespect for Every Person: we treat everyone with dignity and listen first, whether they are a customer, a colleague or a candidate.\nWorking here\nRemote across the United States. Small teams led by senior people, on customers' real data and systems. You see what your work does.\nHow we hire\nWe hire on demonstrated ability. Apply on this page and tell us about work you are proud of, such as a system you built, a problem you solved or a decision you owned. Expect a short screen, a conversation with a senior member of the team, a review of work you have done, and a final conversation. Apply on this page only. We never ask for payment, bank details or government ID during hiring.\nEqual Opportunity\nTachyonShift is an equal opportunity employer. We hire, assign and promote on demonstrated capability and results, and we do not discriminate on any basis protected by law.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 8,
       "matched": [
+        "automation",
+        "typescript",
         "workflow",
+        "agents",
         "python",
+        "llm",
         "ai"
       ],
       "queue": "contract",
-      "priority": 12,
+      "priority": 11,
       "reasons": [
-        "budget stated, verify scope and currency"
+        "explicit hiring intent"
       ],
       "flags": [
-        "check eligibility: United States"
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
       ],
       "aliases": [],
       "location": "United States",
       "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/computational-chemistry-structural-biology-drug-discovery-scientist-remot?utm_source=api",
-      "expires": "2027-01-13T09:28:08+00:00",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer?utm_source=api",
+      "expires": "2027-01-15T08:41:21+00:00",
       "imported": false,
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus",
+      "id": "himalayas:https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
       "source": "Himalayas",
-      "title": "PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus",
-      "url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus",
-      "posted": "2026-11-16T05:59:47+00:00",
-      "body": "As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship.\nFrom there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account health checks. You’ll assess how support operates today, preserve what works, and change what doesn’t.Responsibilities\nOwn day to day relationships with top banking and enterprise accounts, completing a structured handover from Sales.\nManage account engagement and renewal, address risks early, and identify expansion or upsell opportunities.\nBuild and implement onboarding playbooks, service level agreements, escalation paths, and account health checks.\nImprove the existing support team’s processes, expectations, and accountability, etc.\nRun regular impact reviews that connect customer activity and outcomes to clear business value.\nBring customer and vendor feedback to Product and coordinate internal follow through on issues affecting the customer experience.\n3-5+ years in customer success, account management, or client facing services, with direct responsibility for a book of business.\nStartup experience and the ability to work through ambiguity, take initiative, and build practical processes.\nConfidence working with large enterprise customers and communicating with senior executives. Banking experience is not required, but it’s a huge plus.\nExceptionally clear spoken and written English, with the ability to explain issues, set expectations, and represent the company professionally.\nStrong relationship management skills and the confidence to earn trust, address difficult conversations, and drive change within an established team.\nNice to Have\nExperience managing customer accounts at a larger IT services or technology company.\nFamiliarity with CRM and support tools such as Attio and Intercom.\nPractical experience using AI to improve support efficiency.\nExposure to financial services, venture capital, private equity, or marketplaces.\nWhat Success Looks Like\nWithin your first 90 days:\nCore customer success processes and service level agreements are live.\nDuring your first year:\nTop banking and enterprise relationships transition smoothly into your ownership.\nEvery top account has a health check and clear visibility into risks and next steps.\nTop accounts are retained.\nExisting customer relationships generate expansion or upsell wins.\nBefore You Apply\nThis opportunity makes sense if you’ve managed your own customer accounts, enjoy building processes, and want direct responsibility in a growing business.\nIf your experience is limited to answering support tickets or delivering training without ongoing account ownership, this role is not for you.\nIf you need an established customer success function with every workflow already defined, this role is not for you.\nAbout SaaS Talent\nSaaS Talent is more than just a recruiting company. We're your hiring, business development and growth partner with 20+ years of experience in SaaS and Hi-Tech that helps you scale and transform your business. We've worked with 100+ companies and helped them achieve their goals. From streamlining sales, marketing, and operations to hiring ideal talent and getting funding, if you're struggling to grow, we're an ideal choice.\nReach out to us at www.saas-talent.com to learn more about how we can help you.SMS Communication Consent Disclaimer\nBy applying for this position, you agree to receive text message updates from SaaS Talent related to job opportunities. Standard message and data rates may apply, and messaging frequency varies. Text HELP for help and STOP to cancel. Learn more about our opt-in SMS Communication consent policy here: \nOur client hires everyone through contractor agreements, but this is a full time, long term opportunity with room to grow. They’re looking to invest in you for the long run and expect the same commitment from you. This is a contractor role with a full time commitment during regular business hours, Monday through Friday. \nWe hired an SDR who has grown into their VP of Sales, and a recently placed Account Executive, which our client is extremely happy with. As their customer base grows, they’ve asked us to help find the person who will bring structure, ownership, and consistency to customer success.\nARE YOU READY TO OWN ENTERPRISE RELATIONSHIPS AND BUILD THE CUSTOMER SUCCESS PROCESSES THAT HELP A GROWING COMPANY SCALE?\nOur client is a SaaS company powering branded vendor marketplaces for banks, venture capital firms, private equity firms, and enterprise partners. Their platform helps businesses find vetted software and service providers, access preferred offers, and understand the value they receive. \nInvestment firms use it to support portfolio companies. Banks use it to deliver benefits to business customers. Vendors use it to reach relevant buyers. Your role will be to help the organizations behind these marketplaces succeed, renew, and expand their relationships.Why This Opportunity Is Exciting\nYou’ll work directly with the CEO. Your ideas and customer insights will reach the person making decisions, and leadership will back you in improving how the function operates. You’ll become the day to day contact for major banking and enterprise accounts.\nYou’ll build something you can continue growing. There is already a support team. You’ll bring the playbooks, expectations, and workflows that help that team serve a growing customer base more effectively.Culture\nYou enjoy taking ownership when the answer or process isn’t fully defined.\nYou ask questions, understand what customers need, and turn recurring problems into practical improvements.\nYou can earn the respect of an established team while challenging habits that need to change. You’re comfortable explaining what should improve, getting people involved, and following through.\nYou also stay close to the work. You’ll handle customer conversations, manage escalations, document processes, and check whether those processes actually help.\nIf you want a role focused entirely on strategy, with customer conversations and implementation delegated to others, this position will not suit you.\nOriginally posted on Himalayas",
-      "budget": "USD 70000 to 80000/annual",
-      "score": 3,
+      "title": "Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)",
+      "url": "https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
+      "posted": "2026-11-16T08:59:54+00:00",
+      "body": "We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solutions empower customers with lasting change capability through a unique blend of training, advisory services, digital tools and ongoing support.RequirementsWhat you will do \nDevelop clear, differentiated positioning, messaging and value propositions for Prosci's products and solutions, turning capabilities into customer benefits, proof points and market-facing stories\nConnect individual and enterprise offerings to Prosci's broader portfolio narrative, so customers understand how our solutions work together\nBuild and maintain messaging frameworks, core narratives and reusable materials for consistent communication across Marketing, Sales and Delivery\nPlan and coordinate marketing activity for new and existing offerings, including launches, ongoing activation and optimization\nCreate product-focused messaging and content for email campaigns, landing pages and other touchpoints across the customer journey\nDevelop and maintain core Sales and BDR enablement materials, including presentations, one-pagers, talk tracks and customer-facing resources\nSet up feedback loops with Marketing, Product and Sales to understand customer needs, objections and market response, and use them to sharpen messaging\nUse customer feedback, research, performance data and frontline insight to inform product marketing decisions, and test and optimize messaging and offers\nWhat you bring \n5 to 7 years of product marketing experience, ideally in a multi-product B2B, SaaS, professional services, learning or subscription environment\nA proven track record of product launches and go-to-market execution\nStrong positioning and messaging skills, and a natural storyteller who can make complex offerings clear\nStrong sales enablement experience\nExperience supporting integrated campaigns with content, design and channel teams\nA strong analytical mindset and comfort using performance data to improve messaging and execution\nExcellent project management and cross-functional coordination skills\nProficiency with AI-powered tools to support content creation and workflow efficiency\nBachelor's degree in Marketing, Business or a related field, or equivalent experience\nNice to have \nPortfolio or multi-product positioning experience\nFamiliarity with subscription or lifecycle marketing\nExperience with HubSpot or similar marketing automation platforms\nKnowledge of product-led growth, pricing and monetization strategy\nBackground in customer research or user experience principles\nExperience in change management, professional services, learning or adjacent categories\nHow you will work with other teams \nYou will sit within the Brand team and work closely with Global Marketing, Growth Marketing, Product, Sales, Delivery and Operations. Product teams share portfolio and roadmap priorities, Sales and Delivery bring frontline customer insight, and Marketing teams align your work with integrated campaigns and channel plans. You will connect these perspectives into clear, consistent go-to-market messaging.Your first 90 days \nFirst 30 days: learn Prosci's portfolio, customers and current messaging, and build relationships across Marketing, Product, Sales and Delivery\nBy 60 days: lead positioning and messaging work across the portfolio and support go-to-market activation for ADKAR for AI\nBy 90 days: have core messaging frameworks and sales enablement materials in place, and own ongoing Membership marketing activity\nWork Location: Remote within the US.\nCompensation: $80,000 - $100,000 USD is the projected range of annual base salary for this role depending on the candidate's overall qualifications and experience. This role is eligible for inclusion in our bonus program.\nBenefits: Through our experience and strategic focus on the people side of change, we know that by taking care of our people, we are taking care of our business. In addition to the compensation detailed above, we offer comprehensive wellness benefits, including generous flexible paid time off, holidays and volunteer time, medical, dental, vision, long-term and short-term disability programs, life insurance, pet insurance, 401k with company matching, and access to LinkedIn Learning. Our “mostly virtual” culture is vibrant with many opportunities to collaborate with colleagues from around the world, get involved in employee-led interest and resource groups, and to meet up with team members at in-person local or market-wide events. \nWe hope you're interested in making a difference with us. Even if you don't feel that you meet every requirement listed in this job description, we still encourage you to apply. Prosci is an equal opportunity employer that is committed to inclusion and diversity. Employment opportunities at Prosci are available to all applicants, without regard to race, color, religion, sex, sexual orientation, gender identity, genetic information, national origin, age, disability, veteran status, or any other legally protected characteristics. You can learn more about our efforts to build a more inclusive, equitable and diverse organization: .\nIf you require assistance due to a disability applying for open positions, please submit a request to: .\nOriginally posted on Himalayas",
+      "budget": "USD 80000 to 100000/annual",
+      "score": 4,
       "matched": [
+        "automation",
         "workflow",
         "saas",
         "ai"
       ],
       "queue": "contract",
-      "priority": 11,
+      "priority": 7,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -758,69 +526,8 @@
       "location": "United States",
       "employment_type": "Contractor",
       "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus?utm_source=api",
-      "expires": "2027-01-15T05:59:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation",
-      "source": "Himalayas",
-      "title": "Padmore Global Connections LLC: System Administrator Automation",
-      "url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation",
-      "posted": "2026-11-14T09:49:47+00:00",
-      "body": "Title/Role: GA DHS System Administrator Automation (756594)\n﻿Worksite Address: 47 Trinity Ave SW. Atlanta, GA 30334\n﻿Agency Interview Type: Web Cam Interview Only\n﻿Work Arrangement: Remote \n﻿Engagement Type: Contract\n﻿NOTE: All applications with PDF Format resumes will be automaticaly rejected. Only Word format resumes will be considered.﻿\nShort Description:\nThe Georgia Department of Human Services (DHS), Office of Information Technology is seeking candidates for the temporary contractor position of System Administrator Automation in Atlanta, Georgia.\nComplete Description:We are looking for an experienced System Administrator Automation with expertise in Ansible, GitHub, LoadRunner, and LeapWork to join our team. This role will focus on managing and optimizing automation and testing tools, ensuring streamlined integration across development, testing, and operations teams. The ideal candidate will play a key role in automating processes, managing version control, and driving the performance of automation and testing tools.Key Responsibilities \n· Configure and manage tools such as Ansible, Leapwork, LoadRunner, Github leveraged by Infrastructure and Application team\n Develop, maintain, and optimize Ansible playbooks and roles for automating IT infrastructure and application deployments.\n Collaborate with DevOps and IT teams to automate configuration management, software deployments, and cloud provisioning. Troubleshoot, debug, and enhance Ansible playbooks for performance and reliability.\n Manage GitHub repositories, ensuring best practices for version control, collaboration, and pull request workflows.\n Implement access controls, branch protection, and security policies to maintain repository integrity.\n Integrate GitHub with CI/CD tools to automate code deployment and testing.\n Configure, monitor, and maintain LoadRunner environments for performance and load testing.\n Develop and execute LoadRunner test scripts to ensure application scalability and reliability.\n Analyze LoadRunner test results to identify bottlenecks and recommend performance improvements.\n Collaborate with development teams to design and implement performance testing strategies using LoadRunner and Leapwork.\n Integrate Ansible, GitHub, LoadRunner, and LeapWork with other tools to create efficient end-to-end automation pipelines.\n Provide ongoing support for all tools, ensuring smooth operation and resolving issues that arise within the automation and testing environments.\n Create and maintain reports and dashboards to track automation progress, test results, and performance metrics.\n· Stay updated with the latest developments in the tools and technologies to recommend and implement improvements\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "automation",
-        "automate"
-      ],
-      "queue": "contract",
-      "priority": 11,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/padmore-global-connections-llc/jobs/system-administrator-automation?utm_source=api",
-      "expires": "2027-01-13T09:49:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Bioinformatics Scientist - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote",
-      "posted": "2026-11-14T08:20:46+00:00",
-      "body": "Job Description: Bioinformatics Scientist\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Bioinformatics Scientists to contribute their specialized expertise to an innovative project focused on advancing AI systems.\nIn this role, you will apply your knowledge of bioinformatics, computational biology, and medicinal chemistry to analyze complex scientific datasets, support AI model development, and evaluate AI-generated outputs. Your contributions will help improve the accuracy, reliability, and scientific reasoning capabilities of next-generation AI systems.\nPrior experience in AI is not required; relevant scientific and technical expertise is what matters.Key Responsibilities\nAnalyze complex medicinal chemistry datasets using advanced bioinformatics methodologies.\nProvide scientific insights and high-quality content to support AI model development and training.\nCurate, annotate, and validate datasets related to drug discovery and molecular analysis.\nAnalyze and interpret findings from biological, chemical, and clinical data sources.\nProvide subject matter expertise on experimental design and data interpretation in medicinal chemistry.\nEvaluate AI-generated outputs for scientific accuracy, relevance, and reliability.\nDeliver detailed written feedback and actionable recommendations to improve AI model performance.\nPreferred Qualifications\nAdvanced degree (MSc or PhD) in Bioinformatics, Computational Biology, Medicinal Chemistry, or a related discipline.\nStrong understanding of medicinal chemistry concepts, including structure-activity relationships (SAR) and drug design principles.\nDemonstrated experience handling and interpreting large-scale omics or cheminformatics datasets.\nFamiliarity with bioinformatics tools, databases, and programming languages such as Python, R, RDKit, and KNIME.\nExcellent scientific communication skills, with the ability to explain complex technical concepts clearly.\nProven experience contributing to research projects at the intersection of biology, chemistry, and data science.\nExperience working in multidisciplinary or remote project environments is an advantage.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 90/hourly",
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 10,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/bioinformatics-scientist-remote?utm_source=api",
-      "expires": "2027-01-13T08:20:45+00:00",
+      "apply_url": "https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover?utm_source=api",
+      "expires": "2027-01-15T08:59:54+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -893,6 +600,39 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus",
+      "source": "Himalayas",
+      "title": "PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus",
+      "url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus",
+      "posted": "2026-11-16T05:59:47+00:00",
+      "body": "As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship.\nFrom there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account health checks. You’ll assess how support operates today, preserve what works, and change what doesn’t.Responsibilities\nOwn day to day relationships with top banking and enterprise accounts, completing a structured handover from Sales.\nManage account engagement and renewal, address risks early, and identify expansion or upsell opportunities.\nBuild and implement onboarding playbooks, service level agreements, escalation paths, and account health checks.\nImprove the existing support team’s processes, expectations, and accountability, etc.\nRun regular impact reviews that connect customer activity and outcomes to clear business value.\nBring customer and vendor feedback to Product and coordinate internal follow through on issues affecting the customer experience.\n3-5+ years in customer success, account management, or client facing services, with direct responsibility for a book of business.\nStartup experience and the ability to work through ambiguity, take initiative, and build practical processes.\nConfidence working with large enterprise customers and communicating with senior executives. Banking experience is not required, but it’s a huge plus.\nExceptionally clear spoken and written English, with the ability to explain issues, set expectations, and represent the company professionally.\nStrong relationship management skills and the confidence to earn trust, address difficult conversations, and drive change within an established team.\nNice to Have\nExperience managing customer accounts at a larger IT services or technology company.\nFamiliarity with CRM and support tools such as Attio and Intercom.\nPractical experience using AI to improve support efficiency.\nExposure to financial services, venture capital, private equity, or marketplaces.\nWhat Success Looks Like\nWithin your first 90 days:\nCore customer success processes and service level agreements are live.\nDuring your first year:\nTop banking and enterprise relationships transition smoothly into your ownership.\nEvery top account has a health check and clear visibility into risks and next steps.\nTop accounts are retained.\nExisting customer relationships generate expansion or upsell wins.\nBefore You Apply\nThis opportunity makes sense if you’ve managed your own customer accounts, enjoy building processes, and want direct responsibility in a growing business.\nIf your experience is limited to answering support tickets or delivering training without ongoing account ownership, this role is not for you.\nIf you need an established customer success function with every workflow already defined, this role is not for you.\nAbout SaaS Talent\nSaaS Talent is more than just a recruiting company. We're your hiring, business development and growth partner with 20+ years of experience in SaaS and Hi-Tech that helps you scale and transform your business. We've worked with 100+ companies and helped them achieve their goals. From streamlining sales, marketing, and operations to hiring ideal talent and getting funding, if you're struggling to grow, we're an ideal choice.\nReach out to us at www.saas-talent.com to learn more about how we can help you.SMS Communication Consent Disclaimer\nBy applying for this position, you agree to receive text message updates from SaaS Talent related to job opportunities. Standard message and data rates may apply, and messaging frequency varies. Text HELP for help and STOP to cancel. Learn more about our opt-in SMS Communication consent policy here: \nOur client hires everyone through contractor agreements, but this is a full time, long term opportunity with room to grow. They’re looking to invest in you for the long run and expect the same commitment from you. This is a contractor role with a full time commitment during regular business hours, Monday through Friday. \nWe hired an SDR who has grown into their VP of Sales, and a recently placed Account Executive, which our client is extremely happy with. As their customer base grows, they’ve asked us to help find the person who will bring structure, ownership, and consistency to customer success.\nARE YOU READY TO OWN ENTERPRISE RELATIONSHIPS AND BUILD THE CUSTOMER SUCCESS PROCESSES THAT HELP A GROWING COMPANY SCALE?\nOur client is a SaaS company powering branded vendor marketplaces for banks, venture capital firms, private equity firms, and enterprise partners. Their platform helps businesses find vetted software and service providers, access preferred offers, and understand the value they receive. \nInvestment firms use it to support portfolio companies. Banks use it to deliver benefits to business customers. Vendors use it to reach relevant buyers. Your role will be to help the organizations behind these marketplaces succeed, renew, and expand their relationships.Why This Opportunity Is Exciting\nYou’ll work directly with the CEO. Your ideas and customer insights will reach the person making decisions, and leadership will back you in improving how the function operates. You’ll become the day to day contact for major banking and enterprise accounts.\nYou’ll build something you can continue growing. There is already a support team. You’ll bring the playbooks, expectations, and workflows that help that team serve a growing customer base more effectively.Culture\nYou enjoy taking ownership when the answer or process isn’t fully defined.\nYou ask questions, understand what customers need, and turn recurring problems into practical improvements.\nYou can earn the respect of an established team while challenging habits that need to change. You’re comfortable explaining what should improve, getting people involved, and following through.\nYou also stay close to the work. You’ll handle customer conversations, manage escalations, document processes, and check whether those processes actually help.\nIf you want a role focused entirely on strategy, with customer conversations and implementation delegated to others, this position will not suit you.\nOriginally posted on Himalayas",
+      "budget": "USD 70000 to 80000/annual",
+      "score": 3,
+      "matched": [
+        "workflow",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 5,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus?utm_source=api",
+      "expires": "2027-01-15T05:59:46+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer",
       "source": "Himalayas",
       "title": "Sparq: (Contractor) Senior Lead React Native Engineer",
@@ -926,39 +666,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "hn:50495944",
-      "source": "HN Who is hiring",
-      "title": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote",
-      "url": "https://news.ycombinator.com/item?id=50495944",
-      "posted": "2026-11-14T10:50:31+00:00",
-      "body": "SEEKING FREELANCE - Egypt (UTC+2, full EU/UK overlap) - Remote\nSenior Full-Stack & Creative Frontend Engineer (4+ yrs). I architect high-concurrency Next.js/TypeScript and Node/NestJS systems, Shopify Storefront/Fulfillment workflows, MCP AI pipelines, and 60fps WebGL/Three.js/GSAP interfaces.\nRecent shipped work: multi-country Shopify fulfillment & real-time inventory sync, AI web intelligence SaaS with MCP & Paddle metered billing (Crawleo), and a 60fps WebGL/GIS engine rendering thousands of live entities.\nPortfolio:noorhesham.com - GitHub: https://github.com/Noorhesham - Email:noordragon2004@gmail.com",
-      "budget": null,
-      "score": 6,
-      "matched": [
-        "full-stack",
-        "typescript",
-        "next.js",
-        "node",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 2,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization",
       "source": "Himalayas",
       "title": "KData Inc.: Data Architect – PBM Data Modernization",
@@ -988,39 +695,6 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization?utm_source=api",
       "expires": "2027-01-13T20:26:33+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
-      "source": "Himalayas",
-      "title": "Homestead Studio: Retention Specialist",
-      "url": "https://himalayas.app/companies/homestead-studio/jobs/retention-specialist",
-      "posted": "2026-11-14T08:17:41+00:00",
-      "body": "Homestead Studio\nWe are an email marketing agency specializing in growing eCommerce brands by creating exciting, engaging, and personalized messaging across email and SMS channels. Our expertise in email and SMS marketing allows our clients to cultivate relationships with potential customers and build lasting relationships with current customers to create lifetime value.\nAbout the role\nWe're hiring a Retention Specialist to own the day-to-day execution and project management of email and SMS programs across a portfolio of e-commerce clients. You'll work in lockstep with the Retention Strategist to keep campaigns and flows moving smoothly from creative development through client approval, implementation, and deployment. You'll have a constant pulse on your entire book of business — knowing where every deliverable stands, what's waiting on the client or internal team, which deadlines are approaching, and what needs to happen next. You'll serve as an operational point of contact for clients, managing assets, previews, approvals, and feedback while coordinating internally to keep work on track. This is a hands-on role. Alongside project ownership, you'll build campaigns, create segments, perform QA, send previews, implement feedback, schedule deployments, and troubleshoot issues. We're looking for someone who thinks ahead, catches risks before they become problems, and takes ownership of getting high-quality work out the door on time. \nResponsibilities\nMaintain a clear pulse on every campaign, flow, deadline, and deliverable across your clients \nKeep projects moving, proactively following up on outstanding assets, approvals, and feedback \nIdentify risks and blockers early and communicate them to the right people\nManage Client & Team Coordination \nServe as an operational point of contact for clients, managing previews, approvals, assets, and updates \nWork closely with Retention Strategists, copywriters, and designers to keep deliverables on track \nKeep project management systems accurate and up to date Execute Campaigns & Flows \nBuild and schedule email and SMS campaigns and flows \nCreate segments, send previews, implement feedback, and manage deployments \nSupport reporting and troubleshoot implementation issues as needed Own Quality & Deadlines \nPerform comprehensive QA before campaigns and flows go live \nVerify links, segmentation, personalization, UTMs, formatting, and scheduling\nEnsure work launches accurately, on time, and to Homestead's quality standards\nQualifications\n 2–5 years of experience in email/SMS, lifecycle marketing, marketing operations, or project management \nHighly organized and comfortable managing multiple clients and deadlines \nStrong client-facing communication skills \nExperience building campaigns, flows, segments, and performing QA\nProactive, detail-oriented, and confident solving problems independently \nComfortable with tools like Asana, Slack, Google Workspace, and lifecycle marketing platforms\nExcited to use AI and automation to work more efficiently\nAdditional Information\nThis is a fully remote role. Candidates must be able to work standard business hours (9:00am–5:00pm) in ET, CT, MT, or PT time zones.\nHomestead Studio is an affirmative action and equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability, age, sexual orientation, gender identity, national origin, veteran status, or genetic information. Homestead is committed to providing access, equal opportunity, and reasonable accommodation for individuals with disabilities in employment, its services, programs, and activities. \nNote on Application Responses\nWe strongly encourage applicants to answer questions in their own words. While tools like ChatGPT can be helpful for organizing or polishing your thoughts, it is very easy to recognize when responses are copied and pasted without personalization. Candidates who use AI in that way are typically less successful in our process. Please treat your responses as an opportunity to show us how you think and communicate.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "automation",
-        "chatgpt",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 1,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/homestead-studio/jobs/retention-specialist?utm_source=api",
-      "expires": "2027-01-13T08:17:40+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -1148,37 +822,6 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months?utm_source=api",
       "expires": "2027-01-14T13:25:37+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259",
-      "source": "Himalayas",
-      "title": "YO AI Labs: Passport Acceptance Agent  - Remote",
-      "url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259",
-      "posted": "2026-11-14T08:56:08+00:00",
-      "body": "Job Description: Passport Acceptance Agent\nRole Type: Contractor\nLocation: RemoteAbout the Role\nWe are seeking experienced Passport Acceptance Agents to contribute to a project focused on improving the efficiency and accuracy of passport application processes.\nIn this role, you will use your professional knowledge of passport acceptance procedures to help train and evaluate AI systems. You will review application scenarios, provide expert feedback, and share practical insights into identity verification, document authentication, and passport processing requirements.\nNo prior AI experience is required. Your domain expertise is what matters most.Key Responsibilities\nReview passport application materials for completeness, accuracy, and compliance with applicable procedures.\nAnalyze real-world passport acceptance scenarios and provide insights to support AI model development.\nDocument and explain complex identity verification and document authentication procedures.\nEvaluate existing workflows and recommend improvements to increase efficiency, accuracy, and clarity.\nCreate sample documents, responses, and acceptance scenarios to train and validate AI systems.\nCommunicate findings and observations clearly through written feedback and discussions, providing actionable recommendations for system improvement.\nPreferred Qualifications\nExtensive experience as a Passport Acceptance Agent or in a similar professional role.\nStrong written and verbal communication skills, with excellent attention to detail and accuracy.\nIn-depth knowledge of applicable federal and state guidelines for passport processing.\nAbility to explain complex procedures clearly and adapt information for non-expert audiences.\nFamiliarity with digital documentation platforms and online application workflows.\nStrong commitment to confidentiality, data security, and information integrity.\nInterest in contributing professional expertise to innovative projects and collaborative problem-solving.\nOriginally posted on Himalayas",
-      "budget": "USD 20 to 50/hourly",
-      "score": 3,
-      "matched": [
-        "agents",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": -5,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/yo-ai-labs/jobs/passport-acceptance-agent-remote-9099422259?utm_source=api",
-      "expires": "2027-01-13T08:56:07+00:00",
       "imported": false,
       "date_basis": "posted"
     }
