@@ -99,14 +99,57 @@ class DiscoveryTests(unittest.TestCase):
         cfg = self.cfg["sources"]["reddit"]
         urls = []
         empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
-        with mock.patch.object(gr, "http_get", side_effect=lambda url: urls.append(url) or empty):
-            for tick in range(18):
+        with mock.patch.object(gr, "http_get", side_effect=lambda url: urls.append(url) or empty), \
+             mock.patch.object(gr.time, "sleep"):
+            for tick in range(24):
                 with mock.patch.object(gr.time, "time", return_value=tick * 1200):
                     gr.fetch_reddit(cfg)
-        self.assertEqual(len(urls), 18)
+        self.assertEqual(len(urls), 24 * 3)
         for sub in cfg["subreddits"]:
             self.assertIn(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100", urls)
-        self.assertEqual(len({u for u in urls if "/search.rss?" in u}), 4)
+        founder_base = "https://www.reddit.com/r/" + "+".join(cfg["founder_subreddits"]) + "/search.rss?"
+        founder = {u for u in urls if u.startswith(founder_base)}
+        hiring = {u for u in urls if "/search.rss?" in u} - founder
+        self.assertEqual(len(hiring), 4)
+        self.assertEqual(len(founder), 4)
+
+    def founder_feed(self, title, body, sub="startups", pid="fff111"):
+        return f"""<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><entry>
+<author><name>/u/founder</name></author>
+<category term="{sub}" />
+<content type="html">{body}</content><id>t3_{pid}</id>
+<link href="https://www.reddit.com/r/{sub}/comments/{pid}/x/" />
+<published>{NOW.strftime("%Y-%m-%dT%H:%M:%S+00:00")}</published>
+<title>{title}</title></entry></feed>""".encode()
+
+    def test_founder_subs_keep_build_requests_and_drop_discussion(self):
+        cfg = {**self.cfg["sources"]["reddit"], "max_requests_per_run": 1}
+        want = self.founder_feed("Looking for a developer to build my app",
+                                 "Non-technical founder, budget $500 for a simple MVP.")
+        chat = self.founder_feed("How did you get your first 100 users?",
+                                 "Our SaaS is growing slowly, any tips?", pid="ggg222")
+        for feed, expected in ((want, 1), (chat, 0)):
+            with mock.patch.object(gr, "http_get", return_value=feed), \
+                 mock.patch.object(gr.time, "time", return_value=3 * 1200):  # founder search slot
+                self.assertEqual(len(list(gr.fetch_reddit(cfg))), expected)
+
+    def test_founder_build_request_qualifies_with_scope_flags(self):
+        gig = gr.Gig("y", "r/startups", "Looking for a developer to build my app",
+                     "https://reddit.com/r/startups/comments/y", NOW,
+                     "I want an Uber clone for my town. Budget is $500, paid half upfront.")
+        self.assertTrue(self.qualify(gig))
+        self.assertIn("low budget: lock scope in writing, 50% upfront", gig.flags)
+        self.assertIn("big-app scope: quote a stripped-down MVP", gig.flags)
+
+    def test_equity_only_ask_is_dropped_but_paid_cofounder_post_kept(self):
+        equity = self.gig("Need a developer to build our MVP",
+                          "Looking for a technical co-founder, compensation is equity.")
+        paid = self.gig("Need a developer to build our MVP",
+                        "I'm a non-technical co-founder. Budget is $2,000 for the first version.")
+        self.assertFalse(self.qualify(equity))
+        self.assertTrue(self.qualify(paid))
+        self.assertNotIn("low budget: lock scope in writing, 50% upfront", paid.flags)
 
     def test_http_rate_limit_is_not_retried(self):
         from urllib.error import HTTPError

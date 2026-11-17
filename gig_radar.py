@@ -66,6 +66,8 @@ DEFAULT_CONFIG: dict = {
     "max_push_per_run": 8,
     "min_hourly_usd": 25,
     "min_project_usd": 75,
+    # Fixed budgets under this still show up, flagged to pin scope down first.
+    "tight_scope_project_usd": 1500,
     "include": [
         # AI work
         "ai", "llm", "gpt", "chatgpt", "openai", "claude", "anthropic", "gemini",
@@ -82,6 +84,10 @@ DEFAULT_CONFIG: dict = {
         "react", "react native", "typescript", "node", "firebase", "supabase",
         "postgres", "postgresql", "full stack", "full-stack", "discord bot",
         "telegram bot", "chrome extension", "stripe", "python", "node.js", "javascript",
+        # founders looking for someone to build their thing
+        "build my app", "build an app", "build our app", "build my mvp", "build our mvp",
+        "app idea", "need a developer", "looking for a developer", "looking for a dev",
+        "hire a developer", "app developer needed",
     ],
     "exclude": [
         "unpaid", "equity only", "equity-only", "rev share", "revenue share only",
@@ -89,6 +95,8 @@ DEFAULT_CONFIG: dict = {
         "wordpress theme", "seo backlinks", "data entry only", "video editor",
         "onlyfans", "crypto pump", "trading bot guaranteed",
         "commission-only", "commission only", "paid after launch",
+        "sweat equity", "paid in equity", "for equity", "equity in exchange",
+        "no upfront pay", "deferred payment", "deferred pay",
     ],
     # Each source can be switched off with "enabled": false.
     "sources": {
@@ -96,14 +104,16 @@ DEFAULT_CONFIG: dict = {
             "enabled": True,
             # subreddit -> title must contain one of these tags (lowercase). [] = no tag needed.
             "rotate_subreddit": True,
-            "max_requests_per_run": 1,
+            # Reddit rate-limited a quick second request once; requests are spaced out
+            # and stop at the first error, so a block only costs the rest of that scan.
+            "max_requests_per_run": 3,
             "search_queries": [
                 '"[hiring]" (automation OR spreadsheet OR sheets OR zapier OR n8n)',
                 '"[task]" (website OR scraper OR python OR bot)',
                 '"[hiring]" (chatbot OR API OR integration)',
                 '"[hiring]" ("fix website" OR "finish app" OR MVP OR booking)',
             ],
-            "request_delay_seconds": 3,
+            "request_delay_seconds": 5,
             "subreddits": {
                 "forhire": ["[hiring]"],
                 "slavelabour": ["[task]"],
@@ -112,6 +122,16 @@ DEFAULT_CONFIG: dict = {
                 "jobbit": ["hiring"],
                 "HireaProgrammer": [],
             },
+            # Founder communities are mostly discussion, so they are only searched,
+            # and a post must read like someone wanting a developer to build something.
+            "founder_subreddits": ["startups", "SaaS", "Entrepreneur", "smallbusiness",
+                                   "cofounder", "nocode"],
+            "founder_search_queries": [
+                '"looking for a developer" OR "need a developer" OR "hire a developer"',
+                '"build my app" OR "build an app" OR "build our app" OR "build my mvp"',
+                '"looking to hire" (developer OR programmer OR freelancer OR dev)',
+                '"app idea" (developer OR "who can build" OR budget)',
+            ],
         },
         "hn": {
             "enabled": True,
@@ -373,27 +393,52 @@ def parse_reddit_atom(xml_bytes: bytes, tags_by_sub: dict[str, list[str]]) -> li
     return gigs
 
 
+FOUNDER_INTENT = re.compile(
+    r"\[\s*(?:hiring|task)\s*\]"
+    r"|\b(?:looking for|looking to hire|need|needs|seeking|want to hire|hire|hiring)\s+"
+    r"(?:a\s+|an\s+|some\s+)?(?:(?:freelance|mobile|app|web|full[- ]stack|react|technical|good)\s+)?"
+    r"(?:developers?|devs?|programmers?|engineers?|freelancers?|agency|dev shop|someone to (?:build|make|develop))\b"
+    r"|\b(?:build|develop|make|code)\s+(?:my|our)\s+(?:app|mvp|website|web app|platform|saas|prototype)\b"
+    r"|\bwho can (?:build|make|develop)\b",
+    re.I,
+)
+
+
 def fetch_reddit(cfg: dict) -> list[Gig]:
     subs = cfg["subreddits"]
-    if not subs:
+    founder_subs = cfg.get("founder_subreddits", [])
+    founder_queries = cfg.get("founder_search_queries", [])
+    if not subs and not founder_subs:
         return []
+    urls = []
     base = f"https://www.reddit.com/r/{'+'.join(subs)}"
-    urls = [f"{base}/new/.rss?limit=100"]
+    if subs:
+        urls.append(f"{base}/new/.rss?limit=100")
     # Rotate feed types across runs rather than issuing back-to-back requests.
     # Advance community/query indexes once per full cycle to cover every entry.
     tick = int(time.time() // (20 * 60))
-    queries = cfg.get("search_queries", [])
-    kinds = 1 + bool(cfg.get("rotate_subreddit", True)) + bool(queries)
-    cycle = tick // kinds
-    if cfg.get("rotate_subreddit", True):
+    queries = cfg.get("search_queries", []) if subs else []
+    rotate = bool(subs) and cfg.get("rotate_subreddit", True)
+    founders = bool(founder_subs and founder_queries)
+    kinds = bool(subs) + bool(rotate) + bool(queries) + founders
+    cycle = tick // max(1, kinds)
+    if rotate:
         sub = list(subs)[cycle % len(subs)]
         urls.append(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100")
     if queries:
         query = urllib.parse.urlencode({"q": queries[cycle % len(queries)],
                                         "restrict_sr": "on", "sort": "new", "t": "week", "limit": 100})
         urls.append(f"{base}/search.rss?{query}")
+    if founders:
+        query = urllib.parse.urlencode({"q": founder_queries[cycle % len(founder_queries)],
+                                        "restrict_sr": "on", "sort": "new", "t": "week", "limit": 100})
+        urls.append(f"https://www.reddit.com/r/{'+'.join(founder_subs)}/search.rss?{query}")
+    if not urls:
+        return []
     start = tick % len(urls)
     urls = (urls[start:] + urls[:start])[:max(1, min(3, int(cfg.get("max_requests_per_run", 1))))]
+    tags = {**{s: [] for s in founder_subs}, **subs}
+    founder_names = {f"r/{s}".lower() for s in founder_subs} - {f"r/{s}".lower() for s in subs}
     gigs, succeeded, warnings = [], 0, []
     for i, url in enumerate(urls):
         if i:
@@ -402,7 +447,7 @@ def fetch_reddit(cfg: dict) -> list[Gig]:
             raw = http_get(url)
             if raw is None:
                 raise SourceError("No Reddit response")
-            gigs.extend(parse_reddit_atom(raw, subs))
+            gigs.extend(parse_reddit_atom(raw, tags))
             succeeded += 1
         except (SourceError, ET.ParseError) as e:
             reason = str(e) if isinstance(e, SourceError) else "invalid XML"
@@ -413,6 +458,9 @@ def fetch_reddit(cfg: dict) -> list[Gig]:
                 break
     if not succeeded:
         raise SourceError("All Reddit feeds unavailable: " + "; ".join(warnings))
+    # Founder subs are mostly discussion; keep only posts that want something built.
+    gigs = [g for g in gigs if g.source.lower() not in founder_names
+            or FOUNDER_INTENT.search(g.title + "\n" + g.body)]
     return FetchedGigs({gig.id: gig for gig in gigs}.values(), warnings)
 
 

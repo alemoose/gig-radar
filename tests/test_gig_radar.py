@@ -197,7 +197,8 @@ class TestEndToEnd(unittest.TestCase):
                 mock.patch.object(gr, "CONFIG_PATH", Path(tmp) / "none.json"), \
                 mock.patch.object(gr, "http_get", side_effect=fake_get), \
                 mock.patch.object(gr, "notify", side_effect=lambda gigs, n: sent.append([g.id for g in gigs])), \
-                mock.patch.object(gr.time, "sleep"):
+                mock.patch.object(gr.time, "sleep"), \
+                mock.patch.object(gr.time, "time", return_value=0):  # rotation starts at the combined feed
             cfg = gr.load_config()
             matches = gr.collect(cfg)
             # newest first
