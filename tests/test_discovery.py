@@ -86,7 +86,8 @@ class DiscoveryTests(unittest.TestCase):
 
     def test_rotation_adds_community_and_problem_search_with_spacing(self):
         empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
-        cfg = {**self.cfg["sources"]["reddit"], "max_requests_per_run": 3}
+        cfg = {**self.cfg["sources"]["reddit"], "max_requests_per_run": 3,
+               "search_queries": ['"[hiring]" scraper'], "founder_subreddits": []}
         with mock.patch.object(gr, "http_get", return_value=empty) as get, mock.patch.object(gr.time, "sleep") as sleep, mock.patch.object(gr.time, "time", return_value=0):
             gr.fetch_reddit(cfg)
         urls = [call.args[0] for call in get.call_args_list]
@@ -95,23 +96,27 @@ class DiscoveryTests(unittest.TestCase):
         self.assertIn("/search.rss?", urls[2])
         self.assertEqual(sleep.call_count, 2)
 
-    def test_default_reddit_rotation_covers_all_communities_and_queries(self):
+    def test_default_reddit_rotation_covers_every_community(self):
         cfg = self.cfg["sources"]["reddit"]
         urls = []
         empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
         with mock.patch.object(gr, "http_get", side_effect=lambda url: urls.append(url) or empty), \
              mock.patch.object(gr.time, "sleep"):
-            for tick in range(24):
+            for tick in range(18):
                 with mock.patch.object(gr.time, "time", return_value=tick * 1200):
                     gr.fetch_reddit(cfg)
-        self.assertEqual(len(urls), 24 * 3)
-        for sub in cfg["subreddits"]:
+        self.assertEqual(len(urls), 18 * 3)
+        self.assertFalse(any("/search.rss?" in u for u in urls))
+        for sub in list(cfg["subreddits"]) + cfg["founder_subreddits"]:
             self.assertIn(f"https://www.reddit.com/r/{sub}/new/.rss?limit=100", urls)
-        founder_base = "https://www.reddit.com/r/" + "+".join(cfg["founder_subreddits"]) + "/search.rss?"
-        founder = {u for u in urls if u.startswith(founder_base)}
-        hiring = {u for u in urls if "/search.rss?" in u} - founder
-        self.assertEqual(len(hiring), 4)
-        self.assertEqual(len(founder), 4)
+
+    def test_missing_reddit_feed_does_not_stop_the_rest(self):
+        empty = b'<feed xmlns="http://www.w3.org/2005/Atom"></feed>'
+        with mock.patch.object(gr, "http_get", side_effect=[gr.SourceError("HTTP 404"), empty, empty]) as get, \
+             mock.patch.object(gr.time, "sleep"):
+            result = gr.fetch_reddit(self.cfg["sources"]["reddit"])
+        self.assertEqual(get.call_count, 3)
+        self.assertIn("HTTP 404", result.warnings[0])
 
     def founder_feed(self, title, body, sub="startups", pid="fff111"):
         return f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -131,7 +136,7 @@ class DiscoveryTests(unittest.TestCase):
                                  "Our SaaS is growing slowly, any tips?", pid="ggg222")
         for feed, expected in ((want, 1), (chat, 0)):
             with mock.patch.object(gr, "http_get", return_value=feed), \
-                 mock.patch.object(gr.time, "time", return_value=3 * 1200):  # founder search slot
+                 mock.patch.object(gr.time, "time", return_value=2 * 1200):  # founder feed slot
                 self.assertEqual(len(list(gr.fetch_reddit(cfg))), expected)
 
     def test_founder_build_request_qualifies_with_scope_flags(self):
