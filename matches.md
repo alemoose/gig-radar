@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-17 20:52 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,36 +20,11 @@ Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
-- [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
-  Himalayas | posted Nov 16 20:21 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
-  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
-- [micro1: STEM Expert](https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069)  
-  Himalayas | posted Nov 16 20:22 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
-- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
-  Himalayas | posted Nov 16 20:21 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 21 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
-- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
-  Himalayas | posted Nov 16 20:30 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
-  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
-- [micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)](https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274)  
-  Himalayas | posted Nov 16 20:22 UTC | score 3 | **USD 60 to 120/hourly** | workflow, python, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI...
 - [Job Mobz: AI Ops and Automation Specialist](https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist)  
   Himalayas | posted Nov 15 10:43 UTC | score 8 | automation, automate, agents, zapier, n8n, ai
   Fit: 21 | explicit hiring intent
@@ -60,6 +35,11 @@ Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | 
   Check: budget unknown; check eligibility: United States
   > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
+- [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
+  Himalayas | posted Nov 16 20:21 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
+  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
 - [Xperteez Technology: AI Trainer (SWE) | Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817)  
   Himalayas | posted Nov 15 15:34 UTC | score 5 | **USD 60 to 120/hourly** | javascript, typescript, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -75,6 +55,16 @@ Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent
   Check: budget unknown; check eligibility: Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands
   > Who we are Flow Pouch makes functional mushroom pouches. People use them as a clean alternative to nicotine pouches and energy products: no nicotine, no caffeine, no crash. We launched in 2024, we have grown quickly, mostly through subscriptions, and we manufacture in the US. We are a remote team of about 30 people globally.Why we are hiring We have had an agency on SEO. We are replacing it with one person who can show results and who understands that search now includes ChatGPT, Perplexity and Google AI Overviews as much as the ten blue links. We want someone who owns organic search for en...
+- [micro1: STEM Expert](https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069)  
+  Himalayas | posted Nov 16 20:22 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
+- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
+  Himalayas | posted Nov 16 20:21 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
 - [micro1: AI Agent Evaluator](https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085)  
   Himalayas | posted Nov 16 16:21 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -100,6 +90,16 @@ Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: Software Engineer - Backend Role Type: Contract (~15 hrs a week) Location: RemoteOpportunity Snapshot: Time per task: 5 hours for trainers and 1.5 hours for reviewers Engagement: Project-based — paid per approved task Commitment: ~15 hours per week Location: Fully remote You’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript Your tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiersRequired Skills: Python3 JAVA Rust Algorithms Basics C++ Typescript Bug fixing Feature implementation Cod...
+- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
+  Himalayas | posted Nov 16 20:30 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
+  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
+- [micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)](https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274)  
+  Himalayas | posted Nov 16 20:22 UTC | score 3 | **USD 60 to 120/hourly** | workflow, python, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI...
 - [Way: Customer Support Specialist (Part-Time & Remote)](https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote)  
   Himalayas | posted Nov 15 16:05 UTC | score 3 | **$22** | workflow, saas, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -150,16 +150,6 @@ Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
-- [Sparq: (Contractor) Senior Lead React Native Engineer](https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer)  
-  Himalayas | posted Nov 14 20:37 UTC | score 6 | react native, typescript, claude, openai, ai
-  Fit: 2 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > At Sparq, we help companies solve the right problems—not just build more technology. We’re a modern product engineering partner blending strategy, craftsmanship, and speed to help organizations modernize confidently in the age of AI. From data ecosystems to digital products and AI acceleration, we turn complexity into clarity and ideas into impact. If you’re driven to build what’s next, lead with empathy, and deliver excellence without ego, you’ll feel right at home at Sparq. C2C is not available Must be authorized to work in the U.S. without sponsorship A Day in the Life: Lead the overall...
-- [KData Inc.: Data Architect – PBM Data Modernization](https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization)  
-  Himalayas | posted Nov 14 20:26 UTC | score 3 | gemini, mvp, ai
-  Fit: 1 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > This is a remote position.Data Architect – PBM Data Modernization Location: Remote (US Only) Industry:Pharmacy Benefit Management (PBM)Platform:Google Cloud PlatformRole Overview We're looking for a Data Architect to lead data modeling and source-to-target mapping for a Pharmacy Benefit Manager (PBM) modernization program on Google Cloud. The role covers migrating legacy claims and eligibility data, and the IBM Cognos reporting built on it, into a new BigQuery-based enterprise data warehouse. It also ensures the future-state platform meets state-specific Medicaid reporting requirements, sta...
 - [University of Virginia: Darden Research Assistant in Healthcare Data Management (Student Wage)](https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage)  
   Himalayas | posted Nov 16 11:38 UTC | score 3 | **USD 17 to 25/hourly** | claude, python, ai
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency

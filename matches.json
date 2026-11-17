@@ -106,106 +106,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert",
-      "source": "Himalayas",
-      "title": "micro1: Hardware Expert",
-      "url": "https://himalayas.app/companies/micro1/jobs/hardware-expert",
-      "posted": "2026-11-16T20:21:05+00:00",
-      "body": "Hardware Expert \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nWe are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We value engineers who can connect first-principles reasoning with practical constraints and produce work that can be independently verified.Scope of Work\nCreate technically rigorous, self-contained hardware engineering problems based on realistic industry or research scenarios.\nDevelop clear reference solutions using engineering calculations, simulations, scripts, experimental reasoning, or other appropriate methods.\nUse tools such as Python, MATLAB, Simulink, SPICE, Julia, C/C++, test automation platforms, or equivalent engineering software to validate results when relevant.\nPreferred Qualifications\nBachelor’s, Master’s, or PhD degree in Electrical Engineering, Mechanical Engineering, Mechatronics, Aerospace Engineering, Systems Engineering, Applied Physics, or a closely related field.\nSignificant professional or research experience in hardware engineering, product development, systems integration, testing, validation, reliability, or failure analysis.\nDemonstrated ownership of a substantial engineering problem—for example, a product or subsystem that reached production, a model validated against physical testing, a test system you developed, or a difficult failure you diagnosed.\nExperience working with Coding Agents is a must\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 5,
-      "matched": [
-        "automation",
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 25,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/hardware-expert?utm_source=api",
-      "expires": "2027-01-15T20:21:05+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069",
-      "source": "Himalayas",
-      "title": "micro1: STEM Expert",
-      "url": "https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069",
-      "posted": "2026-11-16T20:22:43+00:00",
-      "body": "STEM Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nThe work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct.\nThis is a very coding heavy role. Candidates but have experience using coding agents in their workflow.\nCandidates are not expected to be experts across every STEM discipline. We are looking for deep expertise in at least one of the following areas:\nChemistry\nBiology\nMathematics\nPhysics\nEarth Science / Geoscience / Environmental Science\nRobotics\nAdjacent scientific or quantitative disciplines may also be considered where the candidate's expertise is directly relevant.What You’ll Work On\nSolve complex scientific, mathematical, or technical problems within your domain of expertise.\nReview AI-generated solutions for factual, mathematical, and scientific correctness.\nIdentify incorrect assumptions, reasoning errors, missing constraints, and subtle technical mistakes.\nRequired Qualifications\nStrong expertise in at least one relevant STEM or scientific domain.\nPractical proficiency with Python or other coding languages.\nStrong scientific, mathematical, or quantitative problem-solving ability.\nRelevant Python tools may include NumPy, SciPy, pandas, SymPy, Jupyter, or domain-specific scientific libraries. No particular Python library is mandatory.\nExpertise may come from academic research, industry, teaching, engineering, independent technical work, or other demonstrated experience. A specific degree or number of years of experience is not strictly required if you can demonstrate strong expertise in your field.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069?utm_source=api",
-      "expires": "2027-01-15T20:22:43+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
-      "source": "Himalayas",
-      "title": "micro1: Mechanical Engineering Expert",
-      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
-      "posted": "2026-11-16T20:21:42+00:00",
-      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
-      "expires": "2027-01-15T20:21:42+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
       "source": "Himalayas",
       "title": "micro1: ML Engineer",
@@ -238,70 +138,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
       "expires": "2027-01-15T20:20:49+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
-      "source": "Himalayas",
-      "title": "micro1: Competitive Data Scientist (Kaggle)",
-      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
-      "posted": "2026-11-16T20:30:11+00:00",
-      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 3,
-      "matched": [
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
-      ],
-      "aliases": [],
-      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
-      "expires": "2027-01-15T20:22:04+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274",
-      "source": "Himalayas",
-      "title": "micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)",
-      "url": "https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274",
-      "posted": "2026-11-16T20:22:24+00:00",
-      "body": "Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nmicro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI systems.\nWe are looking for people who have worked directly with physiological signals and can turn noisy, real-world data into a rigorous and reproducible analysis. Strong candidates will be able to explain the methods they developed, the experiments they ran, the technical decisions they personally owned, and how they validated their results. No prior experience working on AI training projects is required.Scope of Work\nCreate technically rigorous, self-contained problems involving biomedical signals, time-series data, signal processing, and machine learning.\nDevelop clear reference solutions using Python, MATLAB, or another appropriate scientific computing environment.\nWork with tasks involving signal preprocessing, filtering, segmentation, feature extraction, representation learning, classification, or forecasting.\nPreferred Qualifications\nParticipation in a PhysioNet/Computing in Cardiology Challenge or a comparable biomedical signal processing or scientific machine learning competition.\nStrong competition results and evidence of a substantive personal technical contribution.\nPublic evidence of your work through an official team result, conference paper, technical report, open-source repository, or meaningful code contribution.\nHands-on experience with physiological signals such as ECG, EEG, PPG, EMG, respiratory signals, polysomnography, or other clinical time-series data.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 3,
-      "matched": [
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274?utm_source=api",
-      "expires": "2027-01-15T20:22:24+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -369,6 +205,40 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract?utm_source=api",
       "expires": "2027-01-16T13:40:23+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert",
+      "source": "Himalayas",
+      "title": "micro1: Hardware Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/hardware-expert",
+      "posted": "2026-11-16T20:21:05+00:00",
+      "body": "Hardware Expert \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nWe are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We value engineers who can connect first-principles reasoning with practical constraints and produce work that can be independently verified.Scope of Work\nCreate technically rigorous, self-contained hardware engineering problems based on realistic industry or research scenarios.\nDevelop clear reference solutions using engineering calculations, simulations, scripts, experimental reasoning, or other appropriate methods.\nUse tools such as Python, MATLAB, Simulink, SPICE, Julia, C/C++, test automation platforms, or equivalent engineering software to validate results when relevant.\nPreferred Qualifications\nBachelor’s, Master’s, or PhD degree in Electrical Engineering, Mechanical Engineering, Mechatronics, Aerospace Engineering, Systems Engineering, Applied Physics, or a closely related field.\nSignificant professional or research experience in hardware engineering, product development, systems integration, testing, validation, reliability, or failure analysis.\nDemonstrated ownership of a substantial engineering problem—for example, a product or subsystem that reached production, a model validated against physical testing, a test system you developed, or a difficult failure you diagnosed.\nExperience working with Coding Agents is a must\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "automation",
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 19,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/hardware-expert?utm_source=api",
+      "expires": "2027-01-15T20:21:05+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -469,6 +339,72 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist?utm_source=api",
       "expires": "2027-01-16T09:10:42+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069",
+      "source": "Himalayas",
+      "title": "micro1: STEM Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069",
+      "posted": "2026-11-16T20:22:43+00:00",
+      "body": "STEM Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nThe work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct.\nThis is a very coding heavy role. Candidates but have experience using coding agents in their workflow.\nCandidates are not expected to be experts across every STEM discipline. We are looking for deep expertise in at least one of the following areas:\nChemistry\nBiology\nMathematics\nPhysics\nEarth Science / Geoscience / Environmental Science\nRobotics\nAdjacent scientific or quantitative disciplines may also be considered where the candidate's expertise is directly relevant.What You’ll Work On\nSolve complex scientific, mathematical, or technical problems within your domain of expertise.\nReview AI-generated solutions for factual, mathematical, and scientific correctness.\nIdentify incorrect assumptions, reasoning errors, missing constraints, and subtle technical mistakes.\nRequired Qualifications\nStrong expertise in at least one relevant STEM or scientific domain.\nPractical proficiency with Python or other coding languages.\nStrong scientific, mathematical, or quantitative problem-solving ability.\nRelevant Python tools may include NumPy, SciPy, pandas, SymPy, Jupyter, or domain-specific scientific libraries. No particular Python library is mandatory.\nExpertise may come from academic research, industry, teaching, engineering, independent technical work, or other demonstrated experience. A specific degree or number of years of experience is not strictly required if you can demonstrate strong expertise in your field.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069?utm_source=api",
+      "expires": "2027-01-15T20:22:43+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "source": "Himalayas",
+      "title": "micro1: Mechanical Engineering Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "posted": "2026-11-16T20:21:42+00:00",
+      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
+      "expires": "2027-01-15T20:21:42+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -632,6 +568,70 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141?utm_source=api",
       "expires": "2027-01-14T15:32:57+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "source": "Himalayas",
+      "title": "micro1: Competitive Data Scientist (Kaggle)",
+      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "posted": "2026-11-16T20:30:11+00:00",
+      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
+      "expires": "2027-01-15T20:22:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274",
+      "source": "Himalayas",
+      "title": "micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)",
+      "url": "https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274",
+      "posted": "2026-11-16T20:22:24+00:00",
+      "body": "Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nmicro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI systems.\nWe are looking for people who have worked directly with physiological signals and can turn noisy, real-world data into a rigorous and reproducible analysis. Strong candidates will be able to explain the methods they developed, the experiments they ran, the technical decisions they personally owned, and how they validated their results. No prior experience working on AI training projects is required.Scope of Work\nCreate technically rigorous, self-contained problems involving biomedical signals, time-series data, signal processing, and machine learning.\nDevelop clear reference solutions using Python, MATLAB, or another appropriate scientific computing environment.\nWork with tasks involving signal preprocessing, filtering, segmentation, feature extraction, representation learning, classification, or forecasting.\nPreferred Qualifications\nParticipation in a PhysioNet/Computing in Cardiology Challenge or a comparable biomedical signal processing or scientific machine learning competition.\nStrong competition results and evidence of a substantive personal technical contribution.\nPublic evidence of your work through an official team result, conference paper, technical report, open-source repository, or meaningful code contribution.\nHands-on experience with physiological signals such as ECG, EEG, PPG, EMG, respiratory signals, polysomnography, or other clinical time-series data.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274?utm_source=api",
+      "expires": "2027-01-15T20:22:24+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -971,72 +971,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus?utm_source=api",
       "expires": "2027-01-15T05:59:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer",
-      "source": "Himalayas",
-      "title": "Sparq: (Contractor) Senior Lead React Native Engineer",
-      "url": "https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer",
-      "posted": "2026-11-14T20:37:41+00:00",
-      "body": "At Sparq, we help companies solve the right problems—not just build more technology.\nWe’re a modern product engineering partner blending strategy, craftsmanship, and speed to help organizations modernize confidently in the age of AI. From data ecosystems to digital products and AI acceleration, we turn complexity into clarity and ideas into impact.\nIf you’re driven to build what’s next, lead with empathy, and deliver excellence without ego, you’ll feel right at home at Sparq.\nC2C is not available\nMust be authorized to work in the U.S. without sponsorship\nA Day in the Life:\nLead the overall solution architecture and technical design of a React Native mobile application, ensuring seamless integration with the .NET backend, APIs, and Azure cloud services.\nDrive architectural decisions and establish development best practices across React Native, TypeScript, iOS, and Android platforms.\nDesign and oversee secure REST APIs using OpenAPI standards, Azure API Management, and Microsoft Entra ID authentication with MSAL.\nCollaborate with security, IT, and engineering stakeholders to ensure mobile application security, scalability, and alignment with enterprise standards.\nLead technical design discussions, conduct code reviews, and provide architectural guidance to engineers throughout the development lifecycle.\nEvaluate native versus cross-platform solutions through technical validation, including voice capture capabilities and testing on physical iOS and Android devices.\nAssess enterprise mobile application distribution options and recommend approaches that align with business requirements and IT policies.\nProvide technical leadership across mobile development, backend integration, authentication, and Azure OpenAI capabilities to support a reliable, scalable solution.\nWhat it takes:\nConsultative approach and problem solving skills to successfully align digital solutions with long-term business goals of the client\nHands-on experience using AI tools to enhance daily work, or a strong desire to do so, including a willingness to experiment, learn, and champion AI adoption within your role\nClaude Certified Developer or Architect highly preferred; possible opportunity to obtain as a Sparq colleague\nCommitment to understanding and exceeding client expectations\nAbility to perform project oversight and execution of deliverables\nFlexibility to adapt within a high-growth organization\nAbility to lead, mentor and motivate those around them\nHunger for continuous learning and professional development\nIntellectual curiosity to provide creative solutions\nFull understanding of the software development life cycle\nAbility to positively impact fellow colleagues through effective leadership, presentations, coaching, etc. \nDesire to work in a team environment\nGood interpersonal, written and verbal communication skills\nRegardless of your specific role, we seek individuals who are excited to explore, adopt, and evangelize AI tools and methodologies. If you have experience in AI or a proven track record of rapidly learning and mentoring others on emerging tech, you’ll fit right in.\nEqual Employment Opportunity Policy: Sparq is proud to offer equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.\nWe are committed to providing equal employment opportunities and believe in an inclusive workplace. If you require reasonable accommodations to participate in the job application or interview process, please let us know by contacting \nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 6,
-      "matched": [
-        "react native",
-        "typescript",
-        "claude",
-        "openai",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 2,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/sparq/jobs/contractor-senior-lead-react-native-engineer?utm_source=api",
-      "expires": "2027-01-13T20:37:40+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization",
-      "source": "Himalayas",
-      "title": "KData Inc.: Data Architect – PBM Data Modernization",
-      "url": "https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization",
-      "posted": "2026-11-14T20:26:33+00:00",
-      "body": "This is a remote position.Data Architect – PBM Data Modernization\nLocation: Remote (US Only) Industry:Pharmacy Benefit Management (PBM)Platform:Google Cloud PlatformRole Overview\nWe're looking for a Data Architect to lead data modeling and source-to-target mapping for a Pharmacy Benefit Manager (PBM) modernization program on Google Cloud. The role covers migrating legacy claims and eligibility data, and the IBM Cognos reporting built on it, into a new BigQuery-based enterprise data warehouse. It also ensures the future-state platform meets state-specific Medicaid reporting requirements, starting with the MVP.Key Responsibilities\nDefine the semantic and logical data models for MVP and future-state reporting, covering pharmacy claims, member eligibility, prescriber, pharmacy network, formulary, rebates, and pricing domains.\nOwn mapping execution end to end. Define source-to-target mappings, transformation rules, and business logic from legacy structures to the new warehouse.\nInventory and analyze legacy IBM Cognos (Cognos Explorer / Cognos Analytics) reports, packages, and Framework Manager models. Reverse-engineer embedded business logic and calculations, and rationalize reports for redesign on the future-state platform.\nSet mapping standards, templates, naming conventions, and documentation practices. Direct the Data and Systems Analysts and review their work for quality and consistency.\nLead gap analysis and drive each gap to a decision (build, defer, workaround, or descope) with business, compliance, and technical stakeholders.\nTranslate state Medicaid reporting requirements (encounter data submissions, MCO/PBM transparency reports, spread pricing and pass-through disclosures, T-MSIS-aligned extracts) into data model and mapping specifications.\nDefine data quality rules, reconciliation checkpoints, and lineage so legacy-to-target results, including Cognos report outputs, are traceable and audit-ready.\nWork with data engineers on ingestion and transformation design on GCP, and use Vertex AI and Gemini to speed up mapping, profiling, and documentation.\nRequirements\nQualifications\n10+ years in data architecture or data modeling, with at least 3 years in PBM, pharmacy, or health plan data.\nHands-on experience with NCPDP claim standards, Medicaid and managed care reporting, and legacy migration programs.\nStrong skills in dimensional and semantic modeling, plus advanced SQL.\nExperience with IBM Cognos Analytics / Cognos Explorer, including Framework Manager packages, report specifications, and migrating Cognos reporting to a modern BI platform.\nHands-on experience with Google Cloud data services:\nBigQuery for warehouse design, including partitioning, clustering, and authorized views\nDataflow and Dataproc for transformation pipelines\nCloud Composer (Airflow) for orchestration\n–Cloud Storage for landing zones\nDataform or dbt for SQL-based transformations\nFamiliarity with Dataplex and Data Catalog for metadata, lineage, and data quality, and with Looker (LookML) for building the semantic layer.\nProven experience leading analyst teams and running mapping governance.\nWorking knowledge of HIPAA, CMS regulations, and state-level Medicaid compliance, along with GCP security controls (IAM, VPC Service Controls, CMEK).\nLocation & Work Authorization: Must currently reside in the United States and hold valid US work authorization without sponsorship. \nNice to Have\nExposure to Vertex AI or Gemini in BigQuery for AI-assisted mapping, profiling, and documentation.\nGoogle Cloud Professional Data Engineer or Professional Cloud Architect certification.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "gemini",
-        "mvp",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 1,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/kdata-inc/jobs/data-architect-pbm-data-modernization?utm_source=api",
-      "expires": "2027-01-13T20:26:33+00:00",
       "imported": false,
       "date_basis": "posted"
     },
