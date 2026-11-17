@@ -107,12 +107,9 @@ DEFAULT_CONFIG: dict = {
             # Reddit rate-limited a quick second request once; requests are spaced out
             # and stop at the first error, so a block only costs the rest of that scan.
             "max_requests_per_run": 3,
-            "search_queries": [
-                '"[hiring]" (automation OR spreadsheet OR sheets OR zapier OR n8n)',
-                '"[task]" (website OR scraper OR python OR bot)',
-                '"[hiring]" (chatbot OR API OR integration)',
-                '"[hiring]" ("fix website" OR "finish app" OR MVP OR booking)',
-            ],
+            # Reddit's search.rss returned HTTP 404 from GitHub's runners (Nov 17, 2026),
+            # so searches are off by default. Add queries here to try them again.
+            "search_queries": [],
             "request_delay_seconds": 5,
             "subreddits": {
                 "forhire": ["[hiring]"],
@@ -122,16 +119,10 @@ DEFAULT_CONFIG: dict = {
                 "jobbit": ["hiring"],
                 "HireaProgrammer": [],
             },
-            # Founder communities are mostly discussion, so they are only searched,
+            # Founder communities are mostly discussion: one is read per scan (rotating),
             # and a post must read like someone wanting a developer to build something.
             "founder_subreddits": ["startups", "SaaS", "Entrepreneur", "smallbusiness",
                                    "cofounder", "nocode"],
-            "founder_search_queries": [
-                '"looking for a developer" OR "need a developer" OR "hire a developer"',
-                '"build my app" OR "build an app" OR "build our app" OR "build my mvp"',
-                '"looking to hire" (developer OR programmer OR freelancer OR dev)',
-                '"app idea" (developer OR "who can build" OR budget)',
-            ],
         },
         "hn": {
             "enabled": True,
@@ -407,7 +398,6 @@ FOUNDER_INTENT = re.compile(
 def fetch_reddit(cfg: dict) -> list[Gig]:
     subs = cfg["subreddits"]
     founder_subs = cfg.get("founder_subreddits", [])
-    founder_queries = cfg.get("founder_search_queries", [])
     if not subs and not founder_subs:
         return []
     urls = []
@@ -419,7 +409,7 @@ def fetch_reddit(cfg: dict) -> list[Gig]:
     tick = int(time.time() // (20 * 60))
     queries = cfg.get("search_queries", []) if subs else []
     rotate = bool(subs) and cfg.get("rotate_subreddit", True)
-    founders = bool(founder_subs and founder_queries)
+    founders = bool(founder_subs)
     kinds = bool(subs) + bool(rotate) + bool(queries) + founders
     cycle = tick // max(1, kinds)
     if rotate:
@@ -430,9 +420,8 @@ def fetch_reddit(cfg: dict) -> list[Gig]:
                                         "restrict_sr": "on", "sort": "new", "t": "week", "limit": 100})
         urls.append(f"{base}/search.rss?{query}")
     if founders:
-        query = urllib.parse.urlencode({"q": founder_queries[cycle % len(founder_queries)],
-                                        "restrict_sr": "on", "sort": "new", "t": "week", "limit": 100})
-        urls.append(f"https://www.reddit.com/r/{'+'.join(founder_subs)}/search.rss?{query}")
+        founder = list(founder_subs)[cycle % len(founder_subs)]
+        urls.append(f"https://www.reddit.com/r/{founder}/new/.rss?limit=100")
     if not urls:
         return []
     start = tick % len(urls)
@@ -453,8 +442,9 @@ def fetch_reddit(cfg: dict) -> list[Gig]:
             reason = str(e) if isinstance(e, SourceError) else "invalid XML"
             warnings.append(f"request {i + 1}/{len(urls)}: {reason}")
             log(f"  ! Reddit {warnings[-1]}")
-            # Do not try more requests when Reddit has blocked or limited us.
-            if isinstance(e, SourceError):
+            # Stop when Reddit has blocked or limited us; a missing page (404) only
+            # affects that one feed, so carry on with the rest.
+            if isinstance(e, SourceError) and not str(e).startswith("HTTP 404"):
                 break
     if not succeeded:
         raise SourceError("All Reddit feeds unavailable: " + "; ".join(warnings))
