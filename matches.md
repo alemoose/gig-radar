@@ -1,20 +1,80 @@
 # Gig radar
 
-Updated 2026-11-17 17:14 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-17 19:55 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
+  We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
+  Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
+  > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
+- [Careerflow.ai: Code Reviewer - Golang](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang)  
+  We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
+  Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
+  > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
+- [micro1: Aerodynamics Expert](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053)  
+  Himalayas | posted Nov 17 15:45 UTC | score 4 | **USD 80 to 120/hourly** | automate, workflow, python, ai
+  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
+- [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
+  Himalayas | posted Nov 16 20:21 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
+  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
+- [micro1: STEM Expert](https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069)  
+  Himalayas | posted Nov 16 20:22 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
+- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
+  Himalayas | posted Nov 16 20:21 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
+- [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
+  Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
+  Fit: 21 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
+- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
+  Himalayas | posted Nov 16 20:30 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
+  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
+- [micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)](https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274)  
+  Himalayas | posted Nov 16 20:22 UTC | score 3 | **USD 60 to 120/hourly** | workflow, python, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI...
 - [Job Mobz: AI Ops and Automation Specialist](https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist)  
   Himalayas | posted Nov 15 10:43 UTC | score 8 | automation, automate, agents, zapier, n8n, ai
   Fit: 21 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > We're looking for a resourceful, technically savvy AI Operations & Automation Specialist to help us streamline and scale our content and digital operations. This person will identify opportunities to automate manual processes across social media, websites, newsletters, podcasts, video, and other digital channels. You'll build and manage AI-powered workflows, tools, and agents that improve efficiency, consistency, and output.Key Responsibilities Identify opportunities to automate repetitive tasks and improve existing workflows. Build, test, and maintain AI-powered tools, agents, and automati...
+- [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
+  Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
+  Fit: 20 | 
+  Check: budget unknown; check eligibility: United States
+  > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
 - [Xperteez Technology: AI Trainer (SWE) | Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817)  
   Himalayas | posted Nov 15 15:34 UTC | score 5 | **USD 60 to 120/hourly** | javascript, typescript, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills So...
+- [micro1: Computational Bioscience Expert (Python)](https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python)  
+  Himalayas | posted Nov 17 15:45 UTC | score 4 | **$60** | workflow, python, ai
+  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
+  > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
+- [Flowpouch: SEO & GEO Specialist](https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist)  
+  Himalayas | posted Nov 17 09:10 UTC | score 3 | chatgpt, crawler, ai
+  Fit: 17 | explicit hiring intent
+  Check: budget unknown; check eligibility: Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands
+  > Who we are Flow Pouch makes functional mushroom pouches. People use them as a clean alternative to nicotine pouches and energy products: no nicotine, no caffeine, no crash. We launched in 2024, we have grown quickly, mostly through subscriptions, and we manufacture in the US. We are a remote team of about 30 people globally.Why we are hiring We have had an agency on SEO. We are replacing it with one person who can show results and who understands that search now includes ChatGPT, Perplexity and Google AI Overviews as much as the ten blue links. We want someone who owns organic search for en...
 - [micro1: AI Agent Evaluator](https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085)  
   Himalayas | posted Nov 16 16:21 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -65,6 +125,11 @@ Updated 2026-11-17 17:14 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
+- [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
+  Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
+  Fit: 8 | budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Position Overview MetroSys is seeking a highly experienced Senior AI Infrastructure Solutions Architect to support the design, planning, and implementation of advanced artificial intelligence computing environments for enterprise organizations. This position requires a technical leader with extensive experience in GPU-accelerated infrastructure, high-performance computing (HPC), enterprise networking, storage architecture, and AI platform integration. The ideal candidate will combine deep infrastructure engineering expertise with the ability to advise customers on complex technology investm...
 - [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
   Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -75,6 +140,11 @@ Updated 2026-11-17 17:14 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; check eligibility: United States; seniority requirement needs review
   > Description Senior UX/UI Designer for Product (Freelance) Vi is the market-leading Enterprise-AI platform for health, serving the world’s largest health organizations - from Fortune 500 health providers to pharma and consumer brands -helping them maximize patient activation, engagement, operational excellence and health outcomes. Vi offers four main product lines: Activate, Engage, Operate and Pulse. Backed by $125M+ in R&D, our powerful platform serves over 190 million members daily - and growing. We are based in New York, Austin, Nashville, and Tel Aviv Role Summary Vi is looking for a se...
+- [RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)](https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan)  
+  Himalayas | posted Nov 17 13:01 UTC | score 3 | **USD 18 to 18/hourly** | agents, ai
+  Fit: 6 | explicit hiring intent; budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > We are looking for AIVoice Recording Contributors to join a Mandarin Chinesevoice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 18 USD/hourHelp Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native langu...
 - [PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus](https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus)  
   Himalayas | posted Nov 16 05:59 UTC | score 3 | **USD 70000 to 80000/annual** | workflow, saas, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
@@ -100,11 +170,6 @@ Updated 2026-11-17 17:14 UTC. Projects first, ranked by fit and freshness.
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Do you use Google Gemini to study? We're hiring US students and recent graduates for a remote, 16-week contract helping train AI models to teach and explain things better. What you'll do Research and fact-check information online Work through tricky content and logic problems Review AI answers, then find and fix the errors Write clear explanations that help train AI models You need To have used Gemini for at least 18 months, with at least 10 conversations where you used it to learn (studying, understanding concepts, practicing). This is checked, so please don't make a new account for it To...
-- [FHI 360: Data Engineer](https://himalayas.app/companies/fhi-360/jobs/data-engineer)  
-  Himalayas | posted Nov 14 17:16 UTC | score 3 | **USD 103500 to 143500/annual** | automation, postgresql, python
-  Fit: 0 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Position HighlightsPosition Title: Data EngineerFLSA Classification: Exempt Location: Remote; must be based in the United States. Up to 10% domestic travel may be required. Salary Range: $103,500 - $143,500 annually, plus benefits. Individual salary offers will be based on experience and qualifications unique to each candidate. Position Type: Grant-funded, limited-term opportunityPosition End Date: June 30, 2027Overview The Data Engineer will play a key role in advancing the CDC Foundation's mission by designing, building, and maintaining data infrastructure for a public health organization...
 - [Sutherland: Senior Team Manager | Ed Tech | Temporary | 6 Months](https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months)  
   Himalayas | posted Nov 15 13:25 UTC | score 3 | automation, agents, ai
   Fit: -4 | 

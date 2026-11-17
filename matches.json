@@ -2,6 +2,310 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam",
+      "source": "We Work Remotely",
+      "title": "Careerflow.ai: Code Reviewer - C++/C# (LATAM)",
+      "url": "https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam",
+      "posted": "2026-11-17T18:01:44+00:00",
+      "body": "Headquarters: United States\nURL: https://www.careerflow.ai\nAbout the Role: \nWe are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality\nWhat does day-to-day look like:\nAnalyze and triage GitHub issues across trending open-source libraries.\nSet up and configure code repositories, including Dockerization and environment setup.\nEvaluating unit test coverage and quality.\nModify and run codebases locally to assess LLM performance in bug-fixing scenarios.\nCollaborate with researchers to design and identify repositories and issues that are challenging for LLMs.\nRequired Skills:\nMinimum 3+ years of overall experience\nStrong experience with at least one of the following languages: C++ / C#\nProficiency with Git, Docker, and basic software pipeline setup.\nAbility to understand and navigate complex codebases.\nComfortable running, modifying, and testing real-world projects locally.\nExperience contributing to or evaluating open-source projects is a plus.\nNice to Have:\nPrevious participation in LLM research or evaluation projects.\nExperience building or testing developer tools or automation agents.\nPerks of Freelancing With Us:\nWork in a fully remote environment.\nOpportunity to work on cutting-edge AI projects with leading LLM companies.\nOffer Details:\nCommitments Required: Minimum 40 hours per week with overlap of 4 hours with PST.\nEmployment type : Contractor assignment (no medical/paid leave)\nDuration of contract : 2-3 weeks; [expected start date is next week]\nPayment: $25 per approved task\nLocation : LATAM\nEvaluation Process (approximately 75 mins) :\nAssessment based review\nTo apply: https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam",
+      "budget": "$25",
+      "score": 5,
+      "matched": [
+        "automation",
+        "agents",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 31,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "low budget: lock scope in writing, 50% upfront",
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang",
+      "source": "We Work Remotely",
+      "title": "Careerflow.ai: Code Reviewer - Golang",
+      "url": "https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang",
+      "posted": "2026-11-17T18:01:42+00:00",
+      "body": "Headquarters: United States\nURL: https://www.careerflow.ai\nAbout the Role:\nWe are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality\nWhat does day-to-day look like:\nAnalyze and triage GitHub issues across trending open-source libraries.\nSet up and configure code repositories, including Dockerization and environment setup.\nEvaluating unit test coverage and quality.\nModify and run codebases locally to assess LLM performance in bug-fixing scenarios.\nCollaborate with researchers to design and identify repositories and issues that are challenging for LLMs.\nRequired Skills:\nMinimum 3+ years of overall experience\nStrong experience with at least one of the following languages: Golang\nProficiency with Git, Docker, and basic software pipeline setup.\nAbility to understand and navigate complex codebases.\nComfortable running, modifying, and testing real-world projects locally.\nExperience contributing to or evaluating open-source projects is a plus.\nNice to Have:\nPrevious participation in LLM research or evaluation projects.\nExperience building or testing developer tools or automation agents.\nPerks of Freelancing With Us:\nWork in a fully remote environment.\nOpportunity to work on cutting-edge AI projects with leading LLM companies.\nOffer Details:\nCommitments Required: At least 4 hours per day and minimum 40 hours per week with overlap of 4 hours with PST.\nEmployment type : Contractor assignment (no medical/paid leave)\nDuration of contract : 2-3 weeks; [expected start date is next week]\nPayment: $25 per approved task\nLocation : LATAM\nEvaluation Process (approximately 75 mins) :\nAssessment based review\nTo apply: https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang",
+      "budget": "$25",
+      "score": 5,
+      "matched": [
+        "automation",
+        "agents",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 31,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "low budget: lock scope in writing, 50% upfront",
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053",
+      "source": "Himalayas",
+      "title": "micro1: Aerodynamics Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053",
+      "posted": "2026-11-17T15:45:20+00:00",
+      "body": "Aerodynamics Expert\nPay: $80–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you can choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing an airfoil, preparing a computational domain and mesh, defining appropriate boundary conditions, running a CFD simulation, calculating lift and drag, and determining whether the resulting flow field is numerically and physically valid.What You’ll Work On\nSolve and validate aerodynamic and fluid-dynamics problems.\nTranslate physical requirements into computational models and solver-ready cases.\nCreate or modify geometries, computational domains, and meshes.\nDefine appropriate initial conditions, boundary conditions, fluid properties, and solver settings.\nRun CFD and aerodynamic-analysis workflows using command-line-accessible tools.\nUse Python to automate preprocessing, simulation execution, parameter sweeps, postprocessing, and validation.\nRequired Qualifications\nBSc, MSc or PhD in Aerospace Engineering, or Mechanical Engineering with an aerodynamics, fluid dynamics, or thermofluids specialization; or\nA BS in Aerospace or Mechanical Engineering plus at least 1–2 years of aero-specific professional or research experience.\nStrong understanding of fluid mechanics and applied aerodynamics.\nExperience formulating and executing CFD or aerodynamic analyses.\nPractical proficiency with Python or other coding languages.\nRelevant tools may include Python,OpenFOAM, SU2, Gmsh, FEniCSx, Elmer, CalculiX, SciPy, or similar programmatic engineering software. Experience with an equivalent CLI-accessible tool is acceptable.\nRelevant Python tools may include NumPy, SciPy, pandas, Matplotlib, Jupyter, solver APIs, mesh-processing libraries, or domain-specific scientific packages. No single library is mandatory.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 80 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "automate",
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053?utm_source=api",
+      "expires": "2027-01-15T20:21:24+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert",
+      "source": "Himalayas",
+      "title": "micro1: Hardware Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/hardware-expert",
+      "posted": "2026-11-16T20:21:05+00:00",
+      "body": "Hardware Expert \nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nWe are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We value engineers who can connect first-principles reasoning with practical constraints and produce work that can be independently verified.Scope of Work\nCreate technically rigorous, self-contained hardware engineering problems based on realistic industry or research scenarios.\nDevelop clear reference solutions using engineering calculations, simulations, scripts, experimental reasoning, or other appropriate methods.\nUse tools such as Python, MATLAB, Simulink, SPICE, Julia, C/C++, test automation platforms, or equivalent engineering software to validate results when relevant.\nPreferred Qualifications\nBachelor’s, Master’s, or PhD degree in Electrical Engineering, Mechanical Engineering, Mechatronics, Aerospace Engineering, Systems Engineering, Applied Physics, or a closely related field.\nSignificant professional or research experience in hardware engineering, product development, systems integration, testing, validation, reliability, or failure analysis.\nDemonstrated ownership of a substantial engineering problem—for example, a product or subsystem that reached production, a model validated against physical testing, a test system you developed, or a difficult failure you diagnosed.\nExperience working with Coding Agents is a must\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "automation",
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 25,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/hardware-expert?utm_source=api",
+      "expires": "2027-01-15T20:21:05+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069",
+      "source": "Himalayas",
+      "title": "micro1: STEM Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069",
+      "posted": "2026-11-16T20:22:43+00:00",
+      "body": "STEM Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nThe work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct.\nThis is a very coding heavy role. Candidates but have experience using coding agents in their workflow.\nCandidates are not expected to be experts across every STEM discipline. We are looking for deep expertise in at least one of the following areas:\nChemistry\nBiology\nMathematics\nPhysics\nEarth Science / Geoscience / Environmental Science\nRobotics\nAdjacent scientific or quantitative disciplines may also be considered where the candidate's expertise is directly relevant.What You’ll Work On\nSolve complex scientific, mathematical, or technical problems within your domain of expertise.\nReview AI-generated solutions for factual, mathematical, and scientific correctness.\nIdentify incorrect assumptions, reasoning errors, missing constraints, and subtle technical mistakes.\nRequired Qualifications\nStrong expertise in at least one relevant STEM or scientific domain.\nPractical proficiency with Python or other coding languages.\nStrong scientific, mathematical, or quantitative problem-solving ability.\nRelevant Python tools may include NumPy, SciPy, pandas, SymPy, Jupyter, or domain-specific scientific libraries. No particular Python library is mandatory.\nExpertise may come from academic research, industry, teaching, engineering, independent technical work, or other demonstrated experience. A specific degree or number of years of experience is not strictly required if you can demonstrate strong expertise in your field.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 23,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069?utm_source=api",
+      "expires": "2027-01-15T20:22:43+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "source": "Himalayas",
+      "title": "micro1: Mechanical Engineering Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "posted": "2026-11-16T20:21:42+00:00",
+      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 23,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
+      "expires": "2027-01-15T20:21:42+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "source": "Himalayas",
+      "title": "micro1: ML Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "posted": "2026-11-17T15:45:19+00:00",
+      "body": "Senior ML Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BSc, MSc or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nExperience in one or more of the following ML Engineering camps: Inference/Serving, Evaluation, Data & Feature Engineering, Retrieval/Ranking/RAG, MLOps, Model Compression/Optimization and/or GPU/kernel optimization.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "rag",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 21,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
+      "expires": "2027-01-15T20:20:49+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "source": "Himalayas",
+      "title": "micro1: Competitive Data Scientist (Kaggle)",
+      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "posted": "2026-11-16T20:30:11+00:00",
+      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 21,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
+      "expires": "2027-01-15T20:22:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274",
+      "source": "Himalayas",
+      "title": "micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)",
+      "url": "https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274",
+      "posted": "2026-11-16T20:22:24+00:00",
+      "body": "Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nmicro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI systems.\nWe are looking for people who have worked directly with physiological signals and can turn noisy, real-world data into a rigorous and reproducible analysis. Strong candidates will be able to explain the methods they developed, the experiments they ran, the technical decisions they personally owned, and how they validated their results. No prior experience working on AI training projects is required.Scope of Work\nCreate technically rigorous, self-contained problems involving biomedical signals, time-series data, signal processing, and machine learning.\nDevelop clear reference solutions using Python, MATLAB, or another appropriate scientific computing environment.\nWork with tasks involving signal preprocessing, filtering, segmentation, feature extraction, representation learning, classification, or forecasting.\nPreferred Qualifications\nParticipation in a PhysioNet/Computing in Cardiology Challenge or a comparable biomedical signal processing or scientific machine learning competition.\nStrong competition results and evidence of a substantive personal technical contribution.\nPublic evidence of your work through an official team result, conference paper, technical report, open-source repository, or meaningful code contribution.\nHands-on experience with physiological signals such as ECG, EEG, PPG, EMG, respiratory signals, polysomnography, or other clinical time-series data.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 21,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274?utm_source=api",
+      "expires": "2027-01-15T20:22:24+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist",
       "source": "Himalayas",
       "title": "Job Mobz: AI Ops and Automation Specialist",
@@ -37,6 +341,38 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
+      "source": "Himalayas",
+      "title": "ISI Enterprises: Analytics Engineer (AI & Automation) - Contract",
+      "url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
+      "posted": "2026-11-17T13:40:24+00:00",
+      "body": "Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA)\nType: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the business owners who rely on them.\nBecause we serve Defense Industrial Base customers, you will treat security and data governance as first-class requirements, not afterthoughts.Key ResponsibilitiesData Modeling and Transformation\nModel source data from ticketing, compliance, security, and finance systems into conformed, documented Snowflake tables (raw, curated, and consumption layers). Build transformations with automated testing, validation, and documentation so models are consistent and reusable across business units.\nSemantic Layer and Metrics\nBuild the first version of the semantic layer, with shared metric definitions, tests, and lineage, so that reports agree with each other and with source systems. Agree metric definitions in writing with finance and operations stakeholders and reconcile them to source data.\nDashboards and Reporting\nBuild dashboards as code in our internal analytics portal, where each dashboard is version controlled and every query is traceable. Replace recurring manual reports with automated ones, including contract terms, renewals, and billing reporting, and the data views that support security review and audit preparation.\nSecurity-First Analytics Engineering\nApply secure data practices to every model and dashboard, including role-based access control, masking policies, least-privilege access, data classification, and audit logging. Enforce data segregation and handling requirements for sensitive and controlled information (e.g., CUI). Support CMMC, NIST SP 800-171, and related compliance obligations through documented, auditable data flows.\nData Quality, Reliability, and Operations\nImplement data quality checks, freshness monitoring, and alerting on the models you own. Optimize queries and models for performance and cost efficiency.\nCollaboration and Process\nRun short discovery sessions with business owners to understand the decisions they need to make, and demonstrate progress weekly. Contribute through pull requests, code reviews, and agile ceremonies. Write clear technical documentation, including data dictionaries and metric definitions, so the permanent team can own your work after the engagement. Leverage AI tooling to accelerate development and delivery.Qualifications\nAs part of your work at ISI, you will potentially have access to sensitive information from the federal government. Pursuant to applicable regulations, ISI requires that all candidates for this role present proof of U.S. citizenship before hire.\n4+ years of experience in analytics engineering, BI engineering, or data engineering with a modeling focus\nExpert proficiency in SQL and working proficiency in Python\nHands-on experience with Snowflake, including dimensional data modeling and performance and cost optimization\nExperience with transformation tooling (e.g., dbt), including tests and documentation\nExperience building dashboards and reports under version control and code review\nExperience defining metrics with finance and operations stakeholders and reconciling them to source systems\nExperience using AI tooling such as Claude, Codex, or an equivalent service to develop enterprise software\nFamiliarity with version control (Git) and CI/CD practices\nExcellent problem-solving and analytical skills with keen attention to detail\nAbility to work independently and collaboratively in a fast-paced Agile environment\nStrong communication and interpersonal skills, with the ability to interact effectively with team members at all levels\nPreferred Qualifications\nBachelor's degree in computer science, data engineering, analytics, or a related technical field, or equivalent work or military experience\nExperience with Snowflake RBAC, masking policies, and data governance\nExperience working with data from security, IT service management, or MSP tooling (e.g., SIEM, ticketing, PSA/RMM platforms)\nExperience with SaaS finance metrics such as ARR and retention\nExperience with AWS data services (e.g., S3, DMS) and AWS GovCloud\nHands-on experience with Terraform for infrastructure as code\nFamiliarity with data lineage and cataloging practices\nFamiliarity with security frameworks and compliance requirements such as CMMC, NIST SP 800-171, DFARS, or FedRAMP\nWhat We Offer\nSix-month, full-time contract engagement\nCompetitive contract rate, commensurate with experience\nRemote work\nA casual, friendly, and relaxed work environment\nProfessional growth encouragement and support\nIndustrial Security Integrators, LLC (\"IsI\") is an equal opportunity employer committed to affirmative action and diversity in the workplace. It is the policy of IsI to provide Equal Employment Opportunities (EEO) to Employees and Applicants, without regard to race, color, religion, sex, age, marital status, citizenship status, national origin, sexual orientation, gender identity, veteran status or disability or any other factor protected by law and to provide advancement opportunities for minorities, women, disabled individuals, and veterans. IsI is stronger and more effective when our workforce includes highly qualified individuals with diverse backgrounds, cultures, and traditions.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 7,
+      "matched": [
+        "automation",
+        "claude",
+        "python",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 20,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract?utm_source=api",
+      "expires": "2027-01-16T13:40:23+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
       "source": "Himalayas",
       "title": "Xperteez Technology: AI Trainer (SWE) | Remote - Contract",
@@ -66,6 +402,73 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
       "expires": "2027-01-14T15:34:27+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
+      "source": "Himalayas",
+      "title": "micro1: Computational Bioscience Expert (Python)",
+      "url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
+      "posted": "2026-11-17T15:45:19+00:00",
+      "body": "Role Title: Computational Bioscience Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "project budget below preferred floor",
+        "low budget: lock scope in writing, 50% upfront",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python?utm_source=api",
+      "expires": "2027-01-06T00:20:29+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist",
+      "source": "Himalayas",
+      "title": "Flowpouch: SEO & GEO Specialist",
+      "url": "https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist",
+      "posted": "2026-11-17T09:10:43+00:00",
+      "body": "Who we are\nFlow Pouch makes functional mushroom pouches. People use them as a clean alternative to nicotine pouches and energy products: no nicotine, no caffeine, no crash. We launched in 2024, we have grown quickly, mostly through subscriptions, and we manufacture in the US. We are a remote team of about 30 people globally.Why we are hiring\nWe have had an agency on SEO. We are replacing it with one person who can show results and who understands that search now includes ChatGPT, Perplexity and Google AI Overviews as much as the ten blue links. We want someone who owns organic search for end to end and reports on it in numbers.\nYou would report to our co-founder who runs operations and owns the website, and work with our web developer and designer to ship.What you will own\nTechnical and on-page SEO for (Shopify).\nContent and category strategy. What we should rank for, what we should publish, and in what order.\nLink acquisition that does not embarrass us.\nGenerative engine optimisation. Getting Flow cited and recommended inside AI answers for our category, and measuring it.\nThe numbers. Monthly reporting on traffic, rankings, AI visibility and the revenue organic search brings.\nWhat this role is not\nThis is not a content writing role (you brief and edit, you do not write everything yourself) and not a paid search role. It is not an agency retainer with five clients either: one site, owned properly.\nWho we are looking for\nYou have named ecommerce results you owned, with before and after: traffic, rankings or revenue from organic search.\nYou are hands-on with Google Search Console, GA4, a crawler and at least one rank or AI-visibility tracker.\nYou have a clear, current view on how AI search changes the work, and you have already acted on it somewhere.\nExperience in supplements, wellness or regulated consumer categories is a plus.\nIn-house or agency background both work if you owned the account.\nWhat is hard about this\nWe would rather you hear it now than in month three:\nThe agency leaves this month. You inherit what exists and have to make it yours quickly.\nOur category has claim restrictions. Some obvious content plays are off the table and you need to work around them.\nYou will be measured on results, monthly, against targets you set.\nPriorities change quickly. We decide fast and expect the same from you.\nThe engagement\nType\nFull-time or significant part-time, independent contractor.Compensation\nCompetitive, set with the person. Tell us your rate when you apply.LocationRemote. Europe, US or Latin America.Reports toOur co-founder who runs operations.Team\nOur web developer and our web and brand designer execute your priorities.Start\nAs soon as possible, ideally December 2026.How to apply\nSend us your CV or LinkedIn profile, plus short answers to three questions:\nOne case study, with numbers: the site, what you found, what you did, and what changed.\nLook at . What is the first thing you would fix, and what is the first thing you would build for AI search?\nYour location, time zone, availability (hours per week) and earliest start date.\nFlow Pouch · · Applications and questions: \nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "chatgpt",
+        "crawler",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands"
+      ],
+      "aliases": [],
+      "location": "Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist?utm_source=api",
+      "expires": "2027-01-16T09:10:42+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -405,6 +808,38 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect",
+      "source": "Himalayas",
+      "title": "MetroSys: AI Infrastructure Solutions Architect",
+      "url": "https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect",
+      "posted": "2026-11-17T11:18:01+00:00",
+      "body": "Position Overview\nMetroSys is seeking a highly experienced Senior AI Infrastructure Solutions Architect to support the design, planning, and implementation of advanced artificial intelligence computing environments for enterprise organizations.\nThis position requires a technical leader with extensive experience in GPU-accelerated infrastructure, high-performance computing (HPC), enterprise networking, storage architecture, and AI platform integration.\nThe ideal candidate will combine deep infrastructure engineering expertise with the ability to advise customers on complex technology investments, develop scalable solutions, and translate business requirements into practical architecture designs.\nThis individual will collaborate with engineering teams, technical stakeholders, and business leadership to develop infrastructure solutions capable of supporting demanding AI workloads, including large language models (LLMs), machine learning, model training, and enterprise inference applications.\nThe role requires both hands-on technical knowledge and the ability to lead architectural discussions with senior IT executives.Key ResponsibilitiesEnterprise AI Infrastructure Architecture\nDesign enterprise-scale infrastructure environments supporting AI, machine learning, and high-performance computing workloads.\nDevelop architecture solutions integrating GPU compute platforms, high-throughput networking, enterprise storage, and workload orchestration technologies.\nEvaluate infrastructure requirements based on application performance, scalability, resource utilization, and operational costs.\nProduce technical architecture documentation, infrastructure diagrams, hardware specifications, and implementation plans.\nLead infrastructure discovery sessions and technical workshops to identify customer requirements and recommend appropriate solutions.\nDesign solutions supporting on-premises, private cloud, and hybrid AI computing environments.\nAssess existing data center infrastructure and recommend upgrades necessary to support GPU-intensive computing.\nGPU Computing and Accelerated Infrastructure\nArchitect solutions utilizing NVIDIA accelerated computing technologies and alternative GPU platforms.\nProvide technical guidance on NVIDIA DGX, HGX, MGX, and enterprise GPU computing environments.\nEvaluate NVIDIA Hopper and Blackwell architectures for AI training and inference requirements.\nDesign scalable GPU clusters supporting distributed computing and resource-intensive AI applications.\nSupport GPU platform sizing, performance analysis, capacity planning, and infrastructure optimization.\nEvaluate AMD Instinct and Intel accelerator technologies when appropriate for customer workloads.\nAssess infrastructure dependencies including rack density, power distribution, cooling, and physical data center capacity.\nHigh-Performance Networking and Storage\nDevelop high-bandwidth network architectures designed for distributed GPU processing and AI applications.\nDesign and evaluate InfiniBand, RoCE, and high-speed Ethernet connectivity solutions.\nIntegrate high-performance storage platforms supporting large-scale data processing and model training.\nEvaluate NVMe-based storage, parallel file systems, and distributed storage technologies.\nIdentify network and storage bottlenecks that could affect AI workload performance.\nCollaborate with network, storage, and data center engineering teams to ensure infrastructure interoperability.\nAI Platforms, Automation, and Workload Management\nDesign infrastructure platforms supporting containerized AI applications and distributed computing workloads.\nImplement architectural solutions involving Kubernetes, Red Hat OpenShift AI, and Linux-based computing environments.\nEvaluate workload management platforms including NVIDIA Run:ai, Slurm, and other GPU scheduling technologies.\nProvide architectural guidance for NVIDIA AI Enterprise, NVIDIA NIM, NVIDIA Mission Control, and related AI infrastructure software.\nSupport integration of MLOps platforms used for model development, training, deployment, monitoring, and lifecycle management.\nDevelop infrastructure automation strategies to improve deployment consistency, operational efficiency, and resource utilization.\nAssist with capacity planning and performance optimization for AI training and inference workloads.\nInfrastructure Security and Governance\nIncorporate enterprise security requirements into AI infrastructure architecture.\nDesign secure environments supporting sensitive datasets, proprietary AI models, and regulated workloads.\nImplement architectural controls supporting workload isolation, identity management, access control, and infrastructure monitoring.\nEvaluate security considerations associated with shared GPU resources and multi-tenant computing environments.\nCollaborate with cybersecurity teams to align infrastructure solutions with applicable organizational and regulatory requirements.\nProvide guidance on infrastructure logging, observability, auditability, and operational resilience.\nTechnical Consulting and Solution Development\nServe as a senior technical advisor during customer discovery, solution planning, and architecture engagements.\nTranslate complex business and technical requirements into actionable infrastructure recommendations.\nWork with technical sales and delivery teams to develop solution designs, equipment requirements, implementation strategies, and project estimates.\nPresent proposed architectures to technical teams, IT leadership, and executive stakeholders.\nEvaluate competing technology solutions and provide objective recommendations based on performance, cost, and business requirements.\nDevelop reusable technical documentation, architecture standards, and solution frameworks.\nProvide technical leadership and mentoring to infrastructure engineers and architects.\nMaintain awareness of emerging AI infrastructure technologies and evolving industry architecture practices.\nRequired Qualifications\n10+ years of experience in enterprise infrastructure architecture, solutions engineering, technical consulting, or related disciplines.\nSignificant experience designing complex data center or high-performance computing environments.\nStrong knowledge of NVIDIA GPU computing technologies and enterprise AI infrastructure.\nExperience with accelerated computing platforms, GPU cluster architecture, and infrastructure sizing.\nAdvanced understanding of enterprise networking, including high-speed Ethernet, InfiniBand, or RoCE.\nExperience designing enterprise storage architectures for high-throughput and performance-sensitive workloads.\nStrong knowledge of Linux operating systems, virtualization, containerization, and Kubernetes.\nFamiliarity with AI infrastructure software, GPU orchestration, and workload scheduling technologies.\nExperience producing high-level designs, detailed technical specifications, and infrastructure implementation documentation.\nDemonstrated ability to lead customer-facing technical discussions and communicate complex solutions to senior stakeholders.\nStrong understanding of infrastructure scalability, availability, performance, and security principles.\nAbility to collaborate across compute, storage, networking, security, and application engineering teams.\nPreferred Qualifications\nExperience with NVIDIA DGX, HGX, MGX, or comparable accelerated computing platforms.\nFamiliarity with NVIDIA AI Enterprise, NIM, Run:ai, Mission Control, and related technologies.\nExperience with AMD Instinct GPU platforms or other accelerator architectures.\nKnowledge of distributed AI training, inference optimization, and large language model infrastructure requirements.\nExperience with Red Hat OpenShift AI or other enterprise Kubernetes environments.\nFamiliarity with Slurm and GPU resource scheduling platforms.\nExperience supporting enterprise AI infrastructure deployments in regulated environments.\nUnderstanding of NIST, FedRAMP, CMMC, or comparable security frameworks.\nExperience with GPU-dense data center infrastructure, including power and cooling considerations.\nPython scripting or infrastructure automation experience.\nRelevant NVIDIA, cloud architecture, Linux, Kubernetes, or enterprise infrastructure certifications.\nExperience supporting technical pre-sales engagements, solution development, or enterprise consulting initiatives.\nOriginally posted on Himalayas",
+      "budget": "USD 100 to 125/hourly",
+      "score": 4,
+      "matched": [
+        "automation",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 8,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect?utm_source=api",
+      "expires": "2027-01-16T11:18:00+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
       "source": "Himalayas",
       "title": "Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)",
@@ -471,6 +906,38 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance?utm_source=api",
       "expires": "2027-01-14T11:37:45+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan",
+      "source": "Himalayas",
+      "title": "RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)",
+      "url": "https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan",
+      "posted": "2026-11-17T13:01:54+00:00",
+      "body": "We are looking for AIVoice Recording Contributors to join a Mandarin Chinesevoice evaluation project and help support the development of the next generation of AI technologies. \nJob Type: Freelance\nLocation: Work from home\nWork Schedule:Flexible, task-based work (approximately 4–6 hours per day)\nProject Duration: Approximately 1 month\nStart Date: Immediately\nRate: 18 USD/hourHelp Shape the Future of AI\nThis short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native language and dialect.\nYou will complete recording tasks using our internal platform by reading provided text prompts aloud. The goal is to capture natural speech from native speakers of specific language variants to help improve AI systems' ability to understand diverse languages, dialects, and accents.\nHow Your Recordings Will Be Used\nYour recordings will be used to evaluate how agents respond to spoken instructions and to compare that evaluation with an evaluation of text-based instructions. The collected audio may be reviewed for quality and incorporated into datasets used for research, development, testing, and improvement of AI systems.\nWhat You’ll Do\nRead provided text cards aloud and record them exactly as written (there approximately 640 cards per person).\nProduce clear, natural, and high-quality speech recordings following the guidelines and instructions provided.\nSpeak using your natural dialect and accent.\nEnsure no words are added, omitted, or altered.\nRe-record submissions if requested to meet quality standards.\nComplete tasks using our internal recording platform.\n What We’re Looking For\nNative-level fluency in Mandarin Chinese.\nAuthentic pronunciation and strong familiarity with the target dialect or accent through everyday use.\nAdvanced level of English to understand written instructions. \nAbility to complete a trial voice recording to verify language variant and accent.\nContributors must not imitate dialects or accents that are not their own.\nExperience with speech recording projects is an advantage, but not required.\nStrong communication skills and attention to detail.\nAbility to follow detailed instructions and maintain recording accuracy.\nTechnical Requirements\nQuiet room or recording space with minimal background noise.\nComputer microphone or headset with microphone.\nReliable internet connection.\nAbility to access and use an online recording platform.\nWhat We Offer\nFlexible, remote work.\nTimely and reliable payments.\nOpportunity to contribute to cutting-edge AI technology.\nAccess to future language and AI-related projects.\nA flexible engagement ideal for gaining experience with AI data collection projects.\nVendor Type\nWhen applying, please select the option that best describes your working status.Are you a Freelancer or Private Individual?\nA Freelancer is someone who has a business license and may have a VAT number or EIN for tax purposes. A VAT (Value Added Tax) number is a unique identifier assigned to a registered business in many countries; an EIN (Employer Identification Number) is a similar identifier used in the US. A Private Individual does not have a business license. If you aren’t sure, you are probably a private individual.\nRWS embraces DEI and promotes equal opportunity, we are an Equal Opportunity Employer and prohibit discrimination and harassment of any kind. RWS is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at RWS are based on business needs, job requirements and individual qualifications, without regard to race, religion, nationality, ethnicity, sex, age, disability, or sexual orientation. RWS will not tolerate discrimination based on any of these characteristics. \nOriginally posted on Himalayas",
+      "budget": "USD 18 to 18/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 6,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan?utm_source=api",
+      "expires": "2027-01-16T13:01:53+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -635,38 +1102,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr?utm_source=api",
       "expires": "2026-12-13T05:51:43+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/fhi-360/jobs/data-engineer",
-      "source": "Himalayas",
-      "title": "FHI 360: Data Engineer",
-      "url": "https://himalayas.app/companies/fhi-360/jobs/data-engineer",
-      "posted": "2026-11-14T17:16:07+00:00",
-      "body": "Position HighlightsPosition Title: Data EngineerFLSA Classification: Exempt\nLocation: Remote; must be based in the United States. Up to 10% domestic travel may be required.\nSalary Range: $103,500 - $143,500 annually, plus benefits. Individual salary offers will be based on experience and qualifications unique to each candidate.\nPosition Type: Grant-funded, limited-term opportunityPosition End Date: June 30, 2027Overview\nThe Data Engineer will play a key role in advancing the CDC Foundation's mission by designing, building, and maintaining data infrastructure for a public health organization. This position supports the Workforce Acceleration Initiative (WAI), a federally funded CDC Foundation program dedicated to helping public health agencies accelerate information system improvements through technology and data expertise.\nWorking within the Chickasaw Nation Department of Health (CNDH), Division of Public Health, the Data Engineer will collaborate in planning and developing solutions for interoperable data generation, storage, processing, and analysis across systems supporting tribal public health operations. The role will partner closely with data content experts, analysts, data scientists, data modelers, data warehouse architects, IT professionals, and other organizational staff to design and implement scalable, sustainable solutions that meet agency needs.\nIn addition to technical responsibilities, the Data Engineer will provide training and mentorship to Division of Public Health staff to support capacity building and promote long-term system sustainability.\nThe Data Engineer will be employed by the CDC Foundation and assigned to the CNDH Division of Public Health. This position is eligible for a fully remote work arrangement for candidates based in the United States.Responsibilities\nDesign, develop, and maintain data systems and pipelines that support the efficient and reliable ingestion, processing, transformation, and storage of data.\nCollect data from multiple sources; cleanse, transform, and validate data to ensure accuracy, consistency, and integrity before loading into data storage platforms and data warehouses.\nOptimize data pipelines, infrastructure, and workflows to improve performance, efficiency, reliability, and scalability.\nMonitor data pipelines and platforms for performance issues, errors, and anomalies, implementing corrective actions as needed.\nImplement and maintain appropriate security controls and data governance practices to protect sensitive and confidential information.\nCollaborate with data scientists, analysts, and business partners to understand data requirements and ensure data infrastructure supports organizational goals and objectives.\nPartner with cross-functional teams to gather requirements and design scalable, sustainable data solutions that meet business and public health needs.\nDevelop, implement, and maintain ETL (Extract, Transform, Load) processes to ensure the accuracy, completeness, and consistency of organizational data.\nDesign and manage data storage solutions, including relational databases, NoSQL databases, and enterprise data warehouses.\nStay current on industry trends, best practices, and emerging technologies in data engineering, incorporating innovative solutions into the organization's data ecosystem.\nProvide technical guidance, mentorship, and support to staff and project team members.\nCommunicate effectively with stakeholders at all organizational levels to gather requirements, provide project updates, and present technical solutions and findings.\nTravel domestically up to 10% as needed to support project and partner engagement activities.\nQualifications\nBachelor's degree in Computer Science, Information Technology, Data Science, or a related field required.\nMinimum of five (5) years of relevant professional experience in data engineering, data architecture, or a related field.\nProficiency in programming languages commonly used in data engineering, including Python, R, Java, Scala, and SQL.\nDemonstrated ability to develop scalable data automation solutions within established frameworks rather than relying on one-time scripting approaches.\nExperience with big data technologies and frameworks, such as Hadoop, Spark, Kafka, and Flink.\nStrong knowledge of database systems, including relational databases (e.g., MySQL, PostgreSQL) and NoSQL databases (e.g., MongoDB, Cassandra).\nExperience working with large-scale or national datasets; experience with Epic Electronic Health Record (EHR) systems preferred.\nExperience using data visualization tools, including Power BI.\nKnowledge of software engineering best practices, including source control, automated testing, continuous integration and deployment (CI/CD), code review, and change management.\nStrong understanding of data warehousing concepts, methodologies, and technologies.\nExperience working with cloud computing platforms and cloud-native data solutions.\nExpertise in data modeling, ETL development, data integration, and data lifecycle management.\nFamiliarity with Agile development methodologies, software design patterns, and modern development best practices.\nStrong analytical thinking and problem-solving abilities.\nExcellent verbal and written communication skills, with the ability to clearly communicate technical concepts to non-technical stakeholders.\nAbility to adapt to evolving priorities, deadlines, and project requirements.\nOutstanding interpersonal and teamwork skills, with a demonstrated ability to build productive relationships with colleagues, partners, and stakeholders.\nExperience working with tribal nations and tribal data sovereignty principles preferred.\nExperience collaborating in remote and virtual work environments with geographically dispersed teams.\nProficiency in Microsoft Office Suite, including Word, Excel, PowerPoint, and Outlook.\nOther duties as assigned.\nSpecial Notes\nThis role is involved in a dynamic public health program. As such, roles and responsibilities are subject to change as situations evolve. Roles and responsibilities listed above may be expanded upon or updated to match priorities and needs, once written approval is received by the CDC Foundation to best support the public health programming.\nAll qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, national origin, age, mental or physical disabilities, veteran status, and all other characteristics protected by law. We comply with all applicable laws, including E.O. 11246 and the Vietnam Era Readjustment Assistance Act of 1974, governing employment practices and do not discriminate on the basis of any unlawful criteria in accordance with 41 C.F.R. §§ 60-300.5(a)(12) and 60-741.5(a)(7). As a federal government contractor, we take affirmative action on behalf of protected veterans.\nThe CDC Foundation is a smoke-free environmentRelocation expenses are not includedAbout the CDC Foundation\nThe CDC Foundation is an independent nonprofit authorized by Congress to mobilize philanthropic partners to support the public health system, including the U.S. Centers for Disease Control and Prevention (CDC), in preventing and responding to threats to health. In this role, we are focused on one priority: building catalytic, flexible and impactful partnerships—with corporations, philanthropies, individuals and organizations—to help improve the health and lives of people in all communities, everywhere. Visit www.cdcfoundation.org for more information\nOriginally posted on Himalayas",
-      "budget": "USD 103500 to 143500/annual",
-      "score": 3,
-      "matched": [
-        "automation",
-        "postgresql",
-        "python"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/fhi-360/jobs/data-engineer?utm_source=api",
-      "expires": "2027-01-13T17:16:07+00:00",
       "imported": false,
       "date_basis": "posted"
     },
