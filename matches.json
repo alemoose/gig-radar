@@ -243,39 +243,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: AI Trainer (SWE) | Remote - Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817",
-      "posted": "2026-11-15T15:34:28+00:00",
-      "body": "Job Description\nLocation: Global, fully remote\nJob Type: Contractor\nTime Commitment: 15+ hours per week\nSchedule: Flexible\nWe are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nYou will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills\nSoftware engineering\nAi training\nWhat You’ll Work On\nCreate realistic software engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, tests, and evaluation criteria.\nEvaluate model-generated code and technical deliverables for correctness, robustness, and completeness.\nIdentify issues involving implementation, debugging, dependencies, performance, testing, or reproducibility.\nRequired Qualifications\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nProfessional experience with at least one additional programming language, such as Java, JavaScript, TypeScript, Rust, C++, C#, or Go.\nStrong knowledge of software design, debugging, testing, version control, and dependency management.\nPublic Proof of Skill\nStrong applicants should provide evidence such as:\nSubstantial GitHub or GitLab repositories\nMeaningful open-source contributions\nMaintainer or core-contributor responsibilities\nCodeforces, ICPC, Olympiad, or other programming-competition results\nPublic developer tools, libraries, systems, or technical projects\nTechnical publications, benchmarks, or engineering write-ups\nPreferred Qualifications\nExperience creating AI-training tasks, reference solutions, tests, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nCodeforces rating of approximately 1900 or higher, or strong results in another programming competition.\nExperience with Linux, Docker, CI/CD, command-line tools, or sandboxed environments.\nPrior experience with long-horizon or agentic coding evaluations.\nAvailability to begin immediately.\nApplication Process\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 5,
-      "matched": [
-        "javascript",
-        "typescript",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
-      "expires": "2027-01-14T15:34:27+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer",
       "source": "We Work Remotely",
       "title": "WorkMotion: Senior Software Engineer",
@@ -503,39 +470,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api",
       "expires": "2027-01-15T16:20:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: 🌍 Software Engineer - Backend, Remote- Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141",
-      "posted": "2026-11-15T15:32:58+00:00",
-      "body": "Role Title: Software Engineer - Backend\nRole Type: Contract (~15 hrs a week)\nLocation: RemoteOpportunity Snapshot:\nTime per task: 5 hours for trainers and 1.5 hours for reviewers\nEngagement: Project-based — paid per approved task\nCommitment: ~15 hours per week\nLocation: Fully remote\nYou’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript\nYour tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiersRequired Skills:\nPython3\nJAVA\nRust\nAlgorithms\nBasics C++\nTypescript\nBug fixing\nFeature implementation\nCodebase refactoring\nPerformance optimization\nYou’ll create Reinforcement Learning Environments that test a model’s ability to solve real software engineering problems: tracking down subtle bugs, building non-trivial features, refactoring, and optimizing performance. Each task means defining the problem, building a reproducible environment, and writing a reference solution.Scope of Work:\nCreate realistic, challenging coding tasks for frontier AI models, drawn from repositories you know well.\nDesign problems that require real engineering skill — subtle bugs, non-trivial features, meaningful performance work — not lookup or boilerplate.\nBuild a reproducible environment for each task.\nWrite deterministic verifiers that accept correct solutions across different valid implementations, while rejecting incorrect, incomplete, or hard-coded approaches.\nProvide a reference solution showing how the task can be solved.\nFlag tasks that turn out to be ambiguous or unverifiable rather than submitting them.\nPreferred Qualifications:\nSignificant hands-on expertise in at least one of: Python3, Java, Rust, Go, C++, or TypeScript.\nDeep understanding of algorithms, data structures, and software engineering principles.\nProven ability to debug complex systems, resolve bugs, and deliver effective optimizations.\nExperience with large codebase refactoring and legacy system modernization.\nTrack record of delivering high-impact features from conception through delivery.\nStrong documentation and communication skills to articulate technical concepts clearly.\nInterest in AI and its technical challenges — previous AI experience not required.\nCompensation Structure:\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required may vary depending on your experience and workflow.Start Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts ready to jump in right away. If selected, we expect you to start your first tasks within 24–48 hours of completing onboarding.How the selection process works:\nApply and complete the screening questions\nComplete the AI interview for this role — it’s how your expertise gets in front of the client\nProfile review\nOnboarding — our Talent Ops team will get you set up\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 100/hourly",
-      "score": 4,
-      "matched": [
-        "typescript",
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 17,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141?utm_source=api",
-      "expires": "2027-01-14T15:32:57+00:00",
       "imported": false,
       "date_basis": "posted"
     },

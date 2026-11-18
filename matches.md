@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 13:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 15:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -40,11 +40,6 @@ Updated 2026-11-18 13:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
-- [Xperteez Technology: AI Trainer (SWE) | Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817)  
-  Himalayas | posted Nov 15 15:34 UTC | score 5 | **USD 60 to 120/hourly** | javascript, typescript, python, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills So...
 - [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
   We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
   Fit: 17 | posted within 6 hours; explicit hiring intent
@@ -80,11 +75,6 @@ Updated 2026-11-18 13:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyin...
-- [Xperteez Technology: 🌍 Software Engineer - Backend, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/software-engineer-backend-remote-contract-1449593141)  
-  Himalayas | posted Nov 15 15:32 UTC | score 4 | **USD 50 to 100/hourly** | typescript, workflow, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: Software Engineer - Backend Role Type: Contract (~15 hrs a week) Location: RemoteOpportunity Snapshot: Time per task: 5 hours for trainers and 1.5 hours for reviewers Engagement: Project-based — paid per approved task Commitment: ~15 hours per week Location: Fully remote You’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript Your tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiersRequired Skills: Python3 JAVA Rust Algorithms Basics C++ Typescript Bug fixing Feature implementation Cod...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
