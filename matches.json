@@ -91,7 +91,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"
@@ -125,7 +125,7 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 25,
+      "priority": 19,
       "reasons": [
         "explicit hiring intent",
         "budget stated, verify scope and currency"

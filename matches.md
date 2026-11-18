@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 17:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 18:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -17,12 +17,12 @@ Updated 2026-11-18 17:45 UTC. Projects first, ranked by fit and freshness.
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
 - [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
-  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
+  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
 - [Careerflow.ai: Code Reviewer - Golang](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
-  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
+  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
 - [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
