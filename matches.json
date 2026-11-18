@@ -22,9 +22,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 37,
+      "priority": 31,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent"
       ],
       "flags": [
