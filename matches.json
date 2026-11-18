@@ -2,6 +2,44 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "source": "We Work Remotely",
+      "title": "Elvoro: AI Creative Engineer (Social Media)",
+      "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "posted": "2026-11-18T00:12:31+00:00",
+      "body": "Headquarters: Elvoro\nURL: https://elvoro.com/\nPython AI Creative Engineer (Social Media) – Elvoro Ltd\nEngagement: Project-based contract with planned expansion to Full-time\nLocation: Remote, Worldwide\nCompensation: To be agreed\nAbout & Mission\nElvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptional creative taste to lead this system.\nResponsibilities\nLead the codebase and creative output of Elvoro’s proprietary social media engine\nTurn client briefs into large-scale short-form videos, carousels, static posts and ads\nUse your exceptional creative taste, knowledge on what type of content goes viral and converts well on social media, and large amounts of performance data to continuously, independently refine and improve the codebase to produce better content output.\nSchedule-post our high-quality content across numerous accounts using social media APIs\nCapture performance data via official APIs and use your creative taste and content conversion knowledge to refine content quality and test new creatives\nMaintain and extend the production codebase. Integrate numerous media and publishing APIs, test changes and monitor failures and cost per approved post\nFix weak creative hooks, ai slop and pacing and product inaccuracies. Turn successful results into reusable yet unique systems\nRefine, manage and improve our code pipelines that produce thousands of different social media posts using unique processes\nTech Stack Qualifications\nProfessional software engineering experience building and maintaining large production codebases.\nAdvanced Python\nREST API integrations OAuth 2.0 (eg: Anthropic, Runway, SpaceXSI, Instagram, ...)\nVideo, audio and image processing (FFmpeg, MoviePy, Pillow, ...)\nGoogle Cloud Storage (GCS)\nGit, GitHub, GitHub Actions\nPreferred: SQL, HTML/CSS, JavaScript (React)\nAI-Native Workflow Qualifications\nStrong prompt engineering skills. Proactively using AI for efficiency, speed, and quality. Agents such as: Claude Code, Cursor/xAI, Codex, etc.\nJudgment to manually review AI output and full accountability for all AI-generated code.\nBenefits\nYou get to lead Elvoro’s proprietary AI marketing engine and shape its technical and creative direction alongside the founder. An engineer previously working with Elvoro's founder has now gained a high-level job at Meta. Build a track record leading both engineering and creative production. You’ll lead campaigns for many established consumer brands and learn firsthand which creative decisions build brand awareness with hundreds of millions of views across social media and what turns attention into conversions such as sales and signups. The advantages of an ambitious, early stage startup: Work remotely from anywhere, at any time, on your own terms. Join a straightforward, no-nonsense environment focused on efficiency and results. Impact the world of marketing, get things done with the founder as your only approval point and see your ideas positively impact client campaigns. The codebase you are leading in this job has been built by engineers from TikTok and Stanford.\nTo apply: https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "budget": null,
+      "score": 10,
+      "matched": [
+        "javascript",
+        "anthropic",
+        "workflow",
+        "agents",
+        "claude",
+        "prompt",
+        "python",
+        "react",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 37,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam",
       "source": "We Work Remotely",
       "title": "Careerflow.ai: Code Reviewer - C++/C# (LATAM)",
@@ -17,9 +55,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 31,
+      "priority": 25,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -52,9 +89,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 31,
+      "priority": 25,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -87,9 +123,8 @@
         "ai"
       ],
       "queue": "contract",
-      "priority": 29,
+      "priority": 23,
       "reasons": [
-        "posted within 6 hours",
         "explicit hiring intent",
         "budget stated, verify scope and currency"
       ],
@@ -102,42 +137,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053?utm_source=api",
       "expires": "2027-01-15T20:21:24+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
-      "source": "Himalayas",
-      "title": "micro1: ML Engineer",
-      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
-      "posted": "2026-11-17T15:45:19+00:00",
-      "body": "Senior ML Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BSc, MSc or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nExperience in one or more of the following ML Engineering camps: Inference/Serving, Evaluation, Data & Feature Engineering, Retrieval/Ranking/RAG, MLOps, Model Compression/Optimization and/or GPU/kernel optimization.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 5,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "rag",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
-      "expires": "2027-01-15T20:20:49+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -272,41 +271,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
       "expires": "2027-01-14T15:34:27+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
-      "source": "Himalayas",
-      "title": "micro1: Computational Bioscience Expert (Python)",
-      "url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
-      "posted": "2026-11-17T15:45:19+00:00",
-      "body": "Role Title: Computational Bioscience Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$60",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 17,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "project budget below preferred floor",
-        "low budget: lock scope in writing, 50% upfront",
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python?utm_source=api",
-      "expires": "2027-01-06T00:20:29+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -572,6 +536,41 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "source": "Himalayas",
+      "title": "micro1: ML Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "posted": "2026-11-17T15:45:19+00:00",
+      "body": "Senior ML Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BSc, MSc or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nExperience in one or more of the following ML Engineering camps: Inference/Serving, Evaluation, Data & Feature Engineering, Retrieval/Ranking/RAG, MLOps, Model Compression/Optimization and/or GPU/kernel optimization.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "rag",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
+      "expires": "2027-01-15T20:20:49+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
       "source": "Himalayas",
       "title": "micro1: Competitive Data Scientist (Kaggle)",
@@ -767,6 +766,40 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first?utm_source=api",
       "expires": "2027-01-15T09:01:53+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
+      "source": "Himalayas",
+      "title": "micro1: Computational Bioscience Expert (Python)",
+      "url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
+      "posted": "2026-11-17T15:45:19+00:00",
+      "body": "Role Title: Computational Bioscience Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 11,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "project budget below preferred floor",
+        "low budget: lock scope in writing, 50% upfront",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python?utm_source=api",
+      "expires": "2027-01-06T00:20:29+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -1004,38 +1037,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage?utm_source=api",
       "expires": "2027-01-15T11:38:22+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr",
-      "source": "Himalayas",
-      "title": "RustLabs: Remote AI Education Rater for Students and Recent Grads ($20/hr)",
-      "url": "https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr",
-      "posted": "2026-11-15T01:19:00+00:00",
-      "body": "Do you use Google Gemini to study? We're hiring US students and recent graduates for a remote, 16-week contract helping train AI models to teach and explain things better.\nWhat you'll do\nResearch and fact-check information online\nWork through tricky content and logic problems\nReview AI answers, then find and fix the errors\nWrite clear explanations that help train AI models\nYou need\nTo have used Gemini for at least 18 months, with at least 10 conversations where you used it to learn (studying, understanding concepts, practicing). This is checked, so please don't make a new account for it\nTo be a current student or a recent graduate\nNative or fully fluent US English\nTo live in the US, but not in Texas, Illinois, California, Connecticut, Massachusetts, New Jersey or Vermont\n20 to 40 hours a week, with 4 hours overlapping US Pacific time\nPay and length\n$20 per hour\nFully remote contract, 16 weeks with a possible extension, starts right away\nHow to apply\nClick Apply and fill in our 1-minute form. Shortlisted people send a dated screenshot of their Gemini history and links to 10+ study conversations, then move to onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 20 to 20/hourly",
-      "score": 3,
-      "matched": [
-        "gemini",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 0,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr?utm_source=api",
-      "expires": "2026-12-13T05:51:43+00:00",
       "imported": false,
       "date_basis": "posted"
     },

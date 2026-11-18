@@ -1,30 +1,30 @@
 # Gig radar
 
-Updated 2026-11-17 20:52 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 02:14 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Elvoro: AI Creative Engineer (Social Media)](https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media)  
+  We Work Remotely | posted Nov 18 00:12 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
+  Fit: 37 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown
+  > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
 - [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
-  Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
 - [Careerflow.ai: Code Reviewer - Golang](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
-  Fit: 31 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
 - [micro1: Aerodynamics Expert](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053)  
   Himalayas | posted Nov 17 15:45 UTC | score 4 | **USD 80 to 120/hourly** | automate, workflow, python, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
-- [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
-  Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
-  Fit: 21 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
 - [Job Mobz: AI Ops and Automation Specialist](https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist)  
   Himalayas | posted Nov 15 10:43 UTC | score 8 | automation, automate, agents, zapier, n8n, ai
   Fit: 21 | explicit hiring intent
@@ -45,11 +45,6 @@ Updated 2026-11-17 20:52 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills So...
-- [micro1: Computational Bioscience Expert (Python)](https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python)  
-  Himalayas | posted Nov 17 15:45 UTC | score 4 | **$60** | workflow, python, ai
-  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
-  > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
 - [Flowpouch: SEO & GEO Specialist](https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist)  
   Himalayas | posted Nov 17 09:10 UTC | score 3 | chatgpt, crawler, ai
   Fit: 17 | explicit hiring intent
@@ -90,6 +85,11 @@ Updated 2026-11-17 20:52 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: Software Engineer - Backend Role Type: Contract (~15 hrs a week) Location: RemoteOpportunity Snapshot: Time per task: 5 hours for trainers and 1.5 hours for reviewers Engagement: Project-based — paid per approved task Commitment: ~15 hours per week Location: Fully remote You’ll need: Hands-on expertise in at least one of Python, Java, Rust, Go, C++, or TypeScript Your tasks: Build challenging coding problems from real repositories, with reproducible environments and verifiersRequired Skills: Python3 JAVA Rust Algorithms Basics C++ Typescript Bug fixing Feature implementation Cod...
+- [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
+  Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 16 20:30 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -120,6 +120,11 @@ Updated 2026-11-17 20:52 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | lead intake; explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > About the Company Forager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role This is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does...
+- [micro1: Computational Bioscience Expert (Python)](https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python)  
+  Himalayas | posted Nov 17 15:45 UTC | score 4 | **$60** | workflow, python, ai
+  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
+  Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
+  > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
 - [TachyonShift: Senior Forward Deployed AI Engineer](https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer)  
   Himalayas | posted Nov 16 08:41 UTC | score 8 | automation, typescript, workflow, agents, python, llm
   Fit: 11 | explicit hiring intent
@@ -155,11 +160,6 @@ Updated 2026-11-17 20:52 UTC. Projects first, ranked by fit and freshness.
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Dr. Elena Loutskina is looking for a data scientist/data analyst with a genuine interest in the healthcare research and analytics. The main role is to conduct exploratory data analysis using Virginia’s All-Payer Claims Database (APCD). The APCD brings together medical claims, pharmacy claims, and enrollment data from Medicare, Medicaid, and many commercial health plans in Virginia. This dataset provides a valuable resource for studying healthcare use, spending, and coverage across the state. Primary Responsibilities:Responsibilities may include: Cleaning and organizing data. Conducting expl...
-- [RustLabs: Remote AI Education Rater for Students and Recent Grads ($20/hr)](https://himalayas.app/companies/rustlabs/jobs/remote-ai-education-rater-for-students-and-recent-grads-20-hr)  
-  Himalayas | posted Nov 15 01:19 UTC | score 3 | **USD 20 to 20/hourly** | gemini, ai
-  Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > Do you use Google Gemini to study? We're hiring US students and recent graduates for a remote, 16-week contract helping train AI models to teach and explain things better. What you'll do Research and fact-check information online Work through tricky content and logic problems Review AI answers, then find and fix the errors Write clear explanations that help train AI models You need To have used Gemini for at least 18 months, with at least 10 conversations where you used it to learn (studying, understanding concepts, practicing). This is checked, so please don't make a new account for it To...
 - [Sutherland: Senior Team Manager | Ed Tech | Temporary | 6 Months](https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months)  
   Himalayas | posted Nov 15 13:25 UTC | score 3 | automation, agents, ai
   Fit: -4 | 
