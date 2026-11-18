@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 13:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 13:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -160,8 +160,3 @@ Updated 2026-11-18 13:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Dr. Elena Loutskina is looking for a data scientist/data analyst with a genuine interest in the healthcare research and analytics. The main role is to conduct exploratory data analysis using Virginia’s All-Payer Claims Database (APCD). The APCD brings together medical claims, pharmacy claims, and enrollment data from Medicare, Medicaid, and many commercial health plans in Virginia. This dataset provides a valuable resource for studying healthcare use, spending, and coverage across the state. Primary Responsibilities:Responsibilities may include: Cleaning and organizing data. Conducting expl...
-- [Sutherland: Senior Team Manager | Ed Tech | Temporary | 6 Months](https://himalayas.app/companies/sutherland/jobs/senior-team-manager-ed-tech-temporary-6-months)  
-  Himalayas | posted Nov 15 13:25 UTC | score 3 | automation, agents, ai
-  Fit: -4 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Sutherland is seeking a fully remoteSenior Temporary Team Manager (6 Months) who will oversee one of our Educational Technology programs! As a Senior Team Manager, you will manage a team of 4 Team Managers who oversee an elite brand ambassadors managing complex interactions, including high-net-worth stakeholders, school leadership, and families, our leadership team needs to model and coach to a very high standard. When supporting and developing Team Managers, we expect the Senior Team Manager to heavily emphasize and coach to the following competencies: Sophisticated Relationship Management...
