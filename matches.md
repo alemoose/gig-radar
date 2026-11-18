@@ -1,10 +1,15 @@
 # Gig radar
 
-Updated 2026-11-18 11:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 11:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
+  We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
+  Fit: 39 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown
+  > Headquarters: India URL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners AI Engineer | India Department: Engineering Reports To: Product & Engineering Leadership Location: India - Fully Remote Employment Type: Full-Time Experience Level: Mid-Level Compensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise Position Overview The AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) s...
 - [Elvoro: AI Creative Engineer (Social Media)](https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media)  
   We Work Remotely | posted Nov 18 00:12 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
   Fit: 31 | explicit hiring intent
@@ -25,6 +30,11 @@ Updated 2026-11-18 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
+- [Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)](https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united)  
+  We Work Remotely | posted Nov 18 11:31 UTC | score 3 | **$130/hour** | llm, ai
+  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
 - [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
   Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
   Fit: 20 | 
@@ -40,6 +50,11 @@ Updated 2026-11-18 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Software Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your software engineering expertise to create challenging technical tasks, evaluate model-generated code, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills So...
+- [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
+  We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
+  Fit: 17 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: North Macedonia URL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion Senior Software Engineer Location: Remote (Within +/- 2 hours of CET) Contract Type: Full-time Starting Salary: €55,000 Euros per annum gross, subject to skills, experience and location Not Your Typical Workplace… Tired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion. Our remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through...
 - [micro1: STEM Expert](https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069)  
   Himalayas | posted Nov 16 20:22 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -125,11 +140,6 @@ Updated 2026-11-18 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solu...
-- [Vi: Senior UX/UI Designer for Product (Freelance)](https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance)  
-  Himalayas | posted Nov 15 11:37 UTC | score 4 | **$125** | agents, claude, saas, ai
-  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; check eligibility: United States; seniority requirement needs review
-  > Description Senior UX/UI Designer for Product (Freelance) Vi is the market-leading Enterprise-AI platform for health, serving the world’s largest health organizations - from Fortune 500 health providers to pharma and consumer brands -helping them maximize patient activation, engagement, operational excellence and health outcomes. Vi offers four main product lines: Activate, Engage, Operate and Pulse. Backed by $125M+ in R&D, our powerful platform serves over 190 million members daily - and growing. We are based in New York, Austin, Nashville, and Tel Aviv Role Summary Vi is looking for a se...
 - [RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)](https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan)  
   Himalayas | posted Nov 17 13:01 UTC | score 3 | **USD 18 to 18/hourly** | agents, ai
   Fit: 6 | explicit hiring intent; budget stated, verify scope and currency

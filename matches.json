@@ -2,6 +2,44 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+      "source": "We Work Remotely",
+      "title": "Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)",
+      "url": "https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+      "posted": "2026-11-18T11:31:31+00:00",
+      "body": "Headquarters: India\nURL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners\nAI Engineer | India \nDepartment: Engineering \nReports To: Product & Engineering Leadership \nLocation: India - Fully Remote \nEmployment Type: Full-Time \nExperience Level: Mid-Level \nCompensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise \nPosition Overview \nThe AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) systems, agentic AI workflows, and intelligent automation technologies.\nThis role requires a strong combination of AI research, hands-on model training and optimization, and software engineering expertise, with the ability to translate innovative AI concepts into scalable, reliable, and practical business applications.\nWorking closely with software engineers, product teams, and leadership, the AI Engineer will lead the development and integration of high-performance AI solutions that solve complex business challenges, enhance operational efficiency, and deliver measurable value to our global clients.\nKey Responsibilities \nAI System Development \nDesign, develop, and deploy AI systems, including LLMs, RAG, agentic workflows, and ML/DL solutions. \nSelect appropriate models and architectures while balancing accuracy, latency, cost, and complexity. \nTrain and fine-tune models using PyTorch or Keras, including data preparation and evaluation. \nImplement and benchmark research methods before adoption. \nBuild APIs, inference pipelines, and backend integrations. \nProduction & Optimization \nOwn evaluation of metrics and track quality, latency, and cost. \nMonitor, debug, and optimize AI systems post-launch. \nEnsure production readiness and identify regressions before they impact users. \nCollaboration\nPartner with software engineers and product teams to integrate AI into applications. \nContribute to technical discussions and technical decision-making. \nDocument architecture, implementation approaches, and key technical decisions. \nResearch & Experimentation \nRead and evaluate ML research papers.  \nImplement promising methods and reproducing results where applicable.  \nAdapt emerging techniques into production-ready systems.  \nContribute to continued innovation across AI and engineering initiatives.  \nWorking Relationships \nThe AI Engineer will collaborate with: \nEngineering leadership and product teams. \nSoftware engineers and backend developers. \nGlobal AI research and development teams. \nSuccess in This Role \nSuccess means you can build with AI and deliver reliable production solutions, not simply experiment with AI models. \nYou should be able to: \nDeliver production-ready AI systems with measurable impact. \nTranslate research into practical engineering solutions. \nCollaborate effectively across distributed teams. \nDocument and share technical knowledge for scalability. \nAdapt to evolving technical and business priorities. \nWork Environment \nThis is a fully remote position based in India. Candidates should be comfortable working independently and collaborating with globally distributed teams across different time zones. \nRequired Work Schedule \nThis AI Engineer role requires working Monday through Friday, 7:30 PM–4:30 AM or 8:30 PM–5:30 AM IST in India, depending on U.S. daylight saving time?\nThe ability to consistently work the assigned schedule is a required and non-negotiable condition of this role. Candidates must be comfortable working overnight hours and maintaining reliable availability throughout the assigned shift.\nDue to project deadlines, production needs, client requirements, or other business priorities, occasional weekend availability or schedule adjustments may be required. Weekend work is not intended to be the standard schedule but flexibility to support business needs when necessary is expected\nOur Hiring Process \nWe value your time and aim to keep our recruitment process transparent, efficient, and engaging. \n1. Initial Recruiter Screening \nAn introductory video call with a member of our Recruiting team to discuss your background, experience, career goals, salary expectations, and any initial questions you may have about the role or Volga Partners. \n2. Practical Skills Assessment \nCandidates who successfully complete the initial screening will receive a practical assessment to complete asynchronously. \nThe assessment is designed to evaluate technical knowledge, problem-solving ability, and how you approach a real-world engineering scenario. \n3. Assessment Review \nOur team will review your submission against the technical requirements of the role. \nCandidates who meet the required criteria will advance to the final interview stage.\n4. Technical / Coding Interview\n Candidates who pass the assessment will meet with our Engineering team to further evaluate their technical skills, experience, and AI Engineering knowledge\n5. Final Interview – CTO \nA deep-dive conversation with our Chief Technology Officer focused on technical alignment, your assessment approach, architectural thinking, problem-solving, and overall alignment with the role and team. \nRequired Qualifications \n3+ years of hands-on AI/ML engineering experience, with at least one system deployed to production. \nStrong NLP fundamentals, including tokenization, embeddings, classification, NER, and information extraction. \nStrong engineering skills across coding, Git, testing, API/system design, and debugging. \nHands-on model training experience using PyTorch or Keras. \nUnderstanding generative model architectures, including Transformers and VAEs. \nProduction experience with LLMs, including RAG, embeddings/vector databases, and prompt/evaluation design. \nExperience with FastAPI or similar frameworks, Docker, and at least one cloud platform such as AWS, GCP, or Azure. \nAbility to read ML research papers and translate ideas into working code. \nPreferred Qualifications \nExperience with LLM fine-tuning, including LoRA and RL-based methods. \nSQL database knowledge. \nFamiliarity with agent frameworks such as LangGraph or LangChain. \nExperience with Kubernetes, CI/CD, and model-serving infrastructure. \nOpen-source contributions or experience reproducing research results. \nCompensation & Benefits \nAnnual Compensation: ₹15,00,000-₹22,00,000 (15-22 LPA), based on experience and technical expertise.  \nContract and payment administration facilitated through Deel.  \n90-day probationary period.  \nBenefits eligibility upon successful completion of probation, including:  \nPaid Time Off (PTO) in accordance with company policy.  \nHoliday pay for company-observed holidays.  \nCareer growth and professional development opportunities. \nTo apply: https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+      "budget": null,
+      "score": 11,
+      "matched": [
+        "automation",
+        "embeddings",
+        "fine-tune",
+        "langchain",
+        "prompt",
+        "vector",
+        "llm",
+        "rag",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 39,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
       "source": "We Work Remotely",
       "title": "Elvoro: AI Creative Engineer (Social Media)",
@@ -140,6 +178,37 @@
       "date_basis": "posted"
     },
     {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united",
+      "source": "We Work Remotely",
+      "title": "Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)",
+      "url": "https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united",
+      "posted": "2026-11-18T11:31:06+00:00",
+      "body": "Headquarters: \nURL: http://www.prolific.com\nAI Trainer - Physician (Task-Based, Remote, Flexible)\nLocation: Remote, United States\nType of participation: Freelance, task-based\nRate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation.\nAbout Prolific\nProlific is not just another player in the AI space – we are building the biggest pool of quality human data in the world.\nOver 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills.\nThe Opportunity\nHelp shape how AI handles medicine. We’re inviting US-licensed physicians from any specialty to join Prolific’s Expert Network and contribute to paid research and AI evaluation projects, using your clinical judgment to make AI systems safer and more accurate.\nEligible participants will be invited to Prolific, and once your credentials have been verified may be asked to complete a paid assessment to assess your suitability for AI tasks.\nThis is a task based AI Training job that allows workers to choose their schedule and how much they work - there's no fixed schedule and no minimum hours requirement.\nWhat You’ll Bring\nCurrent residence in the United States.\nRegistered status as a physician with a current US medical license. Physicians from any medical specialty are welcome.\nAn interest in improving AI accuracy and safety in medical context\nWillingness to provide your NPI and complete medical-credential verification during onboarding.\nStrong attention to detail\nTasks\nIf invited, you will complete a paid assessment to give you access to specialized tasks\nHelp improve healthcare AI with a focus on trust and safety \nFactuality checking LLM generated materials\nChecking AI writings for accuracy, relevance and bias\nTasks are posted individually - you'll see task details, time estimate and pay before deciding whether to take one on. \nWhy Prolific is a great platform to join as a Participant\nJoining our platform as a Prolific participant will give you the chance to influence the AI models of the future using your professional expertise. Once you pass our assessment, you can join Prolific in just 15 minutes, and start enjoying competitive pay rates, flexible hours, and the ability to work from home.\nWe've built a unique platform that connects researchers and companies with a global pool of participants, enabling the collection of high-quality, ethically sourced human behavioural data and feedback. This data is the cornerstone of developing more accurate, nuanced, and aligned AI systems.\nWe believe that the next leap in AI capabilities won't come solely from scaling existing models, but from integrating diverse human perspectives and behaviours into AI development. By providing this crucial human data infrastructure, Prolific is positioning itself at the forefront of the next wave of AI innovation – one that reflects the breadth and the best of humanity.\nLinks to more information on Prolific\nWebsite\nYoutube\nPrivacy Statement\nBy submitting your application, you agree that Prolific may collect your personal data for recruiting and global organisation planning. Prolific's Candidate Privacy Notice explains what personal information Prolific may process, where Prolific may process your personal information, its purposes for processing your personal information, and the rights you can exercise over Prolific use of your personal personal information.\nTo apply: https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united",
+      "budget": "$130/hour",
+      "score": 3,
+      "matched": [
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 22,
+      "reasons": [
+        "posted within 6 hours",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "dollar currency unverified"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
       "source": "Himalayas",
       "title": "ISI Enterprises: Analytics Engineer (AI & Automation) - Contract",
@@ -235,6 +304,41 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-swe-remote-contract-8043915817?utm_source=api",
       "expires": "2027-01-14T15:34:27+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer",
+      "source": "We Work Remotely",
+      "title": "WorkMotion: Senior Software Engineer",
+      "url": "https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer",
+      "posted": "2026-11-18T11:30:56+00:00",
+      "body": "Headquarters: North Macedonia\nURL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion\nSenior Software Engineer\nLocation: Remote (Within +/- 2 hours of CET)\nContract Type: Full-time\nStarting Salary: €55,000 Euros per annum gross, subject to skills, experience and location\nNot Your Typical Workplace…\nTired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion.\nOur remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through smart, flexible workforce solutions. Fast-paced, people-driven, and globally connected, we empower businesses to build teams without borders.\nMore Than a Role\nWe don't just need another Senior Software Engineer—we're looking for a builder who enjoys solving complex engineering challenges and delivering scalable, high-quality software that creates real business impact.\nYou'll play a key role in shaping and building the technology powering our Talent Operations platform, working on backend services while contributing to frontend development when needed. You'll influence technical decisions, contribute to system architecture, and collaborate closely with Product, Engineering, and cross-functional stakeholders to deliver reliable, scalable solutions that support our global business.\nWe're looking for engineers who embrace modern software development practices and actively leverage AI-powered development tools such as Cursor and Claude Code to improve productivity and code quality.\nWhere Responsibility Meets Real Opportunity…\nDesign, develop, and maintain scalable backend services while contributing to frontend features where required.\nBuild high-quality, well-tested software following modern engineering and DevOps best practices.\nContribute to architecture, system design, and technical decision-making across the platform.\nCollaborate closely with Product Managers, Designers, and Engineers to deliver impactful solutions.\nReview code, mentor teammates, and continuously improve engineering standards.\nTroubleshoot production issues and continuously enhance system performance, reliability, and scalability.\nWhat It Takes to Make an Impact Here…\n5–6+ years of professional software engineering experience with a strong backend focus and frontend exposure.\nStrong hands-on experience with Java, Spring Boot, React, Microservices, REST APIs, PostgreSQL, MongoDB, and AWS.\nExperience designing scalable systems and distributed architectures.\nDaily experience using AI coding tools such as Cursor and Claude Code.\nStrong understanding of Test-Driven Development (TDD), software engineering best practices, and clean code principles.\nExcellent English communication skills, both written and spoken.\nBonus Points If You Bring…\nExperience with Docker and Kubernetes.\nExperience working in Agile environments (Scrum or Kanban).\nExperience building highly scalable SaaS platforms.\nPassion for continuous learning and adopting modern engineering practices.\nNot Your Typical Team…\nYou'll join our Talent Operations Engineering Team, where we're building the technology that powers global hiring and talent lifecycle operations.\nOur fully remote engineering team collaborates across multiple countries, combining deep technical expertise with a strong ownership mindset. We value pragmatic decision-making, continuous improvement, knowledge sharing, and shipping high-quality software that solves real business problems.\nIf you enjoy working with experienced engineers, influencing technical direction, and building products that have global impact, you'll feel right at home.\nThe Perks of Being Here…\nGlobal, remote, and thriving: We're a global team of talented individuals spread across 26 countries. Our WorkFlex program lets you work from anywhere, anytime. Whether it's a beachside office or a cosy home office, the choice is yours.\nYour well-being is our priority: We know mental health matters, which is why we offer a dedicated Well-Being Day—a full day off just to recharge and relax.\nGet fit and stay active: Whether it's yoga, weightlifting, or a quick jog, work out on your terms with our subsidised gym memberships.\nLearn, grow, and develop: We believe in constant growth. Our Training & Development Allowance helps you continue expanding your skills.\nStay connected: Take part in exciting annual team meetups.\nDiversity is our superpower: We're proud to be an equal opportunity employer committed to fostering a diverse and inclusive workplace.\nBenefits vary depending on location due to local laws and regulations.\nAt WorkMotion, we're proud to be an equal opportunity employer. If you need any accommodations during the recruitment process, simply let our Recruitment Team know at Jobs@WorkMotion.com. We're here to support you every step of the way.\nTo apply: https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer",
+      "budget": null,
+      "score": 5,
+      "matched": [
+        "postgresql",
+        "claude",
+        "react",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
       "imported": false,
       "date_basis": "posted"
     },
@@ -804,42 +908,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover?utm_source=api",
       "expires": "2027-01-15T08:59:54+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance",
-      "source": "Himalayas",
-      "title": "Vi: Senior UX/UI Designer for Product (Freelance)",
-      "url": "https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance",
-      "posted": "2026-11-15T11:37:46+00:00",
-      "body": "Description\nSenior UX/UI Designer for Product (Freelance)\nVi is the market-leading Enterprise-AI platform for health, serving the world’s largest health organizations - from Fortune 500 health providers to pharma and consumer brands -helping them maximize patient activation, engagement, operational excellence and health outcomes. Vi offers four main product lines: Activate, Engage, Operate and Pulse. Backed by $125M+ in R&D, our powerful platform serves over 190 million members daily - and growing. We are based in New York, Austin, Nashville, and Tel Aviv\nRole Summary\nVi is looking for a senior freelance UX/UI designer to design the agentic dashboard for Vi Operate. Vi already has an established design style guide and look and feel. You will take those standards, extend them, and turn them into complete, production-ready dashboards and product flows. You will work closely with our VP Creative Director and with Vi's product and delivery teams to make sure every design meets product requirements. The role starts as a project-based engagement, with room to grow across Vi's product suite.\nKey Responsibilities\nDesign the agentic dashboards for Vi Operate, from user flows and wireframes to high-fidelity screens and interactive prototypes\nApply Vi's established design style guide consistently across every screen, state and component\nExtend and improve the design system as new capabilities and patterns are needed\nDesign clear interfaces for agentic AI workflows, showing what agents are doing, what needs human review and the results they deliver\nWork with the Creative Director on visual direction, and with product and delivery teams to turn requirements into designs\nPrepare clean, well-organized files and specs for a smooth handoff to engineering\nUse AI design and prototyping tools to move quickly from concept to tested design\nWhat We’re Looking For \nMust have\n4+ years of UX/UI or product design experience, with a portfolio of B2B or enterprise SaaS products\nExperience designing data-heavy dashboards and complex workflows for business users\nAdvanced Figma skills, including components, auto layout, prototyping and design systems\nHands-on experience using AI design and prototyping tools, such as Claude Design, v0 or Figma Make, to build product screens, with a clear understanding of how to set up AI-assisted workflows that keep designs consistent across a product\nAbility to work within an existing design system while improving it\nStrong collaboration with product managers and engineers, and comfort working from requirements\nNice to have\nExperience designing AI or agent-based products\nExperience in healthcare, life sciences or other regulated industries\nFamiliarity with accessibility standards such as WCAG\nExperience prototyping in code or with AI coding tools\nOriginally posted on Himalayas",
-      "budget": "$125",
-      "score": 4,
-      "matched": [
-        "agents",
-        "claude",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 7,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "low budget: lock scope in writing, 50% upfront",
-        "dollar currency unverified",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/vi/jobs/senior-ux-ui-designer-for-product-freelance?utm_source=api",
-      "expires": "2027-01-14T11:37:45+00:00",
       "imported": false,
       "date_basis": "posted"
     },
