@@ -145,39 +145,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053",
-      "source": "Himalayas",
-      "title": "micro1: Aerodynamics Expert",
-      "url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053",
-      "posted": "2026-11-17T15:45:20+00:00",
-      "body": "Aerodynamics Expert\nPay: $80–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you can choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing an airfoil, preparing a computational domain and mesh, defining appropriate boundary conditions, running a CFD simulation, calculating lift and drag, and determining whether the resulting flow field is numerically and physically valid.What You’ll Work On\nSolve and validate aerodynamic and fluid-dynamics problems.\nTranslate physical requirements into computational models and solver-ready cases.\nCreate or modify geometries, computational domains, and meshes.\nDefine appropriate initial conditions, boundary conditions, fluid properties, and solver settings.\nRun CFD and aerodynamic-analysis workflows using command-line-accessible tools.\nUse Python to automate preprocessing, simulation execution, parameter sweeps, postprocessing, and validation.\nRequired Qualifications\nBSc, MSc or PhD in Aerospace Engineering, or Mechanical Engineering with an aerodynamics, fluid dynamics, or thermofluids specialization; or\nA BS in Aerospace or Mechanical Engineering plus at least 1–2 years of aero-specific professional or research experience.\nStrong understanding of fluid mechanics and applied aerodynamics.\nExperience formulating and executing CFD or aerodynamic analyses.\nPractical proficiency with Python or other coding languages.\nRelevant tools may include Python,OpenFOAM, SU2, Gmsh, FEniCSx, Elmer, CalculiX, SciPy, or similar programmatic engineering software. Experience with an equivalent CLI-accessible tool is acceptable.\nRelevant Python tools may include NumPy, SciPy, pandas, Matplotlib, Jupyter, solver APIs, mesh-processing libraries, or domain-specific scientific packages. No single library is mandatory.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 80 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "automate",
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053?utm_source=api",
-      "expires": "2027-01-15T20:21:24+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united",
       "source": "We Work Remotely",
       "title": "Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)",
@@ -274,6 +241,39 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053",
+      "source": "Himalayas",
+      "title": "micro1: Aerodynamics Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053",
+      "posted": "2026-11-17T15:45:20+00:00",
+      "body": "Aerodynamics Expert\nPay: $80–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you can choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing an airfoil, preparing a computational domain and mesh, defining appropriate boundary conditions, running a CFD simulation, calculating lift and drag, and determining whether the resulting flow field is numerically and physically valid.What You’ll Work On\nSolve and validate aerodynamic and fluid-dynamics problems.\nTranslate physical requirements into computational models and solver-ready cases.\nCreate or modify geometries, computational domains, and meshes.\nDefine appropriate initial conditions, boundary conditions, fluid properties, and solver settings.\nRun CFD and aerodynamic-analysis workflows using command-line-accessible tools.\nUse Python to automate preprocessing, simulation execution, parameter sweeps, postprocessing, and validation.\nRequired Qualifications\nBSc, MSc or PhD in Aerospace Engineering, or Mechanical Engineering with an aerodynamics, fluid dynamics, or thermofluids specialization; or\nA BS in Aerospace or Mechanical Engineering plus at least 1–2 years of aero-specific professional or research experience.\nStrong understanding of fluid mechanics and applied aerodynamics.\nExperience formulating and executing CFD or aerodynamic analyses.\nPractical proficiency with Python or other coding languages.\nRelevant tools may include Python,OpenFOAM, SU2, Gmsh, FEniCSx, Elmer, CalculiX, SciPy, or similar programmatic engineering software. Experience with an equivalent CLI-accessible tool is acceptable.\nRelevant Python tools may include NumPy, SciPy, pandas, Matplotlib, Jupyter, solver APIs, mesh-processing libraries, or domain-specific scientific packages. No single library is mandatory.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 80 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "automate",
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053?utm_source=api",
+      "expires": "2027-01-15T20:21:24+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -470,41 +470,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api",
       "expires": "2027-01-15T16:20:46+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
-      "source": "Himalayas",
-      "title": "micro1: ML Engineer",
-      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
-      "posted": "2026-11-17T15:45:19+00:00",
-      "body": "Senior ML Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BSc, MSc or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nExperience in one or more of the following ML Engineering camps: Inference/Serving, Evaluation, Data & Feature Engineering, Retrieval/Ranking/RAG, MLOps, Model Compression/Optimization and/or GPU/kernel optimization.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 5,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "rag",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
-      "expires": "2027-01-15T20:20:49+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -709,40 +674,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
-      "source": "Himalayas",
-      "title": "micro1: Computational Bioscience Expert (Python)",
-      "url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
-      "posted": "2026-11-17T15:45:19+00:00",
-      "body": "Role Title: Computational Bioscience Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "$60",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 11,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "project budget below preferred floor",
-        "low budget: lock scope in writing, 50% upfront",
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python?utm_source=api",
-      "expires": "2027-01-06T00:20:29+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist",
       "source": "Himalayas",
       "title": "Flowpouch: SEO & GEO Specialist",
@@ -812,6 +743,41 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "source": "Himalayas",
+      "title": "micro1: ML Engineer",
+      "url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
+      "posted": "2026-11-17T15:45:19+00:00",
+      "body": "Senior ML Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BSc, MSc or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nExperience in one or more of the following ML Engineering camps: Inference/Serving, Evaluation, Data & Feature Engineering, Retrieval/Ranking/RAG, MLOps, Model Compression/Optimization and/or GPU/kernel optimization.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.Process\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "rag",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 9,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
+      "expires": "2027-01-15T20:20:49+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
       "source": "Himalayas",
       "title": "Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)",
@@ -842,6 +808,40 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover?utm_source=api",
       "expires": "2027-01-15T08:59:54+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
+      "source": "Himalayas",
+      "title": "micro1: Computational Bioscience Expert (Python)",
+      "url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python",
+      "posted": "2026-11-17T15:45:19+00:00",
+      "body": "Role Title: Computational Bioscience Expert (Python)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nmicro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems.\nIn this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze scientific data, develop reproducible solutions, validate computational results, and identify errors in technical reasoning or code.Areas of Expertise\nWe are particularly interested in candidates with expertise in one or more of the following:\nMedicine and biomedical science\nComputational biology\nNeuroscience\nMolecular and cellular biology\nBiotechnology and bioinformatics\nGenetics and genomics\nEcology and evolutionary biology\nBiostatistics or biological data science\nEtc.\nScope of Work\nCreate and solve technically rigorous scientific problems within your area of expertise.\nDevelop reproducible Python-based analyses, models, simulations, or data-processing workflows.\nReview scientific solutions and code for correctness, clarity, and completeness.\nPreferred Qualifications\nPhD, MD, or master’s degree with substantial research experience in a relevant life sciences discipline.\nStrong scientific or applied research background demonstrated through publications, thesis work, computational projects, industry research, or equivalent accomplishments.\nPractical Python experience for scientific computing, data analysis, modeling, or simulation.\nFamiliarity with tools such as NumPy, pandas, SciPy, Matplotlib, scikit-learn, Jupyter, or relevant domain-specific libraries.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply..Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "$60",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 5,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "project budget below preferred floor",
+        "low budget: lock scope in writing, 50% upfront",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python?utm_source=api",
+      "expires": "2027-01-06T00:20:29+00:00",
       "imported": false,
       "date_basis": "posted"
     },
