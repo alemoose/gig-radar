@@ -1,13 +1,13 @@
 # Gig radar
 
-Updated 2026-11-18 16:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 17:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
 - [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
-  Fit: 39 | posted within 6 hours; explicit hiring intent
+  Fit: 33 | explicit hiring intent
   Check: budget unknown
   > Headquarters: India URL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners AI Engineer | India Department: Engineering Reports To: Product & Engineering Leadership Location: India - Fully Remote Employment Type: Full-Time Experience Level: Mid-Level Compensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise Position Overview The AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) s...
 - [Elvoro: AI Creative Engineer (Social Media)](https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media)  
@@ -25,21 +25,11 @@ Updated 2026-11-18 16:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
-- [Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)](https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united)  
-  We Work Remotely | posted Nov 18 11:31 UTC | score 3 | **$130/hour** | llm, ai
-  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
 - [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
   Himalayas | posted Nov 16 20:21 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
-- [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
-  We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
-  Fit: 17 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: North Macedonia URL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion Senior Software Engineer Location: Remote (Within +/- 2 hours of CET) Contract Type: Full-time Starting Salary: €55,000 Euros per annum gross, subject to skills, experience and location Not Your Typical Workplace… Tired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion. Our remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through...
 - [micro1: Aerodynamics Expert](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053)  
   Himalayas | posted Nov 17 15:45 UTC | score 4 | **USD 80 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -75,6 +65,11 @@ Updated 2026-11-18 16:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyin...
+- [Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)](https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united)  
+  We Work Remotely | posted Nov 18 11:31 UTC | score 3 | **$130/hour** | llm, ai
+  Fit: 16 | budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 16 20:30 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -100,6 +95,11 @@ Updated 2026-11-18 16:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | lead intake; explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > About the Company Forager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role This is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does...
+- [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
+  We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: North Macedonia URL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion Senior Software Engineer Location: Remote (Within +/- 2 hours of CET) Contract Type: Full-time Starting Salary: €55,000 Euros per annum gross, subject to skills, experience and location Not Your Typical Workplace… Tired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion. Our remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through...
 - [Flowpouch: SEO & GEO Specialist](https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist)  
   Himalayas | posted Nov 17 09:10 UTC | score 3 | chatgpt, crawler, ai
   Fit: 11 | explicit hiring intent
