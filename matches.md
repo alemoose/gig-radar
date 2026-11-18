@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -85,11 +85,6 @@ Updated 2026-11-18 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI...
-- [Way: Customer Support Specialist (Part-Time & Remote)](https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote)  
-  Himalayas | posted Nov 15 16:05 UTC | score 3 | **$22** | workflow, saas, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; check eligibility: United States
-  > ABOUT WAY Way is building the AI, data, and infrastructure layer for the experience economy. As artificial intelligence automates labor and people reclaim time, the shift toward spending on experiences over things only accelerates. Way sits at the center of that shift as the platform, intelligence layer, and curated marketplace on which experiences are created, distributed, and sold. Founded in 2020 and headquartered in Austin with offices in Paris and San Francisco, Way built the category of experiences in hospitality from the ground up, during a pandemic that had shut the industry down. L...
 - [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
   Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
   Fit: 14 | 
