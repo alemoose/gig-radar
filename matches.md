@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 11:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 13:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -140,11 +140,6 @@ Updated 2026-11-18 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solu...
-- [RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)](https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan)  
-  Himalayas | posted Nov 17 13:01 UTC | score 3 | **USD 18 to 18/hourly** | agents, ai
-  Fit: 6 | explicit hiring intent; budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > We are looking for AIVoice Recording Contributors to join a Mandarin Chinesevoice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 18 USD/hourHelp Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native langu...
 - [PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus](https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus)  
   Himalayas | posted Nov 16 05:59 UTC | score 3 | **USD 70000 to 80000/annual** | workflow, saas, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
@@ -155,6 +150,11 @@ Updated 2026-11-18 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Position Overview MetroSys is seeking a highly experienced Senior AI Infrastructure Solutions Architect to support the design, planning, and implementation of advanced artificial intelligence computing environments for enterprise organizations. This position requires a technical leader with extensive experience in GPU-accelerated infrastructure, high-performance computing (HPC), enterprise networking, storage architecture, and AI platform integration. The ideal candidate will combine deep infrastructure engineering expertise with the ability to advise customers on complex technology investm...
+- [RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)](https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan)  
+  Himalayas | posted Nov 17 13:01 UTC | score 3 | **USD 18 to 18/hourly** | agents, ai
+  Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > We are looking for AIVoice Recording Contributors to join a Mandarin Chinesevoice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 18 USD/hourHelp Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native langu...
 - [University of Virginia: Darden Research Assistant in Healthcare Data Management (Student Wage)](https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage)  
   Himalayas | posted Nov 16 11:38 UTC | score 3 | **USD 17 to 25/hourly** | claude, python, ai
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
