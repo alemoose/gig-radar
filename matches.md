@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 13:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 13:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -35,11 +35,6 @@ Updated 2026-11-18 13:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
-- [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
-  Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
-  Fit: 20 | 
-  Check: budget unknown; check eligibility: United States
-  > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
 - [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
   Himalayas | posted Nov 16 20:21 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -110,6 +105,11 @@ Updated 2026-11-18 13:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; check eligibility: United States
   > ABOUT WAY Way is building the AI, data, and infrastructure layer for the experience economy. As artificial intelligence automates labor and people reclaim time, the shift toward spending on experiences over things only accelerates. Way sits at the center of that shift as the platform, intelligence layer, and curated marketplace on which experiences are created, distributed, and sold. Founded in 2020 and headquartered in Austin with offices in Paris and San Francisco, Way built the category of experiences in hospitality from the ground up, during a pandemic that had shut the industry down. L...
+- [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
+  Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
+  Fit: 14 | 
+  Check: budget unknown; check eligibility: United States
+  > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
 - [Sanctuary Computer: Head of Technology](https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1)  
   We Work Remotely | posted Nov 16 15:09 UTC | score 7 | **$110 - $175** | typescript, postgres, workflow, next.js, agents, stripe
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency

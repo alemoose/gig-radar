@@ -209,38 +209,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
-      "source": "Himalayas",
-      "title": "ISI Enterprises: Analytics Engineer (AI & Automation) - Contract",
-      "url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
-      "posted": "2026-11-17T13:40:24+00:00",
-      "body": "Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA)\nType: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the business owners who rely on them.\nBecause we serve Defense Industrial Base customers, you will treat security and data governance as first-class requirements, not afterthoughts.Key ResponsibilitiesData Modeling and Transformation\nModel source data from ticketing, compliance, security, and finance systems into conformed, documented Snowflake tables (raw, curated, and consumption layers). Build transformations with automated testing, validation, and documentation so models are consistent and reusable across business units.\nSemantic Layer and Metrics\nBuild the first version of the semantic layer, with shared metric definitions, tests, and lineage, so that reports agree with each other and with source systems. Agree metric definitions in writing with finance and operations stakeholders and reconcile them to source data.\nDashboards and Reporting\nBuild dashboards as code in our internal analytics portal, where each dashboard is version controlled and every query is traceable. Replace recurring manual reports with automated ones, including contract terms, renewals, and billing reporting, and the data views that support security review and audit preparation.\nSecurity-First Analytics Engineering\nApply secure data practices to every model and dashboard, including role-based access control, masking policies, least-privilege access, data classification, and audit logging. Enforce data segregation and handling requirements for sensitive and controlled information (e.g., CUI). Support CMMC, NIST SP 800-171, and related compliance obligations through documented, auditable data flows.\nData Quality, Reliability, and Operations\nImplement data quality checks, freshness monitoring, and alerting on the models you own. Optimize queries and models for performance and cost efficiency.\nCollaboration and Process\nRun short discovery sessions with business owners to understand the decisions they need to make, and demonstrate progress weekly. Contribute through pull requests, code reviews, and agile ceremonies. Write clear technical documentation, including data dictionaries and metric definitions, so the permanent team can own your work after the engagement. Leverage AI tooling to accelerate development and delivery.Qualifications\nAs part of your work at ISI, you will potentially have access to sensitive information from the federal government. Pursuant to applicable regulations, ISI requires that all candidates for this role present proof of U.S. citizenship before hire.\n4+ years of experience in analytics engineering, BI engineering, or data engineering with a modeling focus\nExpert proficiency in SQL and working proficiency in Python\nHands-on experience with Snowflake, including dimensional data modeling and performance and cost optimization\nExperience with transformation tooling (e.g., dbt), including tests and documentation\nExperience building dashboards and reports under version control and code review\nExperience defining metrics with finance and operations stakeholders and reconciling them to source systems\nExperience using AI tooling such as Claude, Codex, or an equivalent service to develop enterprise software\nFamiliarity with version control (Git) and CI/CD practices\nExcellent problem-solving and analytical skills with keen attention to detail\nAbility to work independently and collaboratively in a fast-paced Agile environment\nStrong communication and interpersonal skills, with the ability to interact effectively with team members at all levels\nPreferred Qualifications\nBachelor's degree in computer science, data engineering, analytics, or a related technical field, or equivalent work or military experience\nExperience with Snowflake RBAC, masking policies, and data governance\nExperience working with data from security, IT service management, or MSP tooling (e.g., SIEM, ticketing, PSA/RMM platforms)\nExperience with SaaS finance metrics such as ARR and retention\nExperience with AWS data services (e.g., S3, DMS) and AWS GovCloud\nHands-on experience with Terraform for infrastructure as code\nFamiliarity with data lineage and cataloging practices\nFamiliarity with security frameworks and compliance requirements such as CMMC, NIST SP 800-171, DFARS, or FedRAMP\nWhat We Offer\nSix-month, full-time contract engagement\nCompetitive contract rate, commensurate with experience\nRemote work\nA casual, friendly, and relaxed work environment\nProfessional growth encouragement and support\nIndustrial Security Integrators, LLC (\"IsI\") is an equal opportunity employer committed to affirmative action and diversity in the workplace. It is the policy of IsI to provide Equal Employment Opportunities (EEO) to Employees and Applicants, without regard to race, color, religion, sex, age, marital status, citizenship status, national origin, sexual orientation, gender identity, veteran status or disability or any other factor protected by law and to provide advancement opportunities for minorities, women, disabled individuals, and veterans. IsI is stronger and more effective when our workforce includes highly qualified individuals with diverse backgrounds, cultures, and traditions.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 7,
-      "matched": [
-        "automation",
-        "claude",
-        "python",
-        "saas",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 20,
-      "reasons": [],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract?utm_source=api",
-      "expires": "2027-01-16T13:40:23+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/hardware-expert",
       "source": "Himalayas",
       "title": "micro1: Hardware Expert",
@@ -701,6 +669,38 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote?utm_source=api",
       "expires": "2027-01-14T16:05:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
+      "source": "Himalayas",
+      "title": "ISI Enterprises: Analytics Engineer (AI & Automation) - Contract",
+      "url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
+      "posted": "2026-11-17T13:40:24+00:00",
+      "body": "Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA)\nType: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the business owners who rely on them.\nBecause we serve Defense Industrial Base customers, you will treat security and data governance as first-class requirements, not afterthoughts.Key ResponsibilitiesData Modeling and Transformation\nModel source data from ticketing, compliance, security, and finance systems into conformed, documented Snowflake tables (raw, curated, and consumption layers). Build transformations with automated testing, validation, and documentation so models are consistent and reusable across business units.\nSemantic Layer and Metrics\nBuild the first version of the semantic layer, with shared metric definitions, tests, and lineage, so that reports agree with each other and with source systems. Agree metric definitions in writing with finance and operations stakeholders and reconcile them to source data.\nDashboards and Reporting\nBuild dashboards as code in our internal analytics portal, where each dashboard is version controlled and every query is traceable. Replace recurring manual reports with automated ones, including contract terms, renewals, and billing reporting, and the data views that support security review and audit preparation.\nSecurity-First Analytics Engineering\nApply secure data practices to every model and dashboard, including role-based access control, masking policies, least-privilege access, data classification, and audit logging. Enforce data segregation and handling requirements for sensitive and controlled information (e.g., CUI). Support CMMC, NIST SP 800-171, and related compliance obligations through documented, auditable data flows.\nData Quality, Reliability, and Operations\nImplement data quality checks, freshness monitoring, and alerting on the models you own. Optimize queries and models for performance and cost efficiency.\nCollaboration and Process\nRun short discovery sessions with business owners to understand the decisions they need to make, and demonstrate progress weekly. Contribute through pull requests, code reviews, and agile ceremonies. Write clear technical documentation, including data dictionaries and metric definitions, so the permanent team can own your work after the engagement. Leverage AI tooling to accelerate development and delivery.Qualifications\nAs part of your work at ISI, you will potentially have access to sensitive information from the federal government. Pursuant to applicable regulations, ISI requires that all candidates for this role present proof of U.S. citizenship before hire.\n4+ years of experience in analytics engineering, BI engineering, or data engineering with a modeling focus\nExpert proficiency in SQL and working proficiency in Python\nHands-on experience with Snowflake, including dimensional data modeling and performance and cost optimization\nExperience with transformation tooling (e.g., dbt), including tests and documentation\nExperience building dashboards and reports under version control and code review\nExperience defining metrics with finance and operations stakeholders and reconciling them to source systems\nExperience using AI tooling such as Claude, Codex, or an equivalent service to develop enterprise software\nFamiliarity with version control (Git) and CI/CD practices\nExcellent problem-solving and analytical skills with keen attention to detail\nAbility to work independently and collaboratively in a fast-paced Agile environment\nStrong communication and interpersonal skills, with the ability to interact effectively with team members at all levels\nPreferred Qualifications\nBachelor's degree in computer science, data engineering, analytics, or a related technical field, or equivalent work or military experience\nExperience with Snowflake RBAC, masking policies, and data governance\nExperience working with data from security, IT service management, or MSP tooling (e.g., SIEM, ticketing, PSA/RMM platforms)\nExperience with SaaS finance metrics such as ARR and retention\nExperience with AWS data services (e.g., S3, DMS) and AWS GovCloud\nHands-on experience with Terraform for infrastructure as code\nFamiliarity with data lineage and cataloging practices\nFamiliarity with security frameworks and compliance requirements such as CMMC, NIST SP 800-171, DFARS, or FedRAMP\nWhat We Offer\nSix-month, full-time contract engagement\nCompetitive contract rate, commensurate with experience\nRemote work\nA casual, friendly, and relaxed work environment\nProfessional growth encouragement and support\nIndustrial Security Integrators, LLC (\"IsI\") is an equal opportunity employer committed to affirmative action and diversity in the workplace. It is the policy of IsI to provide Equal Employment Opportunities (EEO) to Employees and Applicants, without regard to race, color, religion, sex, age, marital status, citizenship status, national origin, sexual orientation, gender identity, veteran status or disability or any other factor protected by law and to provide advancement opportunities for minorities, women, disabled individuals, and veterans. IsI is stronger and more effective when our workforce includes highly qualified individuals with diverse backgrounds, cultures, and traditions.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 7,
+      "matched": [
+        "automation",
+        "claude",
+        "python",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 14,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract?utm_source=api",
+      "expires": "2027-01-16T13:40:23+00:00",
       "imported": false,
       "date_basis": "posted"
     },
