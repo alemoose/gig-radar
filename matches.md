@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 09:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 10:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -25,11 +25,6 @@ Updated 2026-11-18 09:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
-- [Job Mobz: AI Ops and Automation Specialist](https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist)  
-  Himalayas | posted Nov 15 10:43 UTC | score 8 | automation, automate, agents, zapier, n8n, ai
-  Fit: 21 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > We're looking for a resourceful, technically savvy AI Operations & Automation Specialist to help us streamline and scale our content and digital operations. This person will identify opportunities to automate manual processes across social media, websites, newsletters, podcasts, video, and other digital channels. You'll build and manage AI-powered workflows, tools, and agents that improve efficiency, consistency, and output.Key Responsibilities Identify opportunities to automate repetitive tasks and improve existing workflows. Build, test, and maintain AI-powered tools, agents, and automati...
 - [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
   Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
   Fit: 20 | 
@@ -100,11 +95,6 @@ Updated 2026-11-18 09:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; check eligibility: United States
   > ABOUT WAY Way is building the AI, data, and infrastructure layer for the experience economy. As artificial intelligence automates labor and people reclaim time, the shift toward spending on experiences over things only accelerates. Way sits at the center of that shift as the platform, intelligence layer, and curated marketplace on which experiences are created, distributed, and sold. Founded in 2020 and headquartered in Austin with offices in Paris and San Francisco, Way built the category of experiences in hospitality from the ground up, during a pandemic that had shut the industry down. L...
-- [Xperteez Technology: AI Trainer (ML Engineering) | Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544)  
-  Himalayas | posted Nov 15 10:32 UTC | score 3 | **USD 60 to 120/hourly** | python, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Job Description Location: Global, fully remote Job Type: Contractor Time Commitment: 15+ hours per week Schedule: Flexible We are looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems. You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skill...
 - [Sanctuary Computer: Head of Technology](https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1)  
   We Work Remotely | posted Nov 16 15:09 UTC | score 7 | **$110 - $175** | typescript, postgres, workflow, next.js, agents, stripe
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency

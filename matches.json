@@ -140,41 +140,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist",
-      "source": "Himalayas",
-      "title": "Job Mobz: AI Ops and Automation Specialist",
-      "url": "https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist",
-      "posted": "2026-11-15T10:43:40+00:00",
-      "body": "We're looking for a resourceful, technically savvy AI Operations & Automation Specialist to help us streamline and scale our content and digital operations.\nThis person will identify opportunities to automate manual processes across social media, websites, newsletters, podcasts, video, and other digital channels. You'll build and manage AI-powered workflows, tools, and agents that improve efficiency, consistency, and output.Key Responsibilities\nIdentify opportunities to automate repetitive tasks and improve existing workflows.\nBuild, test, and maintain AI-powered tools, agents, and automation systems.\nStreamline content creation, scheduling, publishing, and distribution across digital channels.\nCollaborate with internal teams to understand operational challenges and implement practical solutions.\nMonitor automation performance, troubleshoot issues, and continuously improve processes.\nDevelop scalable systems that increase productivity and reduce manual work.\nHands-on experience building AI automations, workflows, or AI agents.\nFamiliarity with automation platforms such as n8n, Make, Zapier, or similar tools.\nExperience integrating AI tools, APIs, and third-party platforms.\nStrong problem-solving skills and the ability to identify operational inefficiencies.\nUnderstanding of digital content workflows, social media platforms, and marketing operations.\nAbility to independently manage projects from concept through implementation.\nOrganized, proactive, and comfortable working in a fast-paced environment.\nWhat Success Looks Like\nManual, repetitive processes are replaced with reliable automated workflows.\nContent production and distribution become more efficient and consistent.\nTeams spend less time on administrative tasks and more time on high-value work.\nAI tools and agents deliver measurable improvements in productivity and output.\nEmployer.com is a growing technology company focused on simplifying how businesses manage their people, finances, and operations. Through our portfolio of companies, including MainStreet and Bench Accounting, we provide comprehensive back-office solutions spanning bookkeeping, accounting, tax services, HR, payroll, and hiring.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 8,
-      "matched": [
-        "automation",
-        "automate",
-        "agents",
-        "zapier",
-        "n8n",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/job-mobz/jobs/ai-ops-and-automation-specialist?utm_source=api",
-      "expires": "2027-01-14T10:43:39+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract",
       "source": "Himalayas",
       "title": "ISI Enterprises: Analytics Engineer (AI & Automation) - Contract",
@@ -632,37 +597,6 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/way/jobs/customer-support-specialist-part-time-remote?utm_source=api",
       "expires": "2027-01-14T16:05:04+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544",
-      "source": "Himalayas",
-      "title": "Xperteez Technology: AI Trainer (ML Engineering) | Remote - Contract",
-      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544",
-      "posted": "2026-11-15T10:32:20+00:00",
-      "body": "Job Description\nLocation: Global, fully remote\nJob Type: Contractor\nTime Commitment: 15+ hours per week\nSchedule: Flexible\nWe are looking for Machine Learning Engineers with prior professional AI-training or model-evaluation experience to support a project focused on improving advanced AI systems.\nYou will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.Required Skills\nMl engineering\nAi training\nProgramming skills\nWhat You’ll Work On\nCreate realistic machine learning engineering tasks that challenge advanced AI models.\nDevelop task instructions, reproducible environments, reference solutions, and evaluation criteria.\nEvaluate model-generated code, experiments, analyses, and technical deliverables.\nIdentify issues involving data leakage, incorrect validation, unstable training, performance, or reproducibility.\nRequired Qualifications\nPrior paid experience training, evaluating, benchmarking, or improving AI systems.\nStrong practical proficiency with Python.\nHands-on experience using PyTorch, JAX, TensorFlow, scikit-learn, XGBoost, LightGBM, or comparable ML tools.\nPublic Proof of Skill\nStrong applicants should provide evidence such as:\nGitHub repositories or public model implementations\nKaggle, DrivenData, AIcrowd, or similar competition results\nHugging Face models or datasets\nResearch publications or technical reports\nOpen-source ML contributions\nPublic benchmarks, experiments, or technical projects\nPreferred Qualifications\nExperience creating AI-training tasks, reference answers, rubrics, graders, or benchmark problems.\nExperience reviewing other AI trainers’ technical submissions.\nKaggle Expert, Master, or Grandmaster status, or strong results in another technical competition.\nPublications or open-source contributions in machine learning.\nPrior experience with long-horizon or agentic AI evaluations.\nAvailability to begin immediately.\nApplication Process\nSubmit your application, AI-training experience, and public technical evidence.\nComplete an AI interview containing technical and integrity checks.\nComplete a hiring-manager review.\nIf selected, complete project onboarding and begin your first assigned task.\nCompensation\nCompensation is output-based. Experts are paid for tasks that meet project specifications and quality requirements. Task availability and completion time may vary.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 3,
-      "matched": [
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-9859197544?utm_source=api",
-      "expires": "2027-01-14T10:32:20+00:00",
       "imported": false,
       "date_basis": "posted"
     },
