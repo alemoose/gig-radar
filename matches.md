@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 10:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 11:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -120,11 +120,6 @@ Updated 2026-11-18 10:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
-- [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
-  Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
-  Fit: 8 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Position Overview MetroSys is seeking a highly experienced Senior AI Infrastructure Solutions Architect to support the design, planning, and implementation of advanced artificial intelligence computing environments for enterprise organizations. This position requires a technical leader with extensive experience in GPU-accelerated infrastructure, high-performance computing (HPC), enterprise networking, storage architecture, and AI platform integration. The ideal candidate will combine deep infrastructure engineering expertise with the ability to advise customers on complex technology investm...
 - [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
   Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -145,6 +140,11 @@ Updated 2026-11-18 10:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
+- [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
+  Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
+  Fit: 2 | budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Position Overview MetroSys is seeking a highly experienced Senior AI Infrastructure Solutions Architect to support the design, planning, and implementation of advanced artificial intelligence computing environments for enterprise organizations. This position requires a technical leader with extensive experience in GPU-accelerated infrastructure, high-performance computing (HPC), enterprise networking, storage architecture, and AI platform integration. The ideal candidate will combine deep infrastructure engineering expertise with the ability to advise customers on complex technology investm...
 - [University of Virginia: Darden Research Assistant in Healthcare Data Management (Student Wage)](https://himalayas.app/companies/university-of-virginia/jobs/darden-research-assistant-in-healthcare-data-management-student-wage)  
   Himalayas | posted Nov 16 11:38 UTC | score 3 | **USD 17 to 25/hourly** | claude, python, ai
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
