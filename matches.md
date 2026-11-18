@@ -1,10 +1,15 @@
 # Gig radar
 
-Updated 2026-11-18 18:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 20:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Elvoro: AI Creative Engineer (Social Media)](https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media)  
+  Himalayas | posted Nov 18 18:07 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
+  Fit: 37 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: Worldwide (check timezone)
+  > Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptiona...
 - [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
   Fit: 33 | explicit hiring intent
@@ -15,6 +20,36 @@ Updated 2026-11-18 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 31 | explicit hiring intent
   Check: budget unknown
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
+- [Xperteez Technology: 🌍 STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract)  
+  Himalayas | posted Nov 18 18:58 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python....
+- [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
+  Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
+  Fit: 26 | posted within 6 hours; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
+- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
+  Himalayas | posted Nov 18 13:00 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
+- [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
+  Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
+  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
+- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
+  Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
+  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
+- [Bounteous: SEO - Manager](https://himalayas.app/companies/bounteous/jobs/seo-manager)  
+  Himalayas | posted Nov 18 18:07 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
+  Fit: 19 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manager Job Type...
 - [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -40,11 +75,6 @@ Updated 2026-11-18 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
-- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
-  Himalayas | posted Nov 16 20:21 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
 - [micro1: AI Agent Evaluator](https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085)  
   Himalayas | posted Nov 16 16:21 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -70,11 +100,6 @@ Updated 2026-11-18 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
-- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
-  Himalayas | posted Nov 16 20:30 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
-  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
 - [micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)](https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274)  
   Himalayas | posted Nov 16 20:22 UTC | score 3 | **USD 60 to 120/hourly** | workflow, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -110,11 +135,21 @@ Updated 2026-11-18 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
+- [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
+  Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
+  Fit: 9 | posted within 6 hours; budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Malay Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases. Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks. Apply structu...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
+- [WRS Health: Human Centered Design Manager](https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602)  
+  Himalayas | posted Nov 18 19:17 UTC | score 3 | automation, agents, ai
+  Fit: 8 | posted within 6 hours
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Company Overview Voted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview We are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive,...
 - [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
   Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency

@@ -2,6 +2,45 @@
   "schema_version": 1,
   "gigs": [
     {
+      "id": "himalayas:https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media",
+      "source": "Himalayas",
+      "title": "Elvoro: AI Creative Engineer (Social Media)",
+      "url": "https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media",
+      "posted": "2026-11-18T18:07:11+00:00",
+      "body": "Python AI Creative Engineer (Social Media) – Elvoro Ltd\nEngagement: Project-based contract with planned expansion to Full-time\nLocation: Remote, Worldwide \nCompensation: To be agreedAbout & Mission\nElvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptional creative taste to lead this system.Responsibilities\nLead the codebase and creative output of Elvoro’s proprietary social media engine\nTurn client briefs into large-scale short-form videos, carousels, static posts and ads\nUse your exceptional creative taste, knowledge on what type of content goes viral and converts well on social media, and large amounts of performance data to continuously, independently refine and improve the codebase to produce better content output.\nSchedule-post our high-quality content across numerous accounts using social media APIs\nCapture performance data via official APIs and use your creative taste and content conversion knowledge to refine content quality and test new creatives\nMaintain and extend the production codebase. Integrate numerous media and publishing APIs, test changes and monitor failures and cost per approved post\nFix weak creative hooks, ai slop and pacing and product inaccuracies. Turn successful results into reusable yet unique systems\nRefine, manage and improve our code pipelines that produce thousands of different social media posts using unique processes\nTech Stack Qualifications\nProfessional software engineering experience building and maintaining large production codebases.\nAdvanced Python\nREST API integrations OAuth 2.0 (eg: Anthropic, Runway, SpaceXSI, Instagram, ...)\nVideo, audio and image processing (FFmpeg, MoviePy, Pillow, ...)\nGoogle Cloud Storage (GCS)\nGit, GitHub, GitHub Actions\nPreferred: SQL, HTML/CSS, JavaScript (React)\nAI-Native Workflow Qualifications\nStrong prompt engineering skills. Proactively using AI for efficiency, speed, and quality. Agents such as: Claude Code, Cursor/xAI, Codex, etc.\nJudgment to manually review AI output and full accountability for all AI-generated code.\nBenefits\nYou get to lead Elvoro’s proprietary AI marketing engine and shape its technical and creative direction alongside the founder. An engineer previously working with Elvoro's founder has now gained a high-level job at Meta. Build a track record leading both engineering and creative production. You’ll lead campaigns for many established consumer brands and learn firsthand which creative decisions build brand awareness with hundreds of millions of views across social media and what turns attention into conversions such as sales and signups. The advantages of an ambitious, early stage startup: Work remotely from anywhere, at any time, on your own terms. Join a straightforward, no-nonsense environment focused on efficiency and results. Impact the world of marketing, get things done with the founder as your only approval point and see your ideas positively impact client campaigns. The codebase you are leading in this job has been built by engineers from TikTok and Stanford.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 10,
+      "matched": [
+        "javascript",
+        "anthropic",
+        "workflow",
+        "agents",
+        "claude",
+        "prompt",
+        "python",
+        "react",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 37,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media?utm_source=api",
+      "expires": "2027-01-17T18:07:10+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
       "source": "We Work Remotely",
       "title": "Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)",
@@ -72,6 +111,205 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: 🌍 STEM Expert, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract",
+      "posted": "2026-11-18T18:58:56+00:00",
+      "body": "Role Title: STEM Expert\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desiredRequired Skills:\nBiology\nWe are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nWe are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nThe work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct.\nThis is a very coding heavy role. Candidates but have experience using coding agents in their workflow.\nCandidates are not expected to be experts across every STEM discipline. We are looking for deep expertise in at least one of the following areas:\nChemistry\nBiology\nMathematics\nPhysics\nEarth Science / Geoscience / Environmental Science\nRobotics\nAdjacent scientific or quantitative disciplines may also be considered where the candidate's expertise is directly relevant.What You’ll Work On:\nSolve complex scientific, mathematical, or technical problems within your domain of expertise.\nReview AI-generated solutions for factual, mathematical, and scientific correctness.\nIdentify incorrect assumptions, reasoning errors, missing constraints, and subtle technical mistakes.\nRequired Qualifications:\nStrong expertise in at least one relevant STEM or scientific domain.\nPractical proficiency with Python or other coding languages.\nStrong scientific, mathematical, or quantitative problem-solving ability.\nRelevant Python tools may include NumPy, SciPy, pandas, SymPy, Jupyter, or domain-specific scientific libraries. No particular Python library is mandatory.\nExpertise may come from academic research, industry, teaching, engineering, independent technical work, or other demonstrated experience. A specific degree or number of years of experience is not strictly required if you can demonstrate strong expertise in your field.Process:\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure:\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.\nMinimum submission requirements apply.\nStart Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract?utm_source=api",
+      "expires": "2027-01-17T18:58:55+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
+      "source": "Himalayas",
+      "title": "mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
+      "posted": "2026-11-18T19:26:32+00:00",
+      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: MCP & Plug In Connectors Expert\nType:Contract\nCompensation:$50–$190/hour\nLocation:Remote\nCommitment:20+ hours/weekRole Responsibilities\nEvaluate AI systems on complex personal workflows, including personal health, travel, and activity planning.\nDesign realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and other plugins/connectors.\nExecute tasks while recording your screen and using personal plugins/connectors.\nWrite clear explanations of AI successes and failures to improve AI model performance.\nJudge AI outputs for practicality, personalization, and reasoning.\nIdentify where models miss context, overreach, or fail to use tools correctly.\nQualifications\nMust-Have\nUS-based only.\nStrong MCP experience and plugin/connector usage.\nExperience using LLM plugins/connectors like Google Drive, Expedia, and Notion.\nHeavy personal usage of LLM products.\nActive LLM account with 6+ months of history.\nWillingness to sign a data-share consent form via DocuSign.\nExperience using AI for multi-step planning, research, and decision-making.\nStrong written judgment and attention to detail.\nAbility to evaluate AI outputs and write against rubrics.\nPreferred\nExtensive rubric experience with 100+ hours on prior projects.Compensation & Legal\nHourly contractor.\nExperts added to the project will begin in a trial period.\nApplication Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 190/hourly",
+      "score": 5,
+      "matched": [
+        "workflow",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 26,
+      "reasons": [
+        "posted within 6 hours",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr?utm_source=api",
+      "expires": "2027-01-17T19:26:31+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "source": "Himalayas",
+      "title": "micro1: Mechanical Engineering Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "posted": "2026-11-18T13:00:17+00:00",
+      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 23,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
+      "expires": "2027-01-15T20:21:42+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408",
+      "source": "Himalayas",
+      "title": "mercor: AI Systems User - Fully Remote | Upto $30/hr",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408",
+      "posted": "2026-11-18T14:23:22+00:00",
+      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: Enterprise AI Agent Users\nType:Contract\nCompensation:$30/hour\nLocation:RemoteRole Responsibilities\nEvaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction.\nDevelop strategies to optimize the use of AI tools for improved business outcomes.\nCollaborate with teams to provide insights on AI model performance and user experience.\nWork independently and asynchronously to meet project goals and deadlines.\nShape the future of AI technology by providing feedback on interface usability and functionality.\nQualifications\nMust-Have\nDirect experience using various company-specific AI interfaces.Application Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
+      "budget": "USD 30 to 30/hourly",
+      "score": 3,
+      "matched": [
+        "ai agent",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 22,
+      "reasons": [
+        "posted within 6 hours",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408?utm_source=api",
+      "expires": "2027-01-17T14:23:21+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "source": "Himalayas",
+      "title": "micro1: Competitive Data Scientist (Kaggle)",
+      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "posted": "2026-11-18T13:00:17+00:00",
+      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 21,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
+      "expires": "2027-01-15T20:22:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/bounteous/jobs/seo-manager",
+      "source": "Himalayas",
+      "title": "Bounteous: SEO - Manager",
+      "url": "https://himalayas.app/companies/bounteous/jobs/seo-manager",
+      "posted": "2026-11-18T18:07:46+00:00",
+      "body": "Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building.\nJob Role: SEO / AEO Manager\nJob Type: Contract - USAJob Description\nAbout This Role\nBounteous is leading the charge in dynamic digital experiences and is looking for forward-thinking search experts to help drive measurable impact for some of the world's most recognizable and ambitious brands. In today's AI-driven, zero-click search landscape, our approach helps brands envision, harness, and enable their digital presence across traditional search engines, AI-powered discovery platforms, and emerging search experiences.\nWe are seeking a SEO / AEO Manager to lead holistic search strategy across our client portfolio, spanning traditional SEO, answer engine optimization (AEO), and AI search visibility across platforms including Google AI Overviews/AI Mode, ChatGPT, Perplexity, Gemini, and Copilot. This individual will drive performance across traditional SEO, AEO, and AI-powered search experiences. The ideal candidate understands how search has evolved beyond rankings- into entities, AI Overviews, generative search, and full-SERP ownership, and can translate that evolution into business growth. The ideal candidate has already built or scaled an AI-search-visibility practice, not just a traditional SEO program with AI terminology added on top.\nThis contractor will work cross-functionally with internal teams and client stakeholders to develop and execute advanced search strategies that drive visibility, authority, and measurable ROI, defined jointly with each client at engagement kickoff (see Success Metrics below).\nRole & Responsibilities\nAs the SEO & AEO Manager, you will lead strategic search initiatives across enterprise client accounts, driving business growth and client success as a key member of our search practice.\nYou will own strategy development, execution oversight, and performance measurement across traditional SEO and AI-driven search ecosystems.\nKey Responsibilities\nSearch & AEO Strategy Leadership\nLead holistic search strategy development, including traditional SEO, AEO, and AI search optimization, to drive full-funnel growth.\nDevelop strategies to capture and optimize for AI Overviews, Featured Snippets, People Also Ask, zero-click search experiences, and conversational queries.\nDrive entity-based optimization strategies to strengthen brand authority and knowledge graph presence.\nPartner with content and digital teams to align SEO strategy with E-E-A-T best practices.\nAI & Emerging Search Optimization\nOptimize content and technical implementations for AI-driven search environments, including generative search engines and LLM discovery platforms, specifically ChatGPT, Perplexity, Google AI Overviews/AI Mode, Gemini, and Copilot.\nDevelop structured data and schema strategies to enhance visibility in rich results, AI summaries, and enhanced SERP features.\nStand up and manage AI-visibility monitoring using a dedicated citation-tracking platform — track share of AI citations, sentiment, and source attribution across client brands and named competitors.\nMonitor evolving search engine algorithms and AI search trends, proactively adjusting strategy to maintain competitive advantage.\nEstablish processes for measuring AI search visibility and zero-click performance impact.\nTechnical & Content SEO Execution\nPerform and present comprehensive technical, content, competitive, local, and app SEO audits.\nDevelop SEO functional specifications for technical enhancements, partnering with developers to implement, QA, and UAT updates.\nConduct advanced keyword, topic cluster, and entity research to inform scalable content strategies.\nIdentify opportunities for content optimization, consolidation, pruning, and authority building.\nCross-Functional & Client Collaboration\nCollaborate closely with paid search, analytics, UX, product, and development teams to drive integrated search performance.\nPresent insights and recommendations to internal and client stakeholders, translating complex SEO and AI-search concepts into business-focused outcomes.\nAlign search strategies with broader omnichannel marketing and digital transformation initiatives.\nData, Measurement & Automation\nTake a data-driven approach to measuring SEO and AEO ROI against the metrics defined in Success Metrics below.\nDevelop reporting frameworks that account for traditional traffic, zero-click engagement, SERP feature ownership, and AI search visibility.\nLeverage automation tools, APIs, AI workflows, and scripting (e.g., Python, Google Apps Script, or SQL) to improve efficiency and scalability. ~~advanced Excel or scripting capabilities~~\nUse reporting and visualization platforms (e.g., Looker Studio, Tableau) to communicate performance insights and strategic opportunities.\nProject Management & Delivery\nManage project timelines and deliverables within project management systems (e.g., JIRA), ensuring deadlines and quality standards are met.\nOperate effectively in a contractor capacity, managing priorities across multiple accounts while maintaining strategic clarity and execution rigor.\nQualifications\nRequired\n6-8years of experience driving SEO performance for enterprise or large-scale brands, including client-facing or agency experience\nDemonstrated ownership of both traditional SEO and AEO/GEO initiatives, including having built an AI-search-visibility measurement practice from scratch — not just applied AEO terminology to an existing SEO program.\nAI Overviews and generative search experiences\nStructured data and schema implementation\nEntity-based optimization and knowledge graph strategy\nE-E-A-T frameworks and authority-building strategies\nHands-on experience with leading SEO platforms: SEMrush, Ahrefs, Google Search Console, Screaming Frog, Lumar (DeepCrawl), Yext, Lighthouse, and Google Business Profile.\nHands-on experience with at least one dedicated AI-visibility/citation-tracking platform (e.g., Profound, Peec AI, Scrunch AI, AthenaHQ, or the AI-visibility modules within Semrush/Ahrefs).\nExperience managing project timelines and deliverables within a PM system (e.g., JIRA).\nStrong analytical mindset with the ability to translate complex data into actionable insights and business recommendations.\nExcellent communication skills, with experience presenting to senior stakeholders and client leadership teams.\nPreferred\nBachelor's degree in Marketing, Advertising, Computer Science, Information Technology, or a related field.\nFamiliarity with AI-powered workflows, automation tools, APIs, and scripting (Python, SQL, or Google Apps Script) for reporting automation.\nPrior experience managing search strategy across multiple concurrent client accounts in an agency or consultancy setting.\nInformation Security Responsibilities\nPromote and enforce awareness of key information security practices, including acceptable use of information assets, malware protection, and password security protocols\nIdentify, assess, and report security risks, focusing on how these risks impact the confidentiality, integrity, and availability of information assets\nUnderstand and evaluate how data is stored, processed, or transmitted, ensuring compliance with data privacy and protection standards (GDPR, CCPA, etc.)\nEnsure data protection measures are integrated throughout the information lifecycle to safeguard sensitive information\nWe invite you to stay connected with us by subscribing to our monthly job openings alert here.\nBounteous is proud to be an equal opportunity employer. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law. Bounteous is willing to sponsor eligible candidates for employment visas. \n#BI-Remote\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 6,
+      "matched": [
+        "automation",
+        "chatgpt",
+        "gemini",
+        "python",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 19,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/bounteous/jobs/seo-manager?utm_source=api",
+      "expires": "2027-01-17T18:07:45+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -244,39 +482,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
-      "source": "Himalayas",
-      "title": "micro1: Mechanical Engineering Expert",
-      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
-      "posted": "2026-11-16T20:21:42+00:00",
-      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 17,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
-      "expires": "2027-01-15T20:21:42+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085",
       "source": "Himalayas",
       "title": "micro1: AI Agent Evaluator",
@@ -433,38 +638,6 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
-      "source": "Himalayas",
-      "title": "micro1: Competitive Data Scientist (Kaggle)",
-      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
-      "posted": "2026-11-16T20:30:11+00:00",
-      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 3,
-      "matched": [
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 15,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
-      ],
-      "aliases": [],
-      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
-      "expires": "2027-01-15T20:22:04+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -706,6 +879,39 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032",
+      "source": "Himalayas",
+      "title": "mercor: AI Safety Specialist - Fully Remote | Upto $25/hr",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032",
+      "posted": "2026-11-18T19:48:33+00:00",
+      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: AI Safety Experts — English & Malay\nType:Contract\nCompensation:$17–$25/hour\nLocation:RemoteRole Responsibilities\nRed team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases.\nGenerate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks.\nApply structure by following taxonomies, benchmarks, and playbooks to ensure consistent testing.\nDocument reproducibly to produce reports, datasets, and attack cases that customers can act on.\nReview AI outputs on sensitive topics such as bias and misinformation, with optional participation in higher-sensitivity projects.\nQualifications\nMust-Have\nFluent Language Skills Required: English & Malay\nPrior red teaming experience in AI adversarial work, cybersecurity, or socio-technical probing.\nAbility to explain risks clearly to technical and non-technical stakeholders.\nPreferred\nExperience in Adversarial ML: jailbreak datasets, prompt injection, RLHF/DPO attacks, model extraction.\nBackground in Cybersecurity: penetration testing, exploit development, reverse engineering.\nExpertise in socio-technical risk: harassment/disinfo probing, abuse analysis, conversational AI testing.\nCreative probing skills: psychology, acting, writing for unconventional adversarial thinking.\nApplication Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
+      "budget": "USD 17 to 25/hourly",
+      "score": 4,
+      "matched": [
+        "agents",
+        "prompt",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 9,
+      "reasons": [
+        "posted within 6 hours",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032?utm_source=api",
+      "expires": "2027-01-17T19:48:32+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
       "source": "Himalayas",
       "title": "micro1: ML Engineer",
@@ -737,6 +943,39 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967?utm_source=api",
       "expires": "2027-01-15T20:20:49+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602",
+      "source": "Himalayas",
+      "title": "WRS Health: Human Centered Design Manager",
+      "url": "https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602",
+      "posted": "2026-11-18T19:17:39+00:00",
+      "body": "Company Overview\nVoted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview\nWe are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive, accessible, and impactful for the physicians, clinical staff, billers, front-desk teams, and patients who rely on them every day. In a clinical setting, a confusing screen costs a provider time, adds to burnout, and can affect patient safety, so this role carries real weight. You will thrive here if you love sitting with users in their actual workflows, can turn messy observations into clear direction, and can defend design decisions with evidence.Key ResponsibilitiesUser Research\nConduct contextual inquiries, interviews, field observations, and surveys with physicians, clinical staff, billers, and patients to uncover explicit and latent needs.\nPartner with account managers and support teams to surface usability pain points from client feedback and support tickets.\nSynthesis & Strategy\nTranslate research into personas, journey maps, service blueprints, and system workflows across clinical, operational, and billing processes.\nPresent insights to product and executive leadership to shape roadmap priorities.\nIdeation & Prototyping\nFacilitate cross-functional design workshops and build low- to high-fidelity wireframes and interactive prototypes in Figma, Sketch, or Adobe XD.\nDesign AI-powered features (AI charting, AI agents) that keep clinicians in control and make AI output easy to review and correct.\nUsability Testing\nPlan, moderate, and analyze formative and summative usability tests to iterate on designs before and during development.\nEvaluate safety-critical workflows such as medication management and e-prescribing, and support ONC Safety-Enhanced Design testing.\nCollaboration & Governance\nPartner with product managers, business analysts, and engineers in Agile/Scrum teams to maintain design integrity from concept through release.\nUphold accessibility standards (WCAG, Section 508) and HIPAA-safe research practices across all products.\nLeadership\nBuild and scale WRS Health's HCD practice, including research operations, templates, and standards.\nMentor designers and researchers, and coach teammates on human-centered methods.\nQualificationsRequired\nEducation: Bachelor's or Master's degree in Human-Centered Design, Human-Factors Engineering, Interaction Design, Cognitive Psychology, or a related field.\nExperience: 3 to 6+ years of professional experience in HCD, UX design, or user research, including enterprise or regulated-industry experience.\nTechnical Skills: Proficiency in prototyping software (Figma, Sketch, or Adobe XD), qualitative research methodologies, usability testing frameworks, and Agile/Scrum delivery flows.\nAccessibility: Working knowledge of Section 508 and WCAG standards and how to apply them in practice.\nCore Competencies: Strong empathy, verbal storytelling, analytical problem-solving, and the ability to defend design decisions with data.\nA portfolio or case studies demonstrating end-to-end research, synthesis, prototyping, and measurable impact.\nPreferred\nExperience designing for EHR, practice management, revenue cycle, telehealth, or other health IT products.\nFamiliarity with clinical workflows and terminology across ambulatory specialties.\nKnowledge of ONC Safety-Enhanced Design (user-centered design and summative testing) requirements, NISTIR 7804, or ISO 9241-210.\nExperience designing AI-assisted or automation features, including human-in-the-loop review patterns.\nPrior experience leading or mentoring designers/researchers, or building a design function from the ground up.\nExperience with remote research and unmoderated testing tools and product analytics platforms.\nClinical background or prior work in a medical practice setting.\nA Day in the Life\nYour days move between the field, the whiteboard, and the prototype. You might start by joining the product team's stand-up to flag a research insight affecting an upcoming sprint, then sit in (virtually or on-site) with a specialty practice to watch how the front desk, medical assistants, and physicians actually work, noting the workarounds they've built and where the screens slow them down. Later, you could be synthesizing those observations into an updated journey map, facilitating a workshop with product managers, engineers, and billing specialists to sketch solutions, or moderating a usability test of a new AI charting feature to see how a clinician reviews and trusts AI-drafted notes. Before the day ends, you refine prototypes in Figma based on what you learned, check designs against accessibility standards, share prioritized recommendations with product leadership, and make time to coach the designers and researchers on your team.Success Metrics\nMeasurable usability gains: Improved task success rates, time-on-task, error rates, and System Usability Scale (SUS) scores for redesigned workflows, including fewer clicks and less documentation time for key clinical tasks.\nResearch-driven roadmap: Consistent monthly contact with users across specialties, with a clear, visible share of roadmap items originating from or validated by HCD research.\nFewer usability issues post-release: Decline in usability-related support tickets, rework, and post-launch design defects.\nAccessibility and certification compliance: New and updated features meet WCAG 2.1/2.2 AA and Section 508 standards at release, and ONC Safety-Enhanced Design documentation is completed on time.\nAdoption and satisfaction: Higher feature adoption (including AI features) and improved client satisfaction or NPS for redesigned areas.\nJob Details\nJob Type: Full-time | Independent Contractor\nLocation: Remote\nHours: Must be available during standard US business hours (9:00 AM – 5:00 PM EST or 8:30 AM – 4:30 PM EST)\nCompensation will be based on location, experience, and qualifications.\nThis job description outlines the general responsibilities of the role and is not exhaustive. Additional duties may be assigned as needed to support business operations.\nWRS Health is an equal opportunity employer.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "automation",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 8,
+      "reasons": [
+        "posted within 6 hours"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602?utm_source=api",
+      "expires": "2027-01-17T19:17:39+00:00",
       "imported": false,
       "date_basis": "posted"
     },
