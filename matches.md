@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-18 20:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-18 20:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -35,11 +35,6 @@ Updated 2026-11-18 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
-- [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
-  Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
-  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
@@ -95,6 +90,11 @@ Updated 2026-11-18 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyin...
+- [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
+  Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
 - [Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)](https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 3 | **$130/hour** | llm, ai
   Fit: 16 | budget stated, verify scope and currency

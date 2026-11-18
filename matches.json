@@ -214,37 +214,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408",
-      "source": "Himalayas",
-      "title": "mercor: AI Systems User - Fully Remote | Upto $30/hr",
-      "url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408",
-      "posted": "2026-11-18T14:23:22+00:00",
-      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: Enterprise AI Agent Users\nType:Contract\nCompensation:$30/hour\nLocation:RemoteRole Responsibilities\nEvaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction.\nDevelop strategies to optimize the use of AI tools for improved business outcomes.\nCollaborate with teams to provide insights on AI model performance and user experience.\nWork independently and asynchronously to meet project goals and deadlines.\nShape the future of AI technology by providing feedback on interface usability and functionality.\nQualifications\nMust-Have\nDirect experience using various company-specific AI interfaces.Application Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
-      "budget": "USD 30 to 30/hourly",
-      "score": 3,
-      "matched": [
-        "ai agent",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 22,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408?utm_source=api",
-      "expires": "2027-01-17T14:23:21+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
       "source": "Himalayas",
       "title": "micro1: Competitive Data Scientist (Kaggle)",
@@ -608,6 +577,36 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/machine-learning-researcher?utm_source=api",
       "expires": "2027-01-15T16:20:46+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408",
+      "source": "Himalayas",
+      "title": "mercor: AI Systems User - Fully Remote | Upto $30/hr",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408",
+      "posted": "2026-11-18T14:23:22+00:00",
+      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: Enterprise AI Agent Users\nType:Contract\nCompensation:$30/hour\nLocation:RemoteRole Responsibilities\nEvaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction.\nDevelop strategies to optimize the use of AI tools for improved business outcomes.\nCollaborate with teams to provide insights on AI model performance and user experience.\nWork independently and asynchronously to meet project goals and deadlines.\nShape the future of AI technology by providing feedback on interface usability and functionality.\nQualifications\nMust-Have\nDirect experience using various company-specific AI interfaces.Application Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
+      "budget": "USD 30 to 30/hourly",
+      "score": 3,
+      "matched": [
+        "ai agent",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 16,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408?utm_source=api",
+      "expires": "2027-01-17T14:23:21+00:00",
       "imported": false,
       "date_basis": "posted"
     },
