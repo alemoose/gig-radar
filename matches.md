@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 20:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 20:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -75,11 +75,6 @@ Updated 2026-11-19 20:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
-- [micro1: Hardware Expert](https://himalayas.app/companies/micro1/jobs/hardware-expert)  
-  Himalayas | posted Nov 16 20:21 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
 - [Xperteez Technology: 🌍 STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract)  
   Himalayas | posted Nov 18 18:58 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -95,11 +90,6 @@ Updated 2026-11-19 20:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
-- [micro1: STEM Expert](https://himalayas.app/companies/micro1/jobs/stem-expert-5001388069)  
-  Himalayas | posted Nov 16 20:22 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
 - [Forj: Fractional Implementation Project Specialist](https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist)  
   Himalayas | posted Nov 19 18:17 UTC | score 5 | **USD 60 to 70/hourly** | automation, chatgpt, claude, saas, ai
   Fit: 16 | posted within 6 hours; budget stated, verify scope and currency
@@ -130,11 +120,6 @@ Updated 2026-11-19 20:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
   > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
-- [micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)](https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274)  
-  Himalayas | posted Nov 16 20:22 UTC | score 3 | **USD 60 to 120/hourly** | workflow, python, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: PhysioNet Competitor (Biomedical Signal Processing & ML) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired micro1 is engaging specialists with experience in the PhysioNet Challenge or comparable biomedical signal processing and machine learning competitions. In this role, you will apply your scientific programming, signal processing, and modeling expertise to create, solve, and evaluate advanced technical problems that help improve next-generation AI...
 - [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
   Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
   Fit: 14 | budget stated, verify scope and currency
