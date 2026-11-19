@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 14:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 15:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-19 14:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manager Job Type...
-- [Sanctuary Computer: Head of Technology](https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology-1)  
-  We Work Remotely | posted Nov 16 15:09 UTC | score 7 | **$110 - $175** | typescript, postgres, workflow, next.js, agents, stripe
-  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma,...
 - [Flowpouch: SEO & GEO Specialist](https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist)  
   Himalayas | posted Nov 17 09:10 UTC | score 3 | chatgpt, crawler, ai
   Fit: 11 | explicit hiring intent
