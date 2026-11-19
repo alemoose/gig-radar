@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 13:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 14:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -80,11 +80,6 @@ Updated 2026-11-19 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyin...
-- [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
-  Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -115,6 +110,11 @@ Updated 2026-11-19 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands
   > Who we are Flow Pouch makes functional mushroom pouches. People use them as a clean alternative to nicotine pouches and energy products: no nicotine, no caffeine, no crash. We launched in 2024, we have grown quickly, mostly through subscriptions, and we manufacture in the US. We are a remote team of about 30 people globally.Why we are hiring We have had an agency on SEO. We are replacing it with one person who can show results and who understands that search now includes ChatGPT, Perplexity and Google AI Overviews as much as the ten blue links. We want someone who owns organic search for en...
+- [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
+  Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
+  Fit: 10 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
 - [Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)](https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 3 | **$130/hour** | llm, ai
   Fit: 10 | budget stated, verify scope and currency
