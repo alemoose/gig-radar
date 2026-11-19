@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 09:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 09:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -120,11 +120,6 @@ Updated 2026-11-19 09:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes Google, Stripe, Figma,...
-- [Forager: Sales Development Representative (Phone-First)](https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first)  
-  Himalayas | posted Nov 16 09:01 UTC | score 4 | ai, problem: lead intake
-  Fit: 13 | lead intake; explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > About the Company Forager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role This is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does...
 - [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
   We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
   Fit: 11 | explicit hiring intent

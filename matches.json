@@ -772,38 +772,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
-      "source": "Himalayas",
-      "title": "Forager: Sales Development Representative (Phone-First)",
-      "url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first",
-      "posted": "2026-11-16T09:01:54+00:00",
-      "body": "About the Company\nForager.ai is a bootstrapped B2B data company. We are the industry-leading people and contact data provider (mobile numbers, personal and work email, and people/company graphs), made available through API and data feeds to sales, recruiting and data platforms that build our data into their own products, and increasingly to go-to-market teams directly. We are a fully remote team of about ten people with historically very little turnover.About the Role\nThis is a phone-first role. Email and LinkedIn outreach at Forager is automated and run by our Growth team, so the SDR does the part a machine cannot: get prospects on the phone, qualify them properly, and hand our closers meetings that turn into real opportunities. You will work directly with the CEO, Head of Growth, GTM agency, and our commercial Account Executive (AE). Why join\nSell a product with a real edge: we’re the #1 mobile and personal email provider on Clay \n• Shoulder-to-shoulder training from our current SDR, plus regular coaching using call recordings\n• Learn one of the most advanced AI-driven outbound setups in the industry\nWhat you will do\nRespond quickly to inbound leads (demo requests from our website, data requests from marketplaces, and partner and referral introductions). Speed-to-lead is one of your key metrics \n• Run qualification calls with inbound and outbound leads: use case, data need and volume, budget, buying process and timeline. Route each lead to the right closer, or to self-service when that is the better fit.\n• Cold call the accounts our signal engine flags each sprint (our Tier 1 and Tier 2 target accounts), and book qualification calls and demos from those conversations.\n• Book meetings that closers accept. A demo counts as \"Demo Accepted\" when the AE has reviewed your call notes and agreed the opportunity is qualified. Demo Accepted is your core metric and drives your variable pay.\n• Bring what you learn back to the sprint review with Growth and Sales: which objections come up, which messaging lands, which signals convert.\n• Keep HubSpot accurate on every lead you touch. AI drafts the notes, enrichment and follow-ups; you confirm the facts and the next step. \nWhat you will NOT spend your time on\nWriting and sending email or LinkedIn sequences. These are automated and owned by the Growth team; you see the replies, not the sends.\n• Building lists or researching accounts. The signal engine and AI do this before a name reaches your call list.\n• Manual CRM data entry, call notes and meeting prep. AI drafts these; you check them.\nTools and systems\nHubSpot: CRM, lead routing, deal stages and the Demo Accepted gate \n• Parallel dialer for outbound calling\nAutomated email and LinkedIn software with sequences whose replies land with you\n• Call recording software, used for coaching and for AI call notes\n• AI assistants for account research, call summaries, CRM updates and follow-up drafts\nRequirementsMust-haves:\nPrevious experience in a phone-heavy B2B SDR, BDR or inside sales role, ideally 2+ years\n• A cold-calling track record you can show: daily dial and connect volumes, meetings booked, and opportunities your sales team accepted that started with your cold call \n• Strong qualification skills: you know how to uncover need, budget and decision process, and you never leave a call without a next step \n• Clear, confident spoken English and comfort with technical buyers (product, data and engineering leaders)\n• Comfortable learning technical products quickly; you’ll explain enrichment APIs and data feeds to technical buyers \n• Self-managed and comfortable working in a fully remote team.\nNice-to-haves:\nYou have sold B2B data, sales technology, recruiting technology or developer and data infrastructure\n• You have experience with a parallel dialer, and HubSpot\n• You have worked marketplace or partner-sourced leads\nBenefits• Full-time contractor role\nFully remote. Any location, with a daily calling window of at least four hours between 9am and 6pm US Eastern.\n• Base pay plus variable, split roughly 70/30. Variable is paid on Demo Accepted meetings, not on meetings booked\n• Untracked PTO: take the time off you need, with no accrual to count. We trust you to get the job done \nSound like you? Apply with your CV and a 2-minute audio or video recording about a cold call you made that turned into an opportunity your sales team accepted: what you said, the objection you hit, how you knew it was worth a meeting, and what happened after the handoff . We review every application, and our recruiter will be in touch within a few days to walk you through next steps!\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 4,
-      "matched": [
-        "ai",
-        "problem: lead intake"
-      ],
-      "queue": "contract",
-      "priority": 13,
-      "reasons": [
-        "lead intake",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/forager/jobs/sales-development-representative-phone-first?utm_source=api",
-      "expires": "2027-01-15T09:01:53+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer",
       "source": "We Work Remotely",
       "title": "WorkMotion: Senior Software Engineer",
