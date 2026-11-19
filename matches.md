@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 15:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 16:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,6 +100,11 @@ Updated 2026-11-19 15:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manager Job Type...
+- [Stedi: Legal Engineering Counsel](https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803)  
+  Remote OK | posted Nov 18 16:00 UTC | score 6 | **$142** | automation, automate, agents, stripe, saas, ai
+  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad We're building a new healthcare clearinghouse Stedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product...
 - [Flowpouch: SEO & GEO Specialist](https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist)  
   Himalayas | posted Nov 17 09:10 UTC | score 3 | chatgpt, crawler, ai
   Fit: 11 | explicit hiring intent
