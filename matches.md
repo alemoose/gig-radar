@@ -1,10 +1,15 @@
 # Gig radar
 
-Updated 2026-11-19 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
+  We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
+  Fit: 31 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the proc...
 - [Elvoro: AI Creative Engineer (Social Media)](https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media)  
   Himalayas | posted Nov 18 18:07 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
   Fit: 31 | explicit hiring intent
