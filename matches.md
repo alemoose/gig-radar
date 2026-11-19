@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 02:01 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 06:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -150,11 +150,6 @@ Updated 2026-11-19 02:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
   > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
-- [PhillyTech.Co: Customer Success Manager (Enterprise & Banking) | $70K to $80K USD Base + Bonus](https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus)  
-  Himalayas | posted Nov 16 05:59 UTC | score 3 | **USD 70000 to 80000/annual** | workflow, saas, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
 - [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
   Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
   Fit: 3 | budget stated, verify scope and currency
