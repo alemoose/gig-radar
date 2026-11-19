@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 20:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 21:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -105,11 +105,6 @@ Updated 2026-11-19 20:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
-- [Prominence Advisors: Epic Behavioral Health Reporting Analyst](https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst)  
-  Himalayas | posted Nov 19 14:58 UTC | score 4 | workflow, problem: workflow repair
-  Fit: 15 | workflow repair; posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
 - [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
   Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -155,6 +150,11 @@ Updated 2026-11-19 20:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
+- [Prominence Advisors: Epic Behavioral Health Reporting Analyst](https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst)  
+  Himalayas | posted Nov 19 14:58 UTC | score 4 | workflow, problem: workflow repair
+  Fit: 9 | workflow repair; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
 - [EMCD: Senior Go Developer (Blockchain & Ledger)](https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger)  
   Himalayas | posted Nov 19 12:36 UTC | score 4 | postgresql, claude, node, ai
   Fit: 9 | explicit hiring intent
