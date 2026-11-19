@@ -874,39 +874,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032",
-      "source": "Himalayas",
-      "title": "mercor: AI Safety Specialist - Fully Remote | Upto $25/hr",
-      "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032",
-      "posted": "2026-11-18T19:48:33+00:00",
-      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: AI Safety Experts — English & Malay\nType:Contract\nCompensation:$17–$25/hour\nLocation:RemoteRole Responsibilities\nRed team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases.\nGenerate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks.\nApply structure by following taxonomies, benchmarks, and playbooks to ensure consistent testing.\nDocument reproducibly to produce reports, datasets, and attack cases that customers can act on.\nReview AI outputs on sensitive topics such as bias and misinformation, with optional participation in higher-sensitivity projects.\nQualifications\nMust-Have\nFluent Language Skills Required: English & Malay\nPrior red teaming experience in AI adversarial work, cybersecurity, or socio-technical probing.\nAbility to explain risks clearly to technical and non-technical stakeholders.\nPreferred\nExperience in Adversarial ML: jailbreak datasets, prompt injection, RLHF/DPO attacks, model extraction.\nBackground in Cybersecurity: penetration testing, exploit development, reverse engineering.\nExpertise in socio-technical risk: harassment/disinfo probing, abuse analysis, conversational AI testing.\nCreative probing skills: psychology, acting, writing for unconventional adversarial thinking.\nApplication Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
-      "budget": "USD 17 to 25/hourly",
-      "score": 4,
-      "matched": [
-        "agents",
-        "prompt",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 9,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "hourly budget below preferred floor",
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032?utm_source=api",
-      "expires": "2027-01-17T19:48:32+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
       "source": "Himalayas",
       "title": "micro1: ML Engineer",
@@ -1039,6 +1006,38 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus?utm_source=api",
       "expires": "2027-01-15T05:59:46+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032",
+      "source": "Himalayas",
+      "title": "mercor: AI Safety Specialist - Fully Remote | Upto $25/hr",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032",
+      "posted": "2026-11-18T19:48:33+00:00",
+      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: AI Safety Experts — English & Malay\nType:Contract\nCompensation:$17–$25/hour\nLocation:RemoteRole Responsibilities\nRed team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases.\nGenerate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks.\nApply structure by following taxonomies, benchmarks, and playbooks to ensure consistent testing.\nDocument reproducibly to produce reports, datasets, and attack cases that customers can act on.\nReview AI outputs on sensitive topics such as bias and misinformation, with optional participation in higher-sensitivity projects.\nQualifications\nMust-Have\nFluent Language Skills Required: English & Malay\nPrior red teaming experience in AI adversarial work, cybersecurity, or socio-technical probing.\nAbility to explain risks clearly to technical and non-technical stakeholders.\nPreferred\nExperience in Adversarial ML: jailbreak datasets, prompt injection, RLHF/DPO attacks, model extraction.\nBackground in Cybersecurity: penetration testing, exploit development, reverse engineering.\nExpertise in socio-technical risk: harassment/disinfo probing, abuse analysis, conversational AI testing.\nCreative probing skills: psychology, acting, writing for unconventional adversarial thinking.\nApplication Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
+      "budget": "USD 17 to 25/hourly",
+      "score": 4,
+      "matched": [
+        "agents",
+        "prompt",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 3,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "hourly budget below preferred floor",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032?utm_source=api",
+      "expires": "2027-01-17T19:48:32+00:00",
       "imported": false,
       "date_basis": "posted"
     },

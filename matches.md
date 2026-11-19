@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 01:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 02:01 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -135,11 +135,6 @@ Updated 2026-11-19 01:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
-- [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
-  Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
-  Fit: 9 | posted within 6 hours; budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Malay Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases. Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks. Apply structu...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -160,6 +155,11 @@ Updated 2026-11-19 01:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
+- [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
+  Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
+  Fit: 3 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Malay Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases. Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks. Apply structu...
 - [WRS Health: Human Centered Design Manager](https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602)  
   Himalayas | posted Nov 18 19:17 UTC | score 3 | automation, agents, ai
   Fit: 2 | 
