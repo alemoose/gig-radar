@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-19 22:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 22:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
-  We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
-  Fit: 31 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the proc...
 - [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
   Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
   Fit: 29 | data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
@@ -40,6 +35,11 @@ Updated 2026-11-19 22:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent
   Check: budget unknown
   > Headquarters: India URL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners AI Engineer | India Department: Engineering Reports To: Product & Engineering Leadership Location: India - Fully Remote Employment Type: Full-Time Experience Level: Mid-Level Compensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise Position Overview The AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) s...
+- [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
+  We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
+  Fit: 25 | explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the proc...
 - [Xperteez Technology: 🌍 Hardware Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract)  
   Himalayas | posted Nov 19 12:22 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
   Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
