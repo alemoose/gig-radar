@@ -77,38 +77,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
-      "source": "Himalayas",
-      "title": "mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr",
-      "url": "https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
-      "posted": "2026-11-18T19:26:32+00:00",
-      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: MCP & Plug In Connectors Expert\nType:Contract\nCompensation:$50–$190/hour\nLocation:Remote\nCommitment:20+ hours/weekRole Responsibilities\nEvaluate AI systems on complex personal workflows, including personal health, travel, and activity planning.\nDesign realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and other plugins/connectors.\nExecute tasks while recording your screen and using personal plugins/connectors.\nWrite clear explanations of AI successes and failures to improve AI model performance.\nJudge AI outputs for practicality, personalization, and reasoning.\nIdentify where models miss context, overreach, or fail to use tools correctly.\nQualifications\nMust-Have\nUS-based only.\nStrong MCP experience and plugin/connector usage.\nExperience using LLM plugins/connectors like Google Drive, Expedia, and Notion.\nHeavy personal usage of LLM products.\nActive LLM account with 6+ months of history.\nWillingness to sign a data-share consent form via DocuSign.\nExperience using AI for multi-step planning, research, and decision-making.\nStrong written judgment and attention to detail.\nAbility to evaluate AI outputs and write against rubrics.\nPreferred\nExtensive rubric experience with 100+ hours on prior projects.Compensation & Legal\nHourly contractor.\nExperts added to the project will begin in a trial period.\nApplication Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 190/hourly",
-      "score": 5,
-      "matched": [
-        "workflow",
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 26,
-      "reasons": [
-        "posted within 6 hours",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr?utm_source=api",
-      "expires": "2027-01-17T19:26:31+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
       "source": "We Work Remotely",
       "title": "Elvoro: AI Creative Engineer (Social Media)",
@@ -240,6 +208,37 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
       "expires": "2027-01-15T20:22:04+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
+      "source": "Himalayas",
+      "title": "mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr",
+      "url": "https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
+      "posted": "2026-11-18T19:26:32+00:00",
+      "body": "About the job\nMercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey.\nPosition: MCP & Plug In Connectors Expert\nType:Contract\nCompensation:$50–$190/hour\nLocation:Remote\nCommitment:20+ hours/weekRole Responsibilities\nEvaluate AI systems on complex personal workflows, including personal health, travel, and activity planning.\nDesign realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and other plugins/connectors.\nExecute tasks while recording your screen and using personal plugins/connectors.\nWrite clear explanations of AI successes and failures to improve AI model performance.\nJudge AI outputs for practicality, personalization, and reasoning.\nIdentify where models miss context, overreach, or fail to use tools correctly.\nQualifications\nMust-Have\nUS-based only.\nStrong MCP experience and plugin/connector usage.\nExperience using LLM plugins/connectors like Google Drive, Expedia, and Notion.\nHeavy personal usage of LLM products.\nActive LLM account with 6+ months of history.\nWillingness to sign a data-share consent form via DocuSign.\nExperience using AI for multi-step planning, research, and decision-making.\nStrong written judgment and attention to detail.\nAbility to evaluate AI outputs and write against rubrics.\nPreferred\nExtensive rubric experience with 100+ hours on prior projects.Compensation & Legal\nHourly contractor.\nExperts added to the project will begin in a trial period.\nApplication Process (Takes 20–30 mins to complete)\nUpload resume\nAI interview based on your resume\nSubmit form\nResources & Support\nFor details about the interview process and platform information, please check: \nFor any help or support, reach out to: \nPS: Our team reviews applications daily. Please complete your AI interview and application steps to be considered for this opportunity.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 190/hourly",
+      "score": 5,
+      "matched": [
+        "workflow",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 20,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr?utm_source=api",
+      "expires": "2027-01-17T19:26:31+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -943,39 +942,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602",
-      "source": "Himalayas",
-      "title": "WRS Health: Human Centered Design Manager",
-      "url": "https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602",
-      "posted": "2026-11-18T19:17:39+00:00",
-      "body": "Company Overview\nVoted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview\nWe are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive, accessible, and impactful for the physicians, clinical staff, billers, front-desk teams, and patients who rely on them every day. In a clinical setting, a confusing screen costs a provider time, adds to burnout, and can affect patient safety, so this role carries real weight. You will thrive here if you love sitting with users in their actual workflows, can turn messy observations into clear direction, and can defend design decisions with evidence.Key ResponsibilitiesUser Research\nConduct contextual inquiries, interviews, field observations, and surveys with physicians, clinical staff, billers, and patients to uncover explicit and latent needs.\nPartner with account managers and support teams to surface usability pain points from client feedback and support tickets.\nSynthesis & Strategy\nTranslate research into personas, journey maps, service blueprints, and system workflows across clinical, operational, and billing processes.\nPresent insights to product and executive leadership to shape roadmap priorities.\nIdeation & Prototyping\nFacilitate cross-functional design workshops and build low- to high-fidelity wireframes and interactive prototypes in Figma, Sketch, or Adobe XD.\nDesign AI-powered features (AI charting, AI agents) that keep clinicians in control and make AI output easy to review and correct.\nUsability Testing\nPlan, moderate, and analyze formative and summative usability tests to iterate on designs before and during development.\nEvaluate safety-critical workflows such as medication management and e-prescribing, and support ONC Safety-Enhanced Design testing.\nCollaboration & Governance\nPartner with product managers, business analysts, and engineers in Agile/Scrum teams to maintain design integrity from concept through release.\nUphold accessibility standards (WCAG, Section 508) and HIPAA-safe research practices across all products.\nLeadership\nBuild and scale WRS Health's HCD practice, including research operations, templates, and standards.\nMentor designers and researchers, and coach teammates on human-centered methods.\nQualificationsRequired\nEducation: Bachelor's or Master's degree in Human-Centered Design, Human-Factors Engineering, Interaction Design, Cognitive Psychology, or a related field.\nExperience: 3 to 6+ years of professional experience in HCD, UX design, or user research, including enterprise or regulated-industry experience.\nTechnical Skills: Proficiency in prototyping software (Figma, Sketch, or Adobe XD), qualitative research methodologies, usability testing frameworks, and Agile/Scrum delivery flows.\nAccessibility: Working knowledge of Section 508 and WCAG standards and how to apply them in practice.\nCore Competencies: Strong empathy, verbal storytelling, analytical problem-solving, and the ability to defend design decisions with data.\nA portfolio or case studies demonstrating end-to-end research, synthesis, prototyping, and measurable impact.\nPreferred\nExperience designing for EHR, practice management, revenue cycle, telehealth, or other health IT products.\nFamiliarity with clinical workflows and terminology across ambulatory specialties.\nKnowledge of ONC Safety-Enhanced Design (user-centered design and summative testing) requirements, NISTIR 7804, or ISO 9241-210.\nExperience designing AI-assisted or automation features, including human-in-the-loop review patterns.\nPrior experience leading or mentoring designers/researchers, or building a design function from the ground up.\nExperience with remote research and unmoderated testing tools and product analytics platforms.\nClinical background or prior work in a medical practice setting.\nA Day in the Life\nYour days move between the field, the whiteboard, and the prototype. You might start by joining the product team's stand-up to flag a research insight affecting an upcoming sprint, then sit in (virtually or on-site) with a specialty practice to watch how the front desk, medical assistants, and physicians actually work, noting the workarounds they've built and where the screens slow them down. Later, you could be synthesizing those observations into an updated journey map, facilitating a workshop with product managers, engineers, and billing specialists to sketch solutions, or moderating a usability test of a new AI charting feature to see how a clinician reviews and trusts AI-drafted notes. Before the day ends, you refine prototypes in Figma based on what you learned, check designs against accessibility standards, share prioritized recommendations with product leadership, and make time to coach the designers and researchers on your team.Success Metrics\nMeasurable usability gains: Improved task success rates, time-on-task, error rates, and System Usability Scale (SUS) scores for redesigned workflows, including fewer clicks and less documentation time for key clinical tasks.\nResearch-driven roadmap: Consistent monthly contact with users across specialties, with a clear, visible share of roadmap items originating from or validated by HCD research.\nFewer usability issues post-release: Decline in usability-related support tickets, rework, and post-launch design defects.\nAccessibility and certification compliance: New and updated features meet WCAG 2.1/2.2 AA and Section 508 standards at release, and ONC Safety-Enhanced Design documentation is completed on time.\nAdoption and satisfaction: Higher feature adoption (including AI features) and improved client satisfaction or NPS for redesigned areas.\nJob Details\nJob Type: Full-time | Independent Contractor\nLocation: Remote\nHours: Must be available during standard US business hours (9:00 AM – 5:00 PM EST or 8:30 AM – 4:30 PM EST)\nCompensation will be based on location, experience, and qualifications.\nThis job description outlines the general responsibilities of the role and is not exhaustive. Additional duties may be assigned as needed to support business operations.\nWRS Health is an equal opportunity employer.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 3,
-      "matched": [
-        "automation",
-        "agents",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 8,
-      "reasons": [
-        "posted within 6 hours"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602?utm_source=api",
-      "expires": "2027-01-17T19:17:39+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover",
       "source": "Himalayas",
       "title": "Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)",
@@ -1073,6 +1039,37 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/phillytech-co/jobs/customer-success-manager-enterprise-banking-70k-to-80k-usd-base-bonus?utm_source=api",
       "expires": "2027-01-15T05:59:46+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602",
+      "source": "Himalayas",
+      "title": "WRS Health: Human Centered Design Manager",
+      "url": "https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602",
+      "posted": "2026-11-18T19:17:39+00:00",
+      "body": "Company Overview\nVoted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview\nWe are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive, accessible, and impactful for the physicians, clinical staff, billers, front-desk teams, and patients who rely on them every day. In a clinical setting, a confusing screen costs a provider time, adds to burnout, and can affect patient safety, so this role carries real weight. You will thrive here if you love sitting with users in their actual workflows, can turn messy observations into clear direction, and can defend design decisions with evidence.Key ResponsibilitiesUser Research\nConduct contextual inquiries, interviews, field observations, and surveys with physicians, clinical staff, billers, and patients to uncover explicit and latent needs.\nPartner with account managers and support teams to surface usability pain points from client feedback and support tickets.\nSynthesis & Strategy\nTranslate research into personas, journey maps, service blueprints, and system workflows across clinical, operational, and billing processes.\nPresent insights to product and executive leadership to shape roadmap priorities.\nIdeation & Prototyping\nFacilitate cross-functional design workshops and build low- to high-fidelity wireframes and interactive prototypes in Figma, Sketch, or Adobe XD.\nDesign AI-powered features (AI charting, AI agents) that keep clinicians in control and make AI output easy to review and correct.\nUsability Testing\nPlan, moderate, and analyze formative and summative usability tests to iterate on designs before and during development.\nEvaluate safety-critical workflows such as medication management and e-prescribing, and support ONC Safety-Enhanced Design testing.\nCollaboration & Governance\nPartner with product managers, business analysts, and engineers in Agile/Scrum teams to maintain design integrity from concept through release.\nUphold accessibility standards (WCAG, Section 508) and HIPAA-safe research practices across all products.\nLeadership\nBuild and scale WRS Health's HCD practice, including research operations, templates, and standards.\nMentor designers and researchers, and coach teammates on human-centered methods.\nQualificationsRequired\nEducation: Bachelor's or Master's degree in Human-Centered Design, Human-Factors Engineering, Interaction Design, Cognitive Psychology, or a related field.\nExperience: 3 to 6+ years of professional experience in HCD, UX design, or user research, including enterprise or regulated-industry experience.\nTechnical Skills: Proficiency in prototyping software (Figma, Sketch, or Adobe XD), qualitative research methodologies, usability testing frameworks, and Agile/Scrum delivery flows.\nAccessibility: Working knowledge of Section 508 and WCAG standards and how to apply them in practice.\nCore Competencies: Strong empathy, verbal storytelling, analytical problem-solving, and the ability to defend design decisions with data.\nA portfolio or case studies demonstrating end-to-end research, synthesis, prototyping, and measurable impact.\nPreferred\nExperience designing for EHR, practice management, revenue cycle, telehealth, or other health IT products.\nFamiliarity with clinical workflows and terminology across ambulatory specialties.\nKnowledge of ONC Safety-Enhanced Design (user-centered design and summative testing) requirements, NISTIR 7804, or ISO 9241-210.\nExperience designing AI-assisted or automation features, including human-in-the-loop review patterns.\nPrior experience leading or mentoring designers/researchers, or building a design function from the ground up.\nExperience with remote research and unmoderated testing tools and product analytics platforms.\nClinical background or prior work in a medical practice setting.\nA Day in the Life\nYour days move between the field, the whiteboard, and the prototype. You might start by joining the product team's stand-up to flag a research insight affecting an upcoming sprint, then sit in (virtually or on-site) with a specialty practice to watch how the front desk, medical assistants, and physicians actually work, noting the workarounds they've built and where the screens slow them down. Later, you could be synthesizing those observations into an updated journey map, facilitating a workshop with product managers, engineers, and billing specialists to sketch solutions, or moderating a usability test of a new AI charting feature to see how a clinician reviews and trusts AI-drafted notes. Before the day ends, you refine prototypes in Figma based on what you learned, check designs against accessibility standards, share prioritized recommendations with product leadership, and make time to coach the designers and researchers on your team.Success Metrics\nMeasurable usability gains: Improved task success rates, time-on-task, error rates, and System Usability Scale (SUS) scores for redesigned workflows, including fewer clicks and less documentation time for key clinical tasks.\nResearch-driven roadmap: Consistent monthly contact with users across specialties, with a clear, visible share of roadmap items originating from or validated by HCD research.\nFewer usability issues post-release: Decline in usability-related support tickets, rework, and post-launch design defects.\nAccessibility and certification compliance: New and updated features meet WCAG 2.1/2.2 AA and Section 508 standards at release, and ONC Safety-Enhanced Design documentation is completed on time.\nAdoption and satisfaction: Higher feature adoption (including AI features) and improved client satisfaction or NPS for redesigned areas.\nJob Details\nJob Type: Full-time | Independent Contractor\nLocation: Remote\nHours: Must be available during standard US business hours (9:00 AM – 5:00 PM EST or 8:30 AM – 4:30 PM EST)\nCompensation will be based on location, experience, and qualifications.\nThis job description outlines the general responsibilities of the role and is not exhaustive. Additional duties may be assigned as needed to support business operations.\nWRS Health is an equal opportunity employer.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "automation",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 2,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602?utm_source=api",
+      "expires": "2027-01-17T19:17:39+00:00",
       "imported": false,
       "date_basis": "posted"
     },

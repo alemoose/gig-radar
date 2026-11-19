@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 01:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 01:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-19 01:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 31 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone)
   > Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptiona...
-- [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
-  Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
-  Fit: 26 | posted within 6 hours; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
 - [Elvoro: AI Creative Engineer (Social Media)](https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media)  
   We Work Remotely | posted Nov 18 00:12 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
   Fit: 25 | explicit hiring intent
@@ -40,6 +35,11 @@ Updated 2026-11-19 01:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
   > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
+- [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
+  Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
+  Fit: 20 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
 - [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -145,11 +145,6 @@ Updated 2026-11-19 01:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
-- [WRS Health: Human Centered Design Manager](https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602)  
-  Himalayas | posted Nov 18 19:17 UTC | score 3 | automation, agents, ai
-  Fit: 8 | posted within 6 hours
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Company Overview Voted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview We are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive,...
 - [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
   Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -165,6 +160,11 @@ Updated 2026-11-19 01:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > As Customer Success Manager, you’ll take ownership of the company’s top banking and enterprise relationships while bringing structure to the existing support team. You’ll begin with joint customer calls alongside Sales, learning each account’s goals, stakeholders, and history before taking over the relationship. From there, you’ll manage ongoing engagement, keep customers focused on the value they receive, identify renewal risks, and spot opportunities to expand. At the same time, you’ll build the customer success playbook: onboarding, service level agreements, escalation paths, and account...
+- [WRS Health: Human Centered Design Manager](https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602)  
+  Himalayas | posted Nov 18 19:17 UTC | score 3 | automation, agents, ai
+  Fit: 2 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Company Overview Voted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview We are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive,...
 - [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
   Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
   Fit: 2 | budget stated, verify scope and currency
