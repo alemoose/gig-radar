@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 12:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 13:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -25,16 +25,6 @@ Updated 2026-11-19 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python....
-- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
-  Himalayas | posted Nov 18 13:00 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
-- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
-  Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
-  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
 - [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
   Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
   Fit: 20 | budget stated, verify scope and currency
@@ -55,6 +45,11 @@ Updated 2026-11-19 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Hardware Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is engaging experienced Hardware Engineers to contribute to AI training projects built around complex, real-world engineering problems. In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful techni...
+- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
+  Himalayas | posted Nov 18 13:00 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
 - [micro1: Aerodynamics Expert](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053)  
   Himalayas | posted Nov 17 15:45 UTC | score 4 | **USD 80 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -90,6 +85,11 @@ Updated 2026-11-19 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
+- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
+  Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
+  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
 - [micro1: PhysioNet Competitor (Biomedical Signal Processing & ML)](https://himalayas.app/companies/micro1/jobs/physionet-competitor-biomedical-signal-processing-ml-173021274)  
   Himalayas | posted Nov 16 20:22 UTC | score 3 | **USD 60 to 120/hourly** | workflow, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency

@@ -147,71 +147,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
-      "source": "Himalayas",
-      "title": "micro1: Mechanical Engineering Expert",
-      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
-      "posted": "2026-11-18T13:00:17+00:00",
-      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 4,
-      "matched": [
-        "workflow",
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 23,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
-      "expires": "2027-01-15T20:21:42+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
-      "source": "Himalayas",
-      "title": "micro1: Competitive Data Scientist (Kaggle)",
-      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
-      "posted": "2026-11-18T13:00:17+00:00",
-      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
-      "budget": "USD 60 to 120/hourly",
-      "score": 3,
-      "matched": [
-        "agents",
-        "python",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 21,
-      "reasons": [
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
-      ],
-      "aliases": [],
-      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
-      "expires": "2027-01-15T20:22:04+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr",
       "source": "Himalayas",
       "title": "mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr",
@@ -341,6 +276,39 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/hardware-expert?utm_source=api",
       "expires": "2027-01-15T20:21:05+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "source": "Himalayas",
+      "title": "micro1: Mechanical Engineering Expert",
+      "url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
+      "posted": "2026-11-18T13:00:17+00:00",
+      "body": "Mechanical Engineering Expert\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAnBSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.Start Timeline & Availability\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 17,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270?utm_source=api",
+      "expires": "2027-01-15T20:21:42+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -567,6 +535,38 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408?utm_source=api",
       "expires": "2027-01-17T14:23:21+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "source": "Himalayas",
+      "title": "micro1: Competitive Data Scientist (Kaggle)",
+      "url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
+      "posted": "2026-11-18T13:00:17+00:00",
+      "body": "Role Title: Competitive Data Scientist (Kaggle)\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contractor (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Australia, Canada, New Zealand, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Australia, Canada, New Zealand, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
+      "expires": "2027-01-15T20:22:04+00:00",
       "imported": false,
       "date_basis": "posted"
     },
