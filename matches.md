@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 23:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 23:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-19 23:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, develop...
-- [Xperteez Technology: Mechanical Engineering Expert, Remote](https://himalayas.app/companies/xperteez-technology/jobs/mechanical-engineering-expert-remote)  
-  Himalayas | posted Nov 19 17:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: Mechanical Engineering Expert Job Type: Contract (~15 hours per week) Pay: $60–$120/hour Location: Global, fully remote Schedule: Flexible, choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may...
 - [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
   Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
@@ -55,6 +50,11 @@ Updated 2026-11-19 23:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent
   Check: budget unknown
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
+- [Xperteez Technology: Mechanical Engineering Expert, Remote](https://himalayas.app/companies/xperteez-technology/jobs/mechanical-engineering-expert-remote)  
+  Himalayas | posted Nov 19 17:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: Mechanical Engineering Expert Job Type: Contract (~15 hours per week) Pay: $60–$120/hour Location: Global, fully remote Schedule: Flexible, choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may...
 - [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
   Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
