@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 06:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 08:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -135,11 +135,6 @@ Updated 2026-11-19 06:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands
   > Who we are Flow Pouch makes functional mushroom pouches. People use them as a clean alternative to nicotine pouches and energy products: no nicotine, no caffeine, no crash. We launched in 2024, we have grown quickly, mostly through subscriptions, and we manufacture in the US. We are a remote team of about 30 people globally.Why we are hiring We have had an agency on SEO. We are replacing it with one person who can show results and who understands that search now includes ChatGPT, Perplexity and Google AI Overviews as much as the ten blue links. We want someone who owns organic search for en...
-- [TachyonShift: Senior Forward Deployed AI Engineer](https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer)  
-  Himalayas | posted Nov 16 08:41 UTC | score 8 | automation, typescript, workflow, agents, python, llm
-  Fit: 11 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > About TachyonShift TachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week. The role Build things that run in production. Lead the work t...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency

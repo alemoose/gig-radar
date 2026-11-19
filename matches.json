@@ -870,43 +870,6 @@
       "date_basis": "posted"
     },
     {
-      "id": "himalayas:https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer",
-      "source": "Himalayas",
-      "title": "TachyonShift: Senior Forward Deployed AI Engineer",
-      "url": "https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer",
-      "posted": "2026-11-16T08:41:22+00:00",
-      "body": "About TachyonShift\nTachyonShift builds, runs and governs AI and cloud systems for customers. We started as a managed cloud practice. Customers asked for AI in production, the missing piece was governance, and we built UnifAI, an enterprise AI platform with governed agents, every major model and one audit trail. Today one team builds the system, operates it after launch and stays accountable for the result. Every engagement has a named senior engineer, written success metrics and a working demo in front of the customer every week.\nThe role\nBuild things that run in production. Lead the work that puts a governed, working AI system in front of a customer in weeks.\nA forward deployed engineer works inside the customer's business. You sit with the people who do the work, learn the process and the data, and build the system that replaces the manual steps. As a senior engineer you are the named engineer on the engagement: the customer's technical point of contact, the person who writes the plan, leads the build, and answers for the result after launch.\nWhat you will do\nWork backwards with the customer: write the announcement, the success metrics, and the hard questions before the first line of code\nDesign and build production AI systems on the customer's real data: retrieval, multi-step agents, workflow automation, integrations, and the code that makes them dependable\nChoose the right model for each step, from any provider, and keep the system model-neutral so a model swap is a configuration change\nWrite evaluation tests before launch and design the human verification and audit trail for every output where an error costs money\nDemo working software to the customer every week and change course on what you learn\nOperate what you ship under the operating agreement: monitoring, incident response, runbooks, and a monthly results review\nMentor engineers and set the technical bar on your engagement\nWhat success looks like in your first 90 days\nLead an engagement from working-backwards document to a working version on real data, demoed weekly\nShip evaluation tests and a monitoring plan with the first release\nLeave runbooks that let another engineer or the customer operate the system\nRaise one improvement to how the team scopes, builds, or verifies AI systems\nWhat you bring\nEight or more years building and running production software, including hands-on delivery of LLM-based systems\nStrong Python or TypeScript, and sound judgment on data models, APIs, and cloud architecture\nExperience integrating with enterprise systems such as CRM, ERP, ticketing, identity, or a data warehouse\nComfort working directly with customer teams, executives included, and saying plainly what will and will not work\nA record of owning a system after launch, not only building it\nThe habit of telling the customer what you know, what you do not know, and what it will cost\nHelpful, not required\nExperience with agent frameworks, fine-tuning, or evaluation tooling\nWork in finance, professional services, or the public sector, where audit requirements are real\nExperience with AWS, Azure, or GCP at the platform level\nHow we work together\nCustomer Value First: we measure success by the customer's outcome, not by features shipped.\nFull Ownership Mindset: we own problems end to end and fix what needs fixing, whoever's job it is.\nResults Drive Recognition: we recognize contribution, capability and results.\nIntegrity: we do the right thing even when nobody is looking.\nRespect for Every Person: we treat everyone with dignity and listen first, whether they are a customer, a colleague or a candidate.\nWorking here\nRemote across the United States. Small teams led by senior people, on customers' real data and systems. You see what your work does.\nHow we hire\nWe hire on demonstrated ability. Apply on this page and tell us about work you are proud of, such as a system you built, a problem you solved or a decision you owned. Expect a short screen, a conversation with a senior member of the team, a review of work you have done, and a final conversation. Apply on this page only. We never ask for payment, bank details or government ID during hiring.\nEqual Opportunity\nTachyonShift is an equal opportunity employer. We hire, assign and promote on demonstrated capability and results, and we do not discriminate on any basis protected by law.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 8,
-      "matched": [
-        "automation",
-        "typescript",
-        "workflow",
-        "agents",
-        "python",
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 11,
-      "reasons": [
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/tachyonshift/jobs/senior-forward-deployed-ai-engineer?utm_source=api",
-      "expires": "2027-01-15T08:41:21+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967",
       "source": "Himalayas",
       "title": "micro1: ML Engineer",
