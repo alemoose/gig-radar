@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 08:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 09:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -140,11 +140,6 @@ Updated 2026-11-19 08:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
-- [Prosci: Portfolio Marketing Specialist (12-Month Fixed Term, Maternity Cover)](https://himalayas.app/companies/prosci/jobs/portfolio-marketing-specialist-12-month-fixed-term-maternity-cover)  
-  Himalayas | posted Nov 16 08:59 UTC | score 4 | **USD 80000 to 100000/annual** | automation, workflow, saas, ai
-  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > We are looking for a Portfolio Marketing Specialist who combines strong positioning and storytelling skills with a hands-on approach to execution. Working within the Brand team, you will help shape how Prosci's expanding portfolio of products and solutions is positioned, understood and brought to market. This is a 12-month fixed-term role. Since our founding in 1994, Prosci has been laser-focused on change. By combining our deep understanding of people with a proven methodology rooted in the creation of the Prosci ADKAR Model, we've helped countless people and organizations thrive. Our solu...
 - [micro1: Computational Bioscience Expert (Python)](https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python)  
   Himalayas | posted Nov 17 15:45 UTC | score 4 | **$60** | workflow, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
