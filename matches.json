@@ -43,6 +43,173 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us",
+      "source": "Himalayas",
+      "title": "RemoteJobsOne: Paralegal (General) – Remote (US)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us",
+      "posted": "2026-11-19T19:27:26+00:00",
+      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in United States.\nPay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote\nWe are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Experienced US-based law firm paralegals are encouraged to participate, especially those adept in research, document review, case file management, drafting pleadings and filings, and eDiscovery tools such as Relativity. Strong written and verbal communication skills are essential, as precise legal analysis and clear documentation are critical to this engagement.Scope of Work\nConduct comprehensive legal research and analysis on a variety of legal topics and case materials.\nReview, annotate, and summarize legal documents, case files, pleadings, and filings for data training purposes.\nLeverage eDiscovery platforms, including Relativity, to identify, categorize, and extract relevant information from large data sets.\nPrepare detailed legal annotations and structured datasets to support machine learning initiatives.\nAssess and verify the accuracy, completeness, and quality of legal data entries and annotations.\nCollaborate remotely with project coordinators to meet deliverable standards and project milestones.\nProvide insight into legal processes, terminology, and procedural nuances to enhance AI system understanding.\nPreferred Qualifications\nSubstantial experience as a paralegal within a US-based law firm or legal service provider.\nDemonstrated proficiency with legal research, document review, and drafting pleadings and filings.\nHands-on familiarity with eDiscovery tools, particularly Relativity.\nExceptional written and verbal communication abilities for precise documentation and feedback.\nStrong organizational skills for management of large volumes of complex legal data.\nAttention to detail, accuracy, and reliability in handling sensitive legal information.\nInterest in or curiosity about the intersection of law and technology; prior AI or data annotation experience is a plus, but not required.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 70/hourly",
+      "score": 4,
+      "matched": [
+        "ai",
+        "problem: data collection"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "data collection",
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us?utm_source=api",
+      "expires": "2027-01-18T19:19:47+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide",
+      "source": "Himalayas",
+      "title": "RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide",
+      "posted": "2026-11-19T19:17:02+00:00",
+      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands.\nPay: $80–$130/hr\nRole Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote\nWe are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotation across patents, IP litigation, trademarks, copyright, licensing, and trade secrets. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work\nAnalyze and annotate complex legal documents pertaining to patents, trademarks, copyrights, licensing agreements, and trade secret matters.\nReview litigation materials and summarize case law or outcomes relevant to intellectual property disputes.\nIdentify, extract, and label key legal concepts and data points in accordance with detailed project guidelines.\nDraft detailed explanations to clarify legal rationale and distinctions for AI model understanding.\nProvide written feedback on annotation standards, ambiguity, or project requirements to enhance data quality.\nCollaborate asynchronously with project managers and other legal professionals to ensure consistency and accuracy.\nMaintain confidentiality and manage sensitive legal information in line with best practices.\nPreferred Qualifications\nActive bar admission and legal practice experience in the United States, with a focus on intellectual property law.\nDemonstrated expertise in patent prosecution, IP litigation, trademark, copyright, licensing, and/or trade secret protection.\nStrong analytical and research capabilities, with experience interpreting legal documents and case law.\nExceptional written and verbal communication skills, with a meticulous approach to legal annotation and review.\nFamiliarity with legal data analysis, annotation tools, or legal technology platforms (a plus but not essential).\nAbility to provide actionable, constructive feedback and adapt to evolving project guidelines.\nDemonstrated reliability and attention to detail in managing complex legal assignments.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
+      "budget": "USD 80 to 130/hourly",
+      "score": 4,
+      "matched": [
+        "ai",
+        "problem: data collection"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "data collection",
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide?utm_source=api",
+      "expires": "2027-01-18T19:17:00+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/stem-expert",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: 🌍 STEM Expert",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert",
+      "posted": "2026-11-19T18:39:35+00:00",
+      "body": "Role Title: STEM Expert\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills:\nBiology\nWe are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python.\nThe work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct.\nThis is a very coding heavy role. Candidates but have experience using coding agents in their workflow.\nCandidates are not expected to be experts across every STEM discipline. We are looking for deep expertise in at least one of the following areas:\nChemistry\nBiology\nMathematics\nPhysics\nEarth Science / Geoscience / Environmental Science\nRobotics\nAdjacent scientific or quantitative disciplines may also be considered where the candidate's expertise is directly relevant.What You’ll Work On:\nSolve complex scientific, mathematical, or technical problems within your domain of expertise.\nReview AI-generated solutions for factual, mathematical, and scientific correctness.\nIdentify incorrect assumptions, reasoning errors, missing constraints, and subtle technical mistakes.\nRequired Qualifications:\nStrong expertise in at least one relevant STEM or scientific domain.\nPractical proficiency with Python or other coding languages.\nStrong scientific, mathematical, or quantitative problem-solving ability.\nRelevant Python tools may include NumPy, SciPy, pandas, SymPy, Jupyter, or domain-specific scientific libraries. No particular Python library is mandatory.\nExpertise may come from academic research, industry, teaching, engineering, independent technical work, or other demonstrated experience. A specific degree or number of years of experience is not strictly required if you can demonstrate strong expertise in your field.Process:\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure:\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.\nMinimum submission requirements apply.\nStart Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/stem-expert?utm_source=api",
+      "expires": "2027-01-18T18:39:34+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/mechanical-engineering-expert-remote",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: Mechanical Engineering Expert, Remote",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/mechanical-engineering-expert-remote",
+      "posted": "2026-11-19T17:39:31+00:00",
+      "body": "Role Title: Mechanical Engineering Expert\nJob Type: Contract (~15 hours per week)\nPay: $60–$120/hour\nLocation: Global, fully remote\nSchedule: Flexible, choose the hours and days you work, including weekends if desired\nWe are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python.\nThe work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require translating physical requirements into a computational model, generating the required geometry or mesh, applying materials and boundary conditions, running an engineering simulation, and determining whether the resulting artifact and analysis satisfy the applicable physical and design constraints.\nThis is a very coding heavy role. Candidates must have experience using coding agents in their workflow.What You’ll Work On\nSolve and validate mechanical-engineering problems involving design, analysis, simulation, testing, or R&D.\nTranslate physical systems and engineering requirements into analytical or computational models.\nCreate or modify geometry, meshes, materials, loads, contacts, constraints, and solver inputs.\nRequired Qualifications\nAn BSc, MSc or PhD in Mechanical Engineering or a closely related engineering discipline; or\nStrong understanding of applied mechanics and mechanical-engineering fundamentals.\nExperience developing analytical, computational, or simulation-based engineering solutions.\nPractical proficiency with Python or other coding languages.\nPractical proficiency with coding agents.\nProcess Overview\nApplication\nAI Interview\nProfile Review\nOnboarding\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.\nStart Timeline & Availability: Immediate\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 4,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 29,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/mechanical-engineering-expert-remote?utm_source=api",
+      "expires": "2027-01-18T17:39:30+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: Competitive Data Scientist (Kaggle), Remote",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote",
+      "posted": "2026-11-19T19:14:25+00:00",
+      "body": "Role Title: Competitive Data Scientist (Kaggle)\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible-you choose the hours and days you work, including weekends if desired\nWe're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms.\nYou’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified reference solution, and reliable checks for successful completion.What You’ll Do\nBuild reproducible environments, prepare relevant data and dependencies, and implement reference solutions.\nDevelop tests and evaluation criteria that reliably distinguish correct solutions from incomplete or flawed approaches.\nRun coding agents against tasks, investigate their failures, and refine the tasks based on observed behavior.\nIdentify implementation errors, flawed assumptions, data leakage, and other issues that affect correctness.\nDocument task requirements, solution reasoning, and verification steps clearly.\nWhat We’re Looking For\nExpert rank or above on Kaggle/Similar platforms\nStrong problem-solving ability and a clear understanding of the methods you use.\nPractical programming ability sufficient to implement and verify your own solutions.\nRelevant competition platforms include Kaggle, DrivenData, Zindi, AIcrowd, Numerai, DataSource.ai, and CodaLab/Codabench.Huge Pluses\nStrong coding experience, particularly in Python, including testing, debugging, and working with unfamiliar code\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 3,
+      "matched": [
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 27,
+      "reasons": [
+        "posted within 6 hours",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote?utm_source=api",
+      "expires": "2027-01-18T19:14:24+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
       "source": "We Work Remotely",
       "title": "Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)",
@@ -76,6 +243,40 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: 🌍 Hardware Expert, Remote- Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract",
+      "posted": "2026-11-19T12:22:42+00:00",
+      "body": "Role Title: Hardware Expert\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nIn this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills:\nRTL\nHardware\nIn this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.\nWe are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We value engineers who can connect first-principles reasoning with practical constraints and produce work that can be independently verified.Scope of Work:\nCreate technically rigorous, self-contained hardware engineering problems based on realistic industry or research scenarios.\nDevelop clear reference solutions using engineering calculations, simulations, scripts, experimental reasoning, or other appropriate methods.\nUse tools such as Python, MATLAB, Simulink, SPICE, Julia, C/C++, test automation platforms, or equivalent engineering software to validate results when relevant.\nPreferred Qualifications:\nBachelor’s, Master’s, or PhD degree in Electrical Engineering, Mechanical Engineering, Mechatronics, Aerospace Engineering, Systems Engineering, Applied Physics, or a closely related field.\nSignificant professional or research experience in hardware engineering, product development, systems integration, testing, validation, reliability, or failure analysis.\nDemonstrated ownership of a substantial engineering problem—for example, a product or subsystem that reached production, a model validated against physical testing, a test system you developed, or a difficult failure you diagnosed.\nExperience working with Coding Agents is a must\nProcess:\nApply to the role and complete the screening questions.\nComplete an AI interview of approximately 30 minutes.\nComplete the hiring manager review.\nCompensation Structure:\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.\nMinimum submission requirements apply.\nStart Timeline & Availability:\nWe typically fill roles within 48 hours and are looking for experts who are ready to begin immediately. If selected, you will be expected to start your first task within 24–48 hours of completing onboarding.\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "automation",
+        "workflow",
+        "agents",
+        "python",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 25,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract?utm_source=api",
+      "expires": "2027-01-18T12:22:41+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -151,6 +352,71 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality",
+      "source": "Himalayas",
+      "title": "Luxury Presence: Manager, Production Quality",
+      "url": "https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality",
+      "posted": "2026-11-19T17:04:35+00:00",
+      "body": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM)\nTeam: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters\nThe Manager, Production Quality leads the Quality team and sets the standard for every website we deliver. This isn't just a QA management job. You'll shape how Quality and Production work together as one connected pipeline, with shared expectations around quality, efficiency, SLAs, and the final client experience.\nYou'll work closely with Production leadership and use what you learn from QA reviews, performance metrics, and recurring production challenges to build training, improve workflows, and put scalable solutions in place. The best version of this role combines a strong eye for design, deep knowledge of the Presence platform, people leadership, and a drive to keep raising the bar.What You'll OwnQuality Leadership and Design Excellence\nEstablish and maintain high standards for website design, functionality, compliance, brand consistency, and overall client experience.\nApply strong design judgment to evaluate visual hierarchy, layouts, typography, imagery, usability, and overall cohesion.\nLead quality calibrations and independent website audits, so expectations stay consistent and the team improves quality beyond catching errors.\nTeam Leadership, Coaching, and Development\nLead, coach, and develop the Quality team, setting clear performance expectations and holding the team accountable for quality, productivity, and turnaround times.\nDevelop and deliver design workshops, trainings, and best-practice initiatives for the Product Fulfillment Team.\nPartner with Production leadership to identify recurring skill gaps, give actionable feedback, and improve quality at the source.\nQA Operations and Production Alignment\nOwn daily QA operations, workload distribution, capacity planning, SLA adherence, and team performance.\nWork with Production leadership to improve handoffs, reduce friction between Production and QA, and share accountability for the final product.\nMonitor and analyze KPIs, including Website Draft Quality Score, Handling Time, On Time delivery, Pro Passback, and Passback Scores, to drive measurable improvement.\nIdentify bottlenecks and recurring quality issues, then implement solutions that reduce rework and improve delivery speed without lowering quality.\nInnovation and Tooling\nPartner with Product Development and Engineering to find opportunities for automation, improve existing tools, and test new solutions.\nHelp shape how Production and QA roles, responsibilities, and workflows evolve as new technologies arrive.\nTurn day-to-day production challenges into scalable improvements that strengthen quality, efficiency, and the production experience.\nCross-Functional Collaboration and Client Experience\nCollaborate with Production, Design, Onboarding, and other cross-functional leaders to close quality gaps and improve delivery.\nPartner with Quality leadership across Pro Production and DREC to align standards, share learnings, and build organization-wide initiatives.\nChampion a quality-first mindset, so every website is polished, functional, aligned with client expectations, and ready to deliver an exceptional experience.\nWhat We're Looking ForSkills and Experience\nExperience leading, coaching, and developing teams in website production, quality assurance, design, or a related environment.\nA strong understanding of website design principles, including visual hierarchy, typography, spacing, layout, branding, and user experience.\nThe ability to evaluate website quality, spot opportunities for improvement, and give clear, actionable design feedback.\nExperience managing operational performance, SLAs, team capacity, and productivity in a fast-paced environment.\nStrong analytical skills and experience using KPIs, quality trends, and performance data to drive improvements.\nThe ability to design and deliver effective training, workshops, and coaching.\nExperience finding process inefficiencies and working on tools, automation, or workflow improvements.\nStrong communication, problem-solving, and cross-functional collaboration skills.\nComfort navigating change, adapting to new technologies, and helping teams evolve as the business grows.\nMindset\nStrong design eye: You recognize what makes a website polished, cohesive, and effective, and you can explain clearly how to improve it.\nOwnership and accountability: You take responsibility for team outcomes, address challenges early, and follow through.\nQuality-first leadership: You believe quality means delivering an exceptional product, not only finding mistakes.\nCoaching mentality: You enjoy developing others and raising the capabilities of the whole production team.\nOperational excellence: You balance high standards with efficiency, productivity, and timely delivery.\nInnovation and adaptability: You embrace new tools, automation, and evolving workflows, and you help shape the future of Website Production.\nHands-on leadership: You lead by example, stay close to the work, and are comfortable reviewing websites, giving feedback, and solving problems directly.\nData-driven thinking: You use metrics, feedback, and trends to make decisions and drive continuous improvement.\nImportant note: Please ensure your CV is in English. \nJoin us in shaping the future of real estate\nThe real estate industry is in the midst of a seismic shift, and the future belongs to those who break new ground. As one of the fastest-growing companies in the proptech and marketing sectors, Luxury Presence challenges the status quo of what technology can do for real estate agents, leaders, and brokerages.\nWe're a team of agile and tenacious innovators working collaboratively to drive the industry forward. Together, we build game-changing products that empower modern real estate entrepreneurs to dominate their markets. From award-winning web design to agile SEO solutions to cutting-edge AI tools, we deliver tech that anticipates market shifts and keeps our clients ahead of their competition.\nFounded in 2016 by Stanford Business School alum Malte Kramer, Luxury Presence has grown to a global team ranked on the Inc. 5000 fastest-growing companies list three years in a row. We're backed by world-class investors, including Bessemer Venture Partners, NextEquity Partners, Toba Capital, and Switch Ventures, and have raised $89 million to date.\nMore than 20,000 real estate businesses rely on our platform, including 30% of the Wall Street Journal RealTrends top agents and teams. Additionally, many of the industry's most powerful brokerages rely on Luxury Presence as a trusted business partner.\nLuxury Presence has earned a spot on BuiltIn’s Best Places to Work list every year since 2020. Our founder and CEO was named a 2024 HousingWire Tech Trendsetter, and we’ve won multiple Tech100 Awards. Inman has also honored us twice: with the 2025 Innovation Award for Best AI-Powered Platform and the 2026 title of Best Proptech Company.\nLuxury Presence is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.\nOriginally posted on Himalayas",
+      "budget": "USD 3000 to 3000/monthly",
+      "score": 4,
+      "matched": [
+        "automation",
+        "workflow",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 24,
+      "reasons": [
+        "posted within 6 hours",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S."
+      ],
+      "aliases": [],
+      "location": "Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality?utm_source=api",
+      "expires": "2027-01-18T17:04:34+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations",
+      "source": "Himalayas",
+      "title": "HigherRing: Client Specialist - eCommerce Business & Sales Operations",
+      "url": "https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations",
+      "posted": "2026-11-19T13:00:46+00:00",
+      "body": "About HigherRing:\nHigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member.\nAbout the Role:\nClient Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with full benefits. The schedule is a four-hour morning shift starting at 8 or 9 a.m. PT. The role starts in early December 2026.\nThis role will support a growing eCommerce/CPG brand, working directly with the company's President and its fractional VP of Sales. This role will run sales administration and back-office projects so that leadership can stay focused on growing the business.\nThis role is still taking shape. You will spend your first weeks learning the work and documenting it as you go. Clear, lasting documentation is a core part of the job from day one.\nWe are looking for someone experienced to work directly with company leadership without needing work handed to them in small pieces. You enjoy creating order out of chaos and are comfortable when the path is not fully mapped.\nYou are also very comfortable with AI. You use AI tools every day to work faster and more accurately, and you help the team find better ways to use them. You also know where AI falls short and always check its output.Key Responsibilities:Sales administration\n• Organize trade shows and handle logistics, including booth, samples, collateral, travel, and follow-up lists.\n• Set up, maintain, and report from the CRM (currently HubSpot, with a possible move to a newer wholesale CRM)\n• Research accounts and prospects• Support sales reporting\nBack-office operations\n• Load recipes and other content to the company website in Shopify\n• Keep the sales manual current\n• Take on projects that would otherwise fall to the President\nDocumentation\n• Document all work as you learn it, so procedures are clear and usable by others\n• Keep documentation current as the role and systems change\nSupporting leadership\n• Work directly with the President and the fractional VP of Sales, who directs the sales work day to day\n• Come to check-ins ready to discuss priorities, project status, and open questions\n• Work alongside the company's local team member, who handles in-person events and customer visits.\n• Perform other duties as requestedFurther Details:\nThis role requires close communication and collaboration with the Client company management. The Client Specialist - eCommerce Business & Sales Operations will meet daily with the Client CEO to talk through challenges and sales opportunities. The Client Specialist - eCommerce Business & Sales Operations will prepare for these meetings by being ready to discuss pertinent topics such as:\nDeliverables\nProject statuses\nClient issues\nBusiness development opportunities\nPreparation for internal meetings\nThe Client Specialist - eCommerce Business & Sales Operations will likely help the Client CEO specifically in the following ways:\nCRM sales pipeline maintenance\nSending out sales emails\nFollowing a sales process\nPreparation for internal team meetings\nClient development work as requested\nThe Client Specialist - eCommerce Business & Sales Operations will document their work so that we have good operating procedures around the work based on the training provided.\nPerform other duties as requested.\nQualifications and Requirements:\n• Experience supporting company leadership in a sales operations, marketing operations, or business operations role.\n• Real hands-on CRM experience (HubSpot strongly preferred), with the judgment to tell a reporting problem from a data problem.\n• Trade show coordination and logistics experience.\n• Comfortable loading pages and content in Shopify without a developer.\n• Strong writer who can turn what you learn into clear procedures.\n• Comfortable in an undefined role, learning and documenting at the same time.\n• Proactive self-starter with excellent judgment.\n• Highly detail-oriented with strong organization skills.\n• Strong tech skills, including working across browsers, tabs, and tools, and hands-on daily use of AI tools (such\n as ChatGPT, Claude, or AI features in business software), with examples you can share of how you use them.\n• Fluent in spoken and written English. A second language is a plus.\n• Available for a four-hour morning shift starting at 8 or 9 a.m. Pacific, beginning in early December 2026.\n• Reliable home workspace: quiet, distraction-free, with a door that closes.\n• Hard-wired Ethernet connection with at least 50 Mbps download and 5 Mbps upload speeds.\nTo ensure the security of client data, team members may NOT use satellite or public network connections. Depending on the team, VPN may not be allowed.\nHigherRing is an equal opportunity employer and does not discriminate on the basis of race, color, religion, gender, gender expression, sexual orientation, age, national origin, disability, marital status, or military status, in any of its activities or operations.\nFurther, we are looking for people who want to use their power for good. We believe in a woman's right to choose, that everyone deserves to be able to easily vote, that guns should be regulated with at least the same laws applicable to car ownership (licensing and insurance), that we should be vaccinated and wear masks during a pandemic, that white supremacy is a past and growing problem, that humans are responsible for climate change and that it presents a clear and present danger to life on this earth. If those concepts don't align with your worldview, we may not be the employer for you.OUR BENEFITS PACKAGE INCLUDES:\nEmployee (not contractor) status at an exciting, socially-minded company\nOption to participate in medical, dental, and vision insurance programs \n401(k) plan with a 2% match contribution\nPaid vacation after your first year\nPaid sick leave \nA financial wellness and coaching program - 0% loans to help pay down debt\nOpportunity for everyone to be an owner in the company. Our Employee Stock Incentive Plan is offered to all employees.\nA fast-paced work environment where Team Member input is valued, and where mutual respect and camaraderie are a significant part of our culture.\nNOTE: \nCurrently, we are able to hire in the following states only. Please only apply if you live in and would be working from one of these states: Alabama, Arizona, Arkansas, Delaware, Florida, Georgia, Idaho, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Mississippi, Nevada, North Carolina, North Dakota, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, West Virginia and Wisconsin.READY TO TAKE THE NEXT STEPS?\nVisit our Careers page at HigherRing Careers to take the first steps!\nPlease be sure to (1) fully answer all the application questions, (2) add your resume/CV, and (3) include a cover letter! (We can’t consider you without all three submissions.)\nOriginally posted on Himalayas",
+      "budget": "USD 25 to 27/hourly",
+      "score": 3,
+      "matched": [
+        "chatgpt",
+        "claude",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 21,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Part Time",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations?utm_source=api",
+      "expires": "2027-01-18T13:00:45+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -389,6 +655,177 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist",
+      "source": "Himalayas",
+      "title": "Forj: Fractional Implementation Project Specialist",
+      "url": "https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist",
+      "posted": "2026-11-19T18:17:44+00:00",
+      "body": "ABOUT FORJ\nForj is a single solution for community and learning, purpose-built to modernize the member experience for associations and professional networks — serving over 300 organizations and a million professionals who rely on us to connect, learn, and grow. We’re a remote-first company headquartered in Delafield, Wisconsin, united not by a shared office but by a shared belief that the professionals who make our world better deserve better. We forge ahead with boldness and determination, but we know great work comes from people who feel trusted and supported — flexibility isn’t a perk here, it’s how we operate. Our five core values — We Forge Ahead, We Innovate, We Build Relationships, We Learn and Grow Always, We Win Together — aren’t just words; they’re how we show up for each other every day. We care about you as a person, not just a professional. We laugh, we celebrate, and we have each other’s backs. If you’re driven by meaningful work and a team that’s genuinely in it together, you belong here.ABOUT THE ENGAGEMENT\nForj is seeking an experienced Implementation Project Specialist to provide fractional project coordination support for our client implementations. Our clients are launching Forj Connect, Forj Learn and Journey by Forj, often while migrating from other platforms and connecting to their association management systems (AMS). You will keep implementations organized and moving by maintaining project plans, documenting client meetings, tracking action items and following up so nothing falls through the cracks. You’ll collaborate with our Implementation Specialists, who lead configuration, integrations and client delivery, and our Client Success Managers, who own client strategy and the relationship.HOW THIS ENGAGEMENT WORKS\nThis is a fractional contract engagement estimated at 15 to 20 hours per week. You decide when, where and how you work. The one exception is scheduled client calls and internal project meetings, which take priority: we expect you to attend them reliably and plan the rest of your work around them. Beyond those commitments, success is measured by delivering the services and outcomes in this scope of work, not by when you’re online or what hours you keep. Response times and communication norms will be agreed on at the start of the engagement so clients and the Forj team always know what to expect.WHAT YOU'LL DO\nSet up and maintain implementation project plans in Planhat, and keep dates and tasks current as changes are confirmed with the Implementation Specialist\nSchedule client meetings, prepare agendas from open action items, document notes, and deliver a written recap within 24 hours covering decisions, actions, owners and dates\nMaintain risk, decision and change request logs, and promptly flag potential delays or new client requests to the Implementation Specialist\nTrack progress toward project milestones (kickoff, plan approval, configuration sign-off, migration sign-off, user acceptance testing and go-live), and collect required approvals and documentation\nFollow up with clients on outstanding items such as data exports, single sign-on (SSO) setup, DNS changes and access to client technical contacts\nTrack cross-functional tasks across Implementation, Product, Engineering, Training and Client Success, send reminders ahead of due dates, and raise blockers with the Implementation Specialist or Director of Client Operations\nPrepare launch and handoff documentation for the Client Success Manager, including open issues, decisions and project records\nRecommend improvements to implementation templates, checklists and automation, including AI-assisted call recaps and status reporting\nEXPECTED OUTCOMES\nSuccess in this engagement is measured by the outcomes below\nSupporting 2–3 active implementations within the first 30 days, and a full coordination workload by month three\nReliable attendance at scheduled client calls and internal project meetings\nAccurate, current project plans and logs in Planhat, with recaps delivered within 24 hours of every client call\nConsistent tracking and follow-up on client action items, reducing delays caused by missed or forgotten tasks\nReduced scheduling, documentation and follow-up load on Implementation Specialists\nPractical recommendations for improving templates, checklists and handoff documentation\nWHO YOU ARE\nHighly organized: you keep many moving parts tracked and up to date\nDetail-oriented: you catch missed dates, open items and inconsistencies before they become problems\nSelf-directed: you manage your own time and deliver reliably without close oversight\nClear communicator: your recaps and reminders are concise, accurate and easy to act on\nCurious about technology: you don’t need to write code, but you have a working knowledge of how SSO, migrations and integrations work and can quickly get up to speed on new systems.\nQUALIFICATIONS\n3-5 years of experience in project coordination, implementation, onboarding or operations support, ideally in a SaaS environment\nExperience tracking tasks, timelines and action items across multiple projects at once\nStrong written communication, including meeting notes, recaps and status updates\nComfortable with project and customer success tools (e.g., Planhat or similar, Jira, HubSpot, Zoom)\nFamiliarity with SSO, data migrations or system integrations is beneficial\nExperience with association, nonprofit or membership organizations, AMS platforms (e.g., iMIS, NetForum, Fonteva, Nimble), or community and learning (LMS) platforms is beneficial\nProficiency using generative AI tools (e.g., Claude, ChatGPT) to work more efficiently, with good judgment in reviewing and owning AI-generated content\nCAPM or similar project coordination certification is beneficial\nENGAGEMENT REQUIREMENTS\nOperates as an independent business or sole proprietor and provides a W-9\nLegally able to provide services in the United States\nProvides own computer, internet access and workspace\nAble to collaborate with a distributed team across time zones\nAble to sign Forj’s independent contractor agreement, including confidentiality and data protection terms\nSalary: $60-$70/hour\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 70/hourly",
+      "score": 5,
+      "matched": [
+        "automation",
+        "chatgpt",
+        "claude",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 16,
+      "reasons": [
+        "posted within 6 hours",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist?utm_source=api",
+      "expires": "2027-01-18T18:17:43+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: Game Developer, Remote - Contract",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391",
+      "posted": "2026-11-19T12:33:18+00:00",
+      "body": "Role Title: Game Developer\nRole Type: Contract\nLocation: Remote\nIn this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.\nRequired Skills\nGameplay implementation\nTest design\nGame engine expertise\nEngine fluency\nGame development expertise\nLeverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to analyze, play, and develop games. Developers from all backgrounds—whether from AAA studios, indie circles, or solo projects—are encouraged to participate.Scope of Work\nDesign and build small-scale game projects or interactive scenes in a major game engine to serve as the foundation for assessment tasks.\nIntegrate realistic gameplay bugs that require thorough playtesting and on-screen analysis to discover and resolve.\nDevelop multifaceted gameplay feature challenges that rely on multiple in-game systems and mechanics.\nDraft clear and concise briefs for each task, emulating the style of instructions from players, designers, or producers.\nCreate comprehensive reference solutions—including both bug fixes and feature implementations—for every assignment.\nDefine detailed success criteria, including input sequences, expected visual outcomes, and verifiable in-game states.\nConduct end-to-end playtesting of each task to guarantee reliability and solvability.\nPreferred Qualifications\nDemonstrated experience in game development, whether in AAA, indie, solo, or serious hobby contexts.\nA portfolio or verifiable published work (personal site, itch.io, Steam, GitHub, game jam entries, or shipped title credits). Your portfolio is the most important part of your application and plays a major role in our selection, so please include the work that best represents your skills.\nAdvanced proficiency with at least one major game engine (Unity, Godot, Unreal), including editor tools, scene management, and debugging utilities.\nComfort with engine scripting languages such as C#, GDScript, C++, or Blueprints, with the ability to interpret, troubleshoot, and enhance gameplay logic.\nProven ability to identify and resolve gameplay issues through iterative playtesting.\nStrong written communication skills for drafting precise task instructions and acceptance criteria.\nExperience in game QA, technical design, systems design, automated testing, or prior contribution to AI evaluation projects is a plus.\nCompensation Structure\nCompensation is output-based; experts are paid per task that meets the project specifications. The time required to complete work may vary depending on the expert’s experience and workflow. Minimum submission requirements apply. Experts must submit a minimum of tasks per week.\nOriginally posted on Himalayas",
+      "budget": "USD 25 to 60/hourly",
+      "score": 3,
+      "matched": [
+        "workflow",
+        "agents",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 16,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391?utm_source=api",
+      "expires": "2027-01-18T12:33:17+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce",
+      "source": "Himalayas",
+      "title": "Gulf Coast Automation Group: Senior .NET Developer – Digital Payments & Subscription Commerce",
+      "url": "https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce",
+      "posted": "2026-11-19T11:01:27+00:00",
+      "body": "Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce\nPrimary Location: Lisle, IL\nPosition Type: Contract\nOverview\nTalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quote-to-cash value stream, and help build reusable payment, subscription, and customer portal capabilities across the United States, Canada, and Mexico.\nWhat You Bring to the Role. (Ideal Experience)\n10+ years of professional software development experience, primarily in the Microsoft technology stack\nStrong experience with C#, .NET Framework, ASP.NET, ASP.NET Core, MVC, Web API, ADO.NET, Entity Framework, WCF, and REST/SOAP services\nHands-on experience with payment service providers and gateways, including third-party payment APIs such as Stripe Billing and Subscriptions\nExperience building PCI-aware architectures and securely handling payment and other sensitive data\nExperience with idempotency, retry handling, duplicate transaction prevention, payment webhooks, refunds, reconciliation, and transaction status\nExperience with multi-currency, localization, and country-specific payment differences, plus integrations with ecommerce, Client, and workflow processing systems\nExperience with domain-driven design, microservices, and event-based architectures, including containerization, asynchronous messaging, API versioning, and observability\nStrong SQL Server development skills, including query optimization, stored procedures, triggers, and performance tuning\nFront-end experience with HTML5, CSS, Bootstrap, JavaScript, jQuery, Angular, and React\nSolid grasp of OOP, SOLID principles, design patterns, and clean code, using tools such as Azure DevOps, GitHub, TFS, Visual Studio, Postman, and SoapUI\nBachelor's degree in Computer Science, IT, Engineering, or a related field preferred (equivalent experience considered); Microsoft, cloud, or DevOps certifications a plus\nNice to have: experience leading small or onshore/offshore teams, legacy modernization and technical debt reduction, AI-enabled services or workflow automation, Oracle, DB2, or PostgreSQL, and manufacturing or automotive industry experience\nWhat You'll Do. (Skills Used in this Position)\nOwn solutions from design and architecture through the full production lifecycle\nDesign, develop, test, deploy, and maintain enterprise applications using C#, ASP.NET, ASP.NET Core, MVC, and Web API\nImplement and operationalize subscription capabilities, including pricing plans, purchase and activation, renewals and expirations, upgrades and downgrades, entitlements and service activation, and invoice and transaction history\nDesign and build domain-driven, bounded-context solutions using microservices and event-based architectures, including containerization, asynchronous messaging, API versioning and contract management, and distributed tracing\nBuild and consume RESTful APIs and web services to integrate with internal systems and external payment and financing partners\nModernize legacy .NET applications to improve performance, reliability, maintainability, and user experience\nDevelop responsive user interfaces using HTML5, CSS, Bootstrap, JavaScript, Angular, and React\nCreate and optimize SQL queries, stored procedures, triggers, and indexes across SQL Server and other relational databases\nSupport customer experience analytics and sales reporting\nContribute to Agile delivery and CI/CD, including sprint planning, backlog refinement, code reviews, unit testing, and releases through Azure DevOps, GitHub, and TFS\nProvide production support, troubleshoot issues, and lead root-cause analysis and corrective actions\nCollaborate with business users, product owners, QA, infrastructure, and onshore/offshore teams, and mentor developers on best practices\nCompensation Information\nThe expected salary range for this position is 65-75 per hour, depending on experience and qualifications. This role also qualifies for comprehensive benefits such as health insurance, 401(k), and paid time off. TalentFish is committed to pay transparency and equal opportunity. The salary range provided is in compliance with applicable state and federal regulations.\nThis role requires authorization to work in the U.S. without current or future visa sponsorship.\nAll offers are contingent upon the completion of a background check, which may include but is not limited to reference checks, education verification, employment verification, drug testing, criminal records checks, and any required certifications or compliance requirements based on the end client's background check policies and applicable laws.\nTalentFish is an employee-owned company pioneering a new realm in talent acquisition. We are redefining IT staffing by evolving AI, video screening, and our unique platform. TalentFish focuses on providing the best employee, consultant, and client experience possible.\nAt TalentFish we are an Equal Opportunity Employer; we embrace and encourage diversity!\nOriginally posted on Himalayas",
+      "budget": "USD 65 to 75/hourly",
+      "score": 8,
+      "matched": [
+        "automation",
+        "javascript",
+        "postgresql",
+        "workflow",
+        "stripe",
+        "react",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 16,
+      "reasons": [
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce?utm_source=api",
+      "expires": "2027-01-18T11:01:25+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst",
+      "source": "Himalayas",
+      "title": "Prominence Advisors: Epic Behavioral Health Reporting Analyst",
+      "url": "https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst",
+      "posted": "2026-11-19T14:58:27+00:00",
+      "body": "Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are\nProminence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight.\nWe deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, improve patient outcomes, and deliver measurable financial impact through smarter use of data. Recognized as a 2x Best in KLAS organization, we partner with more than 120 health systems and 40 life sciences organizations, including 7 of the top 10 U.S. News & World Report-ranked institutions.\nThrough our life sciences brands, Tegra Analytics and WLH Consulting & Learning Solutions, we extend these capabilities to pharmaceutical and biotech organizations — combining data, consulting, and learning to advance commercial excellence.\nBy connecting strategy, data, and execution, we help organizations translate data into clarity, strategy into action, and vision into measurable results. At our core, we are a people-first, values-driven organization that believes strong teams and trusted partnerships are what ultimately make healthcare and life sciences smarter.Job Summary\nProminence is looking for an Epic Behavioral Health Reporting Consultant with hands-on experience in Epic's Cogito reporting tools to support one of our leading health system clients through its implementation of Epic's Behavioral Health module. Partnering with the client's analytics team and behavioral health leaders, this role will gather reporting requirements, build and validate reports and dashboards, and make sure the organization has the clinical, operational, and regulatory reporting it needs at its scheduled go-live. \nPartner with behavioral health operational leaders, clinicians, and the client's analytics team to identify, prioritize, and document reporting requirements for the Epic Behavioral Health implementation.\nBuild, test, and deploy reporting content using Epic tools, including Reporting Workbench reports and templates, Radar dashboards, and SlicerDicer, as well as SQL-based reports from Clarity and Caboodle.\nInventory legacy behavioral health reports and map them to Epic foundation content or custom builds to ensure reporting continuity at go-live.\nDevelop reporting that supports clinical and regulatory needs, such as standardized assessments and outcome measures (e.g., PHQ-9, GAD-7, C-SSRS), measurement-based care, and behavioral health quality programs.\nValidate data accuracy through unit and integrated testing, and support go-live readiness, command center, and post-live stabilization reporting.\nApply appropriate security and access controls for sensitive behavioral health and substance use disorder data, including 42 CFR Part 2 considerations.\nDocument report specifications, build decisions, and best practices, and provide knowledge transfer so client analysts can maintain and expand reporting after go-live.\nRequirementsMinimum Qualifications\n3–5+ years of hands-on experience developing reports and dashboards in an Epic environment.\nActive Epic certification or proficiency in Cogito reporting tools, such as Cogito Fundamentals, Clarity Data Model, Caboodle Data Model, or Cogito Tools Administration.\nHands-on experience building and maintaining Reporting Workbench reports and templates and Radar dashboards.\nStrong SQL skills for querying and validating data in the Epic Clarity and/or Caboodle data models.\nExperience supporting at least one Epic implementation or new application go-live, including report build, testing, and validation.\nProven ability to gather requirements from clinical and operational stakeholders and translate them into clear report specifications.\nStrong communication skills and the ability to work independently and manage priorities within a part-time schedule.\nDesired Qualifications\nExperience with Epic's Behavioral Health module (inpatient or outpatient), or with Epic Ambulatory or Inpatient reporting in a psychiatric or behavioral health setting.\nFamiliarity with behavioral health clinical workflows, standardized assessments (e.g., PHQ-9, GAD-7, C-SSRS), and measurement-based care.\nKnowledge of behavioral health quality and regulatory reporting, such as the CMS Inpatient Psychiatric Facility Quality Reporting (IPFQR) program and Joint Commission requirements.\nUnderstanding of privacy requirements for substance use disorder records under 42 CFR Part 2 and how sensitive data is protected in Epic reporting.\nExperience with SlicerDicer configuration, Caboodle development, or Epic foundation reporting content.\nFamiliarity with data visualization and BI tools (Power BI, Tableau, SSRS, or Crystal Reports).\nPrior consulting or contract experience supporting health system clients.\nSkills, Knowledge, and Abilities\nProfessional: Demonstrates a high degree of professionalism by treating others with respect, keeping commitments, building trust within the team, working with integrity, and upholding organizational values (\"Do Great Work and Move Mountains\").\nOrganized: Capable of managing a full queue of tickets, build requests, and project tasks efficiently, ensuring smooth project flow.\nSelf-Motivated: Adept at managing personal schedules, meeting deadlines, and monitoring work quality independently with minimal ramp-up time.\nHighly Adaptable: Quickly acclimates to a new client environment, existing build, and established team processes.\nCreative: Approaches problems with a solution-oriented mindset, working collaboratively with clinicians and IT teams to find practical workflow solutions.\nCommunication: Effectively conveys clear and concise messages to clinical, technical, and operational audiences, both in written and verbal forms.\nProactive: Anticipates potential build or workflow issues, addresses concerns before they escalate, and effectively raises them when necessary.\nTeam-Oriented: Collaborates closely with the client's Epic team and shares knowledge to support a smooth transition and lasting results.\nPhysical and Medical Standards, Working Conditions and Environment\nMust be able to sit or stand at a computer and work remotely and independently from personal home office\nWillingness to travel for onsite meetings and business reviews as needed\nHours Worked\nThis is a 20 hour per week part-time position supporting a client engagement, with potential for extension.\nThis role is part of our active pipeline for upcoming client engagements and is contingent on project availability, with timing aligned to client demand.Benefits\nProminence is dedicated to hiring the best and brightest minds in healthcare and maintaining a culture that rewards our employees for following their passion. We’ve won Modern Healthcare’s Best Places to Work Award and have been voted to Chicago’s 101 Best and Brightest companies list three years running. Our most recent designation is being named in the top 10 by Consulting magazine as one of the Best Small Firm to Work For.\nProminence is dedicated to hiring the best and brightest minds in healthcare and maintaining a culture that rewards our employees for following their passion. We are excited to offer the following benefits for this position:\nCompetitive Salaried and Hybrid Compensation Plans\nHealth Care Plan (Medical, HSAs, Dental & Vision)\nRetirement Plan (401k)\nLife Insurance (Basic, Voluntary & AD&D)\nDependent & Health Savings Accounts\nShort Term & Long Term Disability\nPaid Time Off (Vacation/Sick & Public Holidays)\nTraining & Development Fund\nWork From Home\nCharitable Giving to Causes You Believe In\nEmployment Eligibility\nMust be legally authorized to work in the United States without sponsorship.Commitment to Equal Opportunity\nThe world’s most talented professionals come from every background. All applicants will be considered for employment without attention to age, race, color, religion, gender identity and/or expression, sexual orientation, national origin, marital status, veteran or disability status, or any other characteristic protected by law. In addition, Prominence will provide reasonable accommodations for qualified individuals with disabilities.\nIf you are smart and good at what you do, come as you are. All qualified candidates are encouraged to apply.Partnership Eligibility\nOur partnerships are extremely important to us. This online application is not intended for anyone who is currently under a non-compete agreement or has an arrangement that precludes employment at Prominence. We appreciate your help in respecting our partners.\nInterested in learning more? Apply below to connect with our Talent team about immediate openings and future consulting projects.\nProminence is dedicated to hiring the best and brightest minds in healthcare and maintaining a culture that rewards our employees for following their passion. We are excited to offer the following benefits for this position:\nCompetitive Salaried and Hybrid Compensation Plans\nHealth Care Plan (Medical, HSAs, Dental & Vision)\nRetirement Plan (401k)\nLife Insurance (Basic, Voluntary & AD&D)\nDependent & Health Savings Accounts\nShort Term & Long Term Disability\nPaid Time Off (Vacation/Sick & Public Holidays)\nTraining & Development Fund\nWork From Home\nCharitable Giving to Causes You Believe In\nEmployment Eligibility\nMust be legally authorized to work in the United States without sponsorship.Commitment to Equal Opportunity\nThe world’s most talented professionals come from every background. All applicants will be considered for employment without attention to age, race, color, religion, gender identity and/or expression, sexual orientation, national origin, marital status, veteran or disability status, or any other characteristic protected by law. In addition, Prominence will provide reasonable accommodations for qualified individuals with disabilities.\nIf you are smart and good at what you do, come as you are. All qualified candidates are encouraged to apply.Partnership Eligibility\nOur partnerships are extremely important to us. This online application is not intended for anyone who is currently under a non-compete agreement or has an arrangement that precludes employment at Prominence. We appreciate your help in respecting our partners.\nInterested in learning more? Apply below to connect with our Talent team about immediate openings and future consulting projects.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 4,
+      "matched": [
+        "workflow",
+        "problem: workflow repair"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "workflow repair",
+        "posted within 6 hours",
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Part Time",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst?utm_source=api",
+      "expires": "2027-01-18T14:58:26+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote",
+      "source": "Himalayas",
+      "title": "Xperteez Technology: ML Engineer, Remote",
+      "url": "https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote",
+      "posted": "2026-11-19T12:55:00+00:00",
+      "body": "Role Title: Senior ML Engineer\nPay: $60–$120/hour\nLocation: Global, fully remote\nJob Type: Contract (~15 hours per week)\nSchedule: Flexible—you choose the hours and days you work, including weekends if desired\nWe are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python.\nThe work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements.What You’ll Work On\nDevelop and validate machine-learning models, training pipelines, inference systems, and supporting infrastructure.\nImplement model components, data pipelines, evaluation systems, and numerical methods.\nBuild reproducible programmatic workflows using Python and command-line tools.\nRequired Qualifications\nA BSc, MSc or PhD in Computer Science, Machine Learning, Artificial Intelligence, Applied Mathematics, Statistics, Engineering, or a closely related quantitative discipline.\nStrong professional or research experience in machine learning.\nPractical proficiency with Python and coding agents.\nExperience in one or more of the following ML Engineering camps: Inference/Serving, Evaluation, Data & Feature Engineering, Retrieval/Ranking/RAG, MLOps, Model Compression/Optimization and/or GPU/kernel optimization.\nEquivalent tools may also be considered when the candidate demonstrates directly relevant depth.\nExperience at a well-established technology company, AI laboratory, research organization, or other recognized engineering environment is strongly preferred. Exceptional open-source or academic experience may also qualify.\nProcess Overview\nApplication\nAI Interview\nProfile Review\nOnboarding\nCompensation Structure\nCompensation is output-based. Experts are paid per task that meets the project specifications. The time required to complete each task may vary depending on the expert’s experience and workflow.Minimum submission requirements apply.\nStart Timeline & Availability: Immediate\nOriginally posted on Himalayas",
+      "budget": "USD 60 to 120/hourly",
+      "score": 5,
+      "matched": [
+        "workflow",
+        "agents",
+        "python",
+        "rag",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 15,
+      "reasons": [
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Worldwide (check timezone)",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote?utm_source=api",
+      "expires": "2027-01-18T12:54:59+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle",
       "source": "Himalayas",
       "title": "micro1: Competitive Data Scientist (Kaggle)",
@@ -516,12 +953,42 @@
       "date_basis": "posted"
     },
     {
+      "id": "himalayas:https://himalayas.app/companies/five9/jobs/graphic-designer",
+      "source": "Himalayas",
+      "title": "Five9: Graphic Designer",
+      "url": "https://himalayas.app/companies/five9/jobs/graphic-designer",
+      "posted": "2026-11-19T11:46:31+00:00",
+      "body": "Five9 is a leader in AI-powered cloud contact center software, serving thousands of customers around the world and powering billions of customer interactions every year. We help enterprises deliver smarter customer experience with every interaction, turning every customer conversation into an opportunity to build trust, deepen loyalty, and drive growth. Our Genius CX platform combines deep contact center expertise with applied AI to deliver outcomes the business can measure.\nOur team-first culture enables us to innovate, grow, and thrive while enjoying the journey together.\nThis is a contract position.\nThe Graphic Designer supports the Brand and Creative team across digital and print deliverables and brings a genuine curiosity about how AI tools are changing the way creative work gets done. This role is for someone who isn’t just keeping up with the AI wave, but actively experimenting with it. We move fast, deadlines are real, and priorities shift. The ideal candidate thrives in that environment, not just tolerates it. Curious, tenacious and cross-functional by nature, this person is eager to grow their craft alongside the tools shaping the future of design.Key Responsibilities\nDesign visually compelling assets across web, social media, presentations, print materials, and event collateral (including booth and kiosk design)\nUse AI tools including image generation, video prompting and AI-assisted ideation as a regular part of your creative workflow\nCollaborate with content, marketing and cross-functional teams to develop campaign visuals that align with strategic goals and reinforce brand identity\nManage multiple projects simultaneously while delivering high-quality work on tight deadlines\nEnsure brand consistency across all touchpoints and uphold visual standards throughout every project\nPrepare print-ready files and coordinate with the Creative Director for review\nRequirements\nBachelor’s degree in Graphic Design, Visual Communication, or a related field\n2 to 4 years of experience designing digital and print marketing assets\nProficient in Adobe Creative Suite (Photoshop, Illustrator, InDesign), Canva, Figma, and Microsoft Office\nHands-on experience with AI creative tools such as Claude for ideation and writing, image/video generation models (e.g. Nano Banana Pro, Midjourney, Runway, etc) and AI workflow platforms like Magnific Spaces\nComfortable prompting, iterating, and directing AI tools to produce on-brand output\nExperience with project management and collaboration tools (we use Monday.com); Slack and Asana\nStrong attention to detail, organizational skills, and ability to meet tight deadlines\nOpen to feedback and able to implement revisions quickly without losing momentum\nClear communicator who takes direction well and applies feedback effectively\nA self-starter who takes initiative, thinks creatively and figures things out — whether that means digging into a tutorial, searching the web, or just experimenting until it works\nPortfolio that showcases creative versatility, strong execution and ideally some AI-assisted work\nBonus Points For\nExperience in a design agency environment\nMotion or animated graphics skills for social media\nExperience with photography prompting or video generation models (e.g., Nano Banana Pro, Runway, Kling)\nAn experimental mindset. You’ve broken tools, learned from it and kept going.\nFive9 embraces diversity and is committed to building a team that represents a variety of backgrounds, perspectives, and skills.  The more inclusive we are, the better we are.  Five9 is an equal opportunity employer.\nFive9 is committed to providing reasonable accommodations for qualified individuals with disabilities throughout the application and interview process. If you need assistance or an accommodation due to a disability, please contact us at to request an accommodation. Requests will be handled confidentially and in accordance with applicable law.\nView our privacy policy, including our privacy notice to California residents here: . \nNote: Five9 will never request that an applicant send money as a prerequisite for commencing employment with Five9.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "workflow",
+        "claude",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 12,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/five9/jobs/graphic-designer?utm_source=api",
+      "expires": "2027-01-18T11:46:30+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "remoteok:1137803",
       "source": "Remote OK",
       "title": "Stedi: Legal Engineering Counsel",
       "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
       "posted": "2026-11-18T16:00:19+00:00",
-      "body": "design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad\nWe're building a new healthcare clearinghouse\nStedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product and customer-first approach have set us apart. Stedi was ranked by Ramp as one of the fastest-growing SaaS vendors.\nStedi has lightning in a bottle: engineers and designers shipping products week in and week out; a lean business team supporting the company's infrastructure; a passion for automation and eliminating toil; and $142 million in funding from top investors like Stripe, Addition, USV, Bloomberg Beta, First Round Capital, and more.\nTo see what we ship, watch the 2026 Stedi Keynote. To learn more about how we work, watch our founder Zack's interview with First Round Capital.\nWhat weâre looking for\nStedi is hiring a Legal Engineering Counsel to build how our legal work gets done, and to own a large share of it. Every new customer, payer connection, and partnership runs through a contract, and the volume grows every month. Youâll design the systems that handle it (playbooks, review workflows, automation, and AI tooling) and run them on live deals with counterparties ranging from fast-moving healthtech startups to national payers.\nThis role pairs legal practice with technical skill. You bring strong legal training and a feel for how commercial deals work, and youâve used AI and other technology to make legal work faster and more consistent. What you learn on live deals shapes the systems, and better systems make the next deal faster.\nYouâll join a small, effective Legal team with a broad mandate. We keep up with a fast-growing, highly regulated business by investing in good systems and tools, and this role sits at the center of that investment. Healthcare experience is not required â we value strong judgment, curiosity, and the ability to learn a new industry quickly. If you have the talent and drive to help build a world-class legal function alongside Stediâs experienced legal counsel mentors at a rapidly scaling tech company, we want to talk.\nWhat youâll do\nBuild and own the systems behind Stediâs contracting, including playbooks, clause libraries, templates, intake and approval workflows, and AI-assisted first-pass review.\nBreak recurring legal work into repeatable steps with clear inputs, decision points, and escalation paths, then decide what to automate, what to standardize, and what needs a lawyer.\nTurn our legal counselâs nuanced advice, negotiation positions, and fallbacks into structured guidance that people and AI tools can apply consistently.\nTest and measure what you build. Check outputs against real deals, track where the tools fall short, and iterate until they hold up.\nDraft and negotiate contracts yourself using those systems â including customer agreements, BAAs, NDAs, payer trading partner agreements â from first redline through signature.\nStructure our contract data so the team (and our tools) can answer questions about our agreements in minutes.\nPartner with Sales and Account Management. Build self-serve paths for routine agreements and field the questions that still need a person.\nTake on new areas based on interest and business need as Stedi and the Legal team grow.Who you are\nYouâre bar-admitted and want to practice law while building the systems that support it.\nBigLaw or in-house experience, ideally on transactional work, is a strong plus.\nYouâve built with technology, whether thatâs AI workflows, prompts and evaluations, automations, scripts, or no-code tools, and you can show what you made.\nYouâre comfortable working with structured data and technical tools, and you pick up new ones quickly. Coding experience is a plus, not a requirement.\nYou can explain complex issues in plain language, write clearly, and communicate confidently with executives, lawyers, procurement staff, engineers, and everyone in between.\nYouâre comfortable with high-volume work, ambiguity, and shifting priorities, and you maintain high quality through effective habits.\nYou move fast, operate with precision, and follow through until the job is done. You thrive in an environment where clarity, accountability, and urgency matter. Youâre hungry to learn, seek out feedback, and put it to work.\nWeâve been made aware of individuals impersonating the Stedi recruiting team. Please note:\nAll official communication about roles at Stedi will only come from an @stedi.com email address, or from our official identification verification partner, Persona, @frompersona.com.\nIf youâre unsure whether a message is legitimate or have any concerns, feel free to contact us directly at careers@stedi.com.\nWe appreciate your attention to this and your interest in joining Stedi.\nAt Stedi, we're looking for people who are deeply curious and aligned to our ways of working. You're encouraged to apply even if your experience doesn't perfectly match the job description. \nPlease mention the word **VALOR** and tag RMjAuODMuMjA0LjE4MQ== when applying to show you read the job post completely (#RMjAuODMuMjA0LjE4MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "body": "design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad\nWe're building a new healthcare clearinghouse\nStedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product and customer-first approach have set us apart. Stedi was ranked by Ramp as one of the fastest-growing SaaS vendors.\nStedi has lightning in a bottle: engineers and designers shipping products week in and week out; a lean business team supporting the company's infrastructure; a passion for automation and eliminating toil; and $142 million in funding from top investors like Stripe, Addition, USV, Bloomberg Beta, First Round Capital, and more.\nTo see what we ship, watch the 2026 Stedi Keynote. To learn more about how we work, watch our founder Zack's interview with First Round Capital.\nWhat weâre looking for\nStedi is hiring a Legal Engineering Counsel to build how our legal work gets done, and to own a large share of it. Every new customer, payer connection, and partnership runs through a contract, and the volume grows every month. Youâll design the systems that handle it (playbooks, review workflows, automation, and AI tooling) and run them on live deals with counterparties ranging from fast-moving healthtech startups to national payers.\nThis role pairs legal practice with technical skill. You bring strong legal training and a feel for how commercial deals work, and youâve used AI and other technology to make legal work faster and more consistent. What you learn on live deals shapes the systems, and better systems make the next deal faster.\nYouâll join a small, effective Legal team with a broad mandate. We keep up with a fast-growing, highly regulated business by investing in good systems and tools, and this role sits at the center of that investment. Healthcare experience is not required â we value strong judgment, curiosity, and the ability to learn a new industry quickly. If you have the talent and drive to help build a world-class legal function alongside Stediâs experienced legal counsel mentors at a rapidly scaling tech company, we want to talk.\nWhat youâll do\nBuild and own the systems behind Stediâs contracting, including playbooks, clause libraries, templates, intake and approval workflows, and AI-assisted first-pass review.\nBreak recurring legal work into repeatable steps with clear inputs, decision points, and escalation paths, then decide what to automate, what to standardize, and what needs a lawyer.\nTurn our legal counselâs nuanced advice, negotiation positions, and fallbacks into structured guidance that people and AI tools can apply consistently.\nTest and measure what you build. Check outputs against real deals, track where the tools fall short, and iterate until they hold up.\nDraft and negotiate contracts yourself using those systems â including customer agreements, BAAs, NDAs, payer trading partner agreements â from first redline through signature.\nStructure our contract data so the team (and our tools) can answer questions about our agreements in minutes.\nPartner with Sales and Account Management. Build self-serve paths for routine agreements and field the questions that still need a person.\nTake on new areas based on interest and business need as Stedi and the Legal team grow.Who you are\nYouâre bar-admitted and want to practice law while building the systems that support it.\nBigLaw or in-house experience, ideally on transactional work, is a strong plus.\nYouâve built with technology, whether thatâs AI workflows, prompts and evaluations, automations, scripts, or no-code tools, and you can show what you made.\nYouâre comfortable working with structured data and technical tools, and you pick up new ones quickly. Coding experience is a plus, not a requirement.\nYou can explain complex issues in plain language, write clearly, and communicate confidently with executives, lawyers, procurement staff, engineers, and everyone in between.\nYouâre comfortable with high-volume work, ambiguity, and shifting priorities, and you maintain high quality through effective habits.\nYou move fast, operate with precision, and follow through until the job is done. You thrive in an environment where clarity, accountability, and urgency matter. Youâre hungry to learn, seek out feedback, and put it to work.\nWeâve been made aware of individuals impersonating the Stedi recruiting team. Please note:\nAll official communication about roles at Stedi will only come from an @stedi.com email address, or from our official identification verification partner, Persona, @frompersona.com.\nIf youâre unsure whether a message is legitimate or have any concerns, feel free to contact us directly at careers@stedi.com.\nWe appreciate your attention to this and your interest in joining Stedi.\nAt Stedi, we're looking for people who are deeply curious and aligned to our ways of working. You're encouraged to apply even if your experience doesn't perfectly match the job description. \nPlease mention the word **VALOR** and tag RMjAuMTY4LjExMS44NA== when applying to show you read the job post completely (#RMjAuMTY4LjExMS44NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "budget": "$142",
       "score": 6,
       "matched": [
@@ -641,6 +1108,40 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger",
+      "source": "Himalayas",
+      "title": "EMCD: Senior Go Developer (Blockchain & Ledger)",
+      "url": "https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger",
+      "posted": "2026-11-19T12:36:41+00:00",
+      "body": "EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions.\nWe are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last unit, and resolving incidents before they turn into losses. It suits someone who enjoys untangling complex systems and treats reliability with real money as a craft.Key Responsibilities\nDevelop and maintain blockchain rail services: deposits, withdrawals, address management and node interaction.\nIntegrate new networks and coins end to end, from analysis to production, covering nodes, address derivation, precision, fees and confirmations.\nOwn the ledger layer: entries, balances, holds, and reconciliation between on-chain data and internal accounting.\nTake full ownership of the deposit and withdrawal rails, including incidents such as uncredited deposits, stuck or duplicate withdrawals and refunds: investigate them using production and on-chain data, then fix the root causes.\nContribute to design sessions, write HLDs and ADRs, and break work down into clear tasks.\nReview code, mentor teammates and take part in the team's on-call rotation.\nRequirements\n5+ years of commercial Go development in production.\nHands-on experience with blockchains, covering both the UTXO model (BTC and its forks) and the account model (EVM, TRON): node RPC, confirmations, reorgs, fees and mempool.\nSolid understanding of keys and addresses: HD derivation (BIP32/44), address formats and transaction signing.\nExperience with ledger and double-entry accounting: entries, holds (authorize capture/void), balance invariants and reconciliation.\nStrong grasp of reliability when handling money: idempotency, double-spend protection, the outbox pattern, at-least-once delivery with deduplication, and eventual consistency.\nPostgreSQL expertise: transactions, locking and isolation levels.\nDistributed systems experience with gRPC and RabbitMQ or Kafka.\nWorking knowledge of Kubernetes and the monitoring stack (Prometheus, Grafana).\nPractical use of AI tools such as Claude Code or Cursor to speed up onboarding and development.\nAbility to write clear HLDs and ADRs and well-structured Jira tasks rather than one-liners.\nProactive communication in cross-team threads and calls, with clear ownership of your scope.\nWorking English for documentation and written communication.\nWhat We Offer\nRemote-first company: work from anywhere in the world.\nFully flexible working hours.\nExtended time off: 20 paid vacation days plus 12 bonus days per year.\n100% paid sick leave.\nPaid English lessons (iTalki).\nProfessional growth support: courses, certifications and training programs.\nReal impact and ownership in fintech and crypto projects.\nCorporate benefits: EMCD product discounts and mining infrastructure access.\nSalary in USDT.\nEmployment via Service Agreement.\nApply today and help us build the future of crypto!\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 4,
+      "matched": [
+        "postgresql",
+        "claude",
+        "node",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 9,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: Worldwide (check timezone)",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger?utm_source=api",
+      "expires": "2027-01-18T12:36:40+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -812,6 +1313,37 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python?utm_source=api",
       "expires": "2027-01-06T00:20:29+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant",
+      "source": "Himalayas",
+      "title": "Avalara: 1099 Product Solution Consultant",
+      "url": "https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant",
+      "posted": "2026-11-19T11:17:51+00:00",
+      "body": "What You'll Do\nAs a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Will Be\nPartner with sales representatives on customer discovery calls, deliver technical demonstrations, assess integration requirements, and design solutions that address customer needs. Serve as a subject matter expert across 1099 reporting, W-9 collection, TIN matching, API integrations, and compliance workflows, helping customers navigate technical challenges throughout the sales cycle. Work on internal initiatives with Product, Engineering, and Support to troubleshoot issues, test new capabilities, document customer feedback, and improve sales enablement. Utilize Salesforce, Gong, Jira, and internal product resources to track technical engagements, document requirements, and support successful customer implementations.What You'll Need to be Successful\nExperience in technical presales, Solutions Consulting, Sales Engineering, or SaaS Implementation.\nAbility to lead technical discovery, deliver product demos, and translate customer needs into solutions.\nWorking knowledge of APIs, integrations, data workflows, and SaaS platforms.\nExperience collaborating with Sales, Product, Engineering, and Support on customer challenges and strategic initiatives.\nExperience leveraging CRM, project management, and AI tools (Salesforce, Jira, Gong, Glean, ChatGPT) to improve efficiency and drive results.\nStrong presentation skills with experience engaging customers through webinars, trade shows, industry events, and technical discussions.\nAvalara is an AI-first Company\nAI is embedded in our workflows, decision-making, and products. Success here requires embracing AI as an essential capability.\nYou’ll bring experience using AI and AI-related technologies, ready to thrive here.\nYou’ll apply AI every day to business challenges - improving efficiency, contributing solutions, and driving results for your team, our company, and our customers.\nYou’ll grow with AI by staying curious about new trends and best practices, and by sharing what you learn so others can benefit too.\nHow We'll Take Care of You\nTotal Rewards \nIn addition to a great compensation package, paid time off, and paid parental leave, many Avalara employees are eligible for bonuses. \nHealth & Wellness Benefits vary by location but generally include private medical, life, and disability insurance. \nInclusive culture and diversity Avalara strongly supports diversity, equity, and inclusion, and is committed to integrating them into our business practices and our organizational culture. We also have a total of 8 employee-run resource groups, each with senior leadership and exec sponsorship. What You Need To Know About Avalara\nWe’re defining the relationship between tax and tech.\nWe’ve already built an industry-leading cloud compliance platform, processing over 54 billion customer API calls and over 6.6 million tax returns a year. Our growth is real - we're a billion dollar business - and we’re not slowing down until we’ve achieved our mission - to be part of every transaction in the world.\nWe’re bright, innovative, and disruptive, like the orange we love to wear. It captures our quirky spirit and optimistic mindset. It shows off the culture we’ve designed, that empowers our people to win. We’ve been different from day one. Join us, and your career will be too.We’re An Equal Opportunity Employer\nSupporting diversity and inclusion is a cornerstone of our company — we don’t want people to fit into our culture, but to enrich it. All qualified candidates will receive consideration for employment without regard to race, color, creed, religion, age, gender, national orientation, disability, sexual orientation, US Veteran status, or any other factor protected by law. If you require any reasonable adjustments during the recruitment process, please let us know.\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 3,
+      "matched": [
+        "chatgpt",
+        "saas",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 2,
+      "reasons": [],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant?utm_source=api",
+      "expires": "2027-01-18T11:17:51+00:00",
       "imported": false,
       "date_basis": "posted"
     },

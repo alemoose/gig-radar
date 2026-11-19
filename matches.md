@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 20:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,41 @@ Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 31 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the proc...
+- [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
+  Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
+  Fit: 29 | data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote We are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason,...
+- [RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide)  
+  Himalayas | posted Nov 19 19:17 UTC | score 4 | **USD 80 to 130/hourly** | ai, problem: data collection
+  Fit: 29 | data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
+- [Xperteez Technology: 🌍 STEM Expert](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert)  
+  Himalayas | posted Nov 19 18:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, develop...
+- [Xperteez Technology: Mechanical Engineering Expert, Remote](https://himalayas.app/companies/xperteez-technology/jobs/mechanical-engineering-expert-remote)  
+  Himalayas | posted Nov 19 17:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: Mechanical Engineering Expert Job Type: Contract (~15 hours per week) Pay: $60–$120/hour Location: Global, fully remote Schedule: Flexible, choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may...
+- [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
+  Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
+  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
 - [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
   Fit: 27 | explicit hiring intent
   Check: budget unknown
   > Headquarters: India URL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners AI Engineer | India Department: Engineering Reports To: Product & Engineering Leadership Location: India - Fully Remote Employment Type: Full-Time Experience Level: Mid-Level Compensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise Position Overview The AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) s...
+- [Xperteez Technology: 🌍 Hardware Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract)  
+  Himalayas | posted Nov 19 12:22 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
+  Fit: 25 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
 - [Elvoro: AI Creative Engineer (Social Media)](https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media)  
   Himalayas | posted Nov 18 18:07 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
   Fit: 25 | explicit hiring intent
@@ -25,6 +55,16 @@ Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent
   Check: budget unknown
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
+- [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
+  Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
+  Fit: 24 | posted within 6 hours; budget stated, verify scope and currency
+  Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
+  > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
+- [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
+  Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
 - [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
   We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -60,6 +100,31 @@ Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
+- [Forj: Fractional Implementation Project Specialist](https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist)  
+  Himalayas | posted Nov 19 18:17 UTC | score 5 | **USD 60 to 70/hourly** | automation, chatgpt, claude, saas, ai
+  Fit: 16 | posted within 6 hours; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > ABOUT FORJ Forj is a single solution for community and learning, purpose-built to modernize the member experience for associations and professional networks — serving over 300 organizations and a million professionals who rely on us to connect, learn, and grow. We’re a remote-first company headquartered in Delafield, Wisconsin, united not by a shared office but by a shared belief that the professionals who make our world better deserve better. We forge ahead with boldness and determination, but we know great work comes from people who feel trusted and supported — flexibility isn’t a perk he...
+- [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
+  Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
+- [Gulf Coast Automation Group: Senior .NET Developer – Digital Payments & Subscription Commerce](https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce)  
+  Himalayas | posted Nov 19 11:01 UTC | score 8 | **USD 65 to 75/hourly** | automation, javascript, postgresql, workflow, stripe, react
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
+- [Prominence Advisors: Epic Behavioral Health Reporting Analyst](https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst)  
+  Himalayas | posted Nov 19 14:58 UTC | score 4 | workflow, problem: workflow repair
+  Fit: 15 | workflow repair; posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
+- [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
+  Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > Role Title: Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyi...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -80,6 +145,11 @@ Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | 
   Check: budget unknown; check eligibility: United States
   > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
+- [Five9: Graphic Designer](https://himalayas.app/companies/five9/jobs/graphic-designer)  
+  Himalayas | posted Nov 19 11:46 UTC | score 3 | workflow, claude, ai
+  Fit: 12 | 
+  Check: budget unknown; check eligibility: United States
+  > Five9 is a leader in AI-powered cloud contact center software, serving thousands of customers around the world and powering billions of customer interactions every year. We help enterprises deliver smarter customer experience with every interaction, turning every customer conversation into an opportunity to build trust, deepen loyalty, and drive growth. Our Genius CX platform combines deep contact center expertise with applied AI to deliver outcomes the business can measure. Our team-first culture enables us to innovate, grow, and thrive while enjoying the journey together. This is a contra...
 - [Stedi: Legal Engineering Counsel](https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803)  
   Remote OK | posted Nov 18 16:00 UTC | score 6 | **$142** | automation, automate, agents, stripe, saas, ai
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
@@ -100,6 +170,11 @@ Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
+- [EMCD: Senior Go Developer (Blockchain & Ledger)](https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger)  
+  Himalayas | posted Nov 19 12:36 UTC | score 4 | postgresql, claude, node, ai
+  Fit: 9 | explicit hiring intent
+  Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -125,6 +200,11 @@ Updated 2026-11-19 20:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
   > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
+- [Avalara: 1099 Product Solution Consultant](https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant)  
+  Himalayas | posted Nov 19 11:17 UTC | score 3 | chatgpt, saas, ai
+  Fit: 2 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > What You'll Do As a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Wil...
 - [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
   Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
   Fit: 2 | budget stated, verify scope and currency
