@@ -2,45 +2,6 @@
   "schema_version": 1,
   "gigs": [
     {
-      "id": "himalayas:https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media",
-      "source": "Himalayas",
-      "title": "Elvoro: AI Creative Engineer (Social Media)",
-      "url": "https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media",
-      "posted": "2026-11-18T18:07:11+00:00",
-      "body": "Python AI Creative Engineer (Social Media) – Elvoro Ltd\nEngagement: Project-based contract with planned expansion to Full-time\nLocation: Remote, Worldwide \nCompensation: To be agreedAbout & Mission\nElvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptional creative taste to lead this system.Responsibilities\nLead the codebase and creative output of Elvoro’s proprietary social media engine\nTurn client briefs into large-scale short-form videos, carousels, static posts and ads\nUse your exceptional creative taste, knowledge on what type of content goes viral and converts well on social media, and large amounts of performance data to continuously, independently refine and improve the codebase to produce better content output.\nSchedule-post our high-quality content across numerous accounts using social media APIs\nCapture performance data via official APIs and use your creative taste and content conversion knowledge to refine content quality and test new creatives\nMaintain and extend the production codebase. Integrate numerous media and publishing APIs, test changes and monitor failures and cost per approved post\nFix weak creative hooks, ai slop and pacing and product inaccuracies. Turn successful results into reusable yet unique systems\nRefine, manage and improve our code pipelines that produce thousands of different social media posts using unique processes\nTech Stack Qualifications\nProfessional software engineering experience building and maintaining large production codebases.\nAdvanced Python\nREST API integrations OAuth 2.0 (eg: Anthropic, Runway, SpaceXSI, Instagram, ...)\nVideo, audio and image processing (FFmpeg, MoviePy, Pillow, ...)\nGoogle Cloud Storage (GCS)\nGit, GitHub, GitHub Actions\nPreferred: SQL, HTML/CSS, JavaScript (React)\nAI-Native Workflow Qualifications\nStrong prompt engineering skills. Proactively using AI for efficiency, speed, and quality. Agents such as: Claude Code, Cursor/xAI, Codex, etc.\nJudgment to manually review AI output and full accountability for all AI-generated code.\nBenefits\nYou get to lead Elvoro’s proprietary AI marketing engine and shape its technical and creative direction alongside the founder. An engineer previously working with Elvoro's founder has now gained a high-level job at Meta. Build a track record leading both engineering and creative production. You’ll lead campaigns for many established consumer brands and learn firsthand which creative decisions build brand awareness with hundreds of millions of views across social media and what turns attention into conversions such as sales and signups. The advantages of an ambitious, early stage startup: Work remotely from anywhere, at any time, on your own terms. Join a straightforward, no-nonsense environment focused on efficiency and results. Impact the world of marketing, get things done with the founder as your only approval point and see your ideas positively impact client campaigns. The codebase you are leading in this job has been built by engineers from TikTok and Stanford.\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 10,
-      "matched": [
-        "javascript",
-        "anthropic",
-        "workflow",
-        "agents",
-        "claude",
-        "prompt",
-        "python",
-        "react",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 37,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: Worldwide (check timezone)"
-      ],
-      "aliases": [],
-      "location": "Worldwide (check timezone)",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media?utm_source=api",
-      "expires": "2027-01-17T18:07:10+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
       "source": "We Work Remotely",
       "title": "Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)",
@@ -78,12 +39,12 @@
       "date_basis": "posted"
     },
     {
-      "id": "wwr:https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-      "source": "We Work Remotely",
+      "id": "himalayas:https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media",
+      "source": "Himalayas",
       "title": "Elvoro: AI Creative Engineer (Social Media)",
-      "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
-      "posted": "2026-11-18T00:12:31+00:00",
-      "body": "Headquarters: Elvoro\nURL: https://elvoro.com/\nPython AI Creative Engineer (Social Media) – Elvoro Ltd\nEngagement: Project-based contract with planned expansion to Full-time\nLocation: Remote, Worldwide\nCompensation: To be agreed\nAbout & Mission\nElvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptional creative taste to lead this system.\nResponsibilities\nLead the codebase and creative output of Elvoro’s proprietary social media engine\nTurn client briefs into large-scale short-form videos, carousels, static posts and ads\nUse your exceptional creative taste, knowledge on what type of content goes viral and converts well on social media, and large amounts of performance data to continuously, independently refine and improve the codebase to produce better content output.\nSchedule-post our high-quality content across numerous accounts using social media APIs\nCapture performance data via official APIs and use your creative taste and content conversion knowledge to refine content quality and test new creatives\nMaintain and extend the production codebase. Integrate numerous media and publishing APIs, test changes and monitor failures and cost per approved post\nFix weak creative hooks, ai slop and pacing and product inaccuracies. Turn successful results into reusable yet unique systems\nRefine, manage and improve our code pipelines that produce thousands of different social media posts using unique processes\nTech Stack Qualifications\nProfessional software engineering experience building and maintaining large production codebases.\nAdvanced Python\nREST API integrations OAuth 2.0 (eg: Anthropic, Runway, SpaceXSI, Instagram, ...)\nVideo, audio and image processing (FFmpeg, MoviePy, Pillow, ...)\nGoogle Cloud Storage (GCS)\nGit, GitHub, GitHub Actions\nPreferred: SQL, HTML/CSS, JavaScript (React)\nAI-Native Workflow Qualifications\nStrong prompt engineering skills. Proactively using AI for efficiency, speed, and quality. Agents such as: Claude Code, Cursor/xAI, Codex, etc.\nJudgment to manually review AI output and full accountability for all AI-generated code.\nBenefits\nYou get to lead Elvoro’s proprietary AI marketing engine and shape its technical and creative direction alongside the founder. An engineer previously working with Elvoro's founder has now gained a high-level job at Meta. Build a track record leading both engineering and creative production. You’ll lead campaigns for many established consumer brands and learn firsthand which creative decisions build brand awareness with hundreds of millions of views across social media and what turns attention into conversions such as sales and signups. The advantages of an ambitious, early stage startup: Work remotely from anywhere, at any time, on your own terms. Join a straightforward, no-nonsense environment focused on efficiency and results. Impact the world of marketing, get things done with the founder as your only approval point and see your ideas positively impact client campaigns. The codebase you are leading in this job has been built by engineers from TikTok and Stanford.\nTo apply: https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "url": "https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media",
+      "posted": "2026-11-18T18:07:11+00:00",
+      "body": "Python AI Creative Engineer (Social Media) – Elvoro Ltd\nEngagement: Project-based contract with planned expansion to Full-time\nLocation: Remote, Worldwide \nCompensation: To be agreedAbout & Mission\nElvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptional creative taste to lead this system.Responsibilities\nLead the codebase and creative output of Elvoro’s proprietary social media engine\nTurn client briefs into large-scale short-form videos, carousels, static posts and ads\nUse your exceptional creative taste, knowledge on what type of content goes viral and converts well on social media, and large amounts of performance data to continuously, independently refine and improve the codebase to produce better content output.\nSchedule-post our high-quality content across numerous accounts using social media APIs\nCapture performance data via official APIs and use your creative taste and content conversion knowledge to refine content quality and test new creatives\nMaintain and extend the production codebase. Integrate numerous media and publishing APIs, test changes and monitor failures and cost per approved post\nFix weak creative hooks, ai slop and pacing and product inaccuracies. Turn successful results into reusable yet unique systems\nRefine, manage and improve our code pipelines that produce thousands of different social media posts using unique processes\nTech Stack Qualifications\nProfessional software engineering experience building and maintaining large production codebases.\nAdvanced Python\nREST API integrations OAuth 2.0 (eg: Anthropic, Runway, SpaceXSI, Instagram, ...)\nVideo, audio and image processing (FFmpeg, MoviePy, Pillow, ...)\nGoogle Cloud Storage (GCS)\nGit, GitHub, GitHub Actions\nPreferred: SQL, HTML/CSS, JavaScript (React)\nAI-Native Workflow Qualifications\nStrong prompt engineering skills. Proactively using AI for efficiency, speed, and quality. Agents such as: Claude Code, Cursor/xAI, Codex, etc.\nJudgment to manually review AI output and full accountability for all AI-generated code.\nBenefits\nYou get to lead Elvoro’s proprietary AI marketing engine and shape its technical and creative direction alongside the founder. An engineer previously working with Elvoro's founder has now gained a high-level job at Meta. Build a track record leading both engineering and creative production. You’ll lead campaigns for many established consumer brands and learn firsthand which creative decisions build brand awareness with hundreds of millions of views across social media and what turns attention into conversions such as sales and signups. The advantages of an ambitious, early stage startup: Work remotely from anywhere, at any time, on your own terms. Join a straightforward, no-nonsense environment focused on efficiency and results. Impact the world of marketing, get things done with the founder as your only approval point and see your ideas positively impact client campaigns. The codebase you are leading in this job has been built by engineers from TikTok and Stanford.\nOriginally posted on Himalayas",
       "budget": null,
       "score": 10,
       "matched": [
@@ -103,14 +64,15 @@
         "explicit hiring intent"
       ],
       "flags": [
-        "budget unknown"
+        "budget unknown",
+        "check eligibility: Worldwide (check timezone)"
       ],
       "aliases": [],
-      "location": "",
-      "employment_type": "",
-      "currency": "",
-      "apply_url": "",
-      "expires": null,
+      "location": "Worldwide (check timezone)",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media?utm_source=api",
+      "expires": "2027-01-17T18:07:10+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -181,6 +143,43 @@
       "date_basis": "posted"
     },
     {
+      "id": "wwr:https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "source": "We Work Remotely",
+      "title": "Elvoro: AI Creative Engineer (Social Media)",
+      "url": "https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "posted": "2026-11-18T00:12:31+00:00",
+      "body": "Headquarters: Elvoro\nURL: https://elvoro.com/\nPython AI Creative Engineer (Social Media) – Elvoro Ltd\nEngagement: Project-based contract with planned expansion to Full-time\nLocation: Remote, Worldwide\nCompensation: To be agreed\nAbout & Mission\nElvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptional creative taste to lead this system.\nResponsibilities\nLead the codebase and creative output of Elvoro’s proprietary social media engine\nTurn client briefs into large-scale short-form videos, carousels, static posts and ads\nUse your exceptional creative taste, knowledge on what type of content goes viral and converts well on social media, and large amounts of performance data to continuously, independently refine and improve the codebase to produce better content output.\nSchedule-post our high-quality content across numerous accounts using social media APIs\nCapture performance data via official APIs and use your creative taste and content conversion knowledge to refine content quality and test new creatives\nMaintain and extend the production codebase. Integrate numerous media and publishing APIs, test changes and monitor failures and cost per approved post\nFix weak creative hooks, ai slop and pacing and product inaccuracies. Turn successful results into reusable yet unique systems\nRefine, manage and improve our code pipelines that produce thousands of different social media posts using unique processes\nTech Stack Qualifications\nProfessional software engineering experience building and maintaining large production codebases.\nAdvanced Python\nREST API integrations OAuth 2.0 (eg: Anthropic, Runway, SpaceXSI, Instagram, ...)\nVideo, audio and image processing (FFmpeg, MoviePy, Pillow, ...)\nGoogle Cloud Storage (GCS)\nGit, GitHub, GitHub Actions\nPreferred: SQL, HTML/CSS, JavaScript (React)\nAI-Native Workflow Qualifications\nStrong prompt engineering skills. Proactively using AI for efficiency, speed, and quality. Agents such as: Claude Code, Cursor/xAI, Codex, etc.\nJudgment to manually review AI output and full accountability for all AI-generated code.\nBenefits\nYou get to lead Elvoro’s proprietary AI marketing engine and shape its technical and creative direction alongside the founder. An engineer previously working with Elvoro's founder has now gained a high-level job at Meta. Build a track record leading both engineering and creative production. You’ll lead campaigns for many established consumer brands and learn firsthand which creative decisions build brand awareness with hundreds of millions of views across social media and what turns attention into conversions such as sales and signups. The advantages of an ambitious, early stage startup: Work remotely from anywhere, at any time, on your own terms. Join a straightforward, no-nonsense environment focused on efficiency and results. Impact the world of marketing, get things done with the founder as your only approval point and see your ideas positively impact client campaigns. The codebase you are leading in this job has been built by engineers from TikTok and Stanford.\nTo apply: https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media",
+      "budget": null,
+      "score": 10,
+      "matched": [
+        "javascript",
+        "anthropic",
+        "workflow",
+        "agents",
+        "claude",
+        "prompt",
+        "python",
+        "react",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 25,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown"
+      ],
+      "aliases": [],
+      "location": "",
+      "employment_type": "",
+      "currency": "",
+      "apply_url": "",
+      "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
       "id": "himalayas:https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270",
       "source": "Himalayas",
       "title": "micro1: Mechanical Engineering Expert",
@@ -242,43 +241,6 @@
       "currency": "USD",
       "apply_url": "https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle?utm_source=api",
       "expires": "2027-01-15T20:22:04+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/bounteous/jobs/seo-manager",
-      "source": "Himalayas",
-      "title": "Bounteous: SEO - Manager",
-      "url": "https://himalayas.app/companies/bounteous/jobs/seo-manager",
-      "posted": "2026-11-18T18:07:46+00:00",
-      "body": "Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building.\nJob Role: SEO / AEO Manager\nJob Type: Contract - USAJob Description\nAbout This Role\nBounteous is leading the charge in dynamic digital experiences and is looking for forward-thinking search experts to help drive measurable impact for some of the world's most recognizable and ambitious brands. In today's AI-driven, zero-click search landscape, our approach helps brands envision, harness, and enable their digital presence across traditional search engines, AI-powered discovery platforms, and emerging search experiences.\nWe are seeking a SEO / AEO Manager to lead holistic search strategy across our client portfolio, spanning traditional SEO, answer engine optimization (AEO), and AI search visibility across platforms including Google AI Overviews/AI Mode, ChatGPT, Perplexity, Gemini, and Copilot. This individual will drive performance across traditional SEO, AEO, and AI-powered search experiences. The ideal candidate understands how search has evolved beyond rankings- into entities, AI Overviews, generative search, and full-SERP ownership, and can translate that evolution into business growth. The ideal candidate has already built or scaled an AI-search-visibility practice, not just a traditional SEO program with AI terminology added on top.\nThis contractor will work cross-functionally with internal teams and client stakeholders to develop and execute advanced search strategies that drive visibility, authority, and measurable ROI, defined jointly with each client at engagement kickoff (see Success Metrics below).\nRole & Responsibilities\nAs the SEO & AEO Manager, you will lead strategic search initiatives across enterprise client accounts, driving business growth and client success as a key member of our search practice.\nYou will own strategy development, execution oversight, and performance measurement across traditional SEO and AI-driven search ecosystems.\nKey Responsibilities\nSearch & AEO Strategy Leadership\nLead holistic search strategy development, including traditional SEO, AEO, and AI search optimization, to drive full-funnel growth.\nDevelop strategies to capture and optimize for AI Overviews, Featured Snippets, People Also Ask, zero-click search experiences, and conversational queries.\nDrive entity-based optimization strategies to strengthen brand authority and knowledge graph presence.\nPartner with content and digital teams to align SEO strategy with E-E-A-T best practices.\nAI & Emerging Search Optimization\nOptimize content and technical implementations for AI-driven search environments, including generative search engines and LLM discovery platforms, specifically ChatGPT, Perplexity, Google AI Overviews/AI Mode, Gemini, and Copilot.\nDevelop structured data and schema strategies to enhance visibility in rich results, AI summaries, and enhanced SERP features.\nStand up and manage AI-visibility monitoring using a dedicated citation-tracking platform — track share of AI citations, sentiment, and source attribution across client brands and named competitors.\nMonitor evolving search engine algorithms and AI search trends, proactively adjusting strategy to maintain competitive advantage.\nEstablish processes for measuring AI search visibility and zero-click performance impact.\nTechnical & Content SEO Execution\nPerform and present comprehensive technical, content, competitive, local, and app SEO audits.\nDevelop SEO functional specifications for technical enhancements, partnering with developers to implement, QA, and UAT updates.\nConduct advanced keyword, topic cluster, and entity research to inform scalable content strategies.\nIdentify opportunities for content optimization, consolidation, pruning, and authority building.\nCross-Functional & Client Collaboration\nCollaborate closely with paid search, analytics, UX, product, and development teams to drive integrated search performance.\nPresent insights and recommendations to internal and client stakeholders, translating complex SEO and AI-search concepts into business-focused outcomes.\nAlign search strategies with broader omnichannel marketing and digital transformation initiatives.\nData, Measurement & Automation\nTake a data-driven approach to measuring SEO and AEO ROI against the metrics defined in Success Metrics below.\nDevelop reporting frameworks that account for traditional traffic, zero-click engagement, SERP feature ownership, and AI search visibility.\nLeverage automation tools, APIs, AI workflows, and scripting (e.g., Python, Google Apps Script, or SQL) to improve efficiency and scalability. ~~advanced Excel or scripting capabilities~~\nUse reporting and visualization platforms (e.g., Looker Studio, Tableau) to communicate performance insights and strategic opportunities.\nProject Management & Delivery\nManage project timelines and deliverables within project management systems (e.g., JIRA), ensuring deadlines and quality standards are met.\nOperate effectively in a contractor capacity, managing priorities across multiple accounts while maintaining strategic clarity and execution rigor.\nQualifications\nRequired\n6-8years of experience driving SEO performance for enterprise or large-scale brands, including client-facing or agency experience\nDemonstrated ownership of both traditional SEO and AEO/GEO initiatives, including having built an AI-search-visibility measurement practice from scratch — not just applied AEO terminology to an existing SEO program.\nAI Overviews and generative search experiences\nStructured data and schema implementation\nEntity-based optimization and knowledge graph strategy\nE-E-A-T frameworks and authority-building strategies\nHands-on experience with leading SEO platforms: SEMrush, Ahrefs, Google Search Console, Screaming Frog, Lumar (DeepCrawl), Yext, Lighthouse, and Google Business Profile.\nHands-on experience with at least one dedicated AI-visibility/citation-tracking platform (e.g., Profound, Peec AI, Scrunch AI, AthenaHQ, or the AI-visibility modules within Semrush/Ahrefs).\nExperience managing project timelines and deliverables within a PM system (e.g., JIRA).\nStrong analytical mindset with the ability to translate complex data into actionable insights and business recommendations.\nExcellent communication skills, with experience presenting to senior stakeholders and client leadership teams.\nPreferred\nBachelor's degree in Marketing, Advertising, Computer Science, Information Technology, or a related field.\nFamiliarity with AI-powered workflows, automation tools, APIs, and scripting (Python, SQL, or Google Apps Script) for reporting automation.\nPrior experience managing search strategy across multiple concurrent client accounts in an agency or consultancy setting.\nInformation Security Responsibilities\nPromote and enforce awareness of key information security practices, including acceptable use of information assets, malware protection, and password security protocols\nIdentify, assess, and report security risks, focusing on how these risks impact the confidentiality, integrity, and availability of information assets\nUnderstand and evaluate how data is stored, processed, or transmitted, ensuring compliance with data privacy and protection standards (GDPR, CCPA, etc.)\nEnsure data protection measures are integrated throughout the information lifecycle to safeguard sensitive information\nWe invite you to stay connected with us by subscribing to our monthly job openings alert here.\nBounteous is proud to be an equal opportunity employer. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law. Bounteous is willing to sponsor eligible candidates for employment visas. \n#BI-Remote\nOriginally posted on Himalayas",
-      "budget": null,
-      "score": 6,
-      "matched": [
-        "automation",
-        "chatgpt",
-        "gemini",
-        "python",
-        "llm",
-        "ai"
-      ],
-      "queue": "contract",
-      "priority": 19,
-      "reasons": [
-        "posted within 6 hours",
-        "explicit hiring intent"
-      ],
-      "flags": [
-        "budget unknown",
-        "check eligibility: United States",
-        "seniority requirement needs review"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "",
-      "apply_url": "https://himalayas.app/companies/bounteous/jobs/seo-manager?utm_source=api",
-      "expires": "2027-01-17T18:07:45+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -701,6 +663,42 @@
       "currency": "",
       "apply_url": "https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract?utm_source=api",
       "expires": "2027-01-16T13:40:23+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/bounteous/jobs/seo-manager",
+      "source": "Himalayas",
+      "title": "Bounteous: SEO - Manager",
+      "url": "https://himalayas.app/companies/bounteous/jobs/seo-manager",
+      "posted": "2026-11-18T18:07:46+00:00",
+      "body": "Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building.\nJob Role: SEO / AEO Manager\nJob Type: Contract - USAJob Description\nAbout This Role\nBounteous is leading the charge in dynamic digital experiences and is looking for forward-thinking search experts to help drive measurable impact for some of the world's most recognizable and ambitious brands. In today's AI-driven, zero-click search landscape, our approach helps brands envision, harness, and enable their digital presence across traditional search engines, AI-powered discovery platforms, and emerging search experiences.\nWe are seeking a SEO / AEO Manager to lead holistic search strategy across our client portfolio, spanning traditional SEO, answer engine optimization (AEO), and AI search visibility across platforms including Google AI Overviews/AI Mode, ChatGPT, Perplexity, Gemini, and Copilot. This individual will drive performance across traditional SEO, AEO, and AI-powered search experiences. The ideal candidate understands how search has evolved beyond rankings- into entities, AI Overviews, generative search, and full-SERP ownership, and can translate that evolution into business growth. The ideal candidate has already built or scaled an AI-search-visibility practice, not just a traditional SEO program with AI terminology added on top.\nThis contractor will work cross-functionally with internal teams and client stakeholders to develop and execute advanced search strategies that drive visibility, authority, and measurable ROI, defined jointly with each client at engagement kickoff (see Success Metrics below).\nRole & Responsibilities\nAs the SEO & AEO Manager, you will lead strategic search initiatives across enterprise client accounts, driving business growth and client success as a key member of our search practice.\nYou will own strategy development, execution oversight, and performance measurement across traditional SEO and AI-driven search ecosystems.\nKey Responsibilities\nSearch & AEO Strategy Leadership\nLead holistic search strategy development, including traditional SEO, AEO, and AI search optimization, to drive full-funnel growth.\nDevelop strategies to capture and optimize for AI Overviews, Featured Snippets, People Also Ask, zero-click search experiences, and conversational queries.\nDrive entity-based optimization strategies to strengthen brand authority and knowledge graph presence.\nPartner with content and digital teams to align SEO strategy with E-E-A-T best practices.\nAI & Emerging Search Optimization\nOptimize content and technical implementations for AI-driven search environments, including generative search engines and LLM discovery platforms, specifically ChatGPT, Perplexity, Google AI Overviews/AI Mode, Gemini, and Copilot.\nDevelop structured data and schema strategies to enhance visibility in rich results, AI summaries, and enhanced SERP features.\nStand up and manage AI-visibility monitoring using a dedicated citation-tracking platform — track share of AI citations, sentiment, and source attribution across client brands and named competitors.\nMonitor evolving search engine algorithms and AI search trends, proactively adjusting strategy to maintain competitive advantage.\nEstablish processes for measuring AI search visibility and zero-click performance impact.\nTechnical & Content SEO Execution\nPerform and present comprehensive technical, content, competitive, local, and app SEO audits.\nDevelop SEO functional specifications for technical enhancements, partnering with developers to implement, QA, and UAT updates.\nConduct advanced keyword, topic cluster, and entity research to inform scalable content strategies.\nIdentify opportunities for content optimization, consolidation, pruning, and authority building.\nCross-Functional & Client Collaboration\nCollaborate closely with paid search, analytics, UX, product, and development teams to drive integrated search performance.\nPresent insights and recommendations to internal and client stakeholders, translating complex SEO and AI-search concepts into business-focused outcomes.\nAlign search strategies with broader omnichannel marketing and digital transformation initiatives.\nData, Measurement & Automation\nTake a data-driven approach to measuring SEO and AEO ROI against the metrics defined in Success Metrics below.\nDevelop reporting frameworks that account for traditional traffic, zero-click engagement, SERP feature ownership, and AI search visibility.\nLeverage automation tools, APIs, AI workflows, and scripting (e.g., Python, Google Apps Script, or SQL) to improve efficiency and scalability. ~~advanced Excel or scripting capabilities~~\nUse reporting and visualization platforms (e.g., Looker Studio, Tableau) to communicate performance insights and strategic opportunities.\nProject Management & Delivery\nManage project timelines and deliverables within project management systems (e.g., JIRA), ensuring deadlines and quality standards are met.\nOperate effectively in a contractor capacity, managing priorities across multiple accounts while maintaining strategic clarity and execution rigor.\nQualifications\nRequired\n6-8years of experience driving SEO performance for enterprise or large-scale brands, including client-facing or agency experience\nDemonstrated ownership of both traditional SEO and AEO/GEO initiatives, including having built an AI-search-visibility measurement practice from scratch — not just applied AEO terminology to an existing SEO program.\nAI Overviews and generative search experiences\nStructured data and schema implementation\nEntity-based optimization and knowledge graph strategy\nE-E-A-T frameworks and authority-building strategies\nHands-on experience with leading SEO platforms: SEMrush, Ahrefs, Google Search Console, Screaming Frog, Lumar (DeepCrawl), Yext, Lighthouse, and Google Business Profile.\nHands-on experience with at least one dedicated AI-visibility/citation-tracking platform (e.g., Profound, Peec AI, Scrunch AI, AthenaHQ, or the AI-visibility modules within Semrush/Ahrefs).\nExperience managing project timelines and deliverables within a PM system (e.g., JIRA).\nStrong analytical mindset with the ability to translate complex data into actionable insights and business recommendations.\nExcellent communication skills, with experience presenting to senior stakeholders and client leadership teams.\nPreferred\nBachelor's degree in Marketing, Advertising, Computer Science, Information Technology, or a related field.\nFamiliarity with AI-powered workflows, automation tools, APIs, and scripting (Python, SQL, or Google Apps Script) for reporting automation.\nPrior experience managing search strategy across multiple concurrent client accounts in an agency or consultancy setting.\nInformation Security Responsibilities\nPromote and enforce awareness of key information security practices, including acceptable use of information assets, malware protection, and password security protocols\nIdentify, assess, and report security risks, focusing on how these risks impact the confidentiality, integrity, and availability of information assets\nUnderstand and evaluate how data is stored, processed, or transmitted, ensuring compliance with data privacy and protection standards (GDPR, CCPA, etc.)\nEnsure data protection measures are integrated throughout the information lifecycle to safeguard sensitive information\nWe invite you to stay connected with us by subscribing to our monthly job openings alert here.\nBounteous is proud to be an equal opportunity employer. Bounteous does not discriminate on the basis of race, religion, color, sex, gender identity, sexual orientation, age, physical or mental disability, national origin, veteran status, or any other status protected under federal, state, or local law. Bounteous is willing to sponsor eligible candidates for employment visas. \n#BI-Remote\nOriginally posted on Himalayas",
+      "budget": null,
+      "score": 6,
+      "matched": [
+        "automation",
+        "chatgpt",
+        "gemini",
+        "python",
+        "llm",
+        "ai"
+      ],
+      "queue": "contract",
+      "priority": 13,
+      "reasons": [
+        "explicit hiring intent"
+      ],
+      "flags": [
+        "budget unknown",
+        "check eligibility: United States",
+        "seniority requirement needs review"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "",
+      "apply_url": "https://himalayas.app/companies/bounteous/jobs/seo-manager?utm_source=api",
+      "expires": "2027-01-17T18:07:45+00:00",
       "imported": false,
       "date_basis": "posted"
     },
