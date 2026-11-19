@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-19 16:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-19 16:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -65,26 +65,6 @@ Updated 2026-11-19 16:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > STEM Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous...
-- [micro1: AI Agent Evaluator](https://himalayas.app/companies/micro1/jobs/ai-agent-evaluator-6454455085)  
-  Himalayas | posted Nov 16 16:21 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: AI Agent EvaluatorRole Type: Contractor Location: Remote — U.S BasedOpportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Onboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking. You’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record Your tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role AI agents are starting to h...
-- [micro1: Applied Scientists — Machine Learning](https://himalayas.app/companies/micro1/jobs/applied-scientists-machine-learning)  
-  Himalayas | posted Nov 16 16:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Applied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing o...
-- [micro1: AI Agent Tester](https://himalayas.app/companies/micro1/jobs/ai-agent-tester)  
-  Himalayas | posted Nov 16 16:20 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: AI Agent Tester Role Type: Contractor Location: Remote — EuropeOpportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Onboarding: Once you are presented to the hiring manager, onboarding typically takes 24–48 hours before you can start tasking. You’ll need: An active personal popular AI account (Free, Go, or Plus, Pro), an active personal and a smartphone that can screen record Your tasks: Run everyday errands with two AI agents, approve key steps, screen record, and score the resultsAbout the role AI agents are starting to handle...
-- [micro1: Machine Learning Researcher](https://himalayas.app/companies/micro1/jobs/machine-learning-researcher)  
-  Himalayas | posted Nov 16 16:20 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Machine Learning Researcher Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyin...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
