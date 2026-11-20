@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 19:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 19:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,11 +30,6 @@ Updated 2026-11-20 19:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
-- [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
-  Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 20 | posted within 6 hours
@@ -80,6 +75,11 @@ Updated 2026-11-20 19:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
+- [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
+  Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
 - [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
   Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
