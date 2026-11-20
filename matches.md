@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 06:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -170,11 +170,6 @@ Updated 2026-11-20 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
-- [Gemini: Senior Data Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer)  
-  We Work Remotely | posted Nov 19 06:01 UTC | score 4 | **$126,000 - $180,000** | workflow, gemini, python
-  Fit: 8 | budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
 - [Bounteous: SEO - Manager](https://himalayas.app/companies/bounteous/jobs/seo-manager)  
   Himalayas | posted Nov 18 18:07 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
   Fit: 7 | explicit hiring intent
@@ -195,6 +190,11 @@ Updated 2026-11-20 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > What You'll Do As a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Wil...
+- [Gemini: Senior Data Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer)  
+  We Work Remotely | posted Nov 19 06:01 UTC | score 4 | **$126,000 - $180,000** | workflow, gemini, python
+  Fit: 2 | budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
 - [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
   Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
   Fit: 2 | budget stated, verify scope and currency
