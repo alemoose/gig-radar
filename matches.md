@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 11:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 11:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -95,11 +95,6 @@ Updated 2026-11-20 11:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
-- [Gulf Coast Automation Group: Senior .NET Developer – Digital Payments & Subscription Commerce](https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce)  
-  Himalayas | posted Nov 19 11:01 UTC | score 8 | **USD 65 to 75/hourly** | automation, javascript, postgresql, workflow, stripe, react
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
 - [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
   Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -135,6 +130,11 @@ Updated 2026-11-20 11:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > ABOUT FORJ Forj is a single solution for community and learning, purpose-built to modernize the member experience for associations and professional networks — serving over 300 organizations and a million professionals who rely on us to connect, learn, and grow. We’re a remote-first company headquartered in Delafield, Wisconsin, united not by a shared office but by a shared belief that the professionals who make our world better deserve better. We forge ahead with boldness and determination, but we know great work comes from people who feel trusted and supported — flexibility isn’t a perk he...
+- [Gulf Coast Automation Group: Senior .NET Developer – Digital Payments & Subscription Commerce](https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce)  
+  Himalayas | posted Nov 19 11:01 UTC | score 8 | **USD 65 to 75/hourly** | automation, javascript, postgresql, workflow, stripe, react
+  Fit: 10 | budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
 - [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
   Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
   Fit: 10 | budget stated, verify scope and currency
