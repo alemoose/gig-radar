@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 05:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 06:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -160,6 +160,11 @@ Updated 2026-11-20 05:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
   > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
+- [Askable: Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808)  
+  Remote OK | posted Nov 19 05:56 UTC | score 5 | **$10,000 to $10,000/yr** | javascript, typescript, python, ai
+  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > dev golang python javascript typescript java c plus plus We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Com...
 - [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
   Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
