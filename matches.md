@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 11:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 11:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -175,6 +175,11 @@ Updated 2026-11-20 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manager Job Type...
+- [Airtable: Customer Success Manager](https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818)  
+  Remote OK | posted Nov 19 11:45 UTC | score 6 | **$128,000** | automation, airtable, workflow, saas, ai
+  Fit: 6 | budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > customer support Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Lego blocks, what our customers can build with Airtable is virtually limitless.Â That flexibility is why more than 500,000 organizations, including 80% of the Fortune 100, use Airtable to power critical work a...
 - [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
   We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
   Fit: 5 | explicit hiring intent
