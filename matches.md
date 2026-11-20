@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 11:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 12:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -115,11 +115,6 @@ Updated 2026-11-20 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | 
   Check: budget unknown; check eligibility: United States
   > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
-- [Five9: Graphic Designer](https://himalayas.app/companies/five9/jobs/graphic-designer)  
-  Himalayas | posted Nov 19 11:46 UTC | score 3 | workflow, claude, ai
-  Fit: 12 | 
-  Check: budget unknown; check eligibility: United States
-  > Five9 is a leader in AI-powered cloud contact center software, serving thousands of customers around the world and powering billions of customer interactions every year. We help enterprises deliver smarter customer experience with every interaction, turning every customer conversation into an opportunity to build trust, deepen loyalty, and drive growth. Our Genius CX platform combines deep contact center expertise with applied AI to deliver outcomes the business can measure. Our team-first culture enables us to innovate, grow, and thrive while enjoying the journey together. This is a contra...
 - [Stedi: Legal Engineering Counsel](https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803)  
   Remote OK | posted Nov 18 16:00 UTC | score 6 | **$142** | automation, automate, agents, stripe, saas, ai
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
@@ -175,6 +170,11 @@ Updated 2026-11-20 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manager Job Type...
+- [Five9: Graphic Designer](https://himalayas.app/companies/five9/jobs/graphic-designer)  
+  Himalayas | posted Nov 19 11:46 UTC | score 3 | workflow, claude, ai
+  Fit: 6 | 
+  Check: budget unknown; check eligibility: United States
+  > Five9 is a leader in AI-powered cloud contact center software, serving thousands of customers around the world and powering billions of customer interactions every year. We help enterprises deliver smarter customer experience with every interaction, turning every customer conversation into an opportunity to build trust, deepen loyalty, and drive growth. Our Genius CX platform combines deep contact center expertise with applied AI to deliver outcomes the business can measure. Our team-first culture enables us to innovate, grow, and thrive while enjoying the journey together. This is a contra...
 - [Airtable: Customer Success Manager](https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818)  
   Remote OK | posted Nov 19 11:45 UTC | score 6 | **$128,000** | automation, airtable, workflow, saas, ai
   Fit: 6 | budget stated, verify scope and currency
