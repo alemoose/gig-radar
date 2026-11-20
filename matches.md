@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 21:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 21:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-20 21:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$100/hr Role Title: Data Science & Analytic Methodology SMERole Type: ContractorLocation: Remote We are engaging Data Science & Analytic Methodology SMEs to contribute expertise to a customer's high-impact project focu...
-- [RemoteJobsOne: Revenue Operations Specialist (SaaS) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/revenue-operations-specialist-saas-remote-worldwide)  
-  Himalayas | posted Nov 20 15:05 UTC | score 3 | **USD 50 to 100/hourly** | saas, ai
-  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
 - [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
   Fit: 27 | explicit hiring intent
@@ -45,6 +40,11 @@ Updated 2026-11-20 21:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent
   Check: budget unknown
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
+- [RemoteJobsOne: Revenue Operations Specialist (SaaS) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/revenue-operations-specialist-saas-remote-worldwide)  
+  Himalayas | posted Nov 20 15:05 UTC | score 3 | **USD 50 to 100/hourly** | saas, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 20 | posted within 6 hours
