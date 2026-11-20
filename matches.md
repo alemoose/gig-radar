@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 21:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 21:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,11 +50,6 @@ Updated 2026-11-20 21:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | posted within 6 hours
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
-- [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
-  Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
-  Fit: 19 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
 - [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
   We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
   Fit: 19 | explicit hiring intent
@@ -125,6 +120,11 @@ Updated 2026-11-20 21:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
+- [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
+  Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
+  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
 - [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
   Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
   Fit: 12 | budget stated, verify scope and currency
