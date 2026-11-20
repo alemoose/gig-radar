@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 13:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 13:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,11 +50,6 @@ Updated 2026-11-20 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
-- [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
-  Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
 - [Xperteez Technology: 🌍 Hardware Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract)  
   Himalayas | posted Nov 19 12:22 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
@@ -90,6 +85,11 @@ Updated 2026-11-20 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
+- [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
+  Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -195,11 +195,6 @@ Updated 2026-11-20 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
-- [RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)](https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan)  
-  Himalayas | posted Nov 17 13:01 UTC | score 3 | **USD 18 to 18/hourly** | agents, ai
-  Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > We are looking for AIVoice Recording Contributors to join a Mandarin Chinesevoice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 18 USD/hourHelp Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native langu...
 - [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
   Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
   Fit: -3 | budget stated, verify scope and currency
