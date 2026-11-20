@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 17:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 17:01 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -70,6 +70,11 @@ Updated 2026-11-20 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 18 | budget stated, verify scope and currency
   Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
   > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
+- [Oscar Health: Senior Analyst, Payment Integrity](https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity)  
+  We Work Remotely | posted Nov 20 17:01 UTC | score 3 | **$60,100.01- $78,881.26** | full stack, workflow, ai
+  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: Remote URL: https://oscarhealth.com Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This...
 - [Xperteez Technology: 🌍 STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract)  
   Himalayas | posted Nov 18 18:58 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -80,6 +85,11 @@ Updated 2026-11-20 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
+- [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
+  We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
+  Fit: 15 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
 - [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
   Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -100,6 +110,11 @@ Updated 2026-11-20 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad We're building a new healthcare clearinghouse Stedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product...
+- [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
+  We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
+  Fit: 10 | posted within 6 hours
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: United Kingdom URL: http://www.siemens.com Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excelle...
 - [Forj: Fractional Implementation Project Specialist](https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist)  
   Himalayas | posted Nov 19 18:17 UTC | score 5 | **USD 60 to 70/hourly** | automation, chatgpt, claude, saas, ai
   Fit: 10 | budget stated, verify scope and currency
