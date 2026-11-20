@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 09:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 09:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -130,11 +130,6 @@ Updated 2026-11-20 09:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad We're building a new healthcare clearinghouse Stedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product...
-- [Flowpouch: SEO & GEO Specialist](https://himalayas.app/companies/flowpouch/jobs/seo-geo-specialist)  
-  Himalayas | posted Nov 17 09:10 UTC | score 3 | chatgpt, crawler, ai
-  Fit: 11 | explicit hiring intent
-  Check: budget unknown; check eligibility: Albania, Andorra, Argentina, Austria, Belarus, Belgium, Belize, Bolivia, Bosnia and Herzegovina, Brazil, Bulgaria, Chile, Colombia, Costa Rica, Croatia, Cyprus, Czechia, Denmark, Ecuador, El Salvador, Estonia, Falkland Islands (Malvinas), Faroe Islands, Finland, France, French Guiana, Germany, Gibraltar, Greece, Guatemala, Guernsey, Guyana, Holy See (Vatican City State), Honduras, Hungary, Iceland, Ireland, Isle of Man, Italy, Jersey, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, Nicaragua, North Macedonia, Norway, Panama, Paraguay, Peru, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Suriname, Svalbard and Jan Mayen, Sweden, Switzerland, Ukraine, United Kingdom, United States, Uruguay, Venezuela, Åland Islands
-  > Who we are Flow Pouch makes functional mushroom pouches. People use them as a clean alternative to nicotine pouches and energy products: no nicotine, no caffeine, no crash. We launched in 2024, we have grown quickly, mostly through subscriptions, and we manufacture in the US. We are a remote team of about 30 people globally.Why we are hiring We have had an agency on SEO. We are replacing it with one person who can show results and who understands that search now includes ChatGPT, Perplexity and Google AI Overviews as much as the ten blue links. We want someone who owns organic search for en...
 - [Forj: Fractional Implementation Project Specialist](https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist)  
   Himalayas | posted Nov 19 18:17 UTC | score 5 | **USD 60 to 70/hourly** | automation, chatgpt, claude, saas, ai
   Fit: 10 | budget stated, verify scope and currency
