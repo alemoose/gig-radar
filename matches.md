@@ -1,20 +1,10 @@
 # Gig radar
 
-Updated 2026-11-20 01:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 01:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
-  Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
-  Fit: 29 | data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote We are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason,...
-- [RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide)  
-  Himalayas | posted Nov 19 19:17 UTC | score 4 | **USD 80 to 130/hourly** | ai, problem: data collection
-  Fit: 29 | data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
 - [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
   Fit: 27 | explicit hiring intent
@@ -40,6 +30,16 @@ Updated 2026-11-20 01:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent
   Check: budget unknown
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
+- [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
+  Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
+  Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote We are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason,...
+- [RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide)  
+  Himalayas | posted Nov 19 19:17 UTC | score 4 | **USD 80 to 130/hourly** | ai, problem: data collection
+  Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
 - [Xperteez Technology: 🌍 STEM Expert](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert)  
   Himalayas | posted Nov 19 18:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency

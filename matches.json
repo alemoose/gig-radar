@@ -2,72 +2,6 @@
   "schema_version": 1,
   "gigs": [
     {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us",
-      "source": "Himalayas",
-      "title": "RemoteJobsOne: Paralegal (General) – Remote (US)",
-      "url": "https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us",
-      "posted": "2026-11-19T19:27:26+00:00",
-      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in United States.\nPay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote\nWe are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Experienced US-based law firm paralegals are encouraged to participate, especially those adept in research, document review, case file management, drafting pleadings and filings, and eDiscovery tools such as Relativity. Strong written and verbal communication skills are essential, as precise legal analysis and clear documentation are critical to this engagement.Scope of Work\nConduct comprehensive legal research and analysis on a variety of legal topics and case materials.\nReview, annotate, and summarize legal documents, case files, pleadings, and filings for data training purposes.\nLeverage eDiscovery platforms, including Relativity, to identify, categorize, and extract relevant information from large data sets.\nPrepare detailed legal annotations and structured datasets to support machine learning initiatives.\nAssess and verify the accuracy, completeness, and quality of legal data entries and annotations.\nCollaborate remotely with project coordinators to meet deliverable standards and project milestones.\nProvide insight into legal processes, terminology, and procedural nuances to enhance AI system understanding.\nPreferred Qualifications\nSubstantial experience as a paralegal within a US-based law firm or legal service provider.\nDemonstrated proficiency with legal research, document review, and drafting pleadings and filings.\nHands-on familiarity with eDiscovery tools, particularly Relativity.\nExceptional written and verbal communication abilities for precise documentation and feedback.\nStrong organizational skills for management of large volumes of complex legal data.\nAttention to detail, accuracy, and reliability in handling sensitive legal information.\nInterest in or curiosity about the intersection of law and technology; prior AI or data annotation experience is a plus, but not required.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
-      "budget": "USD 50 to 70/hourly",
-      "score": 4,
-      "matched": [
-        "ai",
-        "problem: data collection"
-      ],
-      "queue": "contract",
-      "priority": 29,
-      "reasons": [
-        "data collection",
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: United States"
-      ],
-      "aliases": [],
-      "location": "United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us?utm_source=api",
-      "expires": "2027-01-18T19:19:47+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
-      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide",
-      "source": "Himalayas",
-      "title": "RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)",
-      "url": "https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide",
-      "posted": "2026-11-19T19:17:02+00:00",
-      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands.\nPay: $80–$130/hr\nRole Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote\nWe are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotation across patents, IP litigation, trademarks, copyright, licensing, and trade secrets. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work\nAnalyze and annotate complex legal documents pertaining to patents, trademarks, copyrights, licensing agreements, and trade secret matters.\nReview litigation materials and summarize case law or outcomes relevant to intellectual property disputes.\nIdentify, extract, and label key legal concepts and data points in accordance with detailed project guidelines.\nDraft detailed explanations to clarify legal rationale and distinctions for AI model understanding.\nProvide written feedback on annotation standards, ambiguity, or project requirements to enhance data quality.\nCollaborate asynchronously with project managers and other legal professionals to ensure consistency and accuracy.\nMaintain confidentiality and manage sensitive legal information in line with best practices.\nPreferred Qualifications\nActive bar admission and legal practice experience in the United States, with a focus on intellectual property law.\nDemonstrated expertise in patent prosecution, IP litigation, trademark, copyright, licensing, and/or trade secret protection.\nStrong analytical and research capabilities, with experience interpreting legal documents and case law.\nExceptional written and verbal communication skills, with a meticulous approach to legal annotation and review.\nFamiliarity with legal data analysis, annotation tools, or legal technology platforms (a plus but not essential).\nAbility to provide actionable, constructive feedback and adapt to evolving project guidelines.\nDemonstrated reliability and attention to detail in managing complex legal assignments.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
-      "budget": "USD 80 to 130/hourly",
-      "score": 4,
-      "matched": [
-        "ai",
-        "problem: data collection"
-      ],
-      "queue": "contract",
-      "priority": 29,
-      "reasons": [
-        "data collection",
-        "posted within 6 hours",
-        "explicit hiring intent",
-        "budget stated, verify scope and currency"
-      ],
-      "flags": [
-        "check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States"
-      ],
-      "aliases": [],
-      "location": "Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States",
-      "employment_type": "Contractor",
-      "currency": "USD",
-      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide?utm_source=api",
-      "expires": "2027-01-18T19:17:00+00:00",
-      "imported": false,
-      "date_basis": "posted"
-    },
-    {
       "id": "wwr:https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
       "source": "We Work Remotely",
       "title": "Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)",
@@ -250,6 +184,70 @@
       "currency": "",
       "apply_url": "",
       "expires": null,
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us",
+      "source": "Himalayas",
+      "title": "RemoteJobsOne: Paralegal (General) – Remote (US)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us",
+      "posted": "2026-11-19T19:27:26+00:00",
+      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in United States.\nPay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote\nWe are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Experienced US-based law firm paralegals are encouraged to participate, especially those adept in research, document review, case file management, drafting pleadings and filings, and eDiscovery tools such as Relativity. Strong written and verbal communication skills are essential, as precise legal analysis and clear documentation are critical to this engagement.Scope of Work\nConduct comprehensive legal research and analysis on a variety of legal topics and case materials.\nReview, annotate, and summarize legal documents, case files, pleadings, and filings for data training purposes.\nLeverage eDiscovery platforms, including Relativity, to identify, categorize, and extract relevant information from large data sets.\nPrepare detailed legal annotations and structured datasets to support machine learning initiatives.\nAssess and verify the accuracy, completeness, and quality of legal data entries and annotations.\nCollaborate remotely with project coordinators to meet deliverable standards and project milestones.\nProvide insight into legal processes, terminology, and procedural nuances to enhance AI system understanding.\nPreferred Qualifications\nSubstantial experience as a paralegal within a US-based law firm or legal service provider.\nDemonstrated proficiency with legal research, document review, and drafting pleadings and filings.\nHands-on familiarity with eDiscovery tools, particularly Relativity.\nExceptional written and verbal communication abilities for precise documentation and feedback.\nStrong organizational skills for management of large volumes of complex legal data.\nAttention to detail, accuracy, and reliability in handling sensitive legal information.\nInterest in or curiosity about the intersection of law and technology; prior AI or data annotation experience is a plus, but not required.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
+      "budget": "USD 50 to 70/hourly",
+      "score": 4,
+      "matched": [
+        "ai",
+        "problem: data collection"
+      ],
+      "queue": "contract",
+      "priority": 23,
+      "reasons": [
+        "data collection",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: United States"
+      ],
+      "aliases": [],
+      "location": "United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us?utm_source=api",
+      "expires": "2027-01-18T19:19:47+00:00",
+      "imported": false,
+      "date_basis": "posted"
+    },
+    {
+      "id": "himalayas:https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide",
+      "source": "Himalayas",
+      "title": "RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)",
+      "url": "https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide",
+      "posted": "2026-11-19T19:17:02+00:00",
+      "body": "IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder.\nThis is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands.\nPay: $80–$130/hr\nRole Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote\nWe are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotation across patents, IP litigation, trademarks, copyright, licensing, and trade secrets. In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters.Scope of Work\nAnalyze and annotate complex legal documents pertaining to patents, trademarks, copyrights, licensing agreements, and trade secret matters.\nReview litigation materials and summarize case law or outcomes relevant to intellectual property disputes.\nIdentify, extract, and label key legal concepts and data points in accordance with detailed project guidelines.\nDraft detailed explanations to clarify legal rationale and distinctions for AI model understanding.\nProvide written feedback on annotation standards, ambiguity, or project requirements to enhance data quality.\nCollaborate asynchronously with project managers and other legal professionals to ensure consistency and accuracy.\nMaintain confidentiality and manage sensitive legal information in line with best practices.\nPreferred Qualifications\nActive bar admission and legal practice experience in the United States, with a focus on intellectual property law.\nDemonstrated expertise in patent prosecution, IP litigation, trademark, copyright, licensing, and/or trade secret protection.\nStrong analytical and research capabilities, with experience interpreting legal documents and case law.\nExceptional written and verbal communication skills, with a meticulous approach to legal annotation and review.\nFamiliarity with legal data analysis, annotation tools, or legal technology platforms (a plus but not essential).\nAbility to provide actionable, constructive feedback and adapt to evolving project guidelines.\nDemonstrated reliability and attention to detail in managing complex legal assignments.\nHow to apply\nApply here with your profile. We will then email you a link to complete yourapplication on the hiring platform — your application is only considered oncethat final step is done.\nOriginally posted on Himalayas",
+      "budget": "USD 80 to 130/hourly",
+      "score": 4,
+      "matched": [
+        "ai",
+        "problem: data collection"
+      ],
+      "queue": "contract",
+      "priority": 23,
+      "reasons": [
+        "data collection",
+        "explicit hiring intent",
+        "budget stated, verify scope and currency"
+      ],
+      "flags": [
+        "check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States"
+      ],
+      "aliases": [],
+      "location": "Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States",
+      "employment_type": "Contractor",
+      "currency": "USD",
+      "apply_url": "https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide?utm_source=api",
+      "expires": "2027-01-18T19:17:00+00:00",
       "imported": false,
       "date_basis": "posted"
     },
@@ -815,7 +813,7 @@
       "title": "Stedi: Legal Engineering Counsel",
       "url": "https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803",
       "posted": "2026-11-18T16:00:19+00:00",
-      "body": "design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad\nWe're building a new healthcare clearinghouse\nStedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product and customer-first approach have set us apart. Stedi was ranked by Ramp as one of the fastest-growing SaaS vendors.\nStedi has lightning in a bottle: engineers and designers shipping products week in and week out; a lean business team supporting the company's infrastructure; a passion for automation and eliminating toil; and $142 million in funding from top investors like Stripe, Addition, USV, Bloomberg Beta, First Round Capital, and more.\nTo see what we ship, watch the 2026 Stedi Keynote. To learn more about how we work, watch our founder Zack's interview with First Round Capital.\nWhat weâre looking for\nStedi is hiring a Legal Engineering Counsel to build how our legal work gets done, and to own a large share of it. Every new customer, payer connection, and partnership runs through a contract, and the volume grows every month. Youâll design the systems that handle it (playbooks, review workflows, automation, and AI tooling) and run them on live deals with counterparties ranging from fast-moving healthtech startups to national payers.\nThis role pairs legal practice with technical skill. You bring strong legal training and a feel for how commercial deals work, and youâve used AI and other technology to make legal work faster and more consistent. What you learn on live deals shapes the systems, and better systems make the next deal faster.\nYouâll join a small, effective Legal team with a broad mandate. We keep up with a fast-growing, highly regulated business by investing in good systems and tools, and this role sits at the center of that investment. Healthcare experience is not required â we value strong judgment, curiosity, and the ability to learn a new industry quickly. If you have the talent and drive to help build a world-class legal function alongside Stediâs experienced legal counsel mentors at a rapidly scaling tech company, we want to talk.\nWhat youâll do\nBuild and own the systems behind Stediâs contracting, including playbooks, clause libraries, templates, intake and approval workflows, and AI-assisted first-pass review.\nBreak recurring legal work into repeatable steps with clear inputs, decision points, and escalation paths, then decide what to automate, what to standardize, and what needs a lawyer.\nTurn our legal counselâs nuanced advice, negotiation positions, and fallbacks into structured guidance that people and AI tools can apply consistently.\nTest and measure what you build. Check outputs against real deals, track where the tools fall short, and iterate until they hold up.\nDraft and negotiate contracts yourself using those systems â including customer agreements, BAAs, NDAs, payer trading partner agreements â from first redline through signature.\nStructure our contract data so the team (and our tools) can answer questions about our agreements in minutes.\nPartner with Sales and Account Management. Build self-serve paths for routine agreements and field the questions that still need a person.\nTake on new areas based on interest and business need as Stedi and the Legal team grow.Who you are\nYouâre bar-admitted and want to practice law while building the systems that support it.\nBigLaw or in-house experience, ideally on transactional work, is a strong plus.\nYouâve built with technology, whether thatâs AI workflows, prompts and evaluations, automations, scripts, or no-code tools, and you can show what you made.\nYouâre comfortable working with structured data and technical tools, and you pick up new ones quickly. Coding experience is a plus, not a requirement.\nYou can explain complex issues in plain language, write clearly, and communicate confidently with executives, lawyers, procurement staff, engineers, and everyone in between.\nYouâre comfortable with high-volume work, ambiguity, and shifting priorities, and you maintain high quality through effective habits.\nYou move fast, operate with precision, and follow through until the job is done. You thrive in an environment where clarity, accountability, and urgency matter. Youâre hungry to learn, seek out feedback, and put it to work.\nWeâve been made aware of individuals impersonating the Stedi recruiting team. Please note:\nAll official communication about roles at Stedi will only come from an @stedi.com email address, or from our official identification verification partner, Persona, @frompersona.com.\nIf youâre unsure whether a message is legitimate or have any concerns, feel free to contact us directly at careers@stedi.com.\nWe appreciate your attention to this and your interest in joining Stedi.\nAt Stedi, we're looking for people who are deeply curious and aligned to our ways of working. You're encouraged to apply even if your experience doesn't perfectly match the job description. \nPlease mention the word **VALOR** and tag RMTMwLjEzMS4yMzkuMTYw when applying to show you read the job post completely (#RMTMwLjEzMS4yMzkuMTYw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "body": "design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad\nWe're building a new healthcare clearinghouse\nStedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product and customer-first approach have set us apart. Stedi was ranked by Ramp as one of the fastest-growing SaaS vendors.\nStedi has lightning in a bottle: engineers and designers shipping products week in and week out; a lean business team supporting the company's infrastructure; a passion for automation and eliminating toil; and $142 million in funding from top investors like Stripe, Addition, USV, Bloomberg Beta, First Round Capital, and more.\nTo see what we ship, watch the 2026 Stedi Keynote. To learn more about how we work, watch our founder Zack's interview with First Round Capital.\nWhat weâre looking for\nStedi is hiring a Legal Engineering Counsel to build how our legal work gets done, and to own a large share of it. Every new customer, payer connection, and partnership runs through a contract, and the volume grows every month. Youâll design the systems that handle it (playbooks, review workflows, automation, and AI tooling) and run them on live deals with counterparties ranging from fast-moving healthtech startups to national payers.\nThis role pairs legal practice with technical skill. You bring strong legal training and a feel for how commercial deals work, and youâve used AI and other technology to make legal work faster and more consistent. What you learn on live deals shapes the systems, and better systems make the next deal faster.\nYouâll join a small, effective Legal team with a broad mandate. We keep up with a fast-growing, highly regulated business by investing in good systems and tools, and this role sits at the center of that investment. Healthcare experience is not required â we value strong judgment, curiosity, and the ability to learn a new industry quickly. If you have the talent and drive to help build a world-class legal function alongside Stediâs experienced legal counsel mentors at a rapidly scaling tech company, we want to talk.\nWhat youâll do\nBuild and own the systems behind Stediâs contracting, including playbooks, clause libraries, templates, intake and approval workflows, and AI-assisted first-pass review.\nBreak recurring legal work into repeatable steps with clear inputs, decision points, and escalation paths, then decide what to automate, what to standardize, and what needs a lawyer.\nTurn our legal counselâs nuanced advice, negotiation positions, and fallbacks into structured guidance that people and AI tools can apply consistently.\nTest and measure what you build. Check outputs against real deals, track where the tools fall short, and iterate until they hold up.\nDraft and negotiate contracts yourself using those systems â including customer agreements, BAAs, NDAs, payer trading partner agreements â from first redline through signature.\nStructure our contract data so the team (and our tools) can answer questions about our agreements in minutes.\nPartner with Sales and Account Management. Build self-serve paths for routine agreements and field the questions that still need a person.\nTake on new areas based on interest and business need as Stedi and the Legal team grow.Who you are\nYouâre bar-admitted and want to practice law while building the systems that support it.\nBigLaw or in-house experience, ideally on transactional work, is a strong plus.\nYouâve built with technology, whether thatâs AI workflows, prompts and evaluations, automations, scripts, or no-code tools, and you can show what you made.\nYouâre comfortable working with structured data and technical tools, and you pick up new ones quickly. Coding experience is a plus, not a requirement.\nYou can explain complex issues in plain language, write clearly, and communicate confidently with executives, lawyers, procurement staff, engineers, and everyone in between.\nYouâre comfortable with high-volume work, ambiguity, and shifting priorities, and you maintain high quality through effective habits.\nYou move fast, operate with precision, and follow through until the job is done. You thrive in an environment where clarity, accountability, and urgency matter. Youâre hungry to learn, seek out feedback, and put it to work.\nWeâve been made aware of individuals impersonating the Stedi recruiting team. Please note:\nAll official communication about roles at Stedi will only come from an @stedi.com email address, or from our official identification verification partner, Persona, @frompersona.com.\nIf youâre unsure whether a message is legitimate or have any concerns, feel free to contact us directly at careers@stedi.com.\nWe appreciate your attention to this and your interest in joining Stedi.\nAt Stedi, we're looking for people who are deeply curious and aligned to our ways of working. You're encouraged to apply even if your experience doesn't perfectly match the job description. \nPlease mention the word **VALOR** and tag RMTcyLjE4NC4xNzQuMTE0 when applying to show you read the job post completely (#RMTcyLjE4NC4xNzQuMTE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "budget": "$142",
       "score": 6,
       "matched": [
