@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 09:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 09:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
