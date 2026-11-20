@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 15:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 15:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -80,11 +80,6 @@ Updated 2026-11-20 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
-- [micro1: Aerodynamics Expert](https://himalayas.app/companies/micro1/jobs/aerodynamics-expert-9903553053)  
-  Himalayas | posted Nov 17 15:45 UTC | score 4 | **USD 80 to 120/hourly** | automate, workflow, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
 - [HigherRing: Client Specialist - eCommerce Business & Sales Operations](https://himalayas.app/companies/higherring/jobs/client-specialist-ecommerce-business-sales-operations)  
   Himalayas | posted Nov 19 13:00 UTC | score 3 | **USD 25 to 27/hourly** | chatgpt, claude, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -145,11 +140,6 @@ Updated 2026-11-20 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > dev golang python javascript typescript java c plus plus We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Com...
-- [micro1: ML Engineer](https://himalayas.app/companies/micro1/jobs/ml-engineer-5857868967)  
-  Himalayas | posted Nov 17 15:45 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
-  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model...
 - [Bounteous: SEO - Manager](https://himalayas.app/companies/bounteous/jobs/seo-manager)  
   Himalayas | posted Nov 18 18:07 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
   Fit: 7 | explicit hiring intent
@@ -170,11 +160,6 @@ Updated 2026-11-20 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: North Macedonia URL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion Senior Software Engineer Location: Remote (Within +/- 2 hours of CET) Contract Type: Full-time Starting Salary: €55,000 Euros per annum gross, subject to skills, experience and location Not Your Typical Workplace… Tired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion. Our remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through...
-- [micro1: Computational Bioscience Expert (Python)](https://himalayas.app/companies/micro1/jobs/computational-bioscience-expert-python)  
-  Himalayas | posted Nov 17 15:45 UTC | score 4 | **$60** | workflow, python, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
-  > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
 - [Prominence Advisors: Epic Behavioral Health Reporting Analyst](https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst)  
   Himalayas | posted Nov 19 14:58 UTC | score 4 | workflow, problem: workflow repair
   Fit: 3 | workflow repair; explicit hiring intent
