@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-20 20:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 20:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
-  Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
-  Fit: 32 | posted within 6 hours; explicit hiring intent; small scope signal
-  Check: budget unknown; check eligibility: United States
-  > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
@@ -35,6 +30,11 @@ Updated 2026-11-20 20:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent
   Check: budget unknown
   > Headquarters: India URL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners AI Engineer | India Department: Engineering Reports To: Product & Engineering Leadership Location: India - Fully Remote Employment Type: Full-Time Experience Level: Mid-Level Compensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise Position Overview The AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) s...
+- [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
+  Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
+  Fit: 26 | explicit hiring intent; small scope signal
+  Check: budget unknown; check eligibility: United States
+  > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
 - [Elvoro: AI Creative Engineer (Social Media)](https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media)  
   Himalayas | posted Nov 18 18:07 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
   Fit: 25 | explicit hiring intent
