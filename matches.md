@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 12:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 13:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-20 12:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
-- [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
-  Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > Role Title: Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyi...
 - [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
   Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -145,6 +140,11 @@ Updated 2026-11-20 12:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | workflow repair; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
+- [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
+  Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
+  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > Role Title: Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyi...
 - [Tines: Paralegal](https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817)  
   Remote OK | posted Nov 19 11:30 UTC | score 5 | **$100k - $115k** | ai agent, workflow, agents, saas, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
