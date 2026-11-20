@@ -1,10 +1,35 @@
 # Gig radar
 
-Updated 2026-11-20 20:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 20:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
+  Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
+  Fit: 32 | posted within 6 hours; explicit hiring intent; small scope signal
+  Check: budget unknown; check eligibility: United States
+  > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
+- [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
+  Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
+  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $25–$45/hrRole Title: AI Agent Tester — Real-World Tasks Role Type: ContractorLocation: U.S based Opportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Project kickoff: Already active. Onboarding: Within 24–48 hours of being selected, you’ll receive the offer and comp...
+- [RemoteJobsOne: Applied Scientists — Machine Learning – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/applied-scientists-machine-learning-remote-worldwide)  
+  Himalayas | posted Nov 20 16:14 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 29 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Egypt, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $60–$120/hrApplied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desi...
+- [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
+  Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
+  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$100/hr Role Title: Data Science & Analytic Methodology SMERole Type: ContractorLocation: Remote We are engaging Data Science & Analytic Methodology SMEs to contribute expertise to a customer's high-impact project focu...
+- [RemoteJobsOne: Revenue Operations Specialist (SaaS) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/revenue-operations-specialist-saas-remote-worldwide)  
+  Himalayas | posted Nov 20 15:05 UTC | score 3 | **USD 50 to 100/hourly** | saas, ai
+  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
 - [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
   We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
   Fit: 27 | explicit hiring intent
@@ -25,6 +50,11 @@ Updated 2026-11-20 20:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | posted within 6 hours
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
+- [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
+  Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
+  Fit: 19 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
 - [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
   We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
   Fit: 19 | explicit hiring intent
