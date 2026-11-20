@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 12:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 12:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-20 12:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Aerodynamics Expert Pay: $80–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired We are looking for a highly skilled Aerodynamics Expert to contribute to an AI training project involving computational fluid dynamics, aerodynamic analysis, engineering simulation, and Python. The work involves creating, solving, reviewing, and validating engineering tasks that can be completed through programmatic, command-line-based workflows. A representative task may require analyzing...
-- [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
-  Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
 - [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
   Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -125,6 +120,11 @@ Updated 2026-11-20 12:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > ABOUT FORJ Forj is a single solution for community and learning, purpose-built to modernize the member experience for associations and professional networks — serving over 300 organizations and a million professionals who rely on us to connect, learn, and grow. We’re a remote-first company headquartered in Delafield, Wisconsin, united not by a shared office but by a shared belief that the professionals who make our world better deserve better. We forge ahead with boldness and determination, but we know great work comes from people who feel trusted and supported — flexibility isn’t a perk he...
+- [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
+  Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
+  Fit: 10 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
 - [Gulf Coast Automation Group: Senior .NET Developer – Digital Payments & Subscription Commerce](https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce)  
   Himalayas | posted Nov 19 11:01 UTC | score 8 | **USD 65 to 75/hourly** | automation, javascript, postgresql, workflow, stripe, react
   Fit: 10 | budget stated, verify scope and currency
@@ -145,11 +145,6 @@ Updated 2026-11-20 12:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | workflow repair; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
-- [EMCD: Senior Go Developer (Blockchain & Ledger)](https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger)  
-  Himalayas | posted Nov 19 12:36 UTC | score 4 | postgresql, claude, node, ai
-  Fit: 9 | explicit hiring intent
-  Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
 - [Tines: Paralegal](https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817)  
   Remote OK | posted Nov 19 11:30 UTC | score 5 | **$100k - $115k** | ai agent, workflow, agents, saas, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -190,6 +185,11 @@ Updated 2026-11-20 12:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
   > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
+- [EMCD: Senior Go Developer (Blockchain & Ledger)](https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger)  
+  Himalayas | posted Nov 19 12:36 UTC | score 4 | postgresql, claude, node, ai
+  Fit: 3 | explicit hiring intent
+  Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
 - [Gemini: Senior Data Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer)  
   We Work Remotely | posted Nov 19 06:01 UTC | score 4 | **$126,000 - $180,000** | workflow, gemini, python
   Fit: 2 | budget stated, verify scope and currency
