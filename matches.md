@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 11:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 11:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -155,6 +155,11 @@ Updated 2026-11-20 11:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
   > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
+- [Tines: Paralegal](https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817)  
+  Remote OK | posted Nov 19 11:30 UTC | score 5 | **$100k - $115k** | ai agent, workflow, agents, saas, ai
+  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > customer support Tines is the intelligent workflow company that powers some of the world's most important workflows.Â Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines â a single, secure environment for every teamâs apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-...
 - [Askable: Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808)  
   Remote OK | posted Nov 19 05:56 UTC | score 5 | **$10,000 to $10,000/yr** | javascript, typescript, python, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -180,21 +185,11 @@ Updated 2026-11-20 11:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: project budget below preferred floor; low budget: lock scope in writing, 50% upfront; check eligibility: Worldwide (check timezone)
   > Role Title: Computational Bioscience Expert (Python) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired micro1 is seeking experienced Computational Bioscience Expert with strong, hands-on Python skills to contribute to projects focused on evaluating and improving advanced AI systems. In this role, you will apply your scientific expertise to create, solve, and review challenging research problems within biology and related fields. You will use Python to analyze sc...
-- [Avalara: 1099 Product Solution Consultant](https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant)  
-  Himalayas | posted Nov 19 11:17 UTC | score 3 | chatgpt, saas, ai
-  Fit: 2 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > What You'll Do As a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Wil...
 - [Gemini: Senior Data Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer)  
   We Work Remotely | posted Nov 19 06:01 UTC | score 4 | **$126,000 - $180,000** | workflow, gemini, python
   Fit: 2 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
-- [MetroSys: AI Infrastructure Solutions Architect](https://himalayas.app/companies/metrosys/jobs/ai-infrastructure-solutions-architect)  
-  Himalayas | posted Nov 17 11:18 UTC | score 4 | **USD 100 to 125/hourly** | automation, python, ai
-  Fit: 2 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Position Overview MetroSys is seeking a highly experienced Senior AI Infrastructure Solutions Architect to support the design, planning, and implementation of advanced artificial intelligence computing environments for enterprise organizations. This position requires a technical leader with extensive experience in GPU-accelerated infrastructure, high-performance computing (HPC), enterprise networking, storage architecture, and AI platform integration. The ideal candidate will combine deep infrastructure engineering expertise with the ability to advise customers on complex technology investm...
 - [RWS Group: AI Voice Recording Contributor - Mandarin Chinese (Taiwan)](https://himalayas.app/companies/rws-group/jobs/ai-voice-recording-contributor-mandarin-chinese-taiwan)  
   Himalayas | posted Nov 17 13:01 UTC | score 3 | **USD 18 to 18/hourly** | agents, ai
   Fit: 0 | explicit hiring intent; budget stated, verify scope and currency
@@ -205,6 +200,11 @@ Updated 2026-11-20 11:15 UTC. Projects first, ranked by fit and freshness.
   Fit: -3 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Malay Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases. Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks. Apply structu...
+- [Avalara: 1099 Product Solution Consultant](https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant)  
+  Himalayas | posted Nov 19 11:17 UTC | score 3 | chatgpt, saas, ai
+  Fit: -4 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > What You'll Do As a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Wil...
 - [WRS Health: Human Centered Design Manager](https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602)  
   Himalayas | posted Nov 18 19:17 UTC | score 3 | automation, agents, ai
   Fit: -4 | 
