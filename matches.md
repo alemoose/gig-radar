@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 18:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 18:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,16 +50,6 @@ Updated 2026-11-20 18:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
-- [Careerflow.ai: Code Reviewer - C++/C# (LATAM)](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-c-c-latam)  
-  We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
-  > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
-- [Careerflow.ai: Code Reviewer - Golang](https://weworkremotely.com/remote-jobs/careerflow-ai-code-reviewer-golang)  
-  We Work Remotely | posted Nov 17 18:01 UTC | score 5 | **$25** | automation, agents, llm, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
-  > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
 - [Oscar Health: Senior Analyst, Payment Integrity](https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 3 | **$60,100.01- $78,881.26** | full stack, workflow, ai
   Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
