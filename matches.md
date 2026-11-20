@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 17:01 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 17:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -65,11 +65,6 @@ Updated 2026-11-20 17:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified
   > Headquarters: United States URL: https://www.careerflow.ai About the Role: We are looking for experienced software engineers (tech lead level) who are familiar with high-quality public GitHub repositories and can contribute to this project. This role involves hands-on software engineering work, including development environment automation, issue triaging, and evaluating test coverage and quality What does day-to-day look like: Analyze and triage GitHub issues across trending open-source libraries. Set up and configure code repositories, including Dockerization and environment setup. Evaluat...
-- [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
-  Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
-  Fit: 18 | budget stated, verify scope and currency
-  Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
-  > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
 - [Oscar Health: Senior Analyst, Payment Integrity](https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 3 | **$60,100.01- $78,881.26** | full stack, workflow, ai
   Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
@@ -105,6 +100,11 @@ Updated 2026-11-20 17:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
+- [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
+  Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
+  Fit: 12 | budget stated, verify scope and currency
+  Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
+  > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
 - [Stedi: Legal Engineering Counsel](https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803)  
   Remote OK | posted Nov 18 16:00 UTC | score 6 | **$142** | automation, automate, agents, stripe, saas, ai
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
