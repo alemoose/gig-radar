@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 13:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 13:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-20 13:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
-- [ISI Enterprises: Analytics Engineer (AI & Automation) - Contract](https://himalayas.app/companies/isi-enterprises/jobs/analytics-engineer-ai-automation-contract)  
-  Himalayas | posted Nov 17 13:40 UTC | score 7 | automation, claude, python, saas, ai
-  Fit: 14 | 
-  Check: budget unknown; check eligibility: United States
-  > Analytics Engineer (AI & Automation)Location: Remote (hybrid option in Herndon, VA) Type: Contract, Full Time (6 months)About the RoleIsI Enterprises is seeking a contract Analytics Engineer to join our AI & Automation team. You will turn the data landing in our Snowflake data platform into trusted models, metrics, and dashboards that leaders across our Managed Services, Managed Security Services, and Finance teams use to run the business. Working alongside the Data Engineer, who owns ingestion and the platform, you will own the modeling and reporting layers and work directly with the busin...
 - [Stedi: Legal Engineering Counsel](https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803)  
   Remote OK | posted Nov 18 16:00 UTC | score 6 | **$142** | automation, automate, agents, stripe, saas, ai
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
