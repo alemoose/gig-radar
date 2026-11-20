@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-20 19:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-20 19:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,16 +20,6 @@ Updated 2026-11-20 19:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent
   Check: budget unknown
   > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
-- [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
-  Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
-  Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote We are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason,...
-- [RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide)  
-  Himalayas | posted Nov 19 19:17 UTC | score 4 | **USD 80 to 130/hourly** | ai, problem: data collection
-  Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 20 | posted within 6 hours
@@ -50,6 +40,16 @@ Updated 2026-11-20 19:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote URL: https://oscarhealth.com Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This...
+- [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
+  Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
+  Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote We are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason,...
+- [RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide)  
+  Himalayas | posted Nov 19 19:17 UTC | score 4 | **USD 80 to 130/hourly** | ai, problem: data collection
+  Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
 - [Xperteez Technology: 🌍 STEM Expert](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert)  
   Himalayas | posted Nov 19 18:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
