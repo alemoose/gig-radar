@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-21 18:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 18:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Elvoro: AI Creative Engineer (Social Media)](https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media)  
-  Himalayas | posted Nov 18 18:07 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
-  Fit: 25 | explicit hiring intent
-  Check: budget unknown; check eligibility: Worldwide (check timezone)
-  > Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptiona...
 - [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
   Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
   Fit: 20 | explicit hiring intent; small scope signal
@@ -135,11 +130,6 @@ Updated 2026-11-21 18:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > exec Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Position Overview We're seeking a Manager, Business Risk and AI Automation, to help shape the next chapter of Internal Audit at Reddit...
-- [Bounteous: SEO - Manager](https://himalayas.app/companies/bounteous/jobs/seo-manager)  
-  Himalayas | posted Nov 18 18:07 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
-  Fit: 7 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manager Job Type...
 - [Five9: Graphic Designer](https://himalayas.app/companies/five9/jobs/graphic-designer)  
   Himalayas | posted Nov 19 11:46 UTC | score 3 | workflow, claude, ai
   Fit: 6 | 
