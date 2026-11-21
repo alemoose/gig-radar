@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 15:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 16:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -105,11 +105,6 @@ Updated 2026-11-21 15:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote URL: https://oscarhealth.com Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This...
-- [Stedi: Legal Engineering Counsel](https://remoteOK.com/remote-jobs/remote-legal-engineering-counsel-stedi-1137803)  
-  Remote OK | posted Nov 18 16:00 UTC | score 6 | **$142** | automation, automate, agents, stripe, saas, ai
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > design saas education exec legal technical customer support testing dev finance c api sales medical recruiter engineer digital nomad We're building a new healthcare clearinghouse Stedi is the only headless clearinghouse and RCM engine. Headless means every part of our product is accessible via API. Developers and AI agents build their own interface on top of it. By offering modern, AI-ready APIs alongside traditional real-time and batch EDI processes, we enable both healthcare technology businesses and established players to exchange mission-critical transactions. Our clearinghouse product...
 - [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
   Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
   Fit: 10 | budget stated, verify scope and currency
