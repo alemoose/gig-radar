@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-21 14:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 14:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
-  Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
-  Fit: 26 | explicit hiring intent; small scope signal
-  Check: budget unknown; check eligibility: United States
-  > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
 - [Elvoro: AI Creative Engineer (Social Media)](https://himalayas.app/companies/elvoro/jobs/ai-creative-engineer-social-media)  
   Himalayas | posted Nov 18 18:07 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
   Fit: 25 | explicit hiring intent
@@ -35,6 +30,11 @@ Updated 2026-11-21 14:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
+- [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
+  Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
+  Fit: 20 | explicit hiring intent; small scope signal
+  Check: budget unknown; check eligibility: United States
+  > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
 - [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
   We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
   Fit: 19 | explicit hiring intent
