@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-21 11:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 11:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)](https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india)  
-  We Work Remotely | posted Nov 18 11:31 UTC | score 11 | automation, embeddings, fine-tune, langchain, prompt, vector
-  Fit: 27 | explicit hiring intent
-  Check: budget unknown
-  > Headquarters: India URL: https://jobs.workable.com/company/vBHEuzwk8ghJwdk43HHAzt/jobs-at-volga-partners AI Engineer | India Department: Engineering Reports To: Product & Engineering Leadership Location: India - Fully Remote Employment Type: Full-Time Experience Level: Mid-Level Compensation: ₹15,00,000 – ₹22,00,000 per year (15–22 LPA), commensurate with experience and technical expertise Position Overview The AI Engineer at Volga Partners will design, develop, and deploy advanced, production-ready AI solutions, including Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) s...
 - [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
   Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
   Fit: 26 | explicit hiring intent; small scope signal
@@ -145,11 +140,6 @@ Updated 2026-11-21 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
-- [Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)](https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united)  
-  We Work Remotely | posted Nov 18 11:31 UTC | score 3 | **$130/hour** | llm, ai
-  Fit: 10 | budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: URL: http://www.prolific.com AI Trainer - Physician (Task-Based, Remote, Flexible) Location: Remote, United States Type of participation: Freelance, task-based Rate: $130/hour for paid screening; project tasks from $216/hour, subject to task-specific confirmation. About Prolific Prolific is not just another player in the AI space – we are building the biggest pool of quality human data in the world. Over 35,000 AI developers, researchers, and organizations use Prolific to gather data from paid study participants with a wide variety of experiences, knowledge, and skills. The Op...
 - [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
   Fit: 9 | explicit hiring intent
@@ -200,11 +190,6 @@ Updated 2026-11-21 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > exec Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure...
-- [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
-  We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
-  Fit: 5 | explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: North Macedonia URL: https://jobs.workable.com/company/jzo8hYoyQi6MffQtCgXykk/jobs-at-workmotion Senior Software Engineer Location: Remote (Within +/- 2 hours of CET) Contract Type: Full-time Starting Salary: €55,000 Euros per annum gross, subject to skills, experience and location Not Your Typical Workplace… Tired of the 9-to-5 grind? Imagine a world without borders, where opportunities are endless. That's the future of work, and what we're building at WorkMotion. Our remote-first team spans the globe, helping companies hire, onboard, and manage talent internationally through...
 - [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
   Fit: 4 | 
