@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 22:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 23:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-21 22:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
-- [Stripe: Technical Recruiter, OpenRouter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/technical-recruiter-openrouter-fixed-term)  
-  Himalayas | posted Nov 21 16:57 UTC | score 3 | stripe, ai
-  Fit: 13 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To help support that mission, in August we announced that Stripe had agre...
 - [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
   We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
   Fit: 12 | 
@@ -145,6 +140,11 @@ Updated 2026-11-21 22:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 8 | 
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
+- [Stripe: Technical Recruiter, OpenRouter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/technical-recruiter-openrouter-fixed-term)  
+  Himalayas | posted Nov 21 16:57 UTC | score 3 | stripe, ai
+  Fit: 7 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To help support that mission, in August we announced that Stripe had agre...
 - [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
   Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
