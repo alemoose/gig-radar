@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 18:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 19:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,11 +50,6 @@ Updated 2026-11-21 18:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Mechanical Engineering Expert Job Type: Contract (~15 hours per week) Pay: $60–$120/hour Location: Global, fully remote Schedule: Flexible, choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may...
-- [Xperteez Technology: 🌍 STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract)  
-  Himalayas | posted Nov 18 18:58 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python....
 - [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
   Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
