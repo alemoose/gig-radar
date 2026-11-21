@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-21 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $25–$45/hrRole Title: AI Agent Tester — Real-World Tasks Role Type: ContractorLocation: U.S based Opportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Project kickoff: Already active. Onboarding: Within 24–48 hours of being selected, you’ll receive the offer and comp...
-- [RemoteJobsOne: Applied Scientists — Machine Learning – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/applied-scientists-machine-learning-remote-worldwide)  
-  Himalayas | posted Nov 20 16:14 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Egypt, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $60–$120/hrApplied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desi...
 - [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
   Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
@@ -40,6 +35,11 @@ Updated 2026-11-21 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
+- [RemoteJobsOne: Applied Scientists — Machine Learning – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/applied-scientists-machine-learning-remote-worldwide)  
+  Himalayas | posted Nov 20 16:14 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Egypt, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $60–$120/hrApplied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desi...
 - [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
   Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
   Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
