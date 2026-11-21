@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 06:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,6 +50,11 @@ Updated 2026-11-21 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
+- [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
+  We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
+  Fit: 18 | posted within 6 hours
+  Check: budget unknown
+  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
 - [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
   Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
   Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
