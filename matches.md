@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 00:01 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 00:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-21 00:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 25 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone)
   > Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now looking for an expert engineer with exceptiona...
-- [Elvoro: AI Creative Engineer (Social Media)](https://weworkremotely.com/remote-jobs/elvoro-ai-creative-engineer-social-media)  
-  We Work Remotely | posted Nov 18 00:12 UTC | score 10 | javascript, anthropic, workflow, agents, claude, prompt
-  Fit: 25 | explicit hiring intent
-  Check: budget unknown
-  > Headquarters: Elvoro URL: https://elvoro.com/ Python AI Creative Engineer (Social Media) – Elvoro Ltd Engagement: Project-based contract with planned expansion to Full-time Location: Remote, Worldwide Compensation: To be agreed About & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world’s best AI-native marketing solutions to our clients for remarkable business growth (without AI slop). The AI revolution has changed what’s possible and our proprietary system, built around 100+ API’s, makes it work. We are now...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
