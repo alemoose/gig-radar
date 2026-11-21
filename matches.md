@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 12:48 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 13:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -70,11 +70,6 @@ Updated 2026-11-21 12:48 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python....
-- [micro1: Mechanical Engineering Expert](https://himalayas.app/companies/micro1/jobs/mechanical-engineering-expert-5759858270)  
-  Himalayas | posted Nov 18 13:00 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Mechanical Engineering Expert Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may require...
 - [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
   Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -85,11 +80,6 @@ Updated 2026-11-21 12:48 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
-- [micro1: Competitive Data Scientist (Kaggle)](https://himalayas.app/companies/micro1/jobs/competitive-data-scientist-kaggle)  
-  Himalayas | posted Nov 18 13:00 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Australia, Canada, New Zealand, United Kingdom, United States
-  > Role Title: Competitive Data Scientist (Kaggle) Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 14 | 
