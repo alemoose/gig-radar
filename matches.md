@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 12:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 12:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -45,11 +45,6 @@ Updated 2026-11-21 12:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
-- [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
-  We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
-  Fit: 18 | posted within 6 hours
-  Check: budget unknown
-  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
 - [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
   Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
   Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
@@ -110,6 +105,11 @@ Updated 2026-11-21 12:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
+- [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
+  We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
+  Fit: 12 | 
+  Check: budget unknown
+  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
 - [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
   Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
   Fit: 12 | budget stated, verify scope and currency
