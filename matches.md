@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 15:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 15:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -25,11 +25,6 @@ Updated 2026-11-21 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$100/hr Role Title: Data Science & Analytic Methodology SMERole Type: ContractorLocation: Remote We are engaging Data Science & Analytic Methodology SMEs to contribute expertise to a customer's high-impact project focu...
-- [RemoteJobsOne: Revenue Operations Specialist (SaaS) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/revenue-operations-specialist-saas-remote-worldwide)  
-  Himalayas | posted Nov 20 15:05 UTC | score 3 | **USD 50 to 100/hourly** | saas, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
 - [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
   Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
   Fit: 20 | explicit hiring intent; small scope signal
@@ -70,6 +65,11 @@ Updated 2026-11-21 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python....
+- [RemoteJobsOne: Revenue Operations Specialist (SaaS) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/revenue-operations-specialist-saas-remote-worldwide)  
+  Himalayas | posted Nov 20 15:05 UTC | score 3 | **USD 50 to 100/hourly** | saas, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, United States
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
 - [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
   Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
