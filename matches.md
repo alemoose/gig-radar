@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 15:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 15:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-21 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
-- [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
-  Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
-  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
 - [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
   We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
   Fit: 12 | 
@@ -145,6 +140,11 @@ Updated 2026-11-21 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > dev golang python javascript typescript java c plus plus We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Com...
+- [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
+  Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
+  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
 - [Reddit: Manager, Business Risk and AI Automation](https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879)  
   Remote OK | posted Nov 20 03:30 UTC | score 4 | **$154,700** | automation, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
