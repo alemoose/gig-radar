@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 19:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 19:59 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -175,11 +175,6 @@ Updated 2026-11-21 19:45 UTC. Projects first, ranked by fit and freshness.
   Fit: -2 | 
   Check: budget unknown; seniority requirement needs review
   > Headquarters: United Kingdom URL: http://www.siemens.com Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excelle...
-- [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
-  Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
-  Fit: -3 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Malay Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents to identify jailbreaks, prompt injections, and misuse cases. Generate high-quality human data by annotating failures, classifying vulnerabilities, and flagging systemic risks. Apply structu...
 - [Avalara: 1099 Product Solution Consultant](https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant)  
   Himalayas | posted Nov 19 11:17 UTC | score 3 | chatgpt, saas, ai
   Fit: -4 | 
