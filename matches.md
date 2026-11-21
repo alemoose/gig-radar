@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 18:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 18:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -75,11 +75,6 @@ Updated 2026-11-21 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
-- [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
-  We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
-  Fit: 14 | 
-  Check: budget unknown
-  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
 - [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
   Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
   Fit: 14 | budget stated, verify scope and currency
@@ -120,6 +115,11 @@ Updated 2026-11-21 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > dev golang python javascript typescript java c plus plus We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Com...
+- [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
+  We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
+  Fit: 8 | 
+  Check: budget unknown
+  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
 - [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
   Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
