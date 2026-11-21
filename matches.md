@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 03:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 03:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -165,6 +165,11 @@ Updated 2026-11-21 03:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > dev golang python javascript typescript java c plus plus We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Com...
+- [Reddit: Manager, Business Risk and AI Automation](https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879)  
+  Remote OK | posted Nov 20 03:30 UTC | score 4 | **$154,700** | automation, ai
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > exec Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Position Overview We're seeking a Manager, Business Risk and AI Automation, to help shape the next chapter of Internal Audit at Reddit...
 - [Bounteous: SEO - Manager](https://himalayas.app/companies/bounteous/jobs/seo-manager)  
   Himalayas | posted Nov 18 18:07 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
   Fit: 7 | explicit hiring intent
@@ -180,6 +185,11 @@ Updated 2026-11-21 03:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > customer support Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Lego blocks, what our customers can build with Airtable is virtually limitless.Â That flexibility is why more than 500,000 organizations, including 80% of the Fortune 100, use Airtable to power critical work a...
+- [6sense: Compensation Manager](https://remoteOK.com/remote-jobs/remote-compensation-manager-6sense-1137878)  
+  Remote OK | posted Nov 20 03:15 UTC | score 3 | **$109,200.00 - $160,160.00** | automation, automate, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > exec Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure...
 - [WorkMotion: Senior Software Engineer](https://weworkremotely.com/remote-jobs/workmotion-senior-software-engineer)  
   We Work Remotely | posted Nov 18 11:30 UTC | score 5 | postgresql, claude, react, saas, ai
   Fit: 5 | explicit hiring intent
