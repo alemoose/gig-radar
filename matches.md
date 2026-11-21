@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 17:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 17:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-21 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
   > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
-- [Oscar Health: Senior Analyst, Payment Integrity](https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity)  
-  We Work Remotely | posted Nov 20 17:01 UTC | score 3 | **$60,100.01- $78,881.26** | full stack, workflow, ai
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: Remote URL: https://oscarhealth.com Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This...
 - [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
   Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
   Fit: 10 | budget stated, verify scope and currency
@@ -115,11 +110,6 @@ Updated 2026-11-21 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
-- [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
-  We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
-  Fit: 9 | explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
 - [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
   Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -160,6 +150,11 @@ Updated 2026-11-21 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > customer support Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Lego blocks, what our customers can build with Airtable is virtually limitless.Â That flexibility is why more than 500,000 organizations, including 80% of the Fortune 100, use Airtable to power critical work a...
+- [Oscar Health: Senior Analyst, Payment Integrity](https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity)  
+  We Work Remotely | posted Nov 20 17:01 UTC | score 3 | **$60,100.01- $78,881.26** | full stack, workflow, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: Remote URL: https://oscarhealth.com Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This...
 - [Reddit: Product Manager, AI Foundations](https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893)  
   Remote OK | posted Nov 20 07:00 UTC | score 3 | **$260,800** | embeddings, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
@@ -170,16 +165,16 @@ Updated 2026-11-21 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > exec Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure...
-- [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
-  We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
-  Fit: 4 | 
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: United Kingdom URL: http://www.siemens.com Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excelle...
 - [Forj: Fractional Implementation Project Specialist](https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist)  
   Himalayas | posted Nov 19 18:17 UTC | score 5 | **USD 60 to 70/hourly** | automation, chatgpt, claude, saas, ai
   Fit: 4 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > ABOUT FORJ Forj is a single solution for community and learning, purpose-built to modernize the member experience for associations and professional networks — serving over 300 organizations and a million professionals who rely on us to connect, learn, and grow. We’re a remote-first company headquartered in Delafield, Wisconsin, united not by a shared office but by a shared belief that the professionals who make our world better deserve better. We forge ahead with boldness and determination, but we know great work comes from people who feel trusted and supported — flexibility isn’t a perk he...
+- [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
+  We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
+  Fit: 3 | explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
 - [Prominence Advisors: Epic Behavioral Health Reporting Analyst](https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst)  
   Himalayas | posted Nov 19 14:58 UTC | score 4 | workflow, problem: workflow repair
   Fit: 3 | workflow repair; explicit hiring intent
@@ -195,6 +190,11 @@ Updated 2026-11-21 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
+- [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
+  We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
+  Fit: -2 | 
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: United Kingdom URL: http://www.siemens.com Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excelle...
 - [mercor: AI Safety Specialist - Fully Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-safety-specialist-fully-remote-upto-25-hr-7582725032)  
   Himalayas | posted Nov 18 19:48 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
   Fit: -3 | budget stated, verify scope and currency
