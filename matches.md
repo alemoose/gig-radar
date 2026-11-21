@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 19:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 19:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -70,11 +70,6 @@ Updated 2026-11-21 19:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
-- [mercor: AI Workflow Evaluator - Fully Remote | Upto $190/hr](https://himalayas.app/companies/mercor/jobs/ai-workflow-evaluator-fully-remote-upto-190-hr)  
-  Himalayas | posted Nov 18 19:26 UTC | score 5 | **USD 50 to 190/hourly** | workflow, llm, ai
-  Fit: 14 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: MCP & Plug In Connectors Expert Type:Contract Compensation:$50–$190/hour Location:Remote Commitment:20+ hours/weekRole Responsibilities Evaluate AI systems on complex personal workflows, including personal health, travel, and activity planning. Design realistic prompts for complex personal-life tasks using Google Drive, Expedia, Notion, and othe...
 - [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
   We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
   Fit: 12 | 
@@ -190,8 +185,3 @@ Updated 2026-11-21 19:15 UTC. Projects first, ranked by fit and freshness.
   Fit: -4 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > What You'll Do As a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Wil...
-- [WRS Health: Human Centered Design Manager](https://himalayas.app/companies/wrs-health/jobs/human-centered-design-manager-4605055602)  
-  Himalayas | posted Nov 18 19:17 UTC | score 3 | automation, agents, ai
-  Fit: -4 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Company Overview Voted #1 EHR by PC Mag, WRS Health delivers a fully integrated cloud based EMR and practice management solutions to its clients. We bring solutions to physicians by providing constant enhancement of our products and services including EHR, practice management, marketing, patient coordination and billing.Job Overview We are seeking a Human-Centered Design (HCD) Manager to bridge the gap between user needs and technical execution. You will lead qualitative research, map user journeys, build interactive prototypes, and run usability tests to ensure our products are intuitive,...
