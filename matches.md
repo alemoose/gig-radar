@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 14:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 14:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -125,11 +125,6 @@ Updated 2026-11-21 14:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
-- [mercor: AI Systems User - Fully Remote | Upto $30/hr](https://himalayas.app/companies/mercor/jobs/ai-systems-user-fully-remote-upto-30-hr-9042203408)  
-  Himalayas | posted Nov 18 14:23 UTC | score 3 | **USD 30 to 30/hourly** | ai agent, ai
-  Fit: 10 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Enterprise AI Agent Users Type:Contract Compensation:$30/hour Location:RemoteRole Responsibilities Evaluate the effectiveness of AI interfaces to enhance user interaction and satisfaction. Develop strategies to optimize the use of AI tools for improved business outcomes. Collaborate with teams to provide insights on AI model performance and user...
 - [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
   Fit: 9 | explicit hiring intent
