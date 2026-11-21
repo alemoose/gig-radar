@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-21 06:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 07:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -190,6 +190,11 @@ Updated 2026-11-21 06:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > customer support Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Lego blocks, what our customers can build with Airtable is virtually limitless.Â That flexibility is why more than 500,000 organizations, including 80% of the Fortune 100, use Airtable to power critical work a...
+- [Reddit: Product Manager, AI Foundations](https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893)  
+  Remote OK | posted Nov 20 07:00 UTC | score 3 | **$260,800** | embeddings, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team:Â We build the shared ML and AI capabilities that power experiences across our consumer products. Our work spans the...
 - [6sense: Compensation Manager](https://remoteOK.com/remote-jobs/remote-compensation-manager-6sense-1137878)  
   Remote OK | posted Nov 20 03:15 UTC | score 3 | **$109,200.00 - $160,160.00** | automation, automate, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
