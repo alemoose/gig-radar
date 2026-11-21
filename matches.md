@@ -1,10 +1,20 @@
 # Gig radar
 
-Updated 2026-11-21 20:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-21 20:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
+  Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
+  Fit: 27 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: Worldwide (check timezone)
+  > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
+- [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
+  Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
+  Fit: 25 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
 - [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
   Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
   Fit: 20 | explicit hiring intent; small scope signal
@@ -20,6 +30,11 @@ Updated 2026-11-21 20:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
+- [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
+  Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
+  Fit: 17 | website build; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -50,6 +65,11 @@ Updated 2026-11-21 20:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Mechanical Engineering Expert Job Type: Contract (~15 hours per week) Pay: $60–$120/hour Location: Global, fully remote Schedule: Flexible, choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may...
+- [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
+  Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay curious, move with intent, and never stop inventing. Our culture runs on three values: better together, relentlessly curious, and get sh*t done. It is how we work, how we grow, and how we make things that matter. THE ROLE: The Director, Delivery (Product & Design) is a strateg...
 - [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
   Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -70,6 +90,21 @@ Updated 2026-11-21 20:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
+- [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
+  Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
+  Fit: 14 | 
+  Check: budget unknown; check eligibility: Argentina, Australia, Bangladesh, Brazil, Canada, Colombia, Egypt, France, Germany, India, Indonesia, Italy, Malaysia, Mexico, Philippines, Poland, Romania, South Africa, Spain, Thailand, Turkey, United Kingdom, United States, Vietnam
+  > Freelancers will film original clips with their own camera and lighting, following a detailed shot brief, line up and export the footage to spec (1080p, 30 fps), and write a short prompt describing each clip. Experience as an independent videographer, content creator, or small crew with a well-lit filming setup Own camera, lighting, and tripod gear capable of shooting 1080p at 30 fps (one camera is sufficient for most tasks; select tasks require 2+ cameras) Ability to deliver 100% original footage with signed releases from all on-camera adults (no minors permitted) Intermediate proficiency...
+- [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
+  Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
+  Fit: 13 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
+- [Stripe: Technical Recruiter, OpenRouter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/technical-recruiter-openrouter-fixed-term)  
+  Himalayas | posted Nov 21 16:57 UTC | score 3 | stripe, ai
+  Fit: 13 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To help support that mission, in August we announced that Stripe had agre...
 - [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
   We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
   Fit: 12 | 
