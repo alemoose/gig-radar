@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 05:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 06:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -130,11 +130,6 @@ Updated 2026-11-22 05:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > customer support Tines is the intelligent workflow company that powers some of the world's most important workflows.Â Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines â a single, secure environment for every teamâs apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-...
-- [Askable: Software Engineer AI Coding Tasks](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808)  
-  Remote OK | posted Nov 19 05:56 UTC | score 5 | **$10,000 to $10,000/yr** | javascript, typescript, python, ai
-  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > dev golang python javascript typescript java c plus plus We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$400-US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding models struggle with: hard for the models, but fair for a skilled engineer. Your tasks are used to measure and train AI coding models. Remote, any location. US$400-US$1,000 per task that passes review. Minimum of one task a week, about 10 hours a week. How it works Apply. Com...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 8 | 
