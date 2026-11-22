@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 11:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 11:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -120,11 +120,6 @@ Updated 2026-11-22 11:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Role Title: Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyi...
-- [Tines: Paralegal](https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817)  
-  Remote OK | posted Nov 19 11:30 UTC | score 5 | **$100k - $115k** | ai agent, workflow, agents, saas, ai
-  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > customer support Tines is the intelligent workflow company that powers some of the world's most important workflows.Â Tines has been supporting IT and security teams from a diverse range of customers, including Canva, Reddit, SAP, Coinbase, Mars, Fin (Intercom), and McKesson. Tines 3B, launched in 2026, is the next generation of Tines â a single, secure environment for every teamâs apps, agents and automations. As an integrator across the entire tech stack, Tines is vendor-agnostic integrating with any API-enabled service. This flexibility enables our customers to achieve their highest-...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 8 | 
@@ -215,8 +210,3 @@ Updated 2026-11-22 11:15 UTC. Projects first, ranked by fit and freshness.
   Fit: -2 | 
   Check: budget unknown; seniority requirement needs review
   > Headquarters: United Kingdom URL: http://www.siemens.com Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excelle...
-- [Avalara: 1099 Product Solution Consultant](https://himalayas.app/companies/avalara/jobs/1099-product-solution-consultant)  
-  Himalayas | posted Nov 19 11:17 UTC | score 3 | chatgpt, saas, ai
-  Fit: -4 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > What You'll Do As a Product Solution Consultant (PSC) on Avalara’s Information Reporting team, you'll play a key role in accelerating revenue growth and helping businesses navigate increasingly complex tax compliance requirements. You'll join a growing business where your technical expertise and customer insights directly influence product innovation, sales strategy, and the overall customer experience. This role offers a unique opportunity to work across sales, product, and leadership while helping shape the future of Avalara’s Information Reporting solutions.What Your Responsibilities Wil...
