@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 01:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 01:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,11 +30,6 @@ Updated 2026-11-22 01:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
-- [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
-  Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
-  Fit: 17 | website build; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -105,6 +100,11 @@ Updated 2026-11-22 01:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
   > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
+- [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
+  Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
+  Fit: 11 | website build; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
 - [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
   Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
   Fit: 10 | budget stated, verify scope and currency
