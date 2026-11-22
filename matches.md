@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 18:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 18:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,11 @@ Updated 2026-11-22 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote, United States JOB OVERVIEW The Senior Deal Desk Manager is a senior individual contributor role responsible for how Legion prices, structures, approves, and contracts global deals across every region Legion sells into. Reporting to the Head of Revenue Operations, this person will take a Deal Desk that already has a foundation and scale it into a fast, compliant, AI-native function — through better systems and automation, not more headcount. The ideal candidate has built Deal Desk operations from scratch at an early-stage or growth-stage SaaS company and knows what to s...
-- [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
-  Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
-  Fit: 19 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
+- [Gemini: Senior Software Engineer, Predictions (Mobile)](https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile)  
+  We Work Remotely | posted Nov 22 18:31 UTC | score 6 | **$140,000 - $200,000** | react native, mobile app, typescript, gemini, react
+  Fit: 18 | posted within 6 hours; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -40,11 +40,6 @@ Updated 2026-11-22 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
-- [Xperteez Technology: 🌍 STEM Expert](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert)  
-  Himalayas | posted Nov 19 18:39 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, develop...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 15 | explicit hiring intent
@@ -65,6 +60,16 @@ Updated 2026-11-22 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
+- [Reddit: Engineering Manager, Ads Product Catalogs](https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs)  
+  We Work Remotely | posted Nov 22 18:31 UTC | score 3 | full stack, full-stack, ai
+  Fit: 13 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: Remote - The Netherlands Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This role is open to candidates based in the UK or the Netherlands. Reddit is where people come to disco...
+- [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
+  Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
+  Fit: 13 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
 - [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
   Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
   Fit: 11 | website build; explicit hiring intent; budget stated, verify scope and currency
