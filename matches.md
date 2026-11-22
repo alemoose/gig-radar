@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-22 17:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 18:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
-  Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
-  Fit: 21 | explicit hiring intent
-  Check: budget unknown; check eligibility: Worldwide (check timezone)
-  > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
 - [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
   Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
   Fit: 20 | explicit hiring intent; small scope signal
@@ -50,6 +45,11 @@ Updated 2026-11-22 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desiredRequired Skills: Biology We are looking for highly skilled STEM and scientific-domain experts to contribute to an AI training project involving technical problem-solving, scientific reasoning, data analysis, and Python. The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, develop...
+- [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
+  Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
+  Fit: 15 | explicit hiring intent
+  Check: budget unknown; check eligibility: Worldwide (check timezone)
+  > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
 - [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
   Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
