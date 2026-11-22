@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 20:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 21:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,6 +20,11 @@ Updated 2026-11-22 20:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 18 | posted within 6 hours; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
+- [YO AI Labs: Robotics Data Collection Specialist  -  Remote](https://himalayas.app/companies/yo-ai-labs/jobs/robotics-data-collection-specialist-remote)  
+  Himalayas | posted Nov 22 14:17 UTC | score 4 | **USD 30 to 50/hourly** | automation, python, ai
+  Fit: 18 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -50,6 +55,11 @@ Updated 2026-11-22 20:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Remote - The Netherlands Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This role is open to candidates based in the UK or the Netherlands. Reddit is where people come to disco...
+- [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
+  Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
+  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > LearnTastic is seeking Fractional Chief Marketing Officer (CMO) - B2B & B2C Growth Strategy, to act as a true growth partner to our CEO and leadership team.Key Responsibilities:1. Overall Marketing Strategy & Business Growth Develop and lead the overall marketing strategy across B2B and B2C business segments. Identify new revenue opportunities, growth channels and market expansion opportunities. Develop short-term and long-term marketing plans aligned with company revenue objectives. Evaluate existing marketing strategies, identify gaps and recommend improvements. Build a clear roadmap for...
 - [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
   Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
   Fit: 13 | explicit hiring intent
@@ -65,6 +75,11 @@ Updated 2026-11-22 20:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. We are seeking a Senior Staff Machine Learning Engineer to lead the technical direction of Redditâs Core Ads Ranking and mid-funn...
+- [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
+  Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
+  Fit: 8 | budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Position Summary The Senior Full Stack Software Developer is responsible for designing, developing, deploying, and supporting enterprise-grade software solutions that support Ogletree Deakins’ legal, operational, and client service objectives. This role carries accountability for application quality, performance, security, scalability, and long-term maintainability. This position partners closely with our Business Analysts and Project Managers to translate business and legal requirements into secure, reliable, and scalable technical solutions. Essential Functions Design, develop, and mainta...
 - [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
   Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
   Fit: 8 | 
@@ -120,11 +135,21 @@ Updated 2026-11-22 20:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > exec Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure...
+- [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
+  Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
+  Fit: 3 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Thai Type:Contract Compensation:$24–$35/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Apply st...
 - [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
   Fit: 3 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
+- [YO AI Labs: Social Work & Community Services Professional (Domain Expert) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/social-work-community-services-professional-domain-expert-remote)  
+  Himalayas | posted Nov 22 10:34 UTC | score 3 | **USD 20 to 80/hourly** | automation, ai
+  Fit: 1 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: Canada, United States
+  > Job Description: Social Work & Community Services Professional (Domain Expert) Role Type: Contractor Location: Remote – United States or CanadaAbout the Role Apply your professional experience in social work and community services to help train and improve next-generation AI systems. You'll evaluate AI-generated responses, create anonymized real-world scenarios, and provide expert feedback. No prior AI experience is required.Key Responsibilities Evaluate case notes, resource guidance, and support communications using professional experience. Review AI-generated intake summaries, referral su...
 - [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
   Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
   Fit: 1 | explicit hiring intent
