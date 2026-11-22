@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 12:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 12:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-22 12:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | website build; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
-- [Xperteez Technology: Game Developer, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/game-developer-remote-contract-1298004391)  
-  Himalayas | posted Nov 19 12:33 UTC | score 3 | **USD 25 to 60/hourly** | workflow, agents, ai
-  Fit: 10 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
 - [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
   Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -185,11 +180,6 @@ Updated 2026-11-22 12:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | workflow repair; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
-- [EMCD: Senior Go Developer (Blockchain & Ledger)](https://himalayas.app/companies/emcd/jobs/senior-go-developer-blockchain-ledger)  
-  Himalayas | posted Nov 19 12:36 UTC | score 4 | postgresql, claude, node, ai
-  Fit: 3 | explicit hiring intent
-  Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
 - [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
   Fit: -2 | 
