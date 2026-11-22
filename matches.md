@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 14:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 15:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -165,11 +165,6 @@ Updated 2026-11-22 14:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
-- [Prominence Advisors: Epic Behavioral Health Reporting Analyst](https://himalayas.app/companies/prominence-advisors/jobs/epic-behavioral-health-reporting-analyst)  
-  Himalayas | posted Nov 19 14:58 UTC | score 4 | workflow, problem: workflow repair
-  Fit: 3 | workflow repair; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Prominence Advisors is actively seeking an Epic Behavioral Health Reporting Consultant to join our team for a part-time contract engagement.Who We Are Prominence is a healthcare and life sciences technology and consulting firm dedicated to helping leading organizations do more with their data. With deep expertise across the full ecosystem — spanning providers, payers, and life sciences — we turn complex data into actionable insight. We deliver a full spectrum of services, including advisory, analytics, optimization, and IT staffing. Our work helps organizations operate more efficiently, imp...
 - [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
   Fit: -2 | 
