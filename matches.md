@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 04:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 05:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -150,6 +150,11 @@ Updated 2026-11-22 04:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To help support that mission, in August we announced that Stripe had agre...
+- [Reddit: Engineering Manager, Ranking Platform](https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946)  
+  Remote OK | posted Nov 21 05:00 UTC | score 4 | **$230,000** | automation, postgres, python, ai
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. The Ranking Platform team builds and runs the services that coordinate contextualized and personalized ranking on Reddit. We build i...
 - [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
   Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
