@@ -1,10 +1,15 @@
 # Gig radar
 
-Updated 2026-11-22 06:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
+  We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
+  Fit: 25 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: Remote, United States JOB OVERVIEW The Senior Deal Desk Manager is a senior individual contributor role responsible for how Legion prices, structures, approves, and contracts global deals across every region Legion sells into. Reporting to the Head of Revenue Operations, this person will take a Deal Desk that already has a foundation and scale it into a fast, compliant, AI-native function — through better systems and automation, not more headcount. The ideal candidate has built Deal Desk operations from scratch at an early-stage or growth-stage SaaS company and knows what to s...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 21 | explicit hiring intent
@@ -90,11 +95,6 @@ Updated 2026-11-22 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | 
   Check: budget unknown; check eligibility: Argentina, Australia, Bangladesh, Brazil, Canada, Colombia, Egypt, France, Germany, India, Indonesia, Italy, Malaysia, Mexico, Philippines, Poland, Romania, South Africa, Spain, Thailand, Turkey, United Kingdom, United States, Vietnam
   > Freelancers will film original clips with their own camera and lighting, following a detailed shot brief, line up and export the footage to spec (1080p, 30 fps), and write a short prompt describing each clip. Experience as an independent videographer, content creator, or small crew with a well-lit filming setup Own camera, lighting, and tripod gear capable of shooting 1080p at 30 fps (one camera is sufficient for most tasks; select tasks require 2+ cameras) Ability to deliver 100% original footage with signed releases from all on-camera adults (no minors permitted) Intermediate proficiency...
-- [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
-  We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
-  Fit: 12 | 
-  Check: budget unknown
-  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
 - [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
   Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
   Fit: 12 | budget stated, verify scope and currency
@@ -160,6 +160,11 @@ Updated 2026-11-22 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > exec Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Position Overview We're seeking a Manager, Business Risk and AI Automation, to help shape the next chapter of Internal Audit at Reddit...
+- [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
+  We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
+  Fit: 6 | 
+  Check: budget unknown
+  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
 - [Five9: Graphic Designer](https://himalayas.app/companies/five9/jobs/graphic-designer)  
   Himalayas | posted Nov 19 11:46 UTC | score 3 | workflow, claude, ai
   Fit: 6 | 
@@ -210,11 +215,6 @@ Updated 2026-11-22 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone); seniority requirement needs review
   > EMCD is a leading technology company in the crypto industry, best known as the largest mining pool in Eastern Europe. We are expanding globally and building a comprehensive ecosystem of crypto services, including payment infrastructure, custody, mining solutions and enterprise-grade tools for businesses and institutions. We are looking for an experienced Senior Go Developer to own the blockchain rails that move user funds across our ecosystem. This is a hands-on engineering role at the core of every deposit and withdrawal: connecting new networks, keeping the ledger accurate to the last uni...
-- [Gemini: Senior Data Engineer](https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer)  
-  We Work Remotely | posted Nov 19 06:01 UTC | score 4 | **$126,000 - $180,000** | workflow, gemini, python
-  Fit: 2 | budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
 - [Siemens: Global Deal Enablement Architect](https://weworkremotely.com/remote-jobs/siemens-global-deal-enablement-architect)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | automation, agents, saas, ai
   Fit: -2 | 
