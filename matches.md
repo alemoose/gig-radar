@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -25,11 +25,6 @@ Updated 2026-11-22 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
-- [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
-  We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
-  Fit: 19 | explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the proc...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
