@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-22 00:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 00:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
-  Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
-  Fit: 25 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 21 | explicit hiring intent
@@ -20,6 +15,11 @@ Updated 2026-11-22 00:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | explicit hiring intent; small scope signal
   Check: budget unknown; check eligibility: United States
   > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
+- [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
+  Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
+  Fit: 19 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
 - [Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)  
   We Work Remotely | posted Nov 19 16:12 UTC | score 13 | react native, automation, full-stack, typescript, next.js, node.js
   Fit: 19 | explicit hiring intent
