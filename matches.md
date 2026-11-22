@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 19:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 19:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -55,11 +55,6 @@ Updated 2026-11-22 19:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
-- [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
-  Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
-  Fit: 11 | website build; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
 - [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
   Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
@@ -100,6 +95,11 @@ Updated 2026-11-22 19:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | 
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
+- [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
+  Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
+  Fit: 5 | website build; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
 - [Reddit: Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945)  
   Remote OK | posted Nov 21 04:40 UTC | score 3 | **$286,700** | automate, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
