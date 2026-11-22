@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 12:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 12:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,11 +30,6 @@ Updated 2026-11-22 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior React Full-stack Engineers come in all the time, and several are open right now. Two ways to work with clients Contract: most roles are contract-based. You join the client’s team and work as part of it. Direct hire: some clients hire engineers full-time, and we support you through the proc...
-- [Xperteez Technology: 🌍 Hardware Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract)  
-  Himalayas | posted Nov 19 12:22 UTC | score 5 | **USD 60 to 120/hourly** | automation, workflow, agents, python, ai
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: Hardware Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers.Required Skills: RTL Hardware In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are loo...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -65,11 +60,6 @@ Updated 2026-11-22 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Mechanical Engineering Expert Job Type: Contract (~15 hours per week) Pay: $60–$120/hour Location: Global, fully remote Schedule: Flexible, choose the hours and days you work, including weekends if desired We are looking for a highly skilled Mechanical Engineering Expert to contribute to an AI training project involving engineering design, physical modeling, simulation, technical problem-solving, and Python. The work involves creating, solving, reviewing, and validating engineering tasks across structural, thermal, mechanical, and multiphysics domains. A representative task may...
-- [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
-  Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay curious, move with intent, and never stop inventing. Our culture runs on three values: better together, relentlessly curious, and get sh*t done. It is how we work, how we grow, and how we make things that matter. THE ROLE: The Director, Delivery (Product & Design) is a strateg...
 - [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
   Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -105,6 +95,11 @@ Updated 2026-11-22 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
+- [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
+  Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
+  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay curious, move with intent, and never stop inventing. Our culture runs on three values: better together, relentlessly curious, and get sh*t done. It is how we work, how we grow, and how we make things that matter. THE ROLE: The Director, Delivery (Product & Design) is a strateg...
 - [Reddit: Senior Staff Machine Learning Engineer, Ads Ranking](https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932)  
   Remote OK | posted Nov 21 02:40 UTC | score 5 | **$266,000** | automate, workflow, claude, python, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
