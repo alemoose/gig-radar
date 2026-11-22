@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 18:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 18:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-22 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 8 | 
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
-- [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
-  Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
-  Fit: 7 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
 - [Reddit: Engineering Manager, Ranking Platform](https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946)  
   Remote OK | posted Nov 21 05:00 UTC | score 4 | **$230,000** | automation, postgres, python, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -135,16 +130,16 @@ Updated 2026-11-22 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > exec Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure...
-- [Forj: Fractional Implementation Project Specialist](https://himalayas.app/companies/forj/jobs/fractional-implementation-project-specialist)  
-  Himalayas | posted Nov 19 18:17 UTC | score 5 | **USD 60 to 70/hourly** | automation, chatgpt, claude, saas, ai
-  Fit: 4 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > ABOUT FORJ Forj is a single solution for community and learning, purpose-built to modernize the member experience for associations and professional networks — serving over 300 organizations and a million professionals who rely on us to connect, learn, and grow. We’re a remote-first company headquartered in Delafield, Wisconsin, united not by a shared office but by a shared belief that the professionals who make our world better deserve better. We forge ahead with boldness and determination, but we know great work comes from people who feel trusted and supported — flexibility isn’t a perk he...
 - [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
   Fit: 3 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
+- [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
+  Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
+  Fit: 1 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
 - [Stripe: Technical Recruiter, OpenRouter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/technical-recruiter-openrouter-fixed-term)  
   Himalayas | posted Nov 21 16:57 UTC | score 3 | stripe, ai
   Fit: 1 | explicit hiring intent
