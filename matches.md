@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 12:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 13:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-22 12:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. We are seeking a Senior Staff Machine Learning Engineer to lead the technical direction of Redditâs Core Ads Ranking and mid-funn...
-- [Xperteez Technology: ML Engineer, Remote](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote)  
-  Himalayas | posted Nov 19 12:55 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
-  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > Role Title: Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyi...
 - [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
   Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
   Fit: 8 | 
