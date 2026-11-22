@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 11:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 12:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-22 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp and a 1% for the Planet member. About the Role: Client Specialist - eCommerce Business & Sales Operations. Wage Information - $25.00-$27.00/hr. Part-time, remote W-2 position with ful...
-- [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
-  Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
-  Fit: 14 | 
-  Check: budget unknown; check eligibility: Argentina, Australia, Bangladesh, Brazil, Canada, Colombia, Egypt, France, Germany, India, Indonesia, Italy, Malaysia, Mexico, Philippines, Poland, Romania, South Africa, Spain, Thailand, Turkey, United Kingdom, United States, Vietnam
-  > Freelancers will film original clips with their own camera and lighting, following a detailed shot brief, line up and export the footage to spec (1080p, 30 fps), and write a short prompt describing each clip. Experience as an independent videographer, content creator, or small crew with a well-lit filming setup Own camera, lighting, and tripod gear capable of shooting 1080p at 30 fps (one camera is sufficient for most tasks; select tasks require 2+ cameras) Ability to deliver 100% original footage with signed releases from all on-camera adults (no minors permitted) Intermediate proficiency...
 - [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
   Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
   Fit: 12 | budget stated, verify scope and currency
@@ -120,6 +115,11 @@ Updated 2026-11-22 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Role Title: Senior ML Engineer Pay: $60–$120/hour Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired We are looking for highly skilled Machine Learning Experts to contribute to an AI training project involving model development, training and inference systems, numerical computing, performance optimization, and Python. The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifyi...
+- [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
+  Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
+  Fit: 8 | 
+  Check: budget unknown; check eligibility: Argentina, Australia, Bangladesh, Brazil, Canada, Colombia, Egypt, France, Germany, India, Indonesia, Italy, Malaysia, Mexico, Philippines, Poland, Romania, South Africa, Spain, Thailand, Turkey, United Kingdom, United States, Vietnam
+  > Freelancers will film original clips with their own camera and lighting, following a detailed shot brief, line up and export the footage to spec (1080p, 30 fps), and write a short prompt describing each clip. Experience as an independent videographer, content creator, or small crew with a well-lit filming setup Own camera, lighting, and tripod gear capable of shooting 1080p at 30 fps (one camera is sufficient for most tasks; select tasks require 2+ cameras) Ability to deliver 100% original footage with signed releases from all on-camera adults (no minors permitted) Intermediate proficiency...
 - [Ritual: Ecosystem Engineer](https://weworkremotely.com/remote-jobs/ritual-ecosystem-engineer)  
   We Work Remotely | posted Nov 20 18:31 UTC | score 4 | typescript, agents, python, ai
   Fit: 8 | 
@@ -155,11 +155,6 @@ Updated 2026-11-22 11:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | 
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
-- [Five9: Graphic Designer](https://himalayas.app/companies/five9/jobs/graphic-designer)  
-  Himalayas | posted Nov 19 11:46 UTC | score 3 | workflow, claude, ai
-  Fit: 6 | 
-  Check: budget unknown; check eligibility: United States
-  > Five9 is a leader in AI-powered cloud contact center software, serving thousands of customers around the world and powering billions of customer interactions every year. We help enterprises deliver smarter customer experience with every interaction, turning every customer conversation into an opportunity to build trust, deepen loyalty, and drive growth. Our Genius CX platform combines deep contact center expertise with applied AI to deliver outcomes the business can measure. Our team-first culture enables us to innovate, grow, and thrive while enjoying the journey together. This is a contra...
 - [Reddit: Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945)  
   Remote OK | posted Nov 21 04:40 UTC | score 3 | **$286,700** | automate, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
