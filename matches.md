@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 11:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 11:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,11 +110,6 @@ Updated 2026-11-22 11:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Role Title: Game Developer Role Type: Contract Location: Remote In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — your domain knowledge is what matters. Required Skills Gameplay implementation Test design Game engine expertise Engine fluency Game development expertise Leverage your hands-on experience to build authentic debugging and feature challenges within real game projects, directly impacting how AI agents learn to...
-- [Gulf Coast Automation Group: Senior .NET Developer – Digital Payments & Subscription Commerce](https://himalayas.app/companies/gulf-coast-automation-group/jobs/senior-net-developer-digital-payments-subscription-commerce)  
-  Himalayas | posted Nov 19 11:01 UTC | score 8 | **USD 65 to 75/hourly** | automation, javascript, postgresql, workflow, stripe, react
-  Fit: 10 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Job Title: Senior .NET Developer – Digital Payments & Subscription Commerce Primary Location: Lisle, IL Position Type: Contract Overview TalentFish is casting a line for a Senior / Lead .NET Developer – Digital Payments & Subscription Commerce. This is a Contract role in Lisle, IL. This position exists to support and expand a business-critical B2B2C Pay Over Time digital payment solution that connects customers, dealers, internal business processes, and external payment and financing partners. You'll own payment transactions, integrations, and commercially sensitive workflows within the quo...
 - [Reddit: Senior Staff Machine Learning Engineer, Ads Ranking](https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932)  
   Remote OK | posted Nov 21 02:40 UTC | score 5 | **$266,000** | automate, workflow, claude, python, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
