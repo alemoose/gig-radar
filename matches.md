@@ -1,20 +1,20 @@
 # Gig radar
 
-Updated 2026-11-21 23:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 00:01 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
-  Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
-  Fit: 27 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: Worldwide (check timezone)
-  > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
 - [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
   Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
   Fit: 25 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
+- [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
+  Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
+  Fit: 21 | explicit hiring intent
+  Check: budget unknown; check eligibility: Worldwide (check timezone)
+  > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
 - [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
   Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
   Fit: 20 | explicit hiring intent; small scope signal
