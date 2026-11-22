@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 19:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 19:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,16 +30,6 @@ Updated 2026-11-22 19:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Egypt, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $60–$120/hrApplied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desi...
-- [RemoteJobsOne: Paralegal (General) – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/paralegal-general-remote-us)  
-  Himalayas | posted Nov 19 19:27 UTC | score 4 | **USD 50 to 70/hourly** | ai, problem: data collection
-  Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $50–$70/hrRole Title: Paralegal (General)Role Type: ContractorLocation: Remote We are engaging Paralegal (General)s to contribute to a customer’s project focused on legal data annotation. In this role, you’ll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason,...
-- [RemoteJobsOne: Legal Expert (Intellectual Property) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/legal-expert-intellectual-property-remote-worldwide)  
-  Himalayas | posted Nov 19 19:17 UTC | score 4 | **USD 80 to 130/hourly** | ai, problem: data collection
-  Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Philippines, United Kingdom, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Philippines, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $80–$130/hr Role Title: Legal Expert (Intellectual Property)Role Type: ContractorLocation: Remote We are engaging Legal Experts (Intellectual Property) to support a customer-facing project focused on legal data annotatio...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 15 | explicit hiring intent
