@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 04:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 04:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -170,6 +170,11 @@ Updated 2026-11-22 04:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > customer support Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Lego blocks, what our customers can build with Airtable is virtually limitless.Â That flexibility is why more than 500,000 organizations, including 80% of the Fortune 100, use Airtable to power critical work a...
+- [Reddit: Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945)  
+  Remote OK | posted Nov 21 04:40 UTC | score 3 | **$286,700** | automate, python, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. The Infrastructure organization has the mission of building and delivering the compute orchestration environment, storage and data s...
 - [Oscar Health: Senior Analyst, Payment Integrity](https://weworkremotely.com/remote-jobs/oscar-health-senior-analyst-payment-integrity)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 3 | **$60,100.01- $78,881.26** | full stack, workflow, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
