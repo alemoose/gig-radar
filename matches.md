@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 17:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 17:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -70,11 +70,6 @@ Updated 2026-11-22 17:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
-- [Luxury Presence: Manager, Production Quality](https://himalayas.app/companies/luxury-presence/jobs/manager-production-quality)  
-  Himalayas | posted Nov 19 17:04 UTC | score 4 | **USD 3000 to 3000/monthly** | automation, workflow, agents, ai
-  Fit: 12 | budget stated, verify scope and currency
-  Check: check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
-  > Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 100,000 real estate professionals, including over 30% of the WSJ Real Trends top 100 agents in the United States, use us to run and grow their business.Manager, Production QualityLocation: Remote (US and LATAM) Team: Product Fulfillment TeamReports to: Manager, Pro ProductionWhy This Role Matters The Manager, Production Quality leads the Quality team and sets the standard for every...
 - [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
   Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
   Fit: 11 | website build; explicit hiring intent; budget stated, verify scope and currency
