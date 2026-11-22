@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 19:01 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 19:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -55,11 +55,6 @@ Updated 2026-11-22 19:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
-- [Xperteez Technology: Competitive Data Scientist (Kaggle), Remote](https://himalayas.app/companies/xperteez-technology/jobs/competitive-data-scientist-kaggle-remote)  
-  Himalayas | posted Nov 19 19:14 UTC | score 3 | **USD 60 to 120/hourly** | agents, python, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: Competitive Data Scientist (Kaggle) Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible-you choose the hours and days you work, including weekends if desired We're looking for data scientists, machine learning practitioners, and applied mathematics experts with competitive Data Science experience on Kaggle or other platforms. You’ll draw on your competition experience, mathematical reasoning, and programming skills to create tasks that require more than a plausible answer. Each task should have a reproducible environment, a verified referenc...
 - [Reddit: Engineering Manager, Ads Product Catalogs](https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs)  
   We Work Remotely | posted Nov 22 18:31 UTC | score 3 | full stack, full-stack, ai
   Fit: 13 | posted within 6 hours; explicit hiring intent
