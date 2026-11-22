@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 11:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 11:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -160,11 +160,6 @@ Updated 2026-11-22 11:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | 
   Check: budget unknown; check eligibility: United States
   > Five9 is a leader in AI-powered cloud contact center software, serving thousands of customers around the world and powering billions of customer interactions every year. We help enterprises deliver smarter customer experience with every interaction, turning every customer conversation into an opportunity to build trust, deepen loyalty, and drive growth. Our Genius CX platform combines deep contact center expertise with applied AI to deliver outcomes the business can measure. Our team-first culture enables us to innovate, grow, and thrive while enjoying the journey together. This is a contra...
-- [Airtable: Customer Success Manager](https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818)  
-  Remote OK | posted Nov 19 11:45 UTC | score 6 | **$128,000** | automation, airtable, workflow, saas, ai
-  Fit: 6 | budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > customer support Airtable helps organizations build the applications and workflows they need to run their most important business processes, without being constrained by off-the-shelf software. Its flexible platform combines a relational database, custom applications, automations, and AI, giving teams the building blocks to create solutions around the way they actually work. Just like Lego blocks, what our customers can build with Airtable is virtually limitless.Â That flexibility is why more than 500,000 organizations, including 80% of the Fortune 100, use Airtable to power critical work a...
 - [Reddit: Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945)  
   Remote OK | posted Nov 21 04:40 UTC | score 3 | **$286,700** | automate, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
