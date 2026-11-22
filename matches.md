@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-22 00:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-22 00:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -95,11 +95,6 @@ Updated 2026-11-22 00:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | 
   Check: budget unknown; check eligibility: Argentina, Australia, Bangladesh, Brazil, Canada, Colombia, Egypt, France, Germany, India, Indonesia, Italy, Malaysia, Mexico, Philippines, Poland, Romania, South Africa, Spain, Thailand, Turkey, United Kingdom, United States, Vietnam
   > Freelancers will film original clips with their own camera and lighting, following a detailed shot brief, line up and export the footage to spec (1080p, 30 fps), and write a short prompt describing each clip. Experience as an independent videographer, content creator, or small crew with a well-lit filming setup Own camera, lighting, and tripod gear capable of shooting 1080p at 30 fps (one camera is sufficient for most tasks; select tasks require 2+ cameras) Ability to deliver 100% original footage with signed releases from all on-camera adults (no minors permitted) Intermediate proficiency...
-- [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
-  Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
-  Fit: 13 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
 - [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
   We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
   Fit: 12 | 
@@ -140,6 +135,11 @@ Updated 2026-11-22 00:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 8 | 
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As an Eco...
+- [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
+  Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
+  Fit: 7 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
 - [Stripe: Technical Recruiter, OpenRouter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/technical-recruiter-openrouter-fixed-term)  
   Himalayas | posted Nov 21 16:57 UTC | score 3 | stripe, ai
   Fit: 7 | explicit hiring intent
