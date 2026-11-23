@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 12:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 13:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -45,11 +45,6 @@ Updated 2026-11-23 12:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
-- [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
-  Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
-  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > LearnTastic is seeking Fractional Chief Marketing Officer (CMO) - B2B & B2C Growth Strategy, to act as a true growth partner to our CEO and leadership team.Key Responsibilities:1. Overall Marketing Strategy & Business Growth Develop and lead the overall marketing strategy across B2B and B2C business segments. Identify new revenue opportunities, growth channels and market expansion opportunities. Develop short-term and long-term marketing plans aligned with company revenue objectives. Evaluate existing marketing strategies, identify gaps and recommend improvements. Build a clear roadmap for...
 - [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
   We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
@@ -90,6 +85,11 @@ Updated 2026-11-23 12:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Remote - The Netherlands Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This role is open to candidates based in the UK or the Netherlands. Reddit is where people come to disco...
+- [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
+  Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > LearnTastic is seeking Fractional Chief Marketing Officer (CMO) - B2B & B2C Growth Strategy, to act as a true growth partner to our CEO and leadership team.Key Responsibilities:1. Overall Marketing Strategy & Business Growth Develop and lead the overall marketing strategy across B2B and B2C business segments. Identify new revenue opportunities, growth channels and market expansion opportunities. Develop short-term and long-term marketing plans aligned with company revenue objectives. Evaluate existing marketing strategies, identify gaps and recommend improvements. Build a clear roadmap for...
 - [Reddit: Engineering Manager, Ranking Platform](https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946)  
   Remote OK | posted Nov 21 05:00 UTC | score 4 | **$230,000** | automation, postgres, python, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
