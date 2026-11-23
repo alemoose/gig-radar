@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 06:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 07:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -130,11 +130,6 @@ Updated 2026-11-23 06:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote URL: https://oscarhealth.com Hi, we're Oscar. We're hiring a Senior Analyst, Payment Intergrityto join our Payment Integrity Support. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselves—one that behaves like a doctor in the family. About the role: The Senior Analyst, Payment Integrity role organizes, scopes, triages, investigates and/or executes on solutions and process improvements. This...
-- [Reddit: Product Manager, AI Foundations](https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893)  
-  Remote OK | posted Nov 20 07:00 UTC | score 3 | **$260,800** | embeddings, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team:Â We build the shared ML and AI capabilities that power experiences across our consumer products. Our work spans the...
 - [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
   Fit: 3 | explicit hiring intent
