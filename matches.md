@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 17:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 18:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-23 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team Reddit's developer ecosystem is one of the biggest opportunities to make Reddit more useful, expressive, extensible,...
-- [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
-  Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $25–$45/hrRole Title: AI Agent Tester — Real-World Tasks Role Type: ContractorLocation: U.S based Opportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Project kickoff: Already active. Onboarding: Within 24–48 hours of being selected, you’ll receive the offer and comp...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 15 | explicit hiring intent
