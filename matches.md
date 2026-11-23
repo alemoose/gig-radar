@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 17:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 17:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-23 17:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent
   Check: budget unknown; check eligibility: Worldwide (check timezone)
   > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
-- [RemoteJobsOne: Data Science & Analytic Methodology SME – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/data-science-analytic-methodology-sme-remote-worldwide)  
-  Himalayas | posted Nov 20 17:40 UTC | score 3 | **USD 60 to 100/hourly** | automation, gpt, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$100/hr Role Title: Data Science & Analytic Methodology SMERole Type: ContractorLocation: Remote We are engaging Data Science & Analytic Methodology SMEs to contribute expertise to a customer's high-impact project focu...
 - [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
   We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
