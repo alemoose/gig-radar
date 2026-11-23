@@ -18,6 +18,12 @@ jobs:
     timeout-minutes: 8
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Start from the branch's newest commit, not the commit that triggered the run.
+          # A scheduled run and a manual trigger can fire seconds apart; the concurrency
+          # group runs them one after the other, and without this the second one scans
+          # from a stale matches.json and can't rebase its results on top of the first.
+          ref: ${{ github.ref }}
 
       - uses: actions/setup-python@v5
         with:
