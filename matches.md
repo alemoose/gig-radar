@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 10:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 10:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -135,11 +135,6 @@ Updated 2026-11-23 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 2 | budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Position Summary The Senior Full Stack Software Developer is responsible for designing, developing, deploying, and supporting enterprise-grade software solutions that support Ogletree Deakins’ legal, operational, and client service objectives. This role carries accountability for application quality, performance, security, scalability, and long-term maintainability. This position partners closely with our Business Analysts and Project Managers to translate business and legal requirements into secure, reliable, and scalable technical solutions. Essential Functions Design, develop, and mainta...
-- [YO AI Labs: Social Work & Community Services Professional (Domain Expert) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/social-work-community-services-professional-domain-expert-remote)  
-  Himalayas | posted Nov 22 10:34 UTC | score 3 | **USD 20 to 80/hourly** | automation, ai
-  Fit: 1 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: Canada, United States
-  > Job Description: Social Work & Community Services Professional (Domain Expert) Role Type: Contractor Location: Remote – United States or CanadaAbout the Role Apply your professional experience in social work and community services to help train and improve next-generation AI systems. You'll evaluate AI-generated responses, create anonymized real-world scenarios, and provide expert feedback. No prior AI experience is required.Key Responsibilities Evaluate case notes, resource guidance, and support communications using professional experience. Review AI-generated intake summaries, referral su...
 - [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
   Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
   Fit: 1 | explicit hiring intent
@@ -160,3 +155,8 @@ Updated 2026-11-23 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: -3 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Thai Type:Contract Compensation:$24–$35/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Apply st...
+- [YO AI Labs: Social Work & Community Services Professional (Domain Expert) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/social-work-community-services-professional-domain-expert-remote)  
+  Himalayas | posted Nov 22 10:34 UTC | score 3 | **USD 20 to 80/hourly** | automation, ai
+  Fit: -5 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: Canada, United States
+  > Job Description: Social Work & Community Services Professional (Domain Expert) Role Type: Contractor Location: Remote – United States or CanadaAbout the Role Apply your professional experience in social work and community services to help train and improve next-generation AI systems. You'll evaluate AI-generated responses, create anonymized real-world scenarios, and provide expert feedback. No prior AI experience is required.Key Responsibilities Evaluate case notes, resource guidance, and support communications using professional experience. Review AI-generated intake summaries, referral su...
