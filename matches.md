@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-23 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in United States. Pay: $25–$45/hrRole Title: AI Agent Tester — Real-World Tasks Role Type: ContractorLocation: U.S based Opportunity Snapshot Pay: $25-45/hour Time per task: ~1.5 hours per run (evidence and scoring included) Project kickoff: Already active. Onboarding: Within 24–48 hours of being selected, you’ll receive the offer and comp...
-- [RemoteJobsOne: Applied Scientists — Machine Learning – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/applied-scientists-machine-learning-remote-worldwide)  
-  Himalayas | posted Nov 20 16:14 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, Egypt, France, Germany, India, Netherlands, United Kingdom, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including Egypt, United States, United Kingdom, Canada, Germany, India, France, Netherlands. Pay: $60–$120/hrApplied Scientists — Machine Learning Pay: $60–$120/hour Location: Global, fully remote Job Type: Contractor (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desi...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 15 | explicit hiring intent
