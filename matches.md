@@ -1,20 +1,65 @@
 # Gig radar
 
-Updated 2026-11-23 21:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 21:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Syd Life AI: Junior Software Engineer](https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer)  
+  Himalayas | posted Nov 23 00:20 UTC | score 9 | **USD 25000 to 40000/annual** | react native, javascript, mobile app, typescript, workflow, node.js
+  Fit: 33 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
 - [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
   Fit: 27 | spreadsheet automation; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
+- [Leidos: Program Analyst](https://himalayas.app/companies/leidos/jobs/program-analyst)  
+  Himalayas | posted Nov 23 19:47 UTC | score 6 | **USD 82550 to 149225/annual** | problem: website build, problem: data collection
+  Fit: 23 | website build; data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
+- [Xperteez Technology: STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract-3276095955)  
+  Himalayas | posted Nov 23 10:27 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Job Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct. This is a very coding heavy role. Candidates but have experience using c...
+- [G2i Inc.: Senior Software Engineer, AI Training](https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440)  
+  Himalayas | posted Nov 23 02:02 UTC | score 9 | **USD 100 to 200/hourly** | javascript, typescript, agents, claude, openai, prompt
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client. Check out this Loom video for more details: We're looking for highly experienced software engineer (SR+) to help evaluate the quality of interactions with modern coding agents such as OpenAI Codex and Claude Code. This is not a traditional engineering role. You won't be writing production code. You'll be evaluating something harder: whether the model thinks like a great engine...
+- [Syd Life AI: AI Research Engineer](https://himalayas.app/companies/syd-life-ai/jobs/ai-research-engineer)  
+  Himalayas | posted Nov 23 00:20 UTC | score 4 | **USD 30000 to 80000/annual** | fine-tune, agents, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [Syd Life AI: QA Engineer](https://himalayas.app/companies/syd-life-ai/jobs/qa-engineer)  
+  Himalayas | posted Nov 23 00:20 UTC | score 4 | **USD 20000 to 40000/annual** | automation, automate, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
+  Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
+  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
+- [Syd Life AI: Growth Associate](https://himalayas.app/companies/syd-life-ai/jobs/growth-associate)  
+  Himalayas | posted Nov 23 00:20 UTC | score 3 | **USD 20000 to 40000/annual** | claude, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
 - [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
   Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
+- [Mfinite Consulting: Junior Data Scientist - Contract](https://himalayas.app/companies/mfinite-consulting/jobs/junior-data-scientist-contract)  
+  Himalayas | posted Nov 22 22:03 UTC | score 3 | data extraction, automation, workflow
+  Fit: 17 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Turn health data into clearer reporting and smarter workflows for North Carolina. Mfinite Consulting is hiring a Junior Data Scientist for a contract assignment with the North Carolina Health Information Exchange Authority (NC HIEA), part of the NC Department of Information Technology (NCDIT). NC HIEA operates NC HealthConnex, the state-designated health information exchange that supports secure electronic sharing of health data across North Carolina. You'll support operational, analytical and quality improvement work: cleaning and validating data, monitoring automated workflows, building d...
 - [Reddit: Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977)  
   Remote OK | posted Nov 22 02:00 UTC | score 9 | **$232,500** | automation, workflow, agents, prompt, llm, ai
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
