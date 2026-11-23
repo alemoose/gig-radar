@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 03:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 03:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -140,11 +140,6 @@ Updated 2026-11-23 03:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team:Â We build the shared ML and AI capabilities that power experiences across our consumer products. Our work spans the...
-- [6sense: Compensation Manager](https://remoteOK.com/remote-jobs/remote-compensation-manager-6sense-1137878)  
-  Remote OK | posted Nov 20 03:15 UTC | score 3 | **$109,200.00 - $160,160.00** | automation, automate, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > exec Our Mission: 6sense's mission is to multiply what matters: growth, retention, and efficiency.Â We envision a future where companies, teams and people reach their full potential. Our People: People are the heart and soul of 6sense. We serve with passion and purpose. We live by our Being 6sense values of Win as One Team, Stay Curious, Do The Right Thing, Own the Outcome, and Create Belonging. Â Every 6sensor plays a part in deï¬ning the future of our industry-leading technology.Â 6sense is a place where difference-makers roll up their sleeves, take risks, act with integrity, and measure...
 - [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
   Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
   Fit: 3 | budget stated, verify scope and currency
