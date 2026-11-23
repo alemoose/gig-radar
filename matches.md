@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 09:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 09:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -75,11 +75,6 @@ Updated 2026-11-23 09:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. We are seeking a Senior Staff Machine Learning Engineer to lead the technical direction of Redditâs Core Ads Ranking and mid-funn...
-- [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
-  Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
-  Fit: 8 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Position Summary The Senior Full Stack Software Developer is responsible for designing, developing, deploying, and supporting enterprise-grade software solutions that support Ogletree Deakins’ legal, operational, and client service objectives. This role carries accountability for application quality, performance, security, scalability, and long-term maintainability. This position partners closely with our Business Analysts and Project Managers to translate business and legal requirements into secure, reliable, and scalable technical solutions. Essential Functions Design, develop, and mainta...
 - [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
   Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
   Fit: 8 | 
@@ -135,6 +130,11 @@ Updated 2026-11-23 09:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Philippines URL: https://jobs.workable.com/company/sC3VVUzx14A9GZdFM7giB7/jobs-at-teamified About Teamified: Teamified is a talent partner helping companies build exceptional remote teams across IT, software, product, and digital innovation. We collaborate with leading enterprises and fast-scaling tech businesses worldwide to help them access world class talent and accelerate growth. With operations across the globe our mission is to make building high performing global teams simple, fast, and cost-effective. Teamified has hundreds of clients with more than 200 engineers, test...
+- [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
+  Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
+  Fit: 2 | budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Position Summary The Senior Full Stack Software Developer is responsible for designing, developing, deploying, and supporting enterprise-grade software solutions that support Ogletree Deakins’ legal, operational, and client service objectives. This role carries accountability for application quality, performance, security, scalability, and long-term maintainability. This position partners closely with our Business Analysts and Project Managers to translate business and legal requirements into secure, reliable, and scalable technical solutions. Essential Functions Design, develop, and mainta...
 - [YO AI Labs: Social Work & Community Services Professional (Domain Expert) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/social-work-community-services-professional-domain-expert-remote)  
   Himalayas | posted Nov 22 10:34 UTC | score 3 | **USD 20 to 80/hourly** | automation, ai
   Fit: 1 | budget stated, verify scope and currency
