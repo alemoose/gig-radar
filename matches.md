@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 15:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 15:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -85,11 +85,6 @@ Updated 2026-11-23 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. The Ranking Platform team builds and runs the services that coordinate contextualized and personalized ranking on Reddit. We build i...
-- [RemoteJobsOne: Management Consulting Expert – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/management-consulting-expert-remote-worldwide)  
-  Himalayas | posted Nov 20 15:41 UTC | score 4 | **USD 60 to 120/hourly** | chatbot, agents, claude, ai
-  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States; seniority requirement needs review
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$120/hr Role Title: Management Consulting Expert Role Type: Contractor Location: Remote - US/Canada preferred; UK and Latin America also considered Pay: $60-120/hr. Paid per task Time commitment: 10+ hours/week require...
 - [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
   We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
   Fit: 6 | 
