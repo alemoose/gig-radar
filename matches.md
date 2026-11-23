@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 01:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 01:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,6 +110,11 @@ Updated 2026-11-23 01:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | 
   Check: budget unknown
   > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
+- [Reddit: Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975)  
+  Remote OK | posted Nov 22 01:40 UTC | score 3 | **$190,800** | automation, python, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. This role is fully remote. Reddit has a flexible first workforce The Site Experience SRE team sits at the intersection of infrastruc...
 - [Instrument: Senior Developer (Contract)](https://himalayas.app/companies/instrument/jobs/senior-developer-contract)  
   Himalayas | posted Nov 21 19:33 UTC | score 3 | **$60-85 per hour** | problem: website build
   Fit: 5 | website build; explicit hiring intent; budget stated, verify scope and currency
