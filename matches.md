@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 15:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 15:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,11 +30,6 @@ Updated 2026-11-23 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Canada, France, Germany, India, Netherlands, Singapore, United Kingdom, United States
   > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including United Kingdom, United States, Canada, Germany, India, France, Netherlands, Singapore. Pay: $60–$100/hr Role Title: Data Science & Analytic Methodology SMERole Type: ContractorLocation: Remote We are engaging Data Science & Analytic Methodology SMEs to contribute expertise to a customer's high-impact project focu...
-- [RemoteJobsOne: Revenue Operations Specialist (SaaS) – Remote (Worldwide)](https://himalayas.app/companies/remotejobsone/jobs/revenue-operations-specialist-saas-remote-worldwide)  
-  Himalayas | posted Nov 20 15:05 UTC | score 3 | **USD 50 to 100/hourly** | saas, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Canada, United States
-  > IMPORTANT: after you apply, please check your email. We sendyou a link to complete your application — it is not considered until that laststep is done. If you do not see it, check your spam folder. This is a fully remote position, open to candidates based in 55 countries, including India, United States, United Kingdom, Canada, Germany, France, Netherlands, Singapore. Pay: $50–$100/hr Role Title: Revenue Operations Specialist (SaaS) Role Type: Contractor Location: Remote - U.S. or Canada onlyOpportunity Snapshot Pay: $50–100/hour Project kickoff: Already active — we’re onboarding candidates...
 - [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
   We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
