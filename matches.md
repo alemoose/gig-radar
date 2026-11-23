@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 01:50 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 02:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,6 +20,11 @@ Updated 2026-11-23 01:50 UTC. Projects first, ranked by fit and freshness.
   Fit: 18 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
+- [Reddit: Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977)  
+  Remote OK | posted Nov 22 02:00 UTC | score 9 | **$232,500** | automation, workflow, agents, prompt, llm, ai
+  Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team Reddit's developer ecosystem is one of the biggest opportunities to make Reddit more useful, expressive, extensible,...
 - [RemoteJobsOne: AI Agent Tester -  Real-World Tasks – Remote (US)](https://himalayas.app/companies/remotejobsone/jobs/ai-agent-tester-real-world-tasks-remote-us)  
   Himalayas | posted Nov 20 18:00 UTC | score 4 | **USD 25 to 45/hourly** | ai agent, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
