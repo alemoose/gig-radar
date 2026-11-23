@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 22:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 22:13 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -40,11 +40,6 @@ Updated 2026-11-23 22:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
-- [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
-  Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
-  Fit: 22 | posted within 6 hours; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
 - [Syd Life AI: Growth Associate](https://himalayas.app/companies/syd-life-ai/jobs/growth-associate)  
   Himalayas | posted Nov 23 00:20 UTC | score 3 | **USD 20000 to 40000/annual** | claude, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
@@ -55,16 +50,16 @@ Updated 2026-11-23 22:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
-- [Mfinite Consulting: Junior Data Scientist - Contract](https://himalayas.app/companies/mfinite-consulting/jobs/junior-data-scientist-contract)  
-  Himalayas | posted Nov 22 22:03 UTC | score 3 | data extraction, automation, workflow
-  Fit: 17 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Turn health data into clearer reporting and smarter workflows for North Carolina. Mfinite Consulting is hiring a Junior Data Scientist for a contract assignment with the North Carolina Health Information Exchange Authority (NC HIEA), part of the NC Department of Information Technology (NCDIT). NC HIEA operates NC HealthConnex, the state-designated health information exchange that supports secure electronic sharing of health data across North Carolina. You'll support operational, analytical and quality improvement work: cleaning and validating data, monitoring automated workflows, building d...
 - [Reddit: Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977)  
   Remote OK | posted Nov 22 02:00 UTC | score 9 | **$232,500** | automation, workflow, agents, prompt, llm, ai
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team Reddit's developer ecosystem is one of the biggest opportunities to make Reddit more useful, expressive, extensible,...
+- [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
+  Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
 - [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
   Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
   Fit: 15 | explicit hiring intent
@@ -85,6 +80,11 @@ Updated 2026-11-23 22:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
+- [Mfinite Consulting: Junior Data Scientist - Contract](https://himalayas.app/companies/mfinite-consulting/jobs/junior-data-scientist-contract)  
+  Himalayas | posted Nov 22 22:03 UTC | score 3 | data extraction, automation, workflow
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Turn health data into clearer reporting and smarter workflows for North Carolina. Mfinite Consulting is hiring a Junior Data Scientist for a contract assignment with the North Carolina Health Information Exchange Authority (NC HIEA), part of the NC Department of Information Technology (NCDIT). NC HIEA operates NC HealthConnex, the state-designated health information exchange that supports secure electronic sharing of health data across North Carolina. You'll support operational, analytical and quality improvement work: cleaning and validating data, monitoring automated workflows, building d...
 - [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
   Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
