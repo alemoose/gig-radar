@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 06:01 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-23 06:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | explicit hiring intent; small scope signal
   Check: budget unknown; check eligibility: United States
   > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
-- [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
-  We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
-  Fit: 19 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: Remote, United States JOB OVERVIEW The Senior Deal Desk Manager is a senior individual contributor role responsible for how Legion prices, structures, approves, and contracts global deals across every region Legion sells into. Reporting to the Head of Revenue Operations, this person will take a Deal Desk that already has a foundation and scale it into a fast, compliant, AI-native function — through better systems and automation, not more headcount. The ideal candidate has built Deal Desk operations from scratch at an early-stage or growth-stage SaaS company and knows what to s...
 - [YO AI Labs: Robotics Data Collection Specialist  -  Remote](https://himalayas.app/companies/yo-ai-labs/jobs/robotics-data-collection-specialist-remote)  
   Himalayas | posted Nov 22 14:17 UTC | score 4 | **USD 30 to 50/hourly** | automation, python, ai
   Fit: 18 | budget stated, verify scope and currency
@@ -55,6 +50,11 @@ Updated 2026-11-23 06:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > LearnTastic is seeking Fractional Chief Marketing Officer (CMO) - B2B & B2C Growth Strategy, to act as a true growth partner to our CEO and leadership team.Key Responsibilities:1. Overall Marketing Strategy & Business Growth Develop and lead the overall marketing strategy across B2B and B2C business segments. Identify new revenue opportunities, growth channels and market expansion opportunities. Develop short-term and long-term marketing plans aligned with company revenue objectives. Evaluate existing marketing strategies, identify gaps and recommend improvements. Build a clear roadmap for...
+- [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
+  We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
+  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: Remote, United States JOB OVERVIEW The Senior Deal Desk Manager is a senior individual contributor role responsible for how Legion prices, structures, approves, and contracts global deals across every region Legion sells into. Reporting to the Head of Revenue Operations, this person will take a Deal Desk that already has a foundation and scale it into a fast, compliant, AI-native function — through better systems and automation, not more headcount. The ideal candidate has built Deal Desk operations from scratch at an early-stage or growth-stage SaaS company and knows what to s...
 - [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
   Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
   Fit: 13 | explicit hiring intent
