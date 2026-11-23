@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 14:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 14:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-23 14:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | explicit hiring intent; small scope signal
   Check: budget unknown; check eligibility: United States
   > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
-- [YO AI Labs: Robotics Data Collection Specialist  -  Remote](https://himalayas.app/companies/yo-ai-labs/jobs/robotics-data-collection-specialist-remote)  
-  Himalayas | posted Nov 22 14:17 UTC | score 4 | **USD 30 to 50/hourly** | automation, python, ai
-  Fit: 18 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
 - [Reddit: Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977)  
   Remote OK | posted Nov 22 02:00 UTC | score 9 | **$232,500** | automation, workflow, agents, prompt, llm, ai
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
@@ -60,6 +55,11 @@ Updated 2026-11-23 14:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
+- [YO AI Labs: Robotics Data Collection Specialist  -  Remote](https://himalayas.app/companies/yo-ai-labs/jobs/robotics-data-collection-specialist-remote)  
+  Himalayas | posted Nov 22 14:17 UTC | score 4 | **USD 30 to 50/hourly** | automation, python, ai
+  Fit: 12 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
 - [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
   Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
