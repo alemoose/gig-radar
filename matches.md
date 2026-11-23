@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 06:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 06:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -135,11 +135,6 @@ Updated 2026-11-23 06:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team:Â We build the shared ML and AI capabilities that power experiences across our consumer products. Our work spans the...
-- [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
-  Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
-  Fit: 3 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Thai Type:Contract Compensation:$24–$35/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Apply st...
 - [Teamified: Senior Software Engineer](https://weworkremotely.com/remote-jobs/teamified-senior-software-engineer)  
   We Work Remotely | posted Nov 20 17:01 UTC | score 4 | full-stack, javascript, python, ai
   Fit: 3 | explicit hiring intent
@@ -165,3 +160,8 @@ Updated 2026-11-23 06:30 UTC. Projects first, ranked by fit and freshness.
   Fit: -2 | 
   Check: budget unknown; seniority requirement needs review
   > Headquarters: United Kingdom URL: http://www.siemens.com Siemens Digital Industries Software is a leading provider of solutions for the design, simulation, and manufacture of products across many different industries. Formula 1 cars, skyscrapers, ships, space exploration vehicles, and many of the objects we see in our daily lives are being conceived and manufactured using our Product Lifecycle Management (PLM) software. Position Overview: Siemens is a global technology powerhouse focusing on the areas of intelligent infrastructure, automation, and digitalization. Within Global Sales Excelle...
+- [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
+  Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
+  Fit: -3 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Thai Type:Contract Compensation:$24–$35/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Apply st...
