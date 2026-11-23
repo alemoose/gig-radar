@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-23 14:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-23 14:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Flosum: RevOps Manager](https://himalayas.app/companies/flosum/jobs/revops-manager)  
-  Himalayas | posted Nov 20 14:44 UTC | score 5 | automation, automate, agents, saas, ai
-  Fit: 20 | explicit hiring intent; small scope signal
-  Check: budget unknown; check eligibility: United States
-  > Employment Type: Contract-to-Hire Contract-to-hire opportunity with the intention of transitioning to a permanent, full-time role based on performance, business needs, and mutual fit. We are seeking a hands-on Revenue Operations Manager to own and optimize our revenue operations infrastructure, processes, analytics, and GTM systems. This role will begin as a contract engagement, with the opportunity to convert to a full-time permanent position. The ideal candidate is both strategic and execution-oriented—someone who can identify operational gaps, get into the systems to fix them, build scal...
 - [Reddit: Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977)  
   Remote OK | posted Nov 22 02:00 UTC | score 9 | **$232,500** | automation, workflow, agents, prompt, llm, ai
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
