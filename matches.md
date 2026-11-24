@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 02:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 02:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -95,11 +95,6 @@ Updated 2026-11-24 02:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay curious, move with intent, and never stop inventing. Our culture runs on three values: better together, relentlessly curious, and get sh*t done. It is how we work, how we grow, and how we make things that matter. THE ROLE: The Director, Delivery (Product & Design) is a strateg...
-- [Reddit: Senior Staff Machine Learning Engineer, Ads Ranking](https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932)  
-  Remote OK | posted Nov 21 02:40 UTC | score 5 | **$266,000** | automate, workflow, claude, python, ai
-  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. We are seeking a Senior Staff Machine Learning Engineer to lead the technical direction of Redditâs Core Ads Ranking and mid-funn...
 - [Lifted (an Upwork Company): Videographers, Content Creators, and Filmmakers Needed to Help Train AI Models](https://himalayas.app/companies/lifted-an-upwork-company/jobs/videographers-content-creators-and-filmmakers-needed-to-help-train-ai-models)  
   Himalayas | posted Nov 21 11:48 UTC | score 4 | agents, prompt, ai
   Fit: 8 | 
