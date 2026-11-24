@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 02:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 02:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-24 02:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct. This is a very coding heavy role. Candidates but have experience using c...
-- [G2i Inc.: Senior Software Engineer, AI Training](https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440)  
-  Himalayas | posted Nov 23 02:02 UTC | score 9 | **USD 100 to 200/hourly** | javascript, typescript, agents, claude, openai, prompt
-  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client. Check out this Loom video for more details: We're looking for highly experienced software engineer (SR+) to help evaluate the quality of interactions with modern coding agents such as OpenAI Codex and Claude Code. This is not a traditional engineering role. You won't be writing production code. You'll be evaluating something harder: whether the model thinks like a great engine...
 - [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
   Fit: 21 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
@@ -30,6 +25,11 @@ Updated 2026-11-24 02:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
+- [G2i Inc.: Senior Software Engineer, AI Training](https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440)  
+  Himalayas | posted Nov 23 02:02 UTC | score 9 | **USD 100 to 200/hourly** | javascript, typescript, agents, claude, openai, prompt
+  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
+  > Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client. Check out this Loom video for more details: We're looking for highly experienced software engineer (SR+) to help evaluate the quality of interactions with modern coding agents such as OpenAI Codex and Claude Code. This is not a traditional engineering role. You won't be writing production code. You'll be evaluating something harder: whether the model thinks like a great engine...
 - [Syd Life AI: AI Research Engineer](https://himalayas.app/companies/syd-life-ai/jobs/ai-research-engineer)  
   Himalayas | posted Nov 23 00:20 UTC | score 4 | **USD 30000 to 80000/annual** | fine-tune, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
