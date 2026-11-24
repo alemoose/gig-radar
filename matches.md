@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 04:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 04:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -130,11 +130,6 @@ Updated 2026-11-24 04:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | website build; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Instrument is a digitally native design and technology company built to help brands unlock their full potential. Since 2005, our team of makers, thinkers, and storytellers has partnered with leading brands like Google, Nike, Uber, ŌURA, and Eventbrite to craft digital experiences that create impact and drive results. Unlike traditional agencies, we don’t just design—we build. Our work lives at the intersection of taste and technology, powered by curiosity, thoughtful curation, and a commitment to delivering the most fitting solution for every brief. We bring this to life across three core o...
-- [Reddit: Principal Software Engineer, Infrastructure](https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945)  
-  Remote OK | posted Nov 21 04:40 UTC | score 3 | **$286,700** | automate, python, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. The Infrastructure organization has the mission of building and delivering the compute orchestration environment, storage and data s...
 - [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
   Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
   Fit: 2 | budget stated, verify scope and currency
