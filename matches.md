@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 18:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 18:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-24 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
-- [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
-  We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
-  Fit: 21 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Leidos: Program Analyst](https://himalayas.app/companies/leidos/jobs/program-analyst)  
   Himalayas | posted Nov 23 19:47 UTC | score 6 | **USD 82550 to 149225/annual** | problem: website build, problem: data collection
   Fit: 17 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
@@ -45,6 +40,11 @@ Updated 2026-11-24 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team Reddit's developer ecosystem is one of the biggest opportunities to make Reddit more useful, expressive, extensible,...
+- [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
+  We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
+  Fit: 15 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Syd Life AI: Growth Associate](https://himalayas.app/companies/syd-life-ai/jobs/growth-associate)  
   Himalayas | posted Nov 23 00:20 UTC | score 3 | **USD 20000 to 40000/annual** | claude, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -55,21 +55,11 @@ Updated 2026-11-24 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote, United States JOB OVERVIEW The Senior Deal Desk Manager is a senior individual contributor role responsible for how Legion prices, structures, approves, and contracts global deals across every region Legion sells into. Reporting to the Head of Revenue Operations, this person will take a Deal Desk that already has a foundation and scale it into a fast, compliant, AI-native function — through better systems and automation, not more headcount. The ideal candidate has built Deal Desk operations from scratch at an early-stage or growth-stage SaaS company and knows what to s...
-- [YO AI Labs: Machine Learning Scientists - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/machine-learning-scientists-remote)  
-  Himalayas | posted Nov 21 18:31 UTC | score 4 | agents, python, ai
-  Fit: 13 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Job Description: Applied Scientist – Machine Learning Job Type: Contractor Location: Global, Fully Remote Time Commitment: Approximately 15 hours per week Schedule: Flexible, including weekendsAbout the Role We are seeking skilled Machine Learning Experts for an AI training project focused on model development, training and inference systems, numerical computing, and performance optimization. This is a highly coding-intensive role requiring strong Python skills and practical experience using coding agents.Key Responsibilities Develop and validate machine learning models, training pipelines,...
 - [YO AI Labs: Robotics Data Collection Specialist  -  Remote](https://himalayas.app/companies/yo-ai-labs/jobs/robotics-data-collection-specialist-remote)  
   Himalayas | posted Nov 22 14:17 UTC | score 4 | **USD 30 to 50/hourly** | automation, python, ai
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
-- [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
-  We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
 - [GitLab: Renewals Manager - LATAM](https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065)  
   Remote OK | posted Nov 23 00:00 UTC | score 3 | google sheets, saas, ai
   Fit: 11 | explicit hiring intent
@@ -95,6 +85,11 @@ Updated 2026-11-24 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
+- [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
+  We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
 - [Reddit: Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975)  
   Remote OK | posted Nov 22 01:40 UTC | score 3 | **$190,800** | automation, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
