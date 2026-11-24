@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -45,11 +45,6 @@ Updated 2026-11-24 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team Reddit's developer ecosystem is one of the biggest opportunities to make Reddit more useful, expressive, extensible,...
-- [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
-  Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
 - [Syd Life AI: Growth Associate](https://himalayas.app/companies/syd-life-ai/jobs/growth-associate)  
   Himalayas | posted Nov 23 00:20 UTC | score 3 | **USD 20000 to 40000/annual** | claude, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -90,6 +85,11 @@ Updated 2026-11-24 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Turn health data into clearer reporting and smarter workflows for North Carolina. Mfinite Consulting is hiring a Junior Data Scientist for a contract assignment with the North Carolina Health Information Exchange Authority (NC HIEA), part of the NC Department of Information Technology (NCDIT). NC HIEA operates NC HealthConnex, the state-designated health information exchange that supports secure electronic sharing of health data across North Carolina. You'll support operational, analytical and quality improvement work: cleaning and validating data, monitoring automated workflows, building d...
+- [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
+  Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
+  Fit: 10 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
 - [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
   Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
