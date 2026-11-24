@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 04:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 05:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -105,11 +105,6 @@ Updated 2026-11-24 04:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > LearnTastic is seeking Fractional Chief Marketing Officer (CMO) - B2B & B2C Growth Strategy, to act as a true growth partner to our CEO and leadership team.Key Responsibilities:1. Overall Marketing Strategy & Business Growth Develop and lead the overall marketing strategy across B2B and B2C business segments. Identify new revenue opportunities, growth channels and market expansion opportunities. Develop short-term and long-term marketing plans aligned with company revenue objectives. Evaluate existing marketing strategies, identify gaps and recommend improvements. Build a clear roadmap for...
-- [Reddit: Engineering Manager, Ranking Platform](https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946)  
-  Remote OK | posted Nov 21 05:00 UTC | score 4 | **$230,000** | automation, postgres, python, ai
-  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. The Ranking Platform team builds and runs the services that coordinate contextualized and personalized ranking on Reddit. We build i...
 - [Gemini: Senior Software Engineer, Predictions (Mobile)](https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile)  
   We Work Remotely | posted Nov 22 18:31 UTC | score 6 | **$140,000 - $200,000** | react native, mobile app, typescript, gemini, react
   Fit: 6 | budget stated, verify scope and currency
