@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 18:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 18:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -115,11 +115,6 @@ Updated 2026-11-24 18:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Remote - The Netherlands Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This role is open to candidates based in the UK or the Netherlands. Reddit is where people come to disco...
-- [Iowa State University: Part-Time Systems Analyst III](https://himalayas.app/companies/iowa-state-university/jobs/part-time-systems-analyst-iii-6513329852)  
-  Himalayas | posted Nov 21 18:26 UTC | score 3 | automation, workflow, python
-  Fit: 1 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
 - [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
   Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
   Fit: -3 | budget stated, verify scope and currency
