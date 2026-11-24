@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 16:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 17:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -125,11 +125,6 @@ Updated 2026-11-24 16:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Position Title:Part-Time Systems Analyst IIIJob Group:Professional & ScientificRequired Minimum Qualifications:Bachelor’s degree and 5 years of related experienceJob Description: The Center for Survey Statistics and Methodology (CSSM) within The College of Liberal Arts and Science is seeking a qualified Part-Time Systems Analyst III. CSSM specializes in the research and practice of sample surveys. CSSM has functioned as a collaborator for federal and state agencies, nonprofit organizations, and other campus units. Building on the expertise of Iowa State University’s Department of Statistics...
-- [Stripe: Technical Recruiter, OpenRouter (Fixed Term)](https://himalayas.app/companies/stripe/jobs/technical-recruiter-openrouter-fixed-term)  
-  Himalayas | posted Nov 21 16:57 UTC | score 3 | stripe, ai
-  Fit: 1 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career. To help support that mission, in August we announced that Stripe had agre...
 - [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
   Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
   Fit: -3 | budget stated, verify scope and currency
