@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-24 00:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 00:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
-  We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
-  Fit: 27 | spreadsheet automation; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Syd Life AI: Junior Software Engineer](https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer)  
   Himalayas | posted Nov 23 00:20 UTC | score 9 | **USD 25000 to 40000/annual** | react native, javascript, mobile app, typescript, workflow, node.js
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
@@ -30,11 +25,11 @@ Updated 2026-11-24 00:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
   > Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client. Check out this Loom video for more details: We're looking for highly experienced software engineer (SR+) to help evaluate the quality of interactions with modern coding agents such as OpenAI Codex and Claude Code. This is not a traditional engineering role. You won't be writing production code. You'll be evaluating something harder: whether the model thinks like a great engine...
-- [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
-  We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
-  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+- [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
+  We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
+  Fit: 21 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
+  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Syd Life AI: AI Research Engineer](https://himalayas.app/companies/syd-life-ai/jobs/ai-research-engineer)  
   Himalayas | posted Nov 23 00:20 UTC | score 4 | **USD 30000 to 80000/annual** | fine-tune, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -80,6 +75,11 @@ Updated 2026-11-24 00:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
+- [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
+  We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
+  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
 - [GitLab: Renewals Manager - LATAM](https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065)  
   Remote OK | posted Nov 23 00:00 UTC | score 3 | google sheets, saas, ai
   Fit: 11 | explicit hiring intent
