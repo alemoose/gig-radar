@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 12:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 12:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-24 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Turn health data into clearer reporting and smarter workflows for North Carolina. Mfinite Consulting is hiring a Junior Data Scientist for a contract assignment with the North Carolina Health Information Exchange Authority (NC HIEA), part of the NC Department of Information Technology (NCDIT). NC HIEA operates NC HealthConnex, the state-designated health information exchange that supports secure electronic sharing of health data across North Carolina. You'll support operational, analytical and quality improvement work: cleaning and validating data, monitoring automated workflows, building d...
-- [DEPT®: Director, Delivery - Delivery - US Remote Fixed Term Contractor](https://himalayas.app/companies/dept/jobs/director-delivery-delivery-us-remote-fixed-term-contractor)  
-  Himalayas | posted Nov 21 12:15 UTC | score 5 | **USD 176000 to 210000/annual** | automate, claude, gemini, openai, ai
-  Fit: 9 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > WHY DEPT®? We are a Growth Invention company built to help the world’s most ambitious brands grow faster. Operating at the intersection of technology and marketing, we create what is next by pioneering ideas, acting fast, and moving further because standing still just is not in our DNA. We are drawn to people who stay curious, move with intent, and never stop inventing. Our culture runs on three values: better together, relentlessly curious, and get sh*t done. It is how we work, how we grow, and how we make things that matter. THE ROLE: The Director, Delivery (Product & Design) is a strateg...
 - [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
   Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
