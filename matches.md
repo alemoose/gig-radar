@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 06:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 06:09 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,11 +110,6 @@ Updated 2026-11-24 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
-- [Ritual: Growth Engineer](https://weworkremotely.com/remote-jobs/ritual-growth-engineer)  
-  We Work Remotely | posted Nov 21 06:02 UTC | score 3 | typescript, python, ai
-  Fit: 6 | 
-  Check: budget unknown
-  > Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to enable a new class of applications at the intersection of crypto and AI. Our first product, Infernet, is pioneering new ground as the first solution to enable developers to access AI models both on-chain via smart contracts and off-chain, demonstrating our commitment to bridging these transformative technologies.About the role As a Grow...
 - [Reddit: Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975)  
   Remote OK | posted Nov 22 01:40 UTC | score 3 | **$190,800** | automation, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
