@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-23 23:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 00:01 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -80,6 +80,11 @@ Updated 2026-11-23 23:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
+- [GitLab: Renewals Manager - LATAM](https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065)  
+  Remote OK | posted Nov 23 00:00 UTC | score 3 | google sheets, saas, ai
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown
+  > programming GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive...
 - [Mfinite Consulting: Junior Data Scientist - Contract](https://himalayas.app/companies/mfinite-consulting/jobs/junior-data-scientist-contract)  
   Himalayas | posted Nov 22 22:03 UTC | score 3 | data extraction, automation, workflow
   Fit: 11 | explicit hiring intent
