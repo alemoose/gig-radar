@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 21:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 21:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,6 +10,21 @@ Updated 2026-11-24 21:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
+  Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
+  Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role Title: Mathematics Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active.Required Skills: Mathematics Python Programming Languages Research Applied Math We are looking for highly skilled Mathematics Experts to contribute to an AI training project involving advanced mathematical problem-solving, computational mathematics, numerical methods, and Python. The work involves creating, solving, reviewing, and validating mathematical tasks that can be co...
+- [Xperteez Technology: Hardware Expert, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract-7607846693)  
+  Himalayas | posted Nov 24 03:46 UTC | score 3 | **USD 60 to 120/hourly** | automation, agents, python
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We...
+- [Xperteez Technology: ML Engineer, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-1794009161)  
+  Himalayas | posted Nov 24 06:03 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
+  Fit: 20 | budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Job Title: ML Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desire The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance...
 - [Xperteez Technology: STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract-3276095955)  
   Himalayas | posted Nov 23 10:27 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -45,6 +60,11 @@ Updated 2026-11-24 21:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
+  Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
+  Fit: 13 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
 - [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
   We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
@@ -75,6 +95,16 @@ Updated 2026-11-24 21:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
+- [mercor: AI Red Team Specialist - Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-red-team-specialist-remote-upto-25-hr-7595308677)  
+  Himalayas | posted Nov 24 21:23 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
+  Fit: 9 | posted within 6 hours; budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Indonesian Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Ap...
+- [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
+  Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
+  Fit: 9 | API connection; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
 - [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
   Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -85,6 +115,11 @@ Updated 2026-11-24 21:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
+- [micro1: AI Product Tester (Consumer Safety & Security)](https://himalayas.app/companies/micro1/jobs/ai-product-tester-consumer-safety-security)  
+  Himalayas | posted Nov 24 00:20 UTC | score 5 | **USD 21 to 35/hourly** | chatgpt, claude, gemini, ai
+  Fit: 5 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
 - [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
