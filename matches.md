@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 17:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 17:56 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,11 +50,6 @@ Updated 2026-11-24 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
-- [Elvoro: Founding Account Executive – Elvoro Ltd](https://himalayas.app/companies/elvoro/jobs/founding-account-executive-elvoro-ltd)  
-  Himalayas | posted Nov 21 17:54 UTC | score 5 | workflow, chatgpt, agents, claude, ai
-  Fit: 15 | explicit hiring intent
-  Check: budget unknown; check eligibility: Worldwide (check timezone)
-  > Founding Account Executive – Elvoro Ltd Engagement: Part-time or Full-time Location: Remote, Worldwide (USA/Germany preferred) Compensation: Fixed + Commission per Sale. To be agreedAbout & Mission Elvoro is a founder-led AI social media marketing and advertising company. We are on an important mission to deliver the world's best AI-native marketing solutions to our clients for remarkable business growth. We are looking for a dedicated B2B Sales expert and client relationship manager.Responsibilities Own the full sales cycle, from lead generation and first outreach to meetings, proposals, n...
 - [Legion: Senior Deal Desk Manager](https://weworkremotely.com/remote-jobs/legion-senior-deal-desk-manager)  
   We Work Remotely | posted Nov 22 06:02 UTC | score 7 | **$100,000 - $140,000** | google sheets, automation, automate, chatgpt, claude, saas
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
