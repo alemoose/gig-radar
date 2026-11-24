@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-24 01:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-24 02:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-24 01:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
-- [Leidos: Program Analyst](https://himalayas.app/companies/leidos/jobs/program-analyst)  
-  Himalayas | posted Nov 23 19:47 UTC | score 6 | **USD 82550 to 149225/annual** | problem: website build, problem: data collection
-  Fit: 23 | website build; data collection; posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
 - [Xperteez Technology: STEM Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/stem-expert-remote-contract-3276095955)  
   Himalayas | posted Nov 23 10:27 UTC | score 4 | **USD 60 to 120/hourly** | workflow, agents, python, ai
   Fit: 23 | explicit hiring intent; budget stated, verify scope and currency
@@ -30,6 +25,11 @@ Updated 2026-11-24 01:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
+- [Leidos: Program Analyst](https://himalayas.app/companies/leidos/jobs/program-analyst)  
+  Himalayas | posted Nov 23 19:47 UTC | score 6 | **USD 82550 to 149225/annual** | problem: website build, problem: data collection
+  Fit: 17 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
 - [Syd Life AI: AI Research Engineer](https://himalayas.app/companies/syd-life-ai/jobs/ai-research-engineer)  
   Himalayas | posted Nov 23 00:20 UTC | score 4 | **USD 30000 to 80000/annual** | fine-tune, agents, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
