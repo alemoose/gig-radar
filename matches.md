@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 09:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 09:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -120,11 +120,6 @@ Updated 2026-11-25 09:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | API connection; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
-- [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
-  Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
-  Fit: 2 | budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Position Summary The Senior Full Stack Software Developer is responsible for designing, developing, deploying, and supporting enterprise-grade software solutions that support Ogletree Deakins’ legal, operational, and client service objectives. This role carries accountability for application quality, performance, security, scalability, and long-term maintainability. This position partners closely with our Business Analysts and Project Managers to translate business and legal requirements into secure, reliable, and scalable technical solutions. Essential Functions Design, develop, and mainta...
 - [Reddit: Engineering Manager, Ads Product Catalogs](https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs)  
   We Work Remotely | posted Nov 22 18:31 UTC | score 3 | full stack, full-stack, ai
   Fit: 1 | explicit hiring intent
