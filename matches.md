@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 21:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 21:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,31 @@ Updated 2026-11-25 21:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
+  Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
+  Fit: 26 | posted within 6 hours
+  Check: budget unknown; check eligibility: United States
+  > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
+- [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
+  Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
+  Fit: 23 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
+- [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
+  Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 500 million premium business documents — including equity research, earnings calls, expert interviews, filings, news, and internal proprietary content. Purpose-built for speed, accuracy, and enterprise-grade security, AlphaSense helps teams extract critical insights, uncover market-moving trends, a...
 - [Reddit: Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093)  
   Remote OK | posted Nov 24 10:52 UTC | score 11 | **$190,800** | typescript, workflow, agents, python, react, llm
   Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you...
+- [Lean Marketing: Marketing Coordinator - 2HourGlass](https://himalayas.app/companies/lean-marketing/jobs/marketing-coordinator-2hourglass-637384802)  
+  Himalayas | posted Nov 25 13:10 UTC | score 5 | **USD 25 to 35/hourly** | google sheets, airtable, chatgpt, claude, ai
+  Fit: 20 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
 - [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
   Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -45,6 +65,11 @@ Updated 2026-11-25 21:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
+  Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
 - [Xperteez Technology: Hardware Expert, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract-7607846693)  
   Himalayas | posted Nov 24 03:46 UTC | score 3 | **USD 60 to 120/hourly** | automation, agents, python
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -105,11 +130,21 @@ Updated 2026-11-25 21:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
+- [StarTree: Technical Support Engineer](https://himalayas.app/companies/startree/jobs/technical-support-engineer)  
+  Himalayas | posted Nov 25 12:27 UTC | score 4 | full stack, stripe, vector, ai
+  Fit: 4 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > At StarTree we're a group of passionate individuals that desire to improve the lives of many by developing tools and technologies that support availability and speed in the world of real-time analytics. Our aim is to make it simple for every company to delight their users - external and internal - and create new revenue streams from their data, by building the world’s most comprehensive and accessible cloud analytics system. About the Role Support is a cornerstone of success at StarTree and a highly valued function within the organization. As a Technical Support Engineer, you will become a...
 - [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
   Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
   Fit: 3 | API connection; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
+- [Planate Management Group: Sales and Marketing Consultant](https://himalayas.app/companies/planate-management-group/jobs/sales-and-marketing-consultant)  
+  Himalayas | posted Nov 25 15:42 UTC | score 3 | automation, saas, ai
+  Fit: 2 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > We are seeking a highly experienced Sales and Marketing Consultant to provide strategic leadership and advisory support in driving business development, revenue growth, and market expansion. The role will focus on identifying new business opportunities, developing a sustainable sales pipeline, strengthening client relationships, and implementing effective sales and marketing strategies to expand the organization's market presence and achieve its commercial objectives.Key Responsibilities Formulate and recommend strategic sales and marketing plans aligned with the organization's revenue, pro...
 - [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
   Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
   Fit: 1 | explicit hiring intent
