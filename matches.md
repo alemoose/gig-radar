@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-25 22:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 23:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
-  We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
-  Fit: 27 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a QA / Test Engineer to join our CMS team, making sure a modern claims platform and its integrations give the same trusted results as th...
 - [Syd Life AI: Junior Software Engineer](https://himalayas.app/companies/syd-life-ai/jobs/junior-software-engineer)  
   Himalayas | posted Nov 23 00:20 UTC | score 9 | **USD 25000 to 40000/annual** | react native, javascript, mobile app, typescript, workflow, node.js
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
@@ -25,6 +20,11 @@ Updated 2026-11-25 22:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | posted within 6 hours; explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
+- [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
+  We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a QA / Test Engineer to join our CMS team, making sure a modern claims platform and its integrations give the same trusted results as th...
 - [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
   Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
