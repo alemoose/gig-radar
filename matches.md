@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 14:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 14:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -60,11 +60,6 @@ Updated 2026-11-25 14:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Title: ML Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desire The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance...
-- [YO AI Labs: Robotics Data Collection Specialist  -  Remote](https://himalayas.app/companies/yo-ai-labs/jobs/robotics-data-collection-specialist-remote)  
-  Himalayas | posted Nov 22 14:17 UTC | score 4 | **USD 30 to 50/hourly** | automation, python, ai
-  Fit: 12 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
 - [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
   We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
