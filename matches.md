@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 06:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 06:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -130,11 +130,6 @@ Updated 2026-11-25 06:30 UTC. Projects first, ranked by fit and freshness.
   Fit: -1 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
-- [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
-  Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
-  Fit: -3 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Thai Type:Contract Compensation:$24–$35/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Apply st...
 - [YO AI Labs: Social Work & Community Services Professional (Domain Expert) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/social-work-community-services-professional-domain-expert-remote)  
   Himalayas | posted Nov 22 10:34 UTC | score 3 | **USD 20 to 80/hourly** | automation, ai
   Fit: -5 | budget stated, verify scope and currency
