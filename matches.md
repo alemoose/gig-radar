@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 07:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 08:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -65,6 +65,11 @@ Updated 2026-11-25 07:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > Job Description: Robotics Data Collection Specialist Role Type: Contractor Location: Remote – San Francisco Bay AreaAbout the Role We are seeking Robotics Data Collection Specialists to support an advanced robotics project by collecting, annotating, and validating real-world household task data. You will work with robotics hardware and approved VR equipment to create high-quality datasets for training next-generation AI and robotics systems. No prior AI experience is required.Key Responsibilities Use client-provided UMI grippers or approved VR equipment to record and annotate household task...
+- [Augment: Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081)  
+  Remote OK | posted Nov 24 08:00 UTC | score 3 | google sheets, saas, ai
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown
+  > analyst saas recruiter customer support marketing exec finance admin ops excel legal sales medical About Augment Logistics is broken. Let's fix it. We are a team of engineers, product designers, and customer champions building Augie, Augment's AI teammate for supply chain. Augie reasons and acts like a seasoned operator, automating the busywork of quoting, dispatch, tracking, billing, and more for freight brokers, 3PLs, for-hire carriers, private fleets, and distributors. Our team has scaled billion-dollar companies, built delightful products, and powered billions in commerce. If you thrive...
 - [Leidos: Program Analyst](https://himalayas.app/companies/leidos/jobs/program-analyst)  
   Himalayas | posted Nov 23 19:47 UTC | score 6 | **USD 82550 to 149225/annual** | problem: website build, problem: data collection
   Fit: 11 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
@@ -85,11 +90,6 @@ Updated 2026-11-25 07:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
-- [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
-  Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
-  Fit: 9 | API connection; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
 - [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
   Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
   Fit: 7 | explicit hiring intent
@@ -115,6 +115,11 @@ Updated 2026-11-25 07:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Indonesian Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Ap...
+- [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
+  Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
+  Fit: 3 | API connection; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
 - [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
   Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
   Fit: 2 | budget stated, verify scope and currency
