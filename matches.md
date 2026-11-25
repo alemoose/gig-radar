@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 16:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 16:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,11 +90,6 @@ Updated 2026-11-25 16:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
-- [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
-  Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
-  Fit: 7 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
 - [Gemini: Senior Software Engineer, Predictions (Mobile)](https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile)  
   We Work Remotely | posted Nov 22 18:31 UTC | score 6 | **$140,000 - $200,000** | react native, mobile app, typescript, gemini, react
   Fit: 6 | budget stated, verify scope and currency
@@ -120,6 +115,11 @@ Updated 2026-11-25 16:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | API connection; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
+- [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
+  Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
+  Fit: 1 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
 - [Reddit: Engineering Manager, Ads Product Catalogs](https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs)  
   We Work Remotely | posted Nov 22 18:31 UTC | score 3 | full stack, full-stack, ai
   Fit: 1 | explicit hiring intent
