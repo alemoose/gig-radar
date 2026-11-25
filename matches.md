@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 01:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 02:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -45,11 +45,6 @@ Updated 2026-11-25 01:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
-- [Reddit: Product Manager, Developer Ecosystem](https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977)  
-  Remote OK | posted Nov 22 02:00 UTC | score 9 | **$232,500** | automation, workflow, agents, prompt, llm, ai
-  Fit: 17 | app build; explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > product Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. About the Team Reddit's developer ecosystem is one of the biggest opportunities to make Reddit more useful, expressive, extensible,...
 - [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
   Fit: 15 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
