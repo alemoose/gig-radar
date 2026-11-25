@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 18:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 18:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -95,11 +95,6 @@ Updated 2026-11-25 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
-- [Gemini: Senior Software Engineer, Predictions (Mobile)](https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile)  
-  We Work Remotely | posted Nov 22 18:31 UTC | score 6 | **$140,000 - $200,000** | react native, mobile app, typescript, gemini, react
-  Fit: 6 | budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
 - [Oscar Health: Associate, Payment Integrity](https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090)  
   Remote OK | posted Nov 24 10:40 UTC | score 3 | **$85,199 - $111,823** | full stack, workflow, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
@@ -125,11 +120,6 @@ Updated 2026-11-25 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
-- [Reddit: Engineering Manager, Ads Product Catalogs](https://weworkremotely.com/remote-jobs/reddit-engineering-manager-ads-product-catalogs)  
-  We Work Remotely | posted Nov 22 18:31 UTC | score 3 | full stack, full-stack, ai
-  Fit: 1 | explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: Remote - The Netherlands Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This role is open to candidates based in the UK or the Netherlands. Reddit is where people come to disco...
 - [micro1: AI Product Tester (Consumer Safety & Security)](https://himalayas.app/companies/micro1/jobs/ai-product-tester-consumer-safety-security)  
   Himalayas | posted Nov 24 00:20 UTC | score 5 | **USD 21 to 35/hourly** | chatgpt, claude, gemini, ai
   Fit: -1 | budget stated, verify scope and currency
