@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 12:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 13:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-25 12:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
-- [Learntastic: Fractional Chief Marketing Officer (CMO) – B2B & B2C Growth Strategy](https://himalayas.app/companies/learntastic/jobs/fractional-chief-marketing-officer-cmo-b2b-b2c-growth-strategy)  
-  Himalayas | posted Nov 22 12:51 UTC | score 4 | **USD 5000 to 7000/monthly** | automation, saas, llm, ai
-  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > LearnTastic is seeking Fractional Chief Marketing Officer (CMO) - B2B & B2C Growth Strategy, to act as a true growth partner to our CEO and leadership team.Key Responsibilities:1. Overall Marketing Strategy & Business Growth Develop and lead the overall marketing strategy across B2B and B2C business segments. Identify new revenue opportunities, growth channels and market expansion opportunities. Develop short-term and long-term marketing plans aligned with company revenue objectives. Evaluate existing marketing strategies, identify gaps and recommend improvements. Build a clear roadmap for...
 - [Gemini: Senior Software Engineer, Predictions (Mobile)](https://weworkremotely.com/remote-jobs/gemini-senior-software-engineer-predictions-mobile)  
   We Work Remotely | posted Nov 22 18:31 UTC | score 6 | **$140,000 - $200,000** | react native, mobile app, typescript, gemini, react
   Fit: 6 | budget stated, verify scope and currency
