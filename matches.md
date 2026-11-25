@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 10:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 11:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,6 +10,11 @@ Updated 2026-11-25 10:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 27 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > About Syd Life AI We build life quality infrastructure that compounds validated research and action into better living . Syd , our companion , draws on 2.7 million+ peer-reviewed studies and 14.3 billion+ person-years of longitudinal data , and turns that evidence into action across nine dimensions of life quality . Every recommendation traces back to its evidence . Syd is available in 30 languages and deployed in 26 countries . Privacy and security sit at the centre of how we build : SOC 2 , ISO 27001 , ISO 42001 , GDPR and HIPAA . Our goal is to give people their agency back . We hire peo...
+- [Reddit: Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093)  
+  Remote OK | posted Nov 24 10:52 UTC | score 11 | **$190,800** | typescript, workflow, agents, python, react, llm
+  Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > programming Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you...
 - [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
   We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
   Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
