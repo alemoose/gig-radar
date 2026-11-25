@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 01:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 01:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -120,11 +120,6 @@ Updated 2026-11-25 01:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
-- [Reddit: Senior SRE, Site Experience](https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975)  
-  Remote OK | posted Nov 22 01:40 UTC | score 3 | **$190,800** | automation, python, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > devops Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. This role is fully remote. Reddit has a flexible first workforce The Site Experience SRE team sits at the intersection of infrastruc...
 - [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
   Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
   Fit: 2 | budget stated, verify scope and currency
