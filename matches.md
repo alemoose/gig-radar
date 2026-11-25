@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 10:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 10:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -105,6 +105,11 @@ Updated 2026-11-25 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
+- [Oscar Health: Associate, Payment Integrity](https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090)  
+  Remote OK | posted Nov 24 10:40 UTC | score 3 | **$85,199 - $111,823** | full stack, workflow, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > programming Associate, Payment Integrity Hi, we're Oscar. We're hiring an Associate, Payment Integrity to join our Payment Integrity Support team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselvesâone that behaves like a doctor in the family. About the role: This role acts as a bridge from tactical maintenance to cross-functional reconciliation, focusing heavily on the Pre Pay environment. This Associate...
 - [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
@@ -130,8 +135,3 @@ Updated 2026-11-25 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: -1 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
-- [YO AI Labs: Social Work & Community Services Professional (Domain Expert) - Remote](https://himalayas.app/companies/yo-ai-labs/jobs/social-work-community-services-professional-domain-expert-remote)  
-  Himalayas | posted Nov 22 10:34 UTC | score 3 | **USD 20 to 80/hourly** | automation, ai
-  Fit: -5 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: Canada, United States
-  > Job Description: Social Work & Community Services Professional (Domain Expert) Role Type: Contractor Location: Remote – United States or CanadaAbout the Role Apply your professional experience in social work and community services to help train and improve next-generation AI systems. You'll evaluate AI-generated responses, create anonymized real-world scenarios, and provide expert feedback. No prior AI experience is required.Key Responsibilities Evaluate case notes, resource guidance, and support communications using professional experience. Review AI-generated intake summaries, referral su...
