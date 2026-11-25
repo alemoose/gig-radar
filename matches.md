@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 22:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 22:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,11 +110,6 @@ Updated 2026-11-25 22:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown
   > programming GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive...
-- [Mfinite Consulting: Junior Data Scientist - Contract](https://himalayas.app/companies/mfinite-consulting/jobs/junior-data-scientist-contract)  
-  Himalayas | posted Nov 22 22:03 UTC | score 3 | data extraction, automation, workflow
-  Fit: 11 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Turn health data into clearer reporting and smarter workflows for North Carolina. Mfinite Consulting is hiring a Junior Data Scientist for a contract assignment with the North Carolina Health Information Exchange Authority (NC HIEA), part of the NC Department of Information Technology (NCDIT). NC HIEA operates NC HealthConnex, the state-designated health information exchange that supports secure electronic sharing of health data across North Carolina. You'll support operational, analytical and quality improvement work: cleaning and validating data, monitoring automated workflows, building d...
 - [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
   Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
   Fit: 10 | budget stated, verify scope and currency
