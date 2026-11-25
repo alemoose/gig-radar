@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 03:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 03:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -85,11 +85,6 @@ Updated 2026-11-25 03:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
-- [mercor: AI Red Team Specialist - Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-red-team-specialist-remote-upto-25-hr-7595308677)  
-  Himalayas | posted Nov 24 21:23 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
-  Fit: 9 | posted within 6 hours; budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Indonesian Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Ap...
 - [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
   Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
   Fit: 9 | API connection; explicit hiring intent
@@ -115,6 +110,11 @@ Updated 2026-11-25 03:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
+- [mercor: AI Red Team Specialist - Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-red-team-specialist-remote-upto-25-hr-7595308677)  
+  Himalayas | posted Nov 24 21:23 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
+  Fit: 3 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Indonesian Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Ap...
 - [Ogletree Deakins’ Immigration Practice Group: Temporary Full Stack Software Developer](https://himalayas.app/companies/ogletree-deakins-immigration-practice-group/jobs/temporary-full-stack-software-developer)  
   Himalayas | posted Nov 22 09:13 UTC | score 4 | **USD 113006 to 136635/annual** | full stack, full-stack, ai
   Fit: 2 | budget stated, verify scope and currency
