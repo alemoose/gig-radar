@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 00:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-25 00:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -115,11 +115,6 @@ Updated 2026-11-25 00:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 6 | budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to individuals and institutions in over 70 countries. Our mission is to unlock the next era of financial, creative, and personal freedom by providing trusted access to the decentralized future. We envision a world where crypto reshapes the global financial system, internet, and money to create greater choice, independence, and opportunity...
-- [micro1: AI Product Tester (Consumer Safety & Security)](https://himalayas.app/companies/micro1/jobs/ai-product-tester-consumer-safety-security)  
-  Himalayas | posted Nov 24 00:20 UTC | score 5 | **USD 21 to 35/hourly** | chatgpt, claude, gemini, ai
-  Fit: 5 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
 - [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
   We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
@@ -140,6 +135,11 @@ Updated 2026-11-25 00:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Remote - The Netherlands Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit www.redditinc.com. This role is open to candidates based in the UK or the Netherlands. Reddit is where people come to disco...
+- [micro1: AI Product Tester (Consumer Safety & Security)](https://himalayas.app/companies/micro1/jobs/ai-product-tester-consumer-safety-security)  
+  Himalayas | posted Nov 24 00:20 UTC | score 5 | **USD 21 to 35/hourly** | chatgpt, claude, gemini, ai
+  Fit: -1 | budget stated, verify scope and currency
+  Check: hourly budget below preferred floor; check eligibility: United States
+  > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
 - [mercor: AI Adversarial Specialist - Fully Remote | Upto $35/hr](https://himalayas.app/companies/mercor/jobs/ai-adversarial-specialist-fully-remote-upto-35-hr)  
   Himalayas | posted Nov 22 06:43 UTC | score 4 | **USD 24 to 35/hourly** | agents, prompt, ai
   Fit: -3 | budget stated, verify scope and currency
