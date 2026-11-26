@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-25 23:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 00:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-25 23:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 26 | posted within 6 hours
   Check: budget unknown; check eligibility: United States
   > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
-- [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
-  Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
-  Fit: 23 | posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
 - [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
   We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
@@ -40,6 +35,11 @@ Updated 2026-11-25 23:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
+- [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
+  Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
+  Fit: 17 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
 - [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
   Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -105,11 +105,6 @@ Updated 2026-11-25 23:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
-- [GitLab: Renewals Manager - LATAM](https://remoteOK.com/remote-jobs/remote-renewals-manager-latam-gitlab-1138065)  
-  Remote OK | posted Nov 23 00:00 UTC | score 3 | google sheets, saas, ai
-  Fit: 11 | explicit hiring intent
-  Check: budget unknown
-  > programming GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster. The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive...
 - [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
   Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
   Fit: 10 | budget stated, verify scope and currency
