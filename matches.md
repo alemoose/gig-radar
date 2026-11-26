@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 12:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 12:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,11 +30,6 @@ Updated 2026-11-26 12:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
-- [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
-  We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
-  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
   Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
   Fit: 17 | explicit hiring intent
@@ -70,6 +65,11 @@ Updated 2026-11-26 12:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Title: ML Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desire The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance...
+- [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
+  We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
+  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Augment: Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081)  
   Remote OK | posted Nov 24 08:00 UTC | score 3 | google sheets, saas, ai
   Fit: 11 | explicit hiring intent
