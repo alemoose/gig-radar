@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 02:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 02:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -45,11 +45,6 @@ Updated 2026-11-26 02:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Title: STEM Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves solving, reviewing, and validating challenging problems within your area of expertise. A representative task may require analyzing a scientific or mathematical problem, developing a rigorous solution, using Python to perform calculations or simulations, and evaluating whether an AI-generated answer is technically correct. This is a very coding heavy role. Candidates but have experience using c...
-- [G2i Inc.: Senior Software Engineer, AI Training](https://himalayas.app/companies/g2i-inc/jobs/senior-software-engineer-ai-training-7373703440)  
-  Himalayas | posted Nov 23 02:02 UTC | score 9 | **USD 100 to 200/hourly** | javascript, typescript, agents, claude, openai, prompt
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone); seniority requirement needs review
-  > Contract | Remote, worldwide | $100-$200/hour depending on experience and location | 10-20 hrs/week Please note that eligibility may vary depending on your location, as some regions may not be supported by the client. Check out this Loom video for more details: We're looking for highly experienced software engineer (SR+) to help evaluate the quality of interactions with modern coding agents such as OpenAI Codex and Claude Code. This is not a traditional engineering role. You won't be writing production code. You'll be evaluating something harder: whether the model thinks like a great engine...
 - [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
   Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
   Fit: 16 | budget stated, verify scope and currency
