@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 08:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 08:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -55,6 +55,11 @@ Updated 2026-11-26 08:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
+- [Dun & Bradstreet: Client Success Manager, Chicago/Midwest (R-20152)](https://remoteOK.com/remote-jobs/remote-client-success-manager-chicago-midwest-r-20152-dun-bradstreet-1138114)  
+  Remote OK | posted Nov 25 08:40 UTC | score 3 | **$78,400 to $131,700/yr** | automation, workflow, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > customer support Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, businesses have trusted us to turn uncertainty into opportunity. Weâre a diverse, global team that values creativity, collaboration, and bold ideas. Are you ready to make an impact and help shape whatâs next? Join us! Explore opportunities atÂ dnb.com/careers. he Client Success Manager is the primary point of responsibi...
 - [Xperteez Technology: Hardware Expert, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract-7607846693)  
   Himalayas | posted Nov 24 03:46 UTC | score 3 | **USD 60 to 120/hourly** | automation, agents, python
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
