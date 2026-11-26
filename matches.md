@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 17:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 18:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-26 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | 
   Check: budget unknown; check eligibility: United States
   > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
-- [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
-  Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
-  Fit: 17 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
 - [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
   Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -65,6 +60,11 @@ Updated 2026-11-26 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
+- [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
+  Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
 - [Augment: Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081)  
   Remote OK | posted Nov 24 08:00 UTC | score 3 | google sheets, saas, ai
   Fit: 11 | explicit hiring intent
