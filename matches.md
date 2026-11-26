@@ -1,15 +1,30 @@
 # Gig radar
 
-Updated 2026-11-26 21:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 22:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [EcomSEO: AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam)  
+  Himalayas | posted Nov 26 20:55 UTC | score 6 | **USD 1500 to 2500/monthly** | automation, claude, zapier, n8n, ai
+  Fit: 28 | posted within 6 hours; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > EcomSEO is an SEO agency for Shopify DTC brands. Akravo is a link-building and SEO agency. Both are led by Fabian van Til. We run on a small team, AI tools and automation, and we publish what works. The role: You will run social media for both brands, with a focus on founder-led content in Fabian’s voice. You will own LinkedIn, X and YouTube: planning, writing, producing, publishing and reporting. You will use AI to make this fast, and you will build the workflows that make it repeatable. Each week you will ship about 24 posts across LinkedIn and X, 3 to 4 YouTube Shorts and 1 long-form You...
+- [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
+  Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
+  Fit: 23 | posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Shopify Web Developer Position Type: Part-Time, Remote Working Hours: U.S. Time-Zone HoursAbout the Role We are looking for an experienced Shopify Web Developer to build, maintain, and optimize custom Shopify and Shopify Plus storefronts across multiple e-commerce brands. This is a hands-on development role focused on Shopify Liquid, front-end development, responsive UI/UX, performance optimization, SEO, and Shopify app integrations. You’ll work closely with the development and strategy teams while using modern AI-assisted tools to improve development efficiency and quality.What You’ll OwnS...
 - [Reddit: Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093)  
   Remote OK | posted Nov 24 10:52 UTC | score 11 | **$190,800** | typescript, workflow, agents, python, react, llm
   Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you...
+- [Brainrider: Marketing Automation Specialist](https://himalayas.app/companies/brainrider/jobs/marketing-automation-specialist)  
+  Himalayas | posted Nov 26 17:45 UTC | score 3 | **USD 84000 to 114000/annual** | automation, javascript
+  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Brainrider is a marketing and creative agency with teams in Menlo Park/San Francisco, Los Angeles, Seattle, New York City, London, and Toronto. We work with ambitious marketers, in-house creative teams, and internal agencies to do more, by filling capability and capacity gaps and enabling them to execute their marketing and creative at scale. We believe collaboration is at its best when we feel at home, so we work as a team — plain and simple. Whether we’re brainstorming better marketing ideas for our clients, or pushing the gas to meet a tight deadline, it all happens with adaptability, op...
 - [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
   Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -50,6 +65,11 @@ Updated 2026-11-26 21:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Title: ML Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desire The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance...
+- [emocha Mobile Health Inc.: Senior Customer Support Specialist - Temporary](https://himalayas.app/companies/emocha-mobile-health-inc/jobs/senior-customer-support-specialist-temporary)  
+  Himalayas | posted Nov 26 10:31 UTC | score 4 | **$500** | automation, mobile app, automate, saas
+  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; check eligibility: United States; seniority requirement needs review
+  > About Scene Health Scene’s 360° model of care enhances the gold standard of medication adherence, Directly Observed Therapy. Combining personalized video coaching, education, and motivational content, we bring healthcare professionals, patients, and their families together to solve the $500B medication non-adherence problem. Our mobile app allows patients to connect with a care team of pharmacists, nurses, and health coaches through daily video check-ins, anytime and anywhere. We make it fun for patients to stay on top of their medications, help them address medication challenges, and empow...
 - [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
   We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
