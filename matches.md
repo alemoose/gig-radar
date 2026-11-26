@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 18:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 18:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -40,11 +40,6 @@ Updated 2026-11-26 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We...
-- [Wrike: Senior Professional Services Consultant](https://weworkremotely.com/remote-jobs/wrike-senior-professional-services-consultant)  
-  We Work Remotely | posted Nov 23 18:31 UTC | score 8 | **$40** | automation, automate, workflow, saas, ai, problem: spreadsheet automation
-  Fit: 15 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Lean Marketing: Marketing Coordinator - 2HourGlass](https://himalayas.app/companies/lean-marketing/jobs/marketing-coordinator-2hourglass-637384802)  
   Himalayas | posted Nov 25 13:10 UTC | score 5 | **USD 25 to 35/hourly** | google sheets, airtable, chatgpt, claude, ai
   Fit: 14 | budget stated, verify scope and currency
@@ -95,11 +90,6 @@ Updated 2026-11-26 18:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Associate, Payment Integrity Hi, we're Oscar. We're hiring an Associate, Payment Integrity to join our Payment Integrity Support team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselvesâone that behaves like a doctor in the family. About the role: This role acts as a bridge from tactical maintenance to cross-functional reconciliation, focusing heavily on the Pre Pay environment. This Associate...
-- [Maven Clinic: Manager, Payments & Reconciliation](https://weworkremotely.com/remote-jobs/maven-clinic-manager-payments-reconciliation)  
-  We Work Remotely | posted Nov 23 18:31 UTC | score 3 | **$425** | automate, claude, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
 - [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
   Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
   Fit: 3 | API connection; explicit hiring intent
