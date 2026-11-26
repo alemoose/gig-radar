@@ -1,15 +1,10 @@
 # Gig radar
 
-Updated 2026-11-26 16:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 17:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
-  We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a QA / Test Engineer to join our CMS team, making sure a modern claims platform and its integrations give the same trusted results as th...
 - [Reddit: Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093)  
   Remote OK | posted Nov 24 10:52 UTC | score 11 | **$190,800** | typescript, workflow, agents, python, react, llm
   Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
@@ -30,6 +25,11 @@ Updated 2026-11-26 16:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Mathematics Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active.Required Skills: Mathematics Python Programming Languages Research Applied Math We are looking for highly skilled Mathematics Experts to contribute to an AI training project involving advanced mathematical problem-solving, computational mathematics, numerical methods, and Python. The work involves creating, solving, reviewing, and validating mathematical tasks that can be co...
+- [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
+  We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified
+  > Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a QA / Test Engineer to join our CMS team, making sure a modern claims platform and its integrations give the same trusted results as th...
 - [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
   Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
