@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 16:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 16:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -80,11 +80,6 @@ Updated 2026-11-26 16:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
-- [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
-  Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
-  Fit: 10 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
 - [Bounteous: SEO - Manager](https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148)  
   Remote OK | posted Nov 25 14:20 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
   Fit: 7 | explicit hiring intent
