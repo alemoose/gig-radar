@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 15:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 15:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,11 +30,6 @@ Updated 2026-11-26 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role Title: Mathematics Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active.Required Skills: Mathematics Python Programming Languages Research Applied Math We are looking for highly skilled Mathematics Experts to contribute to an AI training project involving advanced mathematical problem-solving, computational mathematics, numerical methods, and Python. The work involves creating, solving, reviewing, and validating mathematical tasks that can be co...
-- [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
-  Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
 - [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
   Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -80,6 +75,11 @@ Updated 2026-11-26 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
+- [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
+  Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
+  Fit: 10 | budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
 - [mercor: Materials Science PhD - AI Evaluator](https://himalayas.app/companies/mercor/jobs/materials-science-phd-ai-evaluator-4462302514)  
   Himalayas | posted Nov 23 16:06 UTC | score 3 | **USD 70 to 70/hourly** | python, ai
   Fit: 10 | budget stated, verify scope and currency
