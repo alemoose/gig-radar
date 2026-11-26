@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 14:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 14:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -85,6 +85,11 @@ Updated 2026-11-26 14:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
+- [Bounteous: SEO - Manager](https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148)  
+  Remote OK | posted Nov 25 14:20 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
+  Fit: 7 | explicit hiring intent
+  Check: budget unknown; seniority requirement needs review
+  > marketing Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manage...
 - [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
   We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
