@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 13:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 13:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-26 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a QA / Test Engineer to join our CMS team, making sure a modern claims platform and its integrations give the same trusted results as th...
-- [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
-  Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 500 million premium business documents — including equity research, earnings calls, expert interviews, filings, news, and internal proprietary content. Purpose-built for speed, accuracy, and enterprise-grade security, AlphaSense helps teams extract critical insights, uncover market-moving trends, a...
 - [Reddit: Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093)  
   Remote OK | posted Nov 24 10:52 UTC | score 11 | **$190,800** | typescript, workflow, agents, python, react, llm
   Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
@@ -25,11 +20,6 @@ Updated 2026-11-26 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | 
   Check: budget unknown; check eligibility: United States
   > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
-- [Lean Marketing: Marketing Coordinator - 2HourGlass](https://himalayas.app/companies/lean-marketing/jobs/marketing-coordinator-2hourglass-637384802)  
-  Himalayas | posted Nov 25 13:10 UTC | score 5 | **USD 25 to 35/hourly** | google sheets, airtable, chatgpt, claude, ai
-  Fit: 20 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
 - [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
   Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
   Fit: 17 | explicit hiring intent
@@ -45,6 +35,11 @@ Updated 2026-11-26 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
+- [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
+  Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 500 million premium business documents — including equity research, earnings calls, expert interviews, filings, news, and internal proprietary content. Purpose-built for speed, accuracy, and enterprise-grade security, AlphaSense helps teams extract critical insights, uncover market-moving trends, a...
 - [Dun & Bradstreet: Client Success Manager, Chicago/Midwest (R-20152)](https://remoteOK.com/remote-jobs/remote-client-success-manager-chicago-midwest-r-20152-dun-bradstreet-1138114)  
   Remote OK | posted Nov 25 08:40 UTC | score 3 | **$78,400 to $131,700/yr** | automation, workflow, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -60,6 +55,11 @@ Updated 2026-11-26 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
+- [Lean Marketing: Marketing Coordinator - 2HourGlass](https://himalayas.app/companies/lean-marketing/jobs/marketing-coordinator-2hourglass-637384802)  
+  Himalayas | posted Nov 25 13:10 UTC | score 5 | **USD 25 to 35/hourly** | google sheets, airtable, chatgpt, claude, ai
+  Fit: 14 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
 - [Xperteez Technology: ML Engineer, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-1794009161)  
   Himalayas | posted Nov 24 06:03 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
   Fit: 14 | budget stated, verify scope and currency
