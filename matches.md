@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 12:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 12:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -100,11 +100,6 @@ Updated 2026-11-26 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: Remote Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health plans to provide end-to-end women's and family health programs spanning fertility and family building, maternity and newborn care, parenting and pediatrics, and menopause and midlife — improving clinical outcomes, reducing healthcare costs, and expanding equitable access to high-quality care at scale. Through its consumer platform, Maven provides direct acces...
-- [StarTree: Technical Support Engineer](https://himalayas.app/companies/startree/jobs/technical-support-engineer)  
-  Himalayas | posted Nov 25 12:27 UTC | score 4 | full stack, stripe, vector, ai
-  Fit: 4 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > At StarTree we're a group of passionate individuals that desire to improve the lives of many by developing tools and technologies that support availability and speed in the world of real-time analytics. Our aim is to make it simple for every company to delight their users - external and internal - and create new revenue streams from their data, by building the world’s most comprehensive and accessible cloud analytics system. About the Role Support is a cornerstone of success at StarTree and a highly valued function within the organization. As a Technical Support Engineer, you will become a...
 - [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
   Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
   Fit: 3 | API connection; explicit hiring intent
@@ -125,6 +120,11 @@ Updated 2026-11-26 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: -1 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
+- [StarTree: Technical Support Engineer](https://himalayas.app/companies/startree/jobs/technical-support-engineer)  
+  Himalayas | posted Nov 25 12:27 UTC | score 4 | full stack, stripe, vector, ai
+  Fit: -2 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > At StarTree we're a group of passionate individuals that desire to improve the lives of many by developing tools and technologies that support availability and speed in the world of real-time analytics. Our aim is to make it simple for every company to delight their users - external and internal - and create new revenue streams from their data, by building the world’s most comprehensive and accessible cloud analytics system. About the Role Support is a cornerstone of success at StarTree and a highly valued function within the organization. As a Technical Support Engineer, you will become a...
 - [mercor: AI Red Team Specialist - Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-red-team-specialist-remote-upto-25-hr-7595308677)  
   Himalayas | posted Nov 24 21:23 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
   Fit: -3 | budget stated, verify scope and currency
