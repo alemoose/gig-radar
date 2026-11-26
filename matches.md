@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 19:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 20:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,11 +10,6 @@ Updated 2026-11-26 19:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you...
-- [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
-  Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
-  Fit: 20 | 
-  Check: budget unknown; check eligibility: United States
-  > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
 - [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
   Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
   Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
@@ -40,6 +35,11 @@ Updated 2026-11-26 19:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We...
+- [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
+  Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
+  Fit: 14 | 
+  Check: budget unknown; check eligibility: United States
+  > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
 - [Lean Marketing: Marketing Coordinator - 2HourGlass](https://himalayas.app/companies/lean-marketing/jobs/marketing-coordinator-2hourglass-637384802)  
   Himalayas | posted Nov 25 13:10 UTC | score 5 | **USD 25 to 35/hourly** | google sheets, airtable, chatgpt, claude, ai
   Fit: 14 | budget stated, verify scope and currency
@@ -65,11 +65,6 @@ Updated 2026-11-26 19:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown
   > analyst saas recruiter customer support marketing exec finance admin ops excel legal sales medical About Augment Logistics is broken. Let's fix it. We are a team of engineers, product designers, and customer champions building Augie, Augment's AI teammate for supply chain. Augie reasons and acts like a seasoned operator, automating the busywork of quoting, dispatch, tracking, billing, and more for freight brokers, 3PLs, for-hire carriers, private fleets, and distributors. Our team has scaled billion-dollar companies, built delightful products, and powered billions in commerce. If you thrive...
-- [Leidos: Program Analyst](https://himalayas.app/companies/leidos/jobs/program-analyst)  
-  Himalayas | posted Nov 23 19:47 UTC | score 6 | **USD 82550 to 149225/annual** | problem: website build, problem: data collection
-  Fit: 11 | website build; data collection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Program Analyst – FAA Program Support (Remote, Part-Time) Make an Impact with Leidos! Looking for a flexible, part-time opportunity where your analytical and organizational skills can make a difference? Leidos is seeking a highly organized, detail-oriented Program Analyst to join our NISC IV team supporting the Federal Aviation Administration (FAA) Infrastructure Services Group (AJW-112). In this remote, part-time role, you'll play an important part in supporting business operations, program reporting, contract data management, acquisition activities, and process improvements that help keep...
 - [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
   Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
   Fit: 10 | budget stated, verify scope and currency
