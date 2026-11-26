@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 06:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -30,6 +30,11 @@ Updated 2026-11-26 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 20 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
+- [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
+  We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
+  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
   Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
   Fit: 17 | explicit hiring intent
@@ -65,11 +70,6 @@ Updated 2026-11-26 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Job Title: ML Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desire The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance...
-- [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
-  We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: San Francisco, CA or Remote (U.S.) Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. This role can be filled in the Nort...
 - [Augment: Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081)  
   Remote OK | posted Nov 24 08:00 UTC | score 3 | google sheets, saas, ai
   Fit: 11 | explicit hiring intent
@@ -85,6 +85,11 @@ Updated 2026-11-26 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: Material Science PhD Coding Experts Type:Contract Compensation:$70/hour Location:Remote Duration:6 weeks Commitment:20+ hours/weekRole Responsibilities Source material from published papers, Kaggle datasets, open-source repositories, or designed scenarios. Write scientific prompts based on sourced input to challenge AI models. Build grading crit...
+- [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
+  We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > Headquarters: San Francisco, CA or Remote (U.S.) Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. This role can be filled in the Nort...
 - [Oscar Health: Associate, Payment Integrity](https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090)  
   Remote OK | posted Nov 24 10:40 UTC | score 3 | **$85,199 - $111,823** | full stack, workflow, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
