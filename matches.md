@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-26 15:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-26 15:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,11 +110,6 @@ Updated 2026-11-26 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | API connection; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
-- [Planate Management Group: Sales and Marketing Consultant](https://himalayas.app/companies/planate-management-group/jobs/sales-and-marketing-consultant)  
-  Himalayas | posted Nov 25 15:42 UTC | score 3 | automation, saas, ai
-  Fit: 2 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > We are seeking a highly experienced Sales and Marketing Consultant to provide strategic leadership and advisory support in driving business development, revenue growth, and market expansion. The role will focus on identifying new business opportunities, developing a sustainable sales pipeline, strengthening client relationships, and implementing effective sales and marketing strategies to expand the organization's market presence and achieve its commercial objectives.Key Responsibilities Formulate and recommend strategic sales and marketing plans aligned with the organization's revenue, pro...
 - [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
   Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
   Fit: 1 | explicit hiring intent
@@ -135,3 +130,8 @@ Updated 2026-11-26 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: -3 | budget stated, verify scope and currency
   Check: hourly budget below preferred floor; check eligibility: United States
   > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Indonesian Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Ap...
+- [Planate Management Group: Sales and Marketing Consultant](https://himalayas.app/companies/planate-management-group/jobs/sales-and-marketing-consultant)  
+  Himalayas | posted Nov 25 15:42 UTC | score 3 | automation, saas, ai
+  Fit: -4 | 
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > We are seeking a highly experienced Sales and Marketing Consultant to provide strategic leadership and advisory support in driving business development, revenue growth, and market expansion. The role will focus on identifying new business opportunities, developing a sustainable sales pipeline, strengthening client relationships, and implementing effective sales and marketing strategies to expand the organization's market presence and achieve its commercial objectives.Key Responsibilities Formulate and recommend strategic sales and marketing plans aligned with the organization's revenue, pro...
