@@ -1,15 +1,50 @@
 # Gig radar
 
-Updated 2026-11-27 21:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 22:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
+- [Xperteez Technology: Sr. Full-Stack Software Engineer | Global, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-global-remote-contract)  
+  Himalayas | posted Nov 27 20:26 UTC | score 9 | **USD 50 to 100/hourly** | full-stack, javascript, typescript, workflow, node.js, python
+  Fit: 39 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role: Full-Stack Software Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired Required Skills: Python, React, Javascript, Java, Node.js, Rust, Golang, Typescript We are looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation. The work involves creating, solving, reviewing, and validating challenging software-engineering tasks...
+- [John Snow Labs: Healthcare Data Scientist (Remote, International)](https://himalayas.app/companies/john-snow-labs/jobs/healthcare-data-scientist-remote-international)  
+  Himalayas | posted Nov 27 15:09 UTC | score 9 | **USD 40 to 70/hourly** | fine-tune, langchain, claude, python, llm, ai
+  Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > You'll work on customer projects, where hospitals, payers and pharma companies use our software on their own data. Your work includes: Model training: fine-tune LLM and NLP models for entity extraction, assertion status and relation extraction on clinical notes, using Spark NLP for Healthcare and open-source Python libraries. Extraction pipelines: pull structured facts from clinical notes, pathology and radiology reports, scanned PDFs and DICOM images, and remove PHI from them. Data harmonization: map what you extract to the OMOP common data model, FHIR and clinical terminologies (SNOMED CT...
+- [Ascend Partners: Pigment Consultant (Contract)](https://himalayas.app/companies/ascend-partners/jobs/pigment-consultant-contract)  
+  Himalayas | posted Nov 27 17:41 UTC | score 7 | agents, claude, saas, ai, problem: API connection
+  Fit: 21 | API connection; posted within 6 hours; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Ascend Partners is the Diamond Standard in EPM Advisory & Delivery. From our headquarters in New York, NY, we work with finance, planning and data leaders across North America to choose, build and run the systems they depend on. Our experienced teams help clients close faster, plan with confidence and trust their numbers, on whichever platform best fits their needs. Ascend is a Pigment partner. Our Pigment practice applies the same delivery methodology behind our award-winning EPM work to Pigment’s AI-powered planning platform, helping finance teams replace spreadsheet-driven planning with...
+- [Xperteez Technology: AI Trainer (ML Engineering), Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-5241233149)  
+  Himalayas | posted Nov 27 14:14 UTC | score 3 | **USD 60 to 120/hourly** | python, ai
+  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role: AI Trainer (ML Engineering) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills: ML Engineering, AI Training, Programming skills You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On Create realistic machine learning engineering tasks that challenge advanced AI models. De...
 - [Ethena: Senior Accountant](https://remoteOK.com/remote-jobs/remote-senior-accountant-ethena-1138175)  
   Remote OK | posted Nov 26 08:20 UTC | score 10 | **$115,000 to $135,000/yr** | automation, automate, chatgpt, agents, claude, saas
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
+- [HigherRing: Client Specialist - Business Operations (Non-Profit & For Profit)](https://himalayas.app/companies/higherring/jobs/client-specialist-business-operations-non-profit-for-profit)  
+  Himalayas | posted Nov 27 20:54 UTC | score 3 | **USD 29 to 31/hourly** | chatgpt, claude, ai
+  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp, climate-neutral, and a 1% for the Planet member. About the Role: Client Specialist - Business Operations (Non-Profit and For-Profit) Wage Information - $29.00-$31.00/hr ROLE Descript...
+- [Tangible: Support Engineer - AI-Driven (US Timezone)](https://himalayas.app/companies/tangible-markets/jobs/support-engineer-ai-driven-us-timezone)  
+  Himalayas | posted Nov 27 14:52 UTC | score 3 | saas, ai
+  Fit: 17 | explicit hiring intent
+  Check: budget unknown; check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
+  > Location: Fully Remote (ideally in the Americas) Coordination time: US timezone Employment Type: Contract Tangible is a fast-growing, tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space. By combining deep sector expertise with modern infrastructure, we unlock liquidity across private equity, private credit, and real assets, transforming the way secondary transactions are executed. We are looking for a smart, AI-native Support Engineer who operates at the intersection of product knowledge, client communication, and intelligent problem-so...
+- [Xperteez Technology: Zoho Desk Specialist, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/zoho-desk-specialist-remote-contract)  
+  Himalayas | posted Nov 27 15:36 UTC | score 3 | **USD 90 to 170/hourly** | automation, workflow, ai
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Role Title: Zoho Desk Specialist Role Type: Contract Location: Remote Required Skills: Zoho desk, Customer support, Help desk, Ticket management, Workflow automation, Customer service No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for experienced professionals with hands-on Zoho Desk knowledge who can demonstrate and document customer service workflows, ensuring accuracy and practical relevance for AI-driven solutions.Scope of Work Demonstrate and document end-to-end customer support workflows using Zoho Desk, including ticket creati...
 - [EcomSEO: AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam)  
   Himalayas | posted Nov 26 20:55 UTC | score 6 | **USD 1500 to 2500/monthly** | automation, claude, zapier, n8n, ai
   Fit: 16 | budget stated, verify scope and currency
