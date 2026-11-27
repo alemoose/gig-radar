@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 23:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 23:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-27 23:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > You'll work on customer projects, where hospitals, payers and pharma companies use our software on their own data. Your work includes: Model training: fine-tune LLM and NLP models for entity extraction, assertion status and relation extraction on clinical notes, using Spark NLP for Healthcare and open-source Python libraries. Extraction pipelines: pull structured facts from clinical notes, pathology and radiology reports, scanned PDFs and DICOM images, and remove PHI from them. Data harmonization: map what you extract to the OMOP common data model, FHIR and clinical terminologies (SNOMED CT...
-- [Ascend Partners: Pigment Consultant (Contract)](https://himalayas.app/companies/ascend-partners/jobs/pigment-consultant-contract)  
-  Himalayas | posted Nov 27 17:41 UTC | score 7 | agents, claude, saas, ai, problem: API connection
-  Fit: 21 | API connection; posted within 6 hours; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Ascend Partners is the Diamond Standard in EPM Advisory & Delivery. From our headquarters in New York, NY, we work with finance, planning and data leaders across North America to choose, build and run the systems they depend on. Our experienced teams help clients close faster, plan with confidence and trust their numbers, on whichever platform best fits their needs. Ascend is a Pigment partner. Our Pigment practice applies the same delivery methodology behind our award-winning EPM work to Pigment’s AI-powered planning platform, helping finance teams replace spreadsheet-driven planning with...
 - [Xperteez Technology: AI Trainer (ML Engineering), Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-5241233149)  
   Himalayas | posted Nov 27 14:14 UTC | score 3 | **USD 60 to 120/hourly** | python, ai
   Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
@@ -50,6 +45,11 @@ Updated 2026-11-27 23:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 16 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > EcomSEO is an SEO agency for Shopify DTC brands. Akravo is a link-building and SEO agency. Both are led by Fabian van Til. We run on a small team, AI tools and automation, and we publish what works. The role: You will run social media for both brands, with a focus on founder-led content in Fabian’s voice. You will own LinkedIn, X and YouTube: planning, writing, producing, publishing and reporting. You will use AI to make this fast, and you will build the workflows that make it repeatable. Each week you will ship about 24 posts across LinkedIn and X, 3 to 4 YouTube Shorts and 1 long-form You...
+- [Ascend Partners: Pigment Consultant (Contract)](https://himalayas.app/companies/ascend-partners/jobs/pigment-consultant-contract)  
+  Himalayas | posted Nov 27 17:41 UTC | score 7 | agents, claude, saas, ai, problem: API connection
+  Fit: 15 | API connection; explicit hiring intent
+  Check: budget unknown; check eligibility: United States; seniority requirement needs review
+  > Ascend Partners is the Diamond Standard in EPM Advisory & Delivery. From our headquarters in New York, NY, we work with finance, planning and data leaders across North America to choose, build and run the systems they depend on. Our experienced teams help clients close faster, plan with confidence and trust their numbers, on whichever platform best fits their needs. Ascend is a Pigment partner. Our Pigment practice applies the same delivery methodology behind our award-winning EPM work to Pigment’s AI-powered planning platform, helping finance teams replace spreadsheet-driven planning with...
 - [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
   We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
