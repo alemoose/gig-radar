@@ -1,13 +1,13 @@
 # Gig radar
 
-Updated 2026-11-27 02:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 03:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
 - [EcomSEO: AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam)  
   Himalayas | posted Nov 26 20:55 UTC | score 6 | **USD 1500 to 2500/monthly** | automation, claude, zapier, n8n, ai
-  Fit: 28 | posted within 6 hours; budget stated, verify scope and currency
+  Fit: 22 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > EcomSEO is an SEO agency for Shopify DTC brands. Akravo is a link-building and SEO agency. Both are led by Fabian van Til. We run on a small team, AI tools and automation, and we publish what works. The role: You will run social media for both brands, with a focus on founder-led content in Fabian’s voice. You will own LinkedIn, X and YouTube: planning, writing, producing, publishing and reporting. You will use AI to make this fast, and you will build the workflows that make it repeatable. Each week you will ship about 24 posts across LinkedIn and X, 3 to 4 YouTube Shorts and 1 long-form You...
 - [Reddit: Senior Software Engineer, AI & Science Platform](https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093)  
