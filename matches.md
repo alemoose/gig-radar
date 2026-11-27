@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 03:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 04:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -40,11 +40,6 @@ Updated 2026-11-27 03:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > customer support Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, businesses have trusted us to turn uncertainty into opportunity. Weâre a diverse, global team that values creativity, collaboration, and bold ideas. Are you ready to make an impact and help shape whatâs next? Join us! Explore opportunities atÂ dnb.com/careers. he Client Success Manager is the primary point of responsibi...
-- [Xperteez Technology: Hardware Expert, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/hardware-expert-remote-contract-7607846693)  
-  Himalayas | posted Nov 24 03:46 UTC | score 3 | **USD 60 to 120/hourly** | automation, agents, python
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired In this role, you will use your technical expertise to create, solve, and evaluate engineering challenges that require sound judgment, quantitative reasoning, and reproducible answers. We are looking for engineers who have personally owned meaningful technical work—such as taking a hardware system into production, validating a model against test data, developing a rigorous verification approach, or diagnosing a difficult failure. We...
 - [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
   Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
   Fit: 14 | 
@@ -65,6 +60,11 @@ Updated 2026-11-27 03:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; check eligibility: United States; seniority requirement needs review
   > About Scene Health Scene’s 360° model of care enhances the gold standard of medication adherence, Directly Observed Therapy. Combining personalized video coaching, education, and motivational content, we bring healthcare professionals, patients, and their families together to solve the $500B medication non-adherence problem. Our mobile app allows patients to connect with a care team of pharmacists, nurses, and health coaches through daily video check-ins, anytime and anywhere. We make it fun for patients to stay on top of their medications, help them address medication challenges, and empow...
+- [Welo Data: Brazilian Subject Matter Expert in Games, Puzzles & Play](https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-games-puzzles-play-welo-data-1138162)  
+  Remote OK | posted Nov 26 04:00 UTC | score 4 | gemini, prompt, llm, ai
+  Fit: 13 | explicit hiring intent
+  Check: budget unknown
+  > marketing About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. WeloÂ GlobalâsÂ fiveÂ brandsâWelocalizeÂ (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services forÂ law firms and...
 - [Welo Data: Brazilian Subject Matter Expert in Home & Garden](https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-home-garden-welo-data-1138161)  
   Remote OK | posted Nov 26 03:40 UTC | score 4 | gemini, prompt, llm, ai
   Fit: 13 | explicit hiring intent
