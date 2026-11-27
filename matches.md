@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 21:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 21:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,11 +110,6 @@ Updated 2026-11-27 21:15 UTC. Projects first, ranked by fit and freshness.
   Fit: -2 | 
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > At StarTree we're a group of passionate individuals that desire to improve the lives of many by developing tools and technologies that support availability and speed in the world of real-time analytics. Our aim is to make it simple for every company to delight their users - external and internal - and create new revenue streams from their data, by building the world’s most comprehensive and accessible cloud analytics system. About the Role Support is a cornerstone of success at StarTree and a highly valued function within the organization. As a Technical Support Engineer, you will become a...
-- [mercor: AI Red Team Specialist - Remote | Upto $25/hr](https://himalayas.app/companies/mercor/jobs/ai-red-team-specialist-remote-upto-25-hr-7595308677)  
-  Himalayas | posted Nov 24 21:23 UTC | score 4 | **USD 17 to 25/hourly** | agents, prompt, ai
-  Fit: -3 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > About the job Mercor connects elite creative and technical talent with leading AI research labs. Headquartered in San Francisco, our investors include Benchmark, General Catalyst, Peter Thiel, Adam D'Angelo, Larry Summers, and Jack Dorsey. Position: AI Safety Experts — English & Indonesian Type:Contract Compensation:$17–$25/hour Location:RemoteRole Responsibilities Red team conversational AI models and agents. Focus on jailbreaks, prompt injections, misuse cases, and bias exploitation. Generate high-quality human data. Annotate failures, classify vulnerabilities, and flag systemic risks. Ap...
 - [Planate Management Group: Sales and Marketing Consultant](https://himalayas.app/companies/planate-management-group/jobs/sales-and-marketing-consultant)  
   Himalayas | posted Nov 25 15:42 UTC | score 3 | automation, saas, ai
   Fit: -4 | 
