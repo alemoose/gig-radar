@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 06:01 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-27 06:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Shopify Web Developer Position Type: Part-Time, Remote Working Hours: U.S. Time-Zone HoursAbout the Role We are looking for an experienced Shopify Web Developer to build, maintain, and optimize custom Shopify and Shopify Plus storefronts across multiple e-commerce brands. This is a hands-on development role focused on Shopify Liquid, front-end development, responsive UI/UX, performance optimization, SEO, and Shopify app integrations. You’ll work closely with the development and strategy teams while using modern AI-assisted tools to improve development efficiency and quality.What You’ll OwnS...
-- [Xperteez Technology: 🌍 Mathematics Expert, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/mathematics-expert-remote-contract)  
-  Himalayas | posted Nov 24 06:14 UTC | score 4 | **USD 60 to 120/hourly** | automate, workflow, python, ai
-  Fit: 17 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role Title: Mathematics Expert Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you can choose the hours and days you work, including weekends if desired as long as you're active.Required Skills: Mathematics Python Programming Languages Research Applied Math We are looking for highly skilled Mathematics Experts to contribute to an AI training project involving advanced mathematical problem-solving, computational mathematics, numerical methods, and Python. The work involves creating, solving, reviewing, and validating mathematical tasks that can be co...
 - [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
   We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -50,11 +45,6 @@ Updated 2026-11-27 06:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
-- [Xperteez Technology: ML Engineer, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/ml-engineer-remote-contract-1794009161)  
-  Himalayas | posted Nov 24 06:03 UTC | score 5 | **USD 60 to 120/hourly** | workflow, agents, python, rag, ai
-  Fit: 14 | budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Job Title: ML Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desire The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance...
 - [emocha Mobile Health Inc.: Senior Customer Support Specialist - Temporary](https://himalayas.app/companies/emocha-mobile-health-inc/jobs/senior-customer-support-specialist-temporary)  
   Himalayas | posted Nov 26 10:31 UTC | score 4 | **$500** | automation, mobile app, automate, saas
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
@@ -80,11 +70,6 @@ Updated 2026-11-27 06:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > Brainrider is a marketing and creative agency with teams in Menlo Park/San Francisco, Los Angeles, Seattle, New York City, London, and Toronto. We work with ambitious marketers, in-house creative teams, and internal agencies to do more, by filling capability and capacity gaps and enabling them to execute their marketing and creative at scale. We believe collaboration is at its best when we feel at home, so we work as a team — plain and simple. Whether we’re brainstorming better marketing ideas for our clients, or pushing the gas to meet a tight deadline, it all happens with adaptability, op...
-- [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
-  We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
-  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
   Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
   Fit: 11 | explicit hiring intent
@@ -105,6 +90,11 @@ Updated 2026-11-27 06:01 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > marketing Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manage...
+- [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
+  We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
 - [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
   We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
