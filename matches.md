@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 04:19 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 04:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -60,6 +60,11 @@ Updated 2026-11-27 04:19 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; check eligibility: United States; seniority requirement needs review
   > About Scene Health Scene’s 360° model of care enhances the gold standard of medication adherence, Directly Observed Therapy. Combining personalized video coaching, education, and motivational content, we bring healthcare professionals, patients, and their families together to solve the $500B medication non-adherence problem. Our mobile app allows patients to connect with a care team of pharmacists, nurses, and health coaches through daily video check-ins, anytime and anywhere. We make it fun for patients to stay on top of their medications, help them address medication challenges, and empow...
+- [Welo Data: Brazilian Subject Matter Expert in Fandoms (Music, Pop, Disney & Political Memes)](https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-fandoms-music-pop-disney-political-memes-welo-data-1138163)  
+  Remote OK | posted Nov 26 04:20 UTC | score 4 | gemini, prompt, llm, ai
+  Fit: 13 | explicit hiring intent
+  Check: budget unknown
+  > marketing About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. WeloÂ GlobalâsÂ fiveÂ brandsâWelocalizeÂ (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services forÂ law firms and...
 - [Welo Data: Brazilian Subject Matter Expert in Games, Puzzles & Play](https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-games-puzzles-play-welo-data-1138162)  
   Remote OK | posted Nov 26 04:00 UTC | score 4 | gemini, prompt, llm, ai
   Fit: 13 | explicit hiring intent
