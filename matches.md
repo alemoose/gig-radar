@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 10:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 10:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -40,6 +40,11 @@ Updated 2026-11-27 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > customer support Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, businesses have trusted us to turn uncertainty into opportunity. Weâre a diverse, global team that values creativity, collaboration, and bold ideas. Are you ready to make an impact and help shape whatâs next? Join us! Explore opportunities atÂ dnb.com/careers. he Client Success Manager is the primary point of responsibi...
+- [Paxos: Senior Application Security Engineer](https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer)  
+  We Work Remotely | posted Nov 27 10:40 UTC | score 6 | automation, typescript, automate, workflow, python, ai
+  Fit: 14 | posted within 6 hours
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: Remote - United States Applying to Paxos? Our only careers site is paxos.com/careers, and we only recruit via @paxos.com email. Details below. ___ About Paxos Today’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles asset...
 - [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
   Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
   Fit: 14 | 
@@ -50,11 +55,6 @@ Updated 2026-11-27 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 14 | budget stated, verify scope and currency
   Check: check eligibility: United States
   > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
-- [emocha Mobile Health Inc.: Senior Customer Support Specialist - Temporary](https://himalayas.app/companies/emocha-mobile-health-inc/jobs/senior-customer-support-specialist-temporary)  
-  Himalayas | posted Nov 26 10:31 UTC | score 4 | **$500** | automation, mobile app, automate, saas
-  Fit: 13 | explicit hiring intent; budget stated, verify scope and currency
-  Check: low budget: lock scope in writing, 50% upfront; check eligibility: United States; seniority requirement needs review
-  > About Scene Health Scene’s 360° model of care enhances the gold standard of medication adherence, Directly Observed Therapy. Combining personalized video coaching, education, and motivational content, we bring healthcare professionals, patients, and their families together to solve the $500B medication non-adherence problem. Our mobile app allows patients to connect with a care team of pharmacists, nurses, and health coaches through daily video check-ins, anytime and anywhere. We make it fun for patients to stay on top of their medications, help them address medication challenges, and empow...
 - [Welo Data: Brazilian Subject Matter Expert in Fandoms (Music, Pop, Disney & Political Memes)](https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-fandoms-music-pop-disney-political-memes-welo-data-1138163)  
   Remote OK | posted Nov 26 04:20 UTC | score 4 | gemini, prompt, llm, ai
   Fit: 13 | explicit hiring intent
@@ -85,6 +85,11 @@ Updated 2026-11-27 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
+- [emocha Mobile Health Inc.: Senior Customer Support Specialist - Temporary](https://himalayas.app/companies/emocha-mobile-health-inc/jobs/senior-customer-support-specialist-temporary)  
+  Himalayas | posted Nov 26 10:31 UTC | score 4 | **$500** | automation, mobile app, automate, saas
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; check eligibility: United States; seniority requirement needs review
+  > About Scene Health Scene’s 360° model of care enhances the gold standard of medication adherence, Directly Observed Therapy. Combining personalized video coaching, education, and motivational content, we bring healthcare professionals, patients, and their families together to solve the $500B medication non-adherence problem. Our mobile app allows patients to connect with a care team of pharmacists, nurses, and health coaches through daily video check-ins, anytime and anywhere. We make it fun for patients to stay on top of their medications, help them address medication challenges, and empow...
 - [Bounteous: SEO - Manager](https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148)  
   Remote OK | posted Nov 25 14:20 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
   Fit: 7 | explicit hiring intent
@@ -100,11 +105,6 @@ Updated 2026-11-27 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > Headquarters: San Francisco, CA or Remote (U.S.) Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. This role can be filled in the Nort...
-- [Oscar Health: Associate, Payment Integrity](https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090)  
-  Remote OK | posted Nov 24 10:40 UTC | score 3 | **$85,199 - $111,823** | full stack, workflow, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > programming Associate, Payment Integrity Hi, we're Oscar. We're hiring an Associate, Payment Integrity to join our Payment Integrity Support team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselvesâone that behaves like a doctor in the family. About the role: This role acts as a bridge from tactical maintenance to cross-functional reconciliation, focusing heavily on the Pre Pay environment. This Associate...
 - [agiloft: Partner Solution Architect, Partner Center of Excellence](https://remoteOK.com/remote-jobs/remote-partner-solution-architect-partner-center-of-excellence-agiloft-1138172)  
   Remote OK | posted Nov 26 07:20 UTC | score 3 | workflow, llm, ai
   Fit: 1 | small scope signal
