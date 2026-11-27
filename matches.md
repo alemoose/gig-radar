@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 16:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 16:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -35,11 +35,6 @@ Updated 2026-11-27 16:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > customer support Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, businesses have trusted us to turn uncertainty into opportunity. Weâre a diverse, global team that values creativity, collaboration, and bold ideas. Are you ready to make an impact and help shape whatâs next? Join us! Explore opportunities atÂ dnb.com/careers. he Client Success Manager is the primary point of responsibi...
-- [Paxos: Senior Application Security Engineer](https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer)  
-  We Work Remotely | posted Nov 27 10:40 UTC | score 6 | automation, typescript, automate, workflow, python, ai
-  Fit: 14 | posted within 6 hours
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: Remote - United States Applying to Paxos? Our only careers site is paxos.com/careers, and we only recruit via @paxos.com email. Details below. ___ About Paxos Today’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles asset...
 - [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
   Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
   Fit: 14 | 
@@ -80,6 +75,11 @@ Updated 2026-11-27 16:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
+- [Paxos: Senior Application Security Engineer](https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer)  
+  We Work Remotely | posted Nov 27 10:40 UTC | score 6 | automation, typescript, automate, workflow, python, ai
+  Fit: 8 | 
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: Remote - United States Applying to Paxos? Our only careers site is paxos.com/careers, and we only recruit via @paxos.com email. Details below. ___ About Paxos Today’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles asset...
 - [emocha Mobile Health Inc.: Senior Customer Support Specialist - Temporary](https://himalayas.app/companies/emocha-mobile-health-inc/jobs/senior-customer-support-specialist-temporary)  
   Himalayas | posted Nov 26 10:31 UTC | score 4 | **$500** | automation, mobile app, automate, saas
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -105,11 +105,6 @@ Updated 2026-11-27 16:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | small scope signal
   Check: budget unknown; seniority requirement needs review
   > programming As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations...
-- [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
-  Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
-  Fit: 1 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
 - [StarTree: Technical Support Engineer](https://himalayas.app/companies/startree/jobs/technical-support-engineer)  
   Himalayas | posted Nov 25 12:27 UTC | score 4 | full stack, stripe, vector, ai
   Fit: -2 | 
