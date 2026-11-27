@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 07:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 08:01 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -75,11 +75,6 @@ Updated 2026-11-27 07:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
-- [Augment: Revenue Operations Analyst](https://remoteOK.com/remote-jobs/remote-revenue-operations-analyst-augment-1138081)  
-  Remote OK | posted Nov 24 08:00 UTC | score 3 | google sheets, saas, ai
-  Fit: 11 | explicit hiring intent
-  Check: budget unknown
-  > analyst saas recruiter customer support marketing exec finance admin ops excel legal sales medical About Augment Logistics is broken. Let's fix it. We are a team of engineers, product designers, and customer champions building Augie, Augment's AI teammate for supply chain. Augie reasons and acts like a seasoned operator, automating the busywork of quoting, dispatch, tracking, billing, and more for freight brokers, 3PLs, for-hire carriers, private fleets, and distributors. Our team has scaled billion-dollar companies, built delightful products, and powered billions in commerce. If you thrive...
 - [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
   Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
   Fit: 10 | budget stated, verify scope and currency
@@ -105,11 +100,6 @@ Updated 2026-11-27 07:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Associate, Payment Integrity Hi, we're Oscar. We're hiring an Associate, Payment Integrity to join our Payment Integrity Support team. Oscar is the first health insurance company built around a full stack technology platform and a relentless focus on serving our members. We started Oscar in 2012 to create the kind of health insurance company we would want for ourselvesâone that behaves like a doctor in the family. About the role: This role acts as a bridge from tactical maintenance to cross-functional reconciliation, focusing heavily on the Pre Pay environment. This Associate...
-- [Exafluence: API Architect](https://himalayas.app/companies/exafluence/jobs/api-architect)  
-  Himalayas | posted Nov 24 07:50 UTC | score 4 | automation, problem: API connection
-  Fit: 3 | API connection; explicit hiring intent
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
 - [agiloft: Partner Solution Architect, Partner Center of Excellence](https://remoteOK.com/remote-jobs/remote-partner-solution-architect-partner-center-of-excellence-agiloft-1138172)  
   Remote OK | posted Nov 26 07:20 UTC | score 3 | workflow, llm, ai
   Fit: 1 | small scope signal
