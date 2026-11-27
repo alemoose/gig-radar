@@ -1,20 +1,20 @@
 # Gig radar
 
-Updated 2026-11-27 20:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 21:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
-- [EcomSEO: AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam)  
-  Himalayas | posted Nov 26 20:55 UTC | score 6 | **USD 1500 to 2500/monthly** | automation, claude, zapier, n8n, ai
-  Fit: 22 | budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > EcomSEO is an SEO agency for Shopify DTC brands. Akravo is a link-building and SEO agency. Both are led by Fabian van Til. We run on a small team, AI tools and automation, and we publish what works. The role: You will run social media for both brands, with a focus on founder-led content in Fabian’s voice. You will own LinkedIn, X and YouTube: planning, writing, producing, publishing and reporting. You will use AI to make this fast, and you will build the workflows that make it repeatable. Each week you will ship about 24 posts across LinkedIn and X, 3 to 4 YouTube Shorts and 1 long-form You...
 - [Ethena: Senior Accountant](https://remoteOK.com/remote-jobs/remote-senior-accountant-ethena-1138175)  
   Remote OK | posted Nov 26 08:20 UTC | score 10 | **$115,000 to $135,000/yr** | automation, automate, chatgpt, agents, claude, saas
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
+- [EcomSEO: AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam)  
+  Himalayas | posted Nov 26 20:55 UTC | score 6 | **USD 1500 to 2500/monthly** | automation, claude, zapier, n8n, ai
+  Fit: 16 | budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > EcomSEO is an SEO agency for Shopify DTC brands. Akravo is a link-building and SEO agency. Both are led by Fabian van Til. We run on a small team, AI tools and automation, and we publish what works. The role: You will run social media for both brands, with a focus on founder-led content in Fabian’s voice. You will own LinkedIn, X and YouTube: planning, writing, producing, publishing and reporting. You will use AI to make this fast, and you will build the workflows that make it repeatable. Each week you will ship about 24 posts across LinkedIn and X, 3 to 4 YouTube Shorts and 1 long-form You...
 - [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
   We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
