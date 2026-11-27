@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 17:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 18:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-27 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
-- [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
-  Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
-  Fit: 17 | explicit hiring intent
-  Check: budget unknown; check eligibility: United States
-  > Shopify Web Developer Position Type: Part-Time, Remote Working Hours: U.S. Time-Zone HoursAbout the Role We are looking for an experienced Shopify Web Developer to build, maintain, and optimize custom Shopify and Shopify Plus storefronts across multiple e-commerce brands. This is a hands-on development role focused on Shopify Liquid, front-end development, responsive UI/UX, performance optimization, SEO, and Shopify app integrations. You’ll work closely with the development and strategy teams while using modern AI-assisted tools to improve development efficiency and quality.What You’ll OwnS...
 - [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
   We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
@@ -60,11 +55,11 @@ Updated 2026-11-27 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown
   > marketing About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. WeloÂ GlobalâsÂ fiveÂ brandsâWelocalizeÂ (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services forÂ law firms and...
-- [Brainrider: Marketing Automation Specialist](https://himalayas.app/companies/brainrider/jobs/marketing-automation-specialist)  
-  Himalayas | posted Nov 26 17:45 UTC | score 3 | **USD 84000 to 114000/annual** | automation, javascript
-  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > Brainrider is a marketing and creative agency with teams in Menlo Park/San Francisco, Los Angeles, Seattle, New York City, London, and Toronto. We work with ambitious marketers, in-house creative teams, and internal agencies to do more, by filling capability and capacity gaps and enabling them to execute their marketing and creative at scale. We believe collaboration is at its best when we feel at home, so we work as a team — plain and simple. Whether we’re brainstorming better marketing ideas for our clients, or pushing the gas to meet a tight deadline, it all happens with adaptability, op...
+- [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
+  Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown; check eligibility: United States
+  > Shopify Web Developer Position Type: Part-Time, Remote Working Hours: U.S. Time-Zone HoursAbout the Role We are looking for an experienced Shopify Web Developer to build, maintain, and optimize custom Shopify and Shopify Plus storefronts across multiple e-commerce brands. This is a hands-on development role focused on Shopify Liquid, front-end development, responsive UI/UX, performance optimization, SEO, and Shopify app integrations. You’ll work closely with the development and strategy teams while using modern AI-assisted tools to improve development efficiency and quality.What You’ll OwnS...
 - [66degrees: Google Workspace Deployment Engineer, Contract](https://himalayas.app/companies/66degrees/jobs/google-workspace-deployment-engineer-contract)  
   Himalayas | posted Nov 25 17:46 UTC | score 3 | python, saas, ai
   Fit: 11 | explicit hiring intent
@@ -90,6 +85,11 @@ Updated 2026-11-27 17:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > marketing Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manage...
+- [Brainrider: Marketing Automation Specialist](https://himalayas.app/companies/brainrider/jobs/marketing-automation-specialist)  
+  Himalayas | posted Nov 26 17:45 UTC | score 3 | **USD 84000 to 114000/annual** | automation, javascript
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > Brainrider is a marketing and creative agency with teams in Menlo Park/San Francisco, Los Angeles, Seattle, New York City, London, and Toronto. We work with ambitious marketers, in-house creative teams, and internal agencies to do more, by filling capability and capacity gaps and enabling them to execute their marketing and creative at scale. We believe collaboration is at its best when we feel at home, so we work as a team — plain and simple. Whether we’re brainstorming better marketing ideas for our clients, or pushing the gas to meet a tight deadline, it all happens with adaptability, op...
 - [Wrike: Senior Manager, Competitive Intelligence & Positioning](https://weworkremotely.com/remote-jobs/wrike-senior-manager-competitive-intelligence-positioning)  
   We Work Remotely | posted Nov 26 06:02 UTC | score 3 | **$14** | claude, saas, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
