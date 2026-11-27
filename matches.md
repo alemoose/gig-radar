@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 00:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 00:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -115,11 +115,6 @@ Updated 2026-11-27 00:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > ABOUT ONTRAC SOLUTIONS Ontrac Solutions is a leading technology consulting firm, specializing in cutting-edge solutions that drive business transformation. We partner with organizations to modernize their infrastructure, streamline processes, and deliver tangible results. By creating value beyond the hype, we help businesses modernize technology and build new strategies that fuel growth. Our team is committed to innovation, collaboration, and excellence, empowering our clients to succeed in an evolving digital landscape. LOCATION Remote, United States. ABOUT THE ROLE We're looking for a US-...
-- [micro1: AI Product Tester (Consumer Safety & Security)](https://himalayas.app/companies/micro1/jobs/ai-product-tester-consumer-safety-security)  
-  Himalayas | posted Nov 24 00:20 UTC | score 5 | **USD 21 to 35/hourly** | chatgpt, claude, gemini, ai
-  Fit: -1 | budget stated, verify scope and currency
-  Check: hourly budget below preferred floor; check eligibility: United States
-  > Role Title: AI Product Tester (Consumer Safety & Security) Role Type: Contractor Location: United States (Remote) micro1 is engaging AI Product Testers (Consumer Safety & Security) to take part in an exciting AI-driven project for a valued customer. In this role, you’ll test leading AI assistants on everyday personal cybersecurity tasks and help shape how these systems guide real people through real problems. No prior AI experience is required. Your attention to detail and everyday digital know-how are what matter.Scope of Work Evaluate multiple AI assistants side by side on personal cybers...
 - [StarTree: Technical Support Engineer](https://himalayas.app/companies/startree/jobs/technical-support-engineer)  
   Himalayas | posted Nov 25 12:27 UTC | score 4 | full stack, stripe, vector, ai
   Fit: -2 | 
