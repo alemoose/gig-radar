@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 07:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 07:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,6 +110,11 @@ Updated 2026-11-27 07:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 3 | API connection; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Document infrastracture requirements and define Apigee deployment architecture that support provisioning of dev, test, staging, production and DR environments for Apigee on-prem • Supports Client’s Infrastructure Team during installation of required hardware and software to support Apigee implementation • Design and implement highly scalable API Solutions • Manage APIGEE EDGE platform on-prem and cloud • Build and manage automation for API solutions as a Shared Service • Provide time to time APIGEE Platform tuning/optimization recommendations • Plan and perform APIGEE upgrades, dependencies...
+- [agiloft: Partner Solution Architect, Partner Center of Excellence](https://remoteOK.com/remote-jobs/remote-partner-solution-architect-partner-center-of-excellence-agiloft-1138172)  
+  Remote OK | posted Nov 26 07:20 UTC | score 3 | workflow, llm, ai
+  Fit: 1 | small scope signal
+  Check: budget unknown; seniority requirement needs review
+  > programming As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations...
 - [Ontrac Solutions Inc: Senior GCP Platform Engineer – FedRAMP / High-Security Environments](https://himalayas.app/companies/ontrac-solutions-inc/jobs/senior-gcp-platform-engineer-fedramp-high-security-environments)  
   Himalayas | posted Nov 24 16:43 UTC | score 3 | automation, automate, ai
   Fit: 1 | explicit hiring intent
