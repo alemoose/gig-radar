@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-27 08:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-27 08:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,6 +15,11 @@ Updated 2026-11-27 08:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 21 | app build; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Reddit is a community of communities. Itâs built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internetâs largest sources of information. For more information, visit www.redditinc.com. Reddit has a flexible workforce! If you happen to live close to one of our physical office locations our doors are open for you...
+- [Ethena: Senior Accountant](https://remoteOK.com/remote-jobs/remote-senior-accountant-ethena-1138175)  
+  Remote OK | posted Nov 26 08:20 UTC | score 10 | **$115,000 to $135,000/yr** | automation, automate, chatgpt, agents, claude, saas
+  Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
 - [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
   Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
   Fit: 17 | explicit hiring intent
