@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 06:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 06:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -140,11 +140,6 @@ Updated 2026-11-28 06:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
-- [Doximity: Sr. Statistician, Client Intelligence](https://weworkremotely.com/remote-jobs/doximity-sr-statistician-client-intelligence)  
-  We Work Remotely | posted Nov 25 06:02 UTC | score 3 | **$151,000 - $207,000,** | workflow, python, ai
-  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified; seniority requirement needs review
-  > Headquarters: San Francisco, CA or Remote (U.S.) Doximity is the leading clinical AI company with the largest network of U.S. clinicians. Doximity’s AI-powered workflow platform is trusted by over 85% of U.S. physicians and 300+ health systems. Doximity's mission is to help clinicians be more productive so they can provide better care for their patients. At Doximity, we value curiosity, ownership, inclusion, and a commitment to making a meaningful impact. If you're excited about solving complex problems that improve healthcare, we'd love to hear from you. This role can be filled in the Nort...
 - [agiloft: Partner Solution Architect, Partner Center of Excellence](https://remoteOK.com/remote-jobs/remote-partner-solution-architect-partner-center-of-excellence-agiloft-1138172)  
   Remote OK | posted Nov 26 07:20 UTC | score 3 | workflow, llm, ai
   Fit: 1 | small scope signal
