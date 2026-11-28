@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 01:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 02:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -90,6 +90,11 @@ Updated 2026-11-28 01:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 13 | explicit hiring intent
   Check: budget unknown
   > marketing About Welo GlobalÂ Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of overÂ 500,000Â linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. WeloÂ GlobalâsÂ fiveÂ brandsâWelocalizeÂ (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services forÂ law firms and...
+- [Coder Technologies Inc.: Senior Forward Deployed Engineer (United States)](https://remoteOK.com/remote-jobs/remote-senior-forward-deployed-engineer-united-states-coder-technologies-inc-1138209)  
+  Remote OK | posted Nov 27 02:00 UTC | score 4 | **$160,000 to $246,000/yr** | workflow, agents, llm, ai
+  Fit: 12 | explicit hiring intent; budget stated, verify scope and currency; small scope signal
+  Check: dollar currency unverified; seniority requirement needs review
+  > programming We are looking for a Senior Forward Deployed Engineer to join the Customer Solutions team. You will be the technical authority embedded with our most complex customers, guiding them through deployment, architecture, onboarding, and the adoption of agentic development workflows. You bring deep hands-on experience from prior roles and use that depth to advise, design repeatable patterns, and drive customer outcomes end to end. You operate autonomously, own the technical success of your customers, and bring their experience back to shape how Coder builds and delivers. This is not a...
 - [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
   Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
   Fit: 11 | explicit hiring intent
