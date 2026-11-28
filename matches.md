@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 10:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 10:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -105,11 +105,6 @@ Updated 2026-11-28 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 10 | budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
-- [Paxos: Senior Application Security Engineer](https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer)  
-  We Work Remotely | posted Nov 27 10:40 UTC | score 6 | automation, typescript, automate, workflow, python, ai
-  Fit: 8 | 
-  Check: budget unknown; seniority requirement needs review
-  > Headquarters: Remote - United States Applying to Paxos? Our only careers site is paxos.com/careers, and we only recruit via @paxos.com email. Details below. ___ About Paxos Today’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles asset...
 - [HighLevel: Account Manager II](https://remoteOK.com/remote-jobs/remote-account-manager-ii-highlevel-1138227)  
   Remote OK | posted Nov 27 09:00 UTC | score 4 | **$7** | automation, automate, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -140,6 +135,11 @@ Updated 2026-11-28 10:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
   > Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase productivity, and free people up to focus on their most purposeful work. Wrike is our people, not a place. As a distributed team, we own our growth, stay globally connected, and rely on the product we build to deliver impactful work alongside brilliant minds. You'll have real ownership over meaningful work, a global team that has your back, a...
+- [Paxos: Senior Application Security Engineer](https://weworkremotely.com/remote-jobs/paxos-senior-application-security-engineer)  
+  We Work Remotely | posted Nov 27 10:40 UTC | score 6 | automation, typescript, automate, workflow, python, ai
+  Fit: 2 | 
+  Check: budget unknown; seniority requirement needs review
+  > Headquarters: Remote - United States Applying to Paxos? Our only careers site is paxos.com/careers, and we only recruit via @paxos.com email. Details below. ___ About Paxos Today’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles asset...
 - [agiloft: Partner Solution Architect, Partner Center of Excellence](https://remoteOK.com/remote-jobs/remote-partner-solution-architect-partner-center-of-excellence-agiloft-1138172)  
   Remote OK | posted Nov 26 07:20 UTC | score 3 | workflow, llm, ai
   Fit: 1 | small scope signal
