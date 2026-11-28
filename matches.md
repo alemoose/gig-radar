@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 13:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 13:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -50,21 +50,11 @@ Updated 2026-11-28 13:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified
   > Headquarters: URL: https://www.oddball.io Oddball believes that the best products are built when companies understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space. This position is contingent upon contract award. We’re looking for a QA / Test Engineer to join our CMS team, making sure a modern claims platform and its integrations give the same trusted results as th...
-- [AlphaSense: Talent Acquisition Coordinator (Contract)](https://himalayas.app/companies/alphasense/jobs/talent-acquisition-coordinator-contract)  
-  Himalayas | posted Nov 25 13:12 UTC | score 3 | **USD 27 to 30/hourly** | automate, workflow, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 500 million premium business documents — including equity research, earnings calls, expert interviews, filings, news, and internal proprietary content. Purpose-built for speed, accuracy, and enterprise-grade security, AlphaSense helps teams extract critical insights, uncover market-moving trends, a...
 - [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
   Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
   Fit: 14 | 
   Check: budget unknown; check eligibility: United States
   > Contact Center Platform Engineer About Brillio Brillio is one of the fastest-growing digital technology service providers, helping Fortune 1000 organizations turn disruption into competitive advantage through innovative digital adoption. Our professionals combine deep technology expertise, design thinking, and a strong commitment to client success to deliver transformative outcomes. Brillio is recognized year after year as a Great Place to Work®, giving talented technology professionals the opportunity to work with cutting-edge technologies and solve complex, high-impact business challenges...
-- [Lean Marketing: Marketing Coordinator - 2HourGlass](https://himalayas.app/companies/lean-marketing/jobs/marketing-coordinator-2hourglass-637384802)  
-  Himalayas | posted Nov 25 13:10 UTC | score 5 | **USD 25 to 35/hourly** | google sheets, airtable, chatgpt, claude, ai
-  Fit: 14 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > About 2hourglass 2hourglass is a fast, mobile window and door glass repair company based in Pennsylvania. Our technicians go to the customer's home or business and fix broken glass, foggy (failed-seal) glass and window hardware on site, often the same or next day. About 80% of our work is residential and 20% commercial. Our promise is in the name: speed and certainty. Customers send a photo, get a price, and we fix the one window they need. We don't push them to replace five. That approach has earned us roughly 1,300 five-star Google reviews. Our biggest opportunity is the homeowners who do...
 - [Welo Data: Brazilian Subject Matter Expert in Fandoms (Music, Pop, Disney & Political Memes)](https://remoteOK.com/remote-jobs/remote-brazilian-subject-matter-expert-in-fandoms-music-pop-disney-political-memes-welo-data-1138163)  
   Remote OK | posted Nov 26 04:20 UTC | score 4 | gemini, prompt, llm, ai
   Fit: 13 | explicit hiring intent
