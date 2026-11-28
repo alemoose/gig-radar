@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 05:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 05:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -125,6 +125,11 @@ Updated 2026-11-28 05:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent
   Check: budget unknown; seniority requirement needs review
   > marketing Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manage...
+- [NielsenIQ: Client Manager, Retail Collaboration](https://remoteOK.com/remote-jobs/remote-client-manager-retail-collaboration-nielseniq-1138220)  
+  Remote OK | posted Nov 27 05:40 UTC | score 3 | **$83,700 to $95,000/yr** | python, saas, ai
+  Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
+  Check: dollar currency unverified; seniority requirement needs review
+  > customer support Company Description R26_0024966 At NielsenIQ, we deliver the most complete and clear understanding of consumer buying behavior that reveals new pathways to growth.â¯We are looking for a Client Manager to join our Retail Collaboration team.Â Join the Retail Collaboration team and help transform how retailers and CPGs work together. Powered by industry-leading data, insights, and technology, we enable our clients to strengthen partnerships, accelerate growth, and make smarter business decisions.Â This is a remote within the U.S. Preference for candidates based in Salt Lake C...
 - [Brainrider: Marketing Automation Specialist](https://himalayas.app/companies/brainrider/jobs/marketing-automation-specialist)  
   Himalayas | posted Nov 26 17:45 UTC | score 3 | **USD 84000 to 114000/annual** | automation, javascript
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
