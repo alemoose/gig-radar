@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 08:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 09:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -110,6 +110,11 @@ Updated 2026-11-28 08:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 8 | 
   Check: budget unknown; seniority requirement needs review
   > Headquarters: Remote - United States Applying to Paxos? Our only careers site is paxos.com/careers, and we only recruit via @paxos.com email. Details below. ___ About Paxos Today’s financial infrastructure is archaic, expensive, inefficient and risky — supporting a system that leaves out more people than it lets in. So we’re rebuilding it. We’re on a mission to open the world’s financial system to everyone by enabling the instant movement of any asset, any time, in a trustworthy way. For over a decade, we’ve built blockchain infrastructure that tokenizes, custodies, trades and settles asset...
+- [HighLevel: Account Manager II](https://remoteOK.com/remote-jobs/remote-account-manager-ii-highlevel-1138227)  
+  Remote OK | posted Nov 27 09:00 UTC | score 4 | **$7** | automation, automate, saas, ai
+  Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
+  Check: low budget: lock scope in writing, 50% upfront; dollar currency unverified; seniority requirement needs review
+  > programming About us HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes. To date, businesses operating on HighLevel have generated over $7 billion in ecosystem value, demonstrating the impact of shared infrastructure at scale. By centralizing conversations, automation and intelligence into one system, we help businesses move faster, reduce complexity and execute efficiently. Behin...
 - [emocha Mobile Health Inc.: Senior Customer Support Specialist - Temporary](https://himalayas.app/companies/emocha-mobile-health-inc/jobs/senior-customer-support-specialist-temporary)  
   Himalayas | posted Nov 26 10:31 UTC | score 4 | **$500** | automation, mobile app, automate, saas
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
