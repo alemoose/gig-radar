@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 14:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 15:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-28 14:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
-- [Tangible: Support Engineer - AI-Driven (US Timezone)](https://himalayas.app/companies/tangible-markets/jobs/support-engineer-ai-driven-us-timezone)  
-  Himalayas | posted Nov 27 14:52 UTC | score 3 | saas, ai
-  Fit: 17 | explicit hiring intent
-  Check: budget unknown; check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
-  > Location: Fully Remote (ideally in the Americas) Coordination time: US timezone Employment Type: Contract Tangible is a fast-growing, tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space. By combining deep sector expertise with modern infrastructure, we unlock liquidity across private equity, private credit, and real assets, transforming the way secondary transactions are executed. We are looking for a smart, AI-native Support Engineer who operates at the intersection of product knowledge, client communication, and intelligent problem-so...
 - [Xperteez Technology: Zoho Desk Specialist, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/zoho-desk-specialist-remote-contract)  
   Himalayas | posted Nov 27 15:36 UTC | score 3 | **USD 90 to 170/hourly** | automation, workflow, ai
   Fit: 16 | budget stated, verify scope and currency
@@ -80,6 +75,11 @@ Updated 2026-11-28 14:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp, climate-neutral, and a 1% for the Planet member. About the Role: Client Specialist - Business Operations (Non-Profit and For-Profit) Wage Information - $29.00-$31.00/hr ROLE Descript...
+- [Tangible: Support Engineer - AI-Driven (US Timezone)](https://himalayas.app/companies/tangible-markets/jobs/support-engineer-ai-driven-us-timezone)  
+  Himalayas | posted Nov 27 14:52 UTC | score 3 | saas, ai
+  Fit: 11 | explicit hiring intent
+  Check: budget unknown; check eligibility: Anguilla, Antigua and Barbuda, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, Bonaire, Sint Eustatius and Saba, Brazil, Canada, Cayman Islands, Chile, Colombia, Costa Rica, Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, El Salvador, Falkland Islands (Malvinas), French Guiana, Greenland, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Nicaragua, Panama, Paraguay, Peru, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, Saint Lucia, Saint Martin (French part), Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States, United States Minor Outlying Islands, Uruguay, Venezuela, Virgin Islands, British, Virgin Islands, U.S.
+  > Location: Fully Remote (ideally in the Americas) Coordination time: US timezone Employment Type: Contract Tangible is a fast-growing, tech-driven platform providing liquidity solutions to LPs and GPs in the private-markets secondaries space. By combining deep sector expertise with modern infrastructure, we unlock liquidity across private equity, private credit, and real assets, transforming the way secondary transactions are executed. We are looking for a smart, AI-native Support Engineer who operates at the intersection of product knowledge, client communication, and intelligent problem-so...
 - [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
   Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
   Fit: 11 | explicit hiring intent
