@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 15:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 15:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -20,11 +20,6 @@ Updated 2026-11-28 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > You'll work on customer projects, where hospitals, payers and pharma companies use our software on their own data. Your work includes: Model training: fine-tune LLM and NLP models for entity extraction, assertion status and relation extraction on clinical notes, using Spark NLP for Healthcare and open-source Python libraries. Extraction pipelines: pull structured facts from clinical notes, pathology and radiology reports, scanned PDFs and DICOM images, and remove PHI from them. Data harmonization: map what you extract to the OMOP common data model, FHIR and clinical terminologies (SNOMED CT...
-- [Xperteez Technology: Zoho Desk Specialist, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/zoho-desk-specialist-remote-contract)  
-  Himalayas | posted Nov 27 15:36 UTC | score 3 | **USD 90 to 170/hourly** | automation, workflow, ai
-  Fit: 16 | budget stated, verify scope and currency
-  Check: check eligibility: United States
-  > Role Title: Zoho Desk Specialist Role Type: Contract Location: Remote Required Skills: Zoho desk, Customer support, Help desk, Ticket management, Workflow automation, Customer service No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for experienced professionals with hands-on Zoho Desk knowledge who can demonstrate and document customer service workflows, ensuring accuracy and practical relevance for AI-driven solutions.Scope of Work Demonstrate and document end-to-end customer support workflows using Zoho Desk, including ticket creati...
 - [EcomSEO: AI Social Media Manager (Remote, LATAM)](https://himalayas.app/companies/ecomseo/jobs/ai-social-media-manager-remote-latam)  
   Himalayas | posted Nov 26 20:55 UTC | score 6 | **USD 1500 to 2500/monthly** | automation, claude, zapier, n8n, ai
   Fit: 16 | budget stated, verify scope and currency
@@ -90,6 +85,11 @@ Updated 2026-11-28 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
+- [Xperteez Technology: Zoho Desk Specialist, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/zoho-desk-specialist-remote-contract)  
+  Himalayas | posted Nov 27 15:36 UTC | score 3 | **USD 90 to 170/hourly** | automation, workflow, ai
+  Fit: 10 | budget stated, verify scope and currency
+  Check: check eligibility: United States
+  > Role Title: Zoho Desk Specialist Role Type: Contract Location: Remote Required Skills: Zoho desk, Customer support, Help desk, Ticket management, Workflow automation, Customer service No prior experience in AI is required — your domain knowledge is what matters. This opportunity is ideal for experienced professionals with hands-on Zoho Desk knowledge who can demonstrate and document customer service workflows, ensuring accuracy and practical relevance for AI-driven solutions.Scope of Work Demonstrate and document end-to-end customer support workflows using Zoho Desk, including ticket creati...
 - [HighLevel: Account Manager II](https://remoteOK.com/remote-jobs/remote-account-manager-ii-highlevel-1138227)  
   Remote OK | posted Nov 27 09:00 UTC | score 4 | **$7** | automation, automate, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
@@ -125,8 +125,3 @@ Updated 2026-11-28 15:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | small scope signal
   Check: budget unknown; seniority requirement needs review
   > programming As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations...
-- [Planate Management Group: Sales and Marketing Consultant](https://himalayas.app/companies/planate-management-group/jobs/sales-and-marketing-consultant)  
-  Himalayas | posted Nov 25 15:42 UTC | score 3 | automation, saas, ai
-  Fit: -4 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > We are seeking a highly experienced Sales and Marketing Consultant to provide strategic leadership and advisory support in driving business development, revenue growth, and market expansion. The role will focus on identifying new business opportunities, developing a sustainable sales pipeline, strengthening client relationships, and implementing effective sales and marketing strategies to expand the organization's market presence and achieve its commercial objectives.Key Responsibilities Formulate and recommend strategic sales and marketing plans aligned with the organization's revenue, pro...
