@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 08:30 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 08:45 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -55,11 +55,6 @@ Updated 2026-11-28 08:30 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States
   > About AlphaSense: AlphaSense is the AI platform redefining market intelligence and workflow orchestration, trusted by thousands of leading organizations to drive faster, more confident decisions in business and finance. The platform combines domain-specific AI with a vast content universe of over 500 million premium business documents — including equity research, earnings calls, expert interviews, filings, news, and internal proprietary content. Purpose-built for speed, accuracy, and enterprise-grade security, AlphaSense helps teams extract critical insights, uncover market-moving trends, a...
-- [Dun & Bradstreet: Client Success Manager, Chicago/Midwest (R-20152)](https://remoteOK.com/remote-jobs/remote-client-success-manager-chicago-midwest-r-20152-dun-bradstreet-1138114)  
-  Remote OK | posted Nov 25 08:40 UTC | score 3 | **$78,400 to $131,700/yr** | automation, workflow, ai
-  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
-  Check: dollar currency unverified
-  > customer support Shape the Future with Dun & Bradstreet At Dun & Bradstreet, we believe data has the power to create a better tomorrow. As a global leader in business decisioning data and analytics, we help companies worldwide grow, manage risk, and innovate. Since 1841, businesses have trusted us to turn uncertainty into opportunity. Weâre a diverse, global team that values creativity, collaboration, and bold ideas. Are you ready to make an impact and help shape whatâs next? Join us! Explore opportunities atÂ dnb.com/careers. he Client Success Manager is the primary point of responsibi...
 - [Brillio: Contact Center Platform Engineer](https://himalayas.app/companies/brillio/jobs/contact-center-platform-engineer)  
   Himalayas | posted Nov 25 19:52 UTC | score 7 | full-stack, typescript, node.js, prompt, react, llm
   Fit: 14 | 
