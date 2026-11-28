@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 14:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 14:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -105,11 +105,6 @@ Updated 2026-11-28 14:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
   Check: low budget: lock scope in writing, 50% upfront; check eligibility: United States; seniority requirement needs review
   > About Scene Health Scene’s 360° model of care enhances the gold standard of medication adherence, Directly Observed Therapy. Combining personalized video coaching, education, and motivational content, we bring healthcare professionals, patients, and their families together to solve the $500B medication non-adherence problem. Our mobile app allows patients to connect with a care team of pharmacists, nurses, and health coaches through daily video check-ins, anytime and anywhere. We make it fun for patients to stay on top of their medications, help them address medication challenges, and empow...
-- [Bounteous: SEO - Manager](https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148)  
-  Remote OK | posted Nov 25 14:20 UTC | score 6 | automation, chatgpt, gemini, python, llm, ai
-  Fit: 7 | explicit hiring intent
-  Check: budget unknown; seniority requirement needs review
-  > marketing Bounteous is a global AI Services firm where agentic engineering and human experience converge to deliver transformative business outcomes for the enterprise. We help organizations design, build, and scale AI-driven products, platforms, and processes. With more than 5,000 team members worldwide, Bounteous delivers AI that sticks, powering adoption and outcomes that move organizations from experimentation to true transformation. Bounteous is backed by New Mountain Capital, a New York-based growth-oriented investment firm that emphasizes business building. Job Role: SEO / AEO Manage...
 - [NielsenIQ: Client Manager, Retail Collaboration](https://remoteOK.com/remote-jobs/remote-client-manager-retail-collaboration-nielseniq-1138220)  
   Remote OK | posted Nov 27 05:40 UTC | score 3 | **$83,700 to $95,000/yr** | python, saas, ai
   Fit: 5 | explicit hiring intent; budget stated, verify scope and currency
