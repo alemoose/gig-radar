@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 15:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 15:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -10,16 +10,16 @@ Updated 2026-11-28 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 33 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role: Full-Stack Software Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired Required Skills: Python, React, Javascript, Java, Node.js, Rust, Golang, Typescript We are looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation. The work involves creating, solving, reviewing, and validating challenging software-engineering tasks...
-- [John Snow Labs: Healthcare Data Scientist (Remote, International)](https://himalayas.app/companies/john-snow-labs/jobs/healthcare-data-scientist-remote-international)  
-  Himalayas | posted Nov 27 15:09 UTC | score 9 | **USD 40 to 70/hourly** | fine-tune, langchain, claude, python, llm, ai
-  Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > You'll work on customer projects, where hospitals, payers and pharma companies use our software on their own data. Your work includes: Model training: fine-tune LLM and NLP models for entity extraction, assertion status and relation extraction on clinical notes, using Spark NLP for Healthcare and open-source Python libraries. Extraction pipelines: pull structured facts from clinical notes, pathology and radiology reports, scanned PDFs and DICOM images, and remove PHI from them. Data harmonization: map what you extract to the OMOP common data model, FHIR and clinical terminologies (SNOMED CT...
 - [Ethena: Senior Accountant](https://remoteOK.com/remote-jobs/remote-senior-accountant-ethena-1138175)  
   Remote OK | posted Nov 26 08:20 UTC | score 10 | **$115,000 to $135,000/yr** | automation, automate, chatgpt, agents, claude, saas
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
+- [John Snow Labs: Healthcare Data Scientist (Remote, International)](https://himalayas.app/companies/john-snow-labs/jobs/healthcare-data-scientist-remote-international)  
+  Himalayas | posted Nov 27 15:09 UTC | score 9 | **USD 40 to 70/hourly** | fine-tune, langchain, claude, python, llm, ai
+  Fit: 17 | data collection; explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > You'll work on customer projects, where hospitals, payers and pharma companies use our software on their own data. Your work includes: Model training: fine-tune LLM and NLP models for entity extraction, assertion status and relation extraction on clinical notes, using Spark NLP for Healthcare and open-source Python libraries. Extraction pipelines: pull structured facts from clinical notes, pathology and radiology reports, scanned PDFs and DICOM images, and remove PHI from them. Data harmonization: map what you extract to the OMOP common data model, FHIR and clinical terminologies (SNOMED CT...
 - [Xperteez Technology: Zoho Desk Specialist, Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/zoho-desk-specialist-remote-contract)  
   Himalayas | posted Nov 27 15:36 UTC | score 3 | **USD 90 to 170/hourly** | automation, workflow, ai
   Fit: 16 | budget stated, verify scope and currency
@@ -90,11 +90,6 @@ Updated 2026-11-28 15:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 11 | explicit hiring intent
   Check: budget unknown; check eligibility: United States
   > Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own "inflection point," where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an engine for growth. Our ultimate vision is to be the catalyst for a future where every business operat...
-- [Xperteez Technology: Applied Scientists — Machine Learning ,Remote- Contract](https://himalayas.app/companies/xperteez-technology/jobs/applied-scientists-machine-learning-remote-contract)  
-  Himalayas | posted Nov 25 15:04 UTC | score 3 | **USD 60 to 120/hourly** | workflow, agents, python
-  Fit: 10 | budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired The work involves creating, solving, reviewing, and validating challenging machine-learning engineering tasks. A representative task may require implementing or modifying a model, constructing a reproducible training or inference workflow, optimizing memory or throughput, debugging numerical or system-level failures, and verifying that the resulting implementation satisfies objective correctness and performance requirements. This is...
 - [HighLevel: Account Manager II](https://remoteOK.com/remote-jobs/remote-account-manager-ii-highlevel-1138227)  
   Remote OK | posted Nov 27 09:00 UTC | score 4 | **$7** | automation, automate, saas, ai
   Fit: 7 | explicit hiring intent; budget stated, verify scope and currency
