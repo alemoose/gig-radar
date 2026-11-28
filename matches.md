@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 14:00 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 14:15 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -15,11 +15,6 @@ Updated 2026-11-28 14:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 23 | data collection; explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: United States; seniority requirement needs review
   > You'll work on customer projects, where hospitals, payers and pharma companies use our software on their own data. Your work includes: Model training: fine-tune LLM and NLP models for entity extraction, assertion status and relation extraction on clinical notes, using Spark NLP for Healthcare and open-source Python libraries. Extraction pipelines: pull structured facts from clinical notes, pathology and radiology reports, scanned PDFs and DICOM images, and remove PHI from them. Data harmonization: map what you extract to the OMOP common data model, FHIR and clinical terminologies (SNOMED CT...
-- [Xperteez Technology: AI Trainer (ML Engineering), Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-5241233149)  
-  Himalayas | posted Nov 27 14:14 UTC | score 3 | **USD 60 to 120/hourly** | python, ai
-  Fit: 21 | explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: Worldwide (check timezone)
-  > Role: AI Trainer (ML Engineering) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills: ML Engineering, AI Training, Programming skills You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On Create realistic machine learning engineering tasks that challenge advanced AI models. De...
 - [Ethena: Senior Accountant](https://remoteOK.com/remote-jobs/remote-senior-accountant-ethena-1138175)  
   Remote OK | posted Nov 26 08:20 UTC | score 10 | **$115,000 to $135,000/yr** | automation, automate, chatgpt, agents, claude, saas
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
@@ -45,6 +40,11 @@ Updated 2026-11-28 14:00 UTC. Projects first, ranked by fit and freshness.
   Fit: 15 | API connection; explicit hiring intent
   Check: budget unknown; check eligibility: United States; seniority requirement needs review
   > Ascend Partners is the Diamond Standard in EPM Advisory & Delivery. From our headquarters in New York, NY, we work with finance, planning and data leaders across North America to choose, build and run the systems they depend on. Our experienced teams help clients close faster, plan with confidence and trust their numbers, on whichever platform best fits their needs. Ascend is a Pigment partner. Our Pigment practice applies the same delivery methodology behind our award-winning EPM work to Pigment’s AI-powered planning platform, helping finance teams replace spreadsheet-driven planning with...
+- [Xperteez Technology: AI Trainer (ML Engineering), Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/ai-trainer-ml-engineering-remote-contract-5241233149)  
+  Himalayas | posted Nov 27 14:14 UTC | score 3 | **USD 60 to 120/hourly** | python, ai
+  Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: Worldwide (check timezone)
+  > Role: AI Trainer (ML Engineering) Location: Global, fully remote Job Type: Contract Time Commitment: 15+ hours per week Schedule: Flexible Required Skills: ML Engineering, AI Training, Programming skills You will use your machine learning expertise to create challenging technical tasks, evaluate model-generated work, identify failures, and establish objective standards for correct solutions. This role is intended for candidates who have already completed substantive AI-training work.What You’ll Work On Create realistic machine learning engineering tasks that challenge advanced AI models. De...
 - [Oddball: QA/Test Engineer](https://weworkremotely.com/remote-jobs/oddball-qa-test-engineer)  
   We Work Remotely | posted Nov 25 17:00 UTC | score 3 | **$90,000** | automation, python, ai
   Fit: 15 | explicit hiring intent; budget stated, verify scope and currency
