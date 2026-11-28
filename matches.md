@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 12:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 12:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -145,11 +145,6 @@ Updated 2026-11-28 12:15 UTC. Projects first, ranked by fit and freshness.
   Fit: 1 | small scope signal
   Check: budget unknown; seniority requirement needs review
   > programming As the most trusted global leader in data-first contract lifecycle management (CLM) software, Agiloft helps organizations manage the end-to-end process of proposing, negotiating, signing, and leveraging contracts using our flexible Data-first Agreement Platform (DAP). With contract data as the foundation, customers quickly and collaboratively reach agreement and leverage contract visibility to thrive with competitive advantage. Employing powerful, pragmatic artificial intelligence as a legal force multiplier, and robust integration capabilities as a data liberator, organizations...
-- [StarTree: Technical Support Engineer](https://himalayas.app/companies/startree/jobs/technical-support-engineer)  
-  Himalayas | posted Nov 25 12:27 UTC | score 4 | full stack, stripe, vector, ai
-  Fit: -2 | 
-  Check: budget unknown; check eligibility: United States; seniority requirement needs review
-  > At StarTree we're a group of passionate individuals that desire to improve the lives of many by developing tools and technologies that support availability and speed in the world of real-time analytics. Our aim is to make it simple for every company to delight their users - external and internal - and create new revenue streams from their data, by building the world’s most comprehensive and accessible cloud analytics system. About the Role Support is a cornerstone of success at StarTree and a highly valued function within the organization. As a Technical Support Engineer, you will become a...
 - [Planate Management Group: Sales and Marketing Consultant](https://himalayas.app/companies/planate-management-group/jobs/sales-and-marketing-consultant)  
   Himalayas | posted Nov 25 15:42 UTC | score 3 | automation, saas, ai
   Fit: -4 | 
