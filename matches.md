@@ -1,13 +1,13 @@
 # Gig radar
 
-Updated 2026-11-28 02:15 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 02:30 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
 
 - [Xperteez Technology: Sr. Full-Stack Software Engineer | Global, Remote - Contract](https://himalayas.app/companies/xperteez-technology/jobs/sr-full-stack-software-engineer-global-remote-contract)  
   Himalayas | posted Nov 27 20:26 UTC | score 9 | **USD 50 to 100/hourly** | full-stack, javascript, typescript, workflow, node.js, python
-  Fit: 39 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
+  Fit: 33 | explicit hiring intent; budget stated, verify scope and currency
   Check: check eligibility: Worldwide (check timezone)
   > Role: Full-Stack Software Engineer Location: Global, fully remote Job Type: Contract (~15 hours per week) Schedule: Flexible—you choose the hours and days you work, including weekends if desired Required Skills: Python, React, Javascript, Java, Node.js, Rust, Golang, Typescript We are looking for highly skilled Full-Stack Software Engineers to contribute to an AI training project involving software development, technical problem-solving, debugging, system architecture, and code evaluation. The work involves creating, solving, reviewing, and validating challenging software-engineering tasks...
 - [John Snow Labs: Healthcare Data Scientist (Remote, International)](https://himalayas.app/companies/john-snow-labs/jobs/healthcare-data-scientist-remote-international)  
