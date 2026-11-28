@@ -1,6 +1,6 @@
 # Gig radar
 
-Updated 2026-11-28 02:45 UTC. Projects first, ranked by fit and freshness.
+Updated 2026-11-28 03:00 UTC. Projects first, ranked by fit and freshness.
 
 
 ## Contract roles
@@ -25,11 +25,6 @@ Updated 2026-11-28 02:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 19 | spreadsheet automation; explicit hiring intent; budget stated, verify scope and currency
   Check: dollar currency unverified; seniority requirement needs review
   > programming Who we are Weâre Ethena, an AI platform thatâs revolutionizing the Compliance space. Our team of agents helps Compliance and People leaders run proactive Compliance programs that drive real behavior change. From Policies and Disclosures to Training, Hotline, and Analytics, our agents work together to drive smarter, faster, human-led decision-making. Hotline and training data rolls up into fully customizable, board-ready risk reports. Our AI call taker synthesizes data to recommend improvements to company policies and training. Every signal lands in one place, so Compliance l...
-- [HigherRing: Client Specialist - Business Operations (Non-Profit & For Profit)](https://himalayas.app/companies/higherring/jobs/client-specialist-business-operations-non-profit-for-profit)  
-  Himalayas | posted Nov 27 20:54 UTC | score 3 | **USD 29 to 31/hourly** | chatgpt, claude, ai
-  Fit: 17 | posted within 6 hours; explicit hiring intent; budget stated, verify scope and currency
-  Check: check eligibility: United States; seniority requirement needs review
-  > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp, climate-neutral, and a 1% for the Planet member. About the Role: Client Specialist - Business Operations (Non-Profit and For-Profit) Wage Information - $29.00-$31.00/hr ROLE Descript...
 - [Tangible: Support Engineer - AI-Driven (US Timezone)](https://himalayas.app/companies/tangible-markets/jobs/support-engineer-ai-driven-us-timezone)  
   Himalayas | posted Nov 27 14:52 UTC | score 3 | saas, ai
   Fit: 17 | explicit hiring intent
@@ -95,6 +90,11 @@ Updated 2026-11-28 02:45 UTC. Projects first, ranked by fit and freshness.
   Fit: 12 | explicit hiring intent; budget stated, verify scope and currency; small scope signal
   Check: dollar currency unverified; seniority requirement needs review
   > programming We are looking for a Senior Forward Deployed Engineer to join the Customer Solutions team. You will be the technical authority embedded with our most complex customers, guiding them through deployment, architecture, onboarding, and the adoption of agentic development workflows. You bring deep hands-on experience from prior roles and use that depth to advise, design repeatable patterns, and drive customer outcomes end to end. You operate autonomously, own the technical success of your customers, and bring their experience back to shape how Coder builds and delivers. This is not a...
+- [HigherRing: Client Specialist - Business Operations (Non-Profit & For Profit)](https://himalayas.app/companies/higherring/jobs/client-specialist-business-operations-non-profit-for-profit)  
+  Himalayas | posted Nov 27 20:54 UTC | score 3 | **USD 29 to 31/hourly** | chatgpt, claude, ai
+  Fit: 11 | explicit hiring intent; budget stated, verify scope and currency
+  Check: check eligibility: United States; seniority requirement needs review
+  > About HigherRing: HigherRing is the ethical outsourcing partner for socially responsible companies. We harness business as a force for good and partner with impact organizations to lighten their load and further their purpose. We create remote, impact employment where our team members and clients are valued and supported in their efforts to advance us all toward a more sustainable world. HigherRing is a B Corp, climate-neutral, and a 1% for the Planet member. About the Role: Client Specialist - Business Operations (Non-Profit and For-Profit) Wage Information - $29.00-$31.00/hr ROLE Descript...
 - [Pavago: Shopify Web Developer](https://himalayas.app/companies/pavago/jobs/shopify-web-developer-4728279515)  
   Himalayas | posted Nov 26 17:51 UTC | score 3 | javascript, claude, ai
   Fit: 11 | explicit hiring intent
